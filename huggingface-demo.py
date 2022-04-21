@@ -4,4 +4,4 @@ if torch.cuda.is_available():
     print(1);
 generator = pipeline('text-generation', model='gpt2')
 set_seed(42)
-print(generator("I am going to have some", max_length=50, num_return_sequences=1)[0]['generated_text'])
+print(generator("What you have done is indeed too", max_length=50, num_return_sequences=1)[0]['generated_text'])
