@@ -1,0 +1,800 @@
+{ A(x+h)-A(x)=f(x)\cdot h+({{Red Excess}})}
+{ f(x)={\frac {A(x+h)-A(x)}{h}}-{\frac {{Red Excess}}{h}}}
+{ \left|f(x)-{\frac {A(x+h)-A(x)}{h}}\right|={\frac {|{{Red Excess}}|}{h}}\leq {\frac {h(f(x+h_{1})-f(x+h_{2}))}{h}}=f(x+h_{1})-f(x+h_{2}),}
+{ x+h_{1}}
+{ x+h_{2}}
+{ f(x)=\lim _{h\to 0}{\frac {A(x+h)-A(x)}{h}}}
+\times 
+\sum 
+\times 
+\sum v(t)\times \Delta t
+\Delta t
+F(x)=\int _{a}^{x}f(t)\,dt
+[a,b]
+[a,b]
+\int _{a}^{b}f(t)\,dt=F(b)-F(a)
+[a,b]
+(a,b)
+[a,b]
+\int _{a}^{b}f(x)\,dx=F(b)-F(a)
+F(x)=\int _{a}^{x}f(t)\,dt
+F(x_{1})=\int _{a}^{x_{1}}f(t)\,dt
+F(x_{1}+\Delta x)=\int _{a}^{x_{1}+\Delta x}f(t)\,dt
+F(x_{1}+\Delta x)-F(x_{1})=\int _{a}^{x_{1}+\Delta x}f(t)\,dt-\int _{a}^{x_{1}}f(t)\,dt\qquad (1)
+\int _{a}^{x_{1}}f(t)\,dt+\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt=\int _{a}^{x_{1}+\Delta x}f(t)\,dt
+\int _{a}^{x_{1}+\Delta x}f(t)\,dt-\int _{a}^{x_{1}}f(t)\,dt=\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt
+F(x_{1}+\Delta x)-F(x_{1})=\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt\qquad (2)
+{ c\in [x_{1},x_{1}+\Delta x]}
+{ \int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt=f(c)\cdot \Delta x}
+x_{1}
+{ \Delta x,}
+{ [x_{1},x_{1}+\Delta x]}
+{ F(x_{1}+\Delta x)-F(x_{1})=f(c)\cdot \Delta x}
+\Delta x
+{\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=f(c)
+\Delta x
+\lim _{\Delta x\to 0}{\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=\lim _{\Delta x\to 0}f(c)
+F'(x_{1})=\lim _{\Delta x\to 0}f(c)\qquad (3)
+\lim _{\Delta x\to 0}x_{1}=x_{1}
+{ \lim _{\Delta x\to 0}x_{1}+\Delta x=x_{1}}
+\lim _{\Delta x\to 0}c=x_{1}
+{ \lim _{\Delta x\to 0}f(c)=f(x_{1})}
+{ F'(x_{1})=f(x_{1})}
+G(x)=\int _{a}^{x}f(t)\,dt
+F(a)+c=G(a)=\int _{a}^{a}f(t)\,dt=
+\int _{a}^{b}f(x)\,dx=G(b)=F(b)-F(a)
+{ a=x_{0}<x_{1}<x_{2}<\cdots <x_{n-1}<x_{n}=b}
+{ F(b)-F(a)=F(x_{n})-F(x_{0})}
+{ {\begin{aligned}F(b)-F(a)&=F(x_{n})+[-F(x_{n-1})+F(x_{n-1})]+\cdots +[-F(x_{1})+F(x_{1})]-F(x_{0})\\&=[F(x_{n})-F(x_{n-1})]+[F(x_{n-1})-F(x_{n-2})]+\cdots +[F(x_{2})-F(x_{1})]+[F(x_{1})-F(x_{0})]\end{aligned}}}
+{ F(b)-F(a)=\sum _{i=1}^{n}[F(x_{i})-F(x_{i-1})]\qquad (1)}
+F'(c)={\frac {F(b)-F(a)}{b-a}}
+{ F'(c)(b-a)=F(b)-F(a)}
+{ F(x_{i})-F(x_{i-1})=F'(c_{i})(x_{i}-x_{i-1})}
+{ F(b)-F(a)=\sum _{i=1}^{n}[F'(c_{i})(x_{i}-x_{i-1})]}
+F'(c_{i})=f(c_{i})
+x_{i}-x_{i-1}
+\Delta x
+{ F(b)-F(a)=\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})]\qquad (2)}
+\Delta x_{i}
+{ \lim _{\|\Delta x_{i}\|\to 0}F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})]}
+\|\Delta x_{i}\|
+{ F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})]}
+F(b)-F(a)=\int _{a}^{b}f(x)\,d
+G(x)-G(a)=\int _{a}^{x}f(t)\,dt
+{ F(x)=\int _{a}^{x}f(t)\,dt=G(x)-G(a)}
+{ G(x)=\int _{0}^{x}f(t)\,dt}
+\int _{2}^{5}x^{2}\,dx
+{ f(x)=x^{2}}
+F(x)={\frac {x^{3}}{3}}
+\int _{2}^{5}x^{2}\,dx=F(5)-F(2)={\frac {5^{3}}{3}}-{\frac {2^{3}}{3}}={\frac {125}{3}}-{\frac {8}{3}}={\frac {117}{3}}=39
+{\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt
+{ f(t)=t^{3}}
+F(t)={\frac {t^{4}}{4}}
+{\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt={\frac {d}{dx}}F(x)-{\frac {d}{dx}}F(0)={\frac {d}{dx}}{\frac {x^{4}}{4}}=x^{3}
+{\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt=f(x){\frac {dx}{dx}}-f(0){\frac {d0}{dx}}=x^{3}
+{ \int _{a}^{b}f(x)dx=\int _{a}^{c}f(x)dx+\int _{c}^{b}f(x)dx}
+{ {\begin{aligned}\int _{a}^{b}f(x)dx&=F(b)-F(a),\\\int _{a}^{c}f(x)dx&=F(c)-F(a),{{ and }}\\\int _{c}^{b}f(x)dx&=F(b)-F(c),\end{aligned}}}
+{ F(b)-F(a)=F(c)-F(a)+F(b)-F(c)}
+F(x)=\int _{a}^{x}f(t)\,dt
+F(b)-F(a)=\int _{a}^{b}f(t)\,dt
+\int _{\gamma }f(z)\,dz=F(\gamma (b))-F(\gamma (a))
+\omega 
+{ \int _{M}d\omega =\int _{\partial M}\omega }
+\omega 
+\int _{a}^{b}f(x)\,dx
+{ {\frac {dy}{dx}}=f(x),\;\;y(a)=0}
+{ y(b)}
+{ A(x+h)-A(x)\approx f(x)\cdot h}
+{ A(x+h)-A(x)=f(x)\cdot h+({{Red Excess}})}
+{ f(x)={\frac {A(x+h)-A(x)}{h}}-{\frac {{Red Excess}}{h}}}
+{ \left|f(x)-{\frac {A(x+h)-A(x)}{h}}\right|={\frac {|{{Red Excess}}|}{h}}\leq {\frac {h(f(x+h_{1})-f(x+h_{2}))}{h}}=f(x+h_{1})-f(x+h_{2}),}
+{ x+h_{1}}
+{ x+h_{2}}
+{ f(x)=\lim _{h\to 0}{\frac {A(x+h)-A(x)}{h}}}
+\times 
+\sum 
+\times 
+\sum v(t)\times \Delta t
+\Delta t
+F(x)=\int _{a}^{x}f(t)\,dt
+[a,b]
+[a,b]
+\int _{a}^{b}f(t)\,dt=F(b)-F(a)
+[a,b]
+(a,b)
+[a,b]
+\int _{a}^{b}f(x)\,dx=F(b)-F(a)
+F(x)=\int _{a}^{x}f(t)\,dt
+F(x_{1})=\int _{a}^{x_{1}}f(t)\,dt
+F(x_{1}+\Delta x)=\int _{a}^{x_{1}+\Delta x}f(t)\,dt
+F(x_{1}+\Delta x)-F(x_{1})=\int _{a}^{x_{1}+\Delta x}f(t)\,dt-\int _{a}^{x_{1}}f(t)\,dt\qquad (1)
+\int _{a}^{x_{1}}f(t)\,dt+\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt=\int _{a}^{x_{1}+\Delta x}f(t)\,dt
+\int _{a}^{x_{1}+\Delta x}f(t)\,dt-\int _{a}^{x_{1}}f(t)\,dt=\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt
+F(x_{1}+\Delta x)-F(x_{1})=\int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt\qquad (2)
+{ c\in [x_{1},x_{1}+\Delta x]}
+{ \int _{x_{1}}^{x_{1}+\Delta x}f(t)\,dt=f(c)\cdot \Delta x}
+x_{1}
+{ \Delta x,}
+{ [x_{1},x_{1}+\Delta x]}
+{ F(x_{1}+\Delta x)-F(x_{1})=f(c)\cdot \Delta x}
+\Delta x
+{\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=f(c)
+\Delta x
+\lim _{\Delta x\to 0}{\frac {F(x_{1}+\Delta x)-F(x_{1})}{\Delta x}}=\lim _{\Delta x\to 0}f(c)
+F'(x_{1})=\lim _{\Delta x\to 0}f(c)\qquad (3)
+\lim _{\Delta x\to 0}x_{1}=x_{1}
+{ \lim _{\Delta x\to 0}x_{1}+\Delta x=x_{1}}
+\lim _{\Delta x\to 0}c=x_{1}
+{ \lim _{\Delta x\to 0}f(c)=f(x_{1})}
+{ F'(x_{1})=f(x_{1})}
+G(x)=\int _{a}^{x}f(t)\,dt
+F(a)+c=G(a)=\int _{a}^{a}f(t)\,dt=
+\int _{a}^{b}f(x)\,dx=G(b)=F(b)-F(a)
+{ a=x_{0}<x_{1}<x_{2}<\cdots <x_{n-1}<x_{n}=b}
+{ F(b)-F(a)=F(x_{n})-F(x_{0})}
+{ {\begin{aligned}F(b)-F(a)&=F(x_{n})+[-F(x_{n-1})+F(x_{n-1})]+\cdots +[-F(x_{1})+F(x_{1})]-F(x_{0})\\&=[F(x_{n})-F(x_{n-1})]+[F(x_{n-1})-F(x_{n-2})]+\cdots +[F(x_{2})-F(x_{1})]+[F(x_{1})-F(x_{0})]\end{aligned}}}
+{ F(b)-F(a)=\sum _{i=1}^{n}[F(x_{i})-F(x_{i-1})]\qquad (1)}
+F'(c)={\frac {F(b)-F(a)}{b-a}}
+{ F'(c)(b-a)=F(b)-F(a)}
+{ F(x_{i})-F(x_{i-1})=F'(c_{i})(x_{i}-x_{i-1})}
+{ F(b)-F(a)=\sum _{i=1}^{n}[F'(c_{i})(x_{i}-x_{i-1})]}
+F'(c_{i})=f(c_{i})
+x_{i}-x_{i-1}
+\Delta x
+{ F(b)-F(a)=\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})]\qquad (2)}
+\Delta x_{i}
+{ \lim _{\|\Delta x_{i}\|\to 0}F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})]}
+\|\Delta x_{i}\|
+{ F(b)-F(a)=\lim _{\|\Delta x_{i}\|\to 0}\sum _{i=1}^{n}[f(c_{i})(\Delta x_{i})]}
+F(b)-F(a)=\int _{a}^{b}f(x)\,d
+G(x)-G(a)=\int _{a}^{x}f(t)\,dt
+{ F(x)=\int _{a}^{x}f(t)\,dt=G(x)-G(a)}
+{ G(x)=\int _{0}^{x}f(t)\,dt}
+\int _{2}^{5}x^{2}\,dx
+{ f(x)=x^{2}}
+F(x)={\frac {x^{3}}{3}}
+\int _{2}^{5}x^{2}\,dx=F(5)-F(2)={\frac {5^{3}}{3}}-{\frac {2^{3}}{3}}={\frac {125}{3}}-{\frac {8}{3}}={\frac {117}{3}}=39
+{\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt
+{ f(t)=t^{3}}
+F(t)={\frac {t^{4}}{4}}
+{\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt={\frac {d}{dx}}F(x)-{\frac {d}{dx}}F(0)={\frac {d}{dx}}{\frac {x^{4}}{4}}=x^{3}
+{\frac {d}{dx}}\int _{0}^{x}t^{3}\,dt=f(x){\frac {dx}{dx}}-f(0){\frac {d0}{dx}}=x^{3}
+{ \int _{a}^{b}f(x)dx=\int _{a}^{c}f(x)dx+\int _{c}^{b}f(x)dx}
+{ {\begin{aligned}\int _{a}^{b}f(x)dx&=F(b)-F(a),\\\int _{a}^{c}f(x)dx&=F(c)-F(a),{{ and }}\\\int _{c}^{b}f(x)dx&=F(b)-F(c),\end{aligned}}}
+{ F(b)-F(a)=F(c)-F(a)+F(b)-F(c)}
+F(x)=\int _{a}^{x}f(t)\,dt
+F(b)-F(a)=\int _{a}^{b}f(t)\,dt
+\int _{\gamma }f(z)\,dz=F(\gamma (b))-F(\gamma (a))
+\omega 
+{ \int _{M}d\omega =\int _{\partial M}\omega }
+\omega 
+\int _{a}^{b}f(x)\,dx
+{ {\frac {dy}{dx}}=f(x),\;\;y(a)=0}
+{ y(b)}
+{ \pi ={\frac {C}{d}}}
+{ \pi ={\frac {L}{w}}}
+A=\pi r^{2}
+A=\pi ab
+A=4\pi r^{2}
+{ A={\frac {\Gamma (1/4)^{2}}{2{\sqrt {\pi }}}}r^{2}={\frac {\pi r^{2}}{\operatorname {agm} (1,1/{\sqrt {2}})}}}
+\Gamma 
+{ \operatorname {agm} }
+{ A=(k+1)(k+2)\pi r^{2}}
+{ k\in \mathbb {N} }
+{ A={\frac {(-1)^{k}+3}{8}}\pi a^{2}}
+{ k\in \mathbb {N} }
+{ L={\frac {\Gamma (1/4)^{2}}{\sqrt {\pi }}}c={\frac {2\pi c}{\operatorname {agm} (1,1/{\sqrt {2}})}}}
+{ V={4 \over 3}\pi r^{3}}
+{ SA=4\pi r^{2}}
+{ H={1 \over 2}\pi ^{2}r^{4}}
+{ SV=2\pi ^{2}r^{3}}
+{ S=(n-2)\pi }
+{ A={\frac {ns^{2}}{4}}\cot {\frac {\pi }{n}}}
+{ r={\frac {s}{2}}\cot {\frac {\pi }{n}}}
+{ R={\frac {s}{2}}\csc {\frac {\pi }{n}}}
+{ \Lambda ={{8\pi G} \over {3c^{2}}}\rho }
+{ \Delta x\,\Delta p\geq {\frac {h}{4\pi }}}
+{ R_{\mu \nu }-{\frac {1}{2}}g_{\mu \nu }R+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+{ F={\frac {|q_{1}q_{2}|}{4\pi \varepsilon _{0}r^{2}}}}
+{ \mu _{0}\approx 4\pi \cdot 10^{-7}\,\mathrm {N} /\mathrm {A} ^{2}}
+{ T\approx 2\pi {\sqrt {\frac {L}{g}}}}
+\theta _{0}
+{ \operatorname {agm} }
+{ T={\frac {2\pi }{\operatorname {agm} (1,\cos(\theta _{0}/2))}}{\sqrt {\frac {L}{g}}}}
+{ {\frac {R^{3}}{T^{2}}}={\frac {GM}{4\pi ^{2}}}}
+F={\frac {\pi ^{2}EI}{L^{2}}}
+{ 2\int _{-1}^{1}{\sqrt {1-x^{2}}}\,dx=\pi }
+{ y(x)={\sqrt {1-x^{2}}}}
+{ \int _{-\infty }^{\infty }\operatorname {sech} x\,dx=\pi }
+{ \int _{-\infty }^{\infty }\int _{t}^{\infty }e^{-1/2t^{2}-x^{2}+xt}\,dx\,dt=\int _{-\infty }^{\infty }\int _{t}^{\infty }e^{-t^{2}-1/2x^{2}+xt}\,dx\,dt=\pi }
+{ \int _{-1}^{1}{\frac {dx}{\sqrt {1-x^{2}}}}=\pi }
+{ \int _{-\infty }^{\infty }{\frac {dx}{1+x^{2}}}=\pi }
+{ \int _{-\infty }^{\infty }e^{-x^{2}}\,dx={\sqrt {\pi }}}
+{ \oint {\frac {dz}{z}}=2\pi i}
+{ \int _{0}^{\infty }\ln \left(1+{\frac {1}{x^{2}}}\right)\,dx=\pi }
+{ \int _{-\infty }^{\infty }{\frac {\sin x}{x}}\,dx=\pi }
+{ \int _{0}^{1}{x^{4}(1-x)^{4} \over 1+x^{2}}\,dx={22 \over 7}-\pi }
+{ \int _{0}^{\infty }{\frac {x^{\alpha -1}}{x+1}}\,dx={\frac {\pi }{\sin \pi \alpha }},\quad 0<\alpha <1}
+{ \int _{0}^{\infty }{\frac {dx}{\sqrt {x(x+a)(x+b)}}}={\frac {\pi }{\operatorname {agm} ({\sqrt {a}},{\sqrt {b}})}}}
+{ \operatorname {agm} }
+{style \int _{-a}^{a}f(x)\,dx}
+{style 2\int _{0}^{a}f(x)\,dx}
+{ \sum _{k=0}^{\infty }{\frac {k!}{(2k+1)!!}}=\sum _{k=0}^{\infty }{\frac {2^{k}k!^{2}}{(2k+1)!}}={\frac {\pi }{2}}}
+{ 12\sum _{k=0}^{\infty }{\frac {(-1)^{k}(6k)!(13591409+545140134k)}{(3k)!(k!)^{3}640320^{3k+3/2}}}={\frac {1}{\pi }}}
+{ {\frac {2{\sqrt {2}}}{9801}}\sum _{k=0}^{\infty }{\frac {(4k)!(1103+26390k)}{(k!)^{4}396^{4k}}}={\frac {1}{\pi }}}
+{ \sum _{k=0}^{\infty }{\frac {(-1)^{k}}{4^{k}}}\left({\frac {2}{4k+1}}+{\frac {2}{4k+2}}+{\frac {1}{4k+3}}\right)=\pi }
+{ \sum _{k=0}^{\infty }{\frac {1}{16^{k}}}\left({\frac {4}{8k+1}}-{\frac {2}{8k+4}}-{\frac {1}{8k+5}}-{\frac {1}{8k+6}}\right)=\pi }
+{ {\frac {1}{2^{6}}}\sum _{k=0}^{\infty }{\frac {{(-1)}^{k}}{2^{10k}}}\left(-{\frac {2^{5}}{4k+1}}-{\frac {1}{4k+3}}+{\frac {2^{8}}{10k+1}}-{\frac {2^{6}}{10k+3}}-{\frac {2^{2}}{10k+5}}-{\frac {2^{2}}{10k+7}}+{\frac {1}{10k+9}}\right)=\pi }
+{ \sum _{k=1}^{\infty }k{\frac {2^{k}k!^{2}}{(2k)!}}=\pi +3}
+{ \zeta (2)={\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{4^{2}}}+\cdots ={\frac {\pi ^{2}}{6}}}
+{ \zeta (4)={\frac {1}{1^{4}}}+{\frac {1}{2^{4}}}+{\frac {1}{3^{4}}}+{\frac {1}{4^{4}}}+\cdots ={\frac {\pi ^{4}}{90}}}
+{ \zeta (2n)=\sum _{k=1}^{\infty }{\frac {1}{k^{2n}}}\,={\frac {1}{1^{2n}}}+{\frac {1}{2^{2n}}}+{\frac {1}{3^{2n}}}+{\frac {1}{4^{2n}}}+\cdots =(-1)^{n+1}{\frac {B_{2n}(2\pi )^{2n}}{2(2n)!}}}
+{ \sum _{n=1}^{\infty }{\frac {3^{n}-1}{4^{n}}}\,\zeta (n+1)=\pi }
+{ \sum _{n=2}^{\infty }{\frac {2(3/2)^{n}-3}{n}}(\zeta (n)-1)=\ln \pi }
+{ \sum _{n=1}^{\infty }\zeta (2n){\frac {x^{2n}}{n}}=\ln {\frac {\pi x}{\sin \pi x}},\quad 0<|x|<1}
+{ \sum _{n=0}^{\infty }{\frac {(-1)^{n}}{2n+1}}=1-{\frac {1}{3}}+{\frac {1}{5}}-{\frac {1}{7}}+{\frac {1}{9}}-\cdots =\arctan {1}={\frac {\pi }{4}}}
+{ \sum _{n=0}^{\infty }{\frac {(-1)^{(n^{2}-n)/2}}{2n+1}}=1+{\frac {1}{3}}-{\frac {1}{5}}-{\frac {1}{7}}+{\frac {1}{9}}+{\frac {1}{11}}-\cdots ={\frac {\pi }{2{\sqrt {2}}}}}
+{ \sum _{n=0}^{\infty }{\frac {(-1)^{n}}{3^{n}(2n+1)}}=1-{\frac {1}{3^{1}\cdot 3}}+{\frac {1}{3^{2}\cdot 5}}-{\frac {1}{3^{3}\cdot 7}}+{\frac {1}{3^{4}\cdot 9}}-\cdots ={\sqrt {3}}\arctan {\frac {1}{\sqrt {3}}}={\frac {\pi }{2{\sqrt {3}}}}}
+{ \sum _{n=1}^{\infty }{\frac {(-1)^{n+1}}{n^{2}}}={\frac {1}{1^{2}}}-{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}-{\frac {1}{4^{2}}}+\cdots ={\frac {\pi ^{2}}{12}}}
+{ \sum _{n=1}^{\infty }{\frac {1}{(2n)^{2}}}={\frac {1}{2^{2}}}+{\frac {1}{4^{2}}}+{\frac {1}{6^{2}}}+{\frac {1}{8^{2}}}+\cdots ={\frac {\pi ^{2}}{24}}}
+{ \sum _{n=0}^{\infty }\left({\frac {(-1)^{n}}{2n+1}}\right)^{2}={\frac {1}{1^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{5^{2}}}+{\frac {1}{7^{2}}}+\cdots ={\frac {\pi ^{2}}{8}}}
+{ \sum _{n=0}^{\infty }\left({\frac {(-1)^{n}}{2n+1}}\right)^{3}={\frac {1}{1^{3}}}-{\frac {1}{3^{3}}}+{\frac {1}{5^{3}}}-{\frac {1}{7^{3}}}+\cdots ={\frac {\pi ^{3}}{32}}}
+{ \sum _{n=0}^{\infty }\left({\frac {(-1)^{n}}{2n+1}}\right)^{4}={\frac {1}{1^{4}}}+{\frac {1}{3^{4}}}+{\frac {1}{5^{4}}}+{\frac {1}{7^{4}}}+\cdots ={\frac {\pi ^{4}}{96}}}
+{ \sum _{n=0}^{\infty }\left({\frac {(-1)^{n}}{2n+1}}\right)^{5}={\frac {1}{1^{5}}}-{\frac {1}{3^{5}}}+{\frac {1}{5^{5}}}-{\frac {1}{7^{5}}}+\cdots ={\frac {5\pi ^{5}}{1536}}}
+{ \sum _{n=0}^{\infty }\left({\frac {(-1)^{n}}{2n+1}}\right)^{6}={\frac {1}{1^{6}}}+{\frac {1}{3^{6}}}+{\frac {1}{5^{6}}}+{\frac {1}{7^{6}}}+\cdots ={\frac {\pi ^{6}}{960}}}
+{ \sum _{n=0}^{\infty }{\binom {\frac {1}{2}}{n}}{\frac {(-1)^{n}}{2n+1}}=1-{\frac {1}{6}}-{\frac {1}{40}}-\cdots ={\frac {\pi }{4}}}
+{ \sum _{n=0}^{\infty }{\frac {1}{(4n+1)(4n+3)}}={\frac {1}{1\cdot 3}}+{\frac {1}{5\cdot 7}}+{\frac {1}{9\cdot 11}}+\cdots ={\frac {\pi }{8}}}
+{ \sum _{n=1}^{\infty }(-1)^{(n^{2}+n)/2+1}\left|G_{\left((-1)^{n+1}+6n-3\right)/4}\right|=|G_{1}|+|G_{2}|-|G_{4}|-|G_{5}|+|G_{7}|+|G_{8}|-|G_{10}|-|G_{11}|+\cdots ={\frac {\sqrt {3}}{\pi }}}
+{ \sum _{n=0}^{\infty }{\frac {(1/2)_{n}^{2}}{2^{n}n!^{2}}}\sum _{n=0}^{\infty }{\frac {n(1/2)_{n}^{2}}{2^{n}n!^{2}}}={\frac {1}{\pi }}}
+{ \sum _{n=1}^{\infty }{\frac {(-1)^{n+1}}{n(n+1)(2n+1)}}=\pi -3}
+{ \sum _{n=1}^{\infty }{\frac {F_{2n}}{n^{2}{\binom {2n}{n}}}}={\frac {4\pi ^{2}}{25{\sqrt {5}}}}}
+F_{n}
+{ \pi =\sum _{n=1}^{\infty }{\frac {(-1)^{\varepsilon (n)}}{n}}=1+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{4}}-{\frac {1}{5}}+{\frac {1}{6}}+{\frac {1}{7}}+{\frac {1}{8}}+{\frac {1}{9}}-{\frac {1}{10}}+{\frac {1}{11}}+{\frac {1}{12}}-{\frac {1}{13}}+\cdots }
+{ \varepsilon (n)}
+{ p\equiv 1\,(\mathrm {mod} \,4)}
+{ \pi =\sum _{n=-\infty }^{\infty }{\frac {(-1)^{n}}{n+1/2}}}
+{ \pi ^{2}=\sum _{n=-\infty }^{\infty }{\frac {1}{(n+1/2)^{2}}}}
+{ {\begin{aligned}{\frac {\pi }{\sin \pi x}}&=\sum _{n=-\infty }^{\infty }{\frac {(-1)^{n}}{n+x}}\\\left({\frac {\pi }{\sin \pi x}}\right)^{2}&=\sum _{n=-\infty }^{\infty }{\frac {1}{(n+x)^{2}}}\end{aligned}}}
+\pi 
+{ x\in \mathbb {Q} \setminus \mathbb {Z} }
+{ \pi ={\frac {1}{Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {((2n)!)^{3}(42n+5)}{(n!)^{6}{16}^{3n+1}}}}
+{ \pi ={\frac {4}{Z}}}
+Z=\sum _{n=0}^{\infty }{\frac {(-1)^{n}(4n)!(21460n+1123)}{(n!)^{4}{441}^{2n+1}{2}^{10n+1}}}
+{ \pi ={\frac {4}{Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(6n+1)\left({\frac {1}{2}}\right)_{n}^{3}}{{4^{n}}(n!)^{3}}}}
+{ \pi ={\frac {32}{Z}}}
+{ Z=\sum _{n=0}^{\infty }\left({\frac {{\sqrt {5}}-1}{2}}\right)^{8n}{\frac {(42n{\sqrt {5}}+30n+5{\sqrt {5}}-1)\left({\frac {1}{2}}\right)_{n}^{3}}{{64^{n}}(n!)^{3}}}}
+{ \pi ={\frac {27}{4Z}}}
+{ Z=\sum _{n=0}^{\infty }\left({\frac {2}{27}}\right)^{n}{\frac {(15n+2)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{3}}\right)_{n}\left({\frac {2}{3}}\right)_{n}}{(n!)^{3}}}}
+{ \pi ={\frac {15{\sqrt {3}}}{2Z}}}
+{ Z=\sum _{n=0}^{\infty }\left({\frac {4}{125}}\right)^{n}{\frac {(33n+4)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{3}}\right)_{n}\left({\frac {2}{3}}\right)_{n}}{(n!)^{3}}}}
+{ \pi ={\frac {85{\sqrt {85}}}{18{\sqrt {3}}Z}}}
+{ Z=\sum _{n=0}^{\infty }\left({\frac {4}{85}}\right)^{n}{\frac {(133n+8)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{6}}\right)_{n}\left({\frac {5}{6}}\right)_{n}}{(n!)^{3}}}}
+{ \pi ={\frac {5{\sqrt {5}}}{2{\sqrt {3}}Z}}}
+{ Z=\sum _{n=0}^{\infty }\left({\frac {4}{125}}\right)^{n}{\frac {(11n+1)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{6}}\right)_{n}\left({\frac {5}{6}}\right)_{n}}{(n!)^{3}}}}
+{ \pi ={\frac {2{\sqrt {3}}}{Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(8n+1)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}{9}^{n}}}}
+{ \pi ={\frac {\sqrt {3}}{9Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(40n+3)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}{49}^{2n+1}}}}
+{ \pi ={\frac {2{\sqrt {11}}}{11Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(280n+19)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}{99}^{2n+1}}}}
+{ \pi ={\frac {\sqrt {2}}{4Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(10n+1)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}{9}^{2n+1}}}}
+{ \pi ={\frac {4{\sqrt {5}}}{5Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(644n+41)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}5^{n}{72}^{2n+1}}}}
+{ \pi ={\frac {4{\sqrt {3}}}{3Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(-1)^{n}(28n+3)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}{3^{n}}{4}^{n+1}}}}
+{ \pi ={\frac {4}{Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(-1)^{n}(20n+3)\left({\frac {1}{2}}\right)_{n}\left({\frac {1}{4}}\right)_{n}\left({\frac {3}{4}}\right)_{n}}{(n!)^{3}{2}^{2n+1}}}}
+{ \pi ={\frac {72}{Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(-1)^{n}(4n)!(260n+23)}{(n!)^{4}4^{4n}18^{2n}}}}
+{ \pi ={\frac {3528}{Z}}}
+{ Z=\sum _{n=0}^{\infty }{\frac {(-1)^{n}(4n)!(21460n+1123)}{(n!)^{4}4^{4n}882^{2n}}}}
+{ (x)_{n}}
+{\frac {\pi }{4}}=\arctan 1
+{\frac  {\pi }{4}}=\arctan {\frac  {1}{2}}+\arctan {\frac  {1}{3}}
+{\frac  {\pi }{4}}=2\arctan {\frac  {1}{2}}-\arctan {\frac  {1}{7}}
+{\frac  {\pi }{4}}=2\arctan {\frac  {1}{3}}+\arctan {\frac  {1}{7}}
+{\frac {\pi }{4}}=4\arctan {\frac {1}{5}}-\arctan {\frac {1}{239}}
+{\frac {\pi }{4}}=5\arctan {\frac {1}{7}}+2\arctan {\frac {3}{79}}
+{ {\frac {\pi }{4}}=6\arctan {\frac {1}{8}}+2\arctan {\frac {1}{57}}+\arctan {\frac {1}{239}}}
+{ {\frac {\pi }{4}}=12\arctan {\frac {1}{49}}+32\arctan {\frac {1}{57}}-5\arctan {\frac {1}{239}}+12\arctan {\frac {1}{110443}}}
+{ {\frac {\pi }{4}}=44\arctan {\frac {1}{57}}+7\arctan {\frac {1}{239}}-12\arctan {\frac {1}{682}}+24\arctan {\frac {1}{12943}}}
+{ {\frac {\pi }{4}}=\left(\prod _{p\equiv 1{\pmod {4}}}{\frac {p}{p-1}}\right)\cdot \left(\prod _{p\equiv 3{\pmod {4}}}{\frac {p}{p+1}}\right)={\frac {3}{4}}\cdot {\frac {5}{4}}\cdot {\frac {7}{8}}\cdot {\frac {11}{12}}\cdot {\frac {13}{12}}\cdots ,}
+{ {\frac {{\sqrt {3}}\pi }{6}}=\left( \prod _{p\equiv 1{\pmod {6}} \atop p\in \mathbb {P} }{\frac {p}{p-1}}\right)\cdot \left( \prod _{p\equiv 5{\pmod {6}} \atop p\in \mathbb {P} }{\frac {p}{p+1}}\right)={\frac {5}{6}}\cdot {\frac {7}{6}}\cdot {\frac {11}{12}}\cdot {\frac {13}{12}}\cdot {\frac {17}{18}}\cdots ,}
+{ {\frac {\pi }{2}}=\prod _{n=1}^{\infty }{\frac {(2n)(2n)}{(2n-1)(2n+1)}}={\frac {2}{1}}\cdot {\frac {2}{3}}\cdot {\frac {4}{3}}\cdot {\frac {4}{5}}\cdot {\frac {6}{5}}\cdot {\frac {6}{7}}\cdot {\frac {8}{7}}\cdot {\frac {8}{9}}\cdots }
+{ {\frac {\pi }{2}}=\prod _{n=1}^{\infty }\left(1+{\frac {1}{n}}\right)^{(-1)^{n+1}}=\left(1+{\frac {1}{1}}\right)^{+1}\left(1+{\frac {1}{2}}\right)^{-1}\left(1+{\frac {1}{3}}\right)^{+1}\cdots }
+{ {\frac {2}{\pi }}={\frac {\sqrt {2}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2}}}}{2}}\cdot {\frac {\sqrt {2+{\sqrt {2+{\sqrt {2}}}}}}{2}}\cdot \cdots }
+{ {\frac {\pi }{2}}=\prod _{m\geq 1}\prod _{n\geq 1}\left({\frac {(4m^{2}+n-2)(4m^{2}+2n-1)^{2}}{4(2m^{2}+n-1)(4m^{2}+n-1)(2m^{2}+n)}}\right)^{\epsilon _{n}},}
+{ \epsilon _{n}=(-1)^{t_{n}}}
+t_{n}
+{ {\frac {\pi }{2^{k+1}}}=\arctan {\frac {\sqrt {2-a_{k-1}}}{a_{k}}},\qquad \qquad k\geq 2}
+{ {\frac {\pi }{4}}=\sum _{k\geq 2}\arctan {\frac {\sqrt {2-a_{k-1}}}{a_{k}}},}
+{ a_{k}={\sqrt {2+a_{k-1}}}}
+{ a_{1}={\sqrt {2}}}
+{ {\frac {\pi }{2}}=\sum _{k=0}^{\infty }\arctan {\frac {1}{F_{2k+1}}}=\arctan {\frac {1}{1}}+\arctan {\frac {1}{2}}+\arctan {\frac {1}{5}}+\arctan {\frac {1}{13}}+\cdots }
+F_{k}
+{ \pi =\arctan a+\arctan b+\arctan c}
+{ a+b+c=abc}
+{ \pi =\arctan 1+\arctan 2+\arctan 3}
+e^{{i\pi }}+1=0
+{ e^{z}\in \mathbb {R} \leftrightarrow \Im z\in \pi \mathbb {Z} }
+{ e^{z}=1\leftrightarrow z\in 2\pi i\mathbb {Z} }
+\pi ={3+{\cfrac {1^{2}}{6+{\cfrac {3^{2}}{6+{\cfrac {5^{2}}{6+{\cfrac {7^{2}}{6+\ddots \,}}}}}}}}}
+\pi ={\cfrac {4}{1+{\cfrac {1^{2}}{3+{\cfrac {2^{2}}{5+{\cfrac {3^{2}}{7+{\cfrac {4^{2}}{9+\ddots }}}}}}}}}}
+{ \pi ={\cfrac {4}{1+{\cfrac {1^{2}}{2+{\cfrac {3^{2}}{2+{\cfrac {5^{2}}{2+{\cfrac {7^{2}}{2+\ddots }}}}}}}}}}}
+{ 2\pi ={6+{\cfrac {2^{2}}{12+{\cfrac {6^{2}}{12+{\cfrac {10^{2}}{12+{\cfrac {14^{2}}{12+{\cfrac {18^{2}}{12+\ddots }}}}}}}}}}}}
+{ a_{0}=1,\,a_{n+1}=\left(1+{\frac {1}{2n+1}}\right)a_{n},\,\pi =\lim _{n\to \infty }{\frac {a_{n}^{2}}{n}}}
+{ a_{1}=0,\,a_{n+1}={\sqrt {2+a_{n}}},\,\pi =\lim _{n\to \infty }2^{n}{\sqrt {2-a_{n}}}}
+{ \omega (i_{n},i_{n-1},\dots ,i_{1})=2+i_{n}{\sqrt {2+i_{n-1}{\sqrt {2+\cdots +i_{1}{\sqrt {2}}}}}}=\omega (b_{n},b_{n-1},\dots ,b_{1}),\,i_{k}\in \{-1,1\},\,b_{k}={\begin{cases}0&{{if }}i_{k}=1\\1&{{if }}i_{k}=-1\end{cases}},\,\pi ={ \lim _{n\rightarrow \infty }{\frac {2^{n+1}}{2h+1}}{\sqrt {\omega \left(\underbrace {10\ldots 0} _{n-m}g_{m,h+1}\right)}}}}
+{ g_{m,h+1}}
+{ h\in \left\{0,1,\ldots ,2^{m}-1\right\}}
+{ a_{1}=1,\,a_{n+1}=a_{n}+\sin a_{n},\,\pi =\lim _{n\to \infty }a_{n}}
+{ a_{0}=2{\sqrt {3}},\,b_{0}=3,\,a_{n+1}=\operatorname {hm} (a_{n},b_{n}),\,b_{n+1}=\operatorname {gm} (a_{n+1},b_{n}),\,\pi =\lim _{n\to \infty }a_{n}=\lim _{n\to \infty }b_{n}}
+{ {\binom {2n}{n}}\sim {\frac {4^{n}}{\sqrt {\pi n}}}}
+{ C_{n}\sim {\frac {4^{n}}{\sqrt {\pi n^{3}}}}}
+{ n!\sim {\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}}
+{ \sum _{k=1}^{n}\varphi (k)\sim {\frac {3n^{2}}{\pi ^{2}}}}
+\varphi 
+{ \sum _{k=1}^{n}{\frac {\varphi (k)}{k}}\sim {\frac {6n}{\pi ^{2}}}}
+{ \Gamma (s)\Gamma (1-s)={\frac {\pi }{\sin \pi s}}}
+{ \pi ^{-s/2}\Gamma \left({\frac {s}{2}}\right)\zeta (s)=\pi ^{-(1-s)/2}\Gamma \left({\frac {1-s}{2}}\right)\zeta (1-s)}
+{ e^{-\zeta '(0)}={\sqrt {2\pi }}}
+{ e^{\zeta '(0,1/2)-\zeta '(0,1)}={\sqrt {\pi }}}
+{ \zeta (s,a)}
+{ \pi =\mathrm {B} (1/2,1/2)=\Gamma (1/2)^{2}}
+{ \pi ={\frac {\Gamma (3/4)^{4}}{\operatorname {agm} (1,1/{\sqrt {2}})^{2}}}={\frac {\Gamma \left({1/4}\right)^{4/3}\operatorname {agm} (1,{\sqrt {2}})^{2/3}}{2}}}
+{ \pi =\operatorname {agm} \left(\theta _{2}^{2}(1/e),\theta _{3}^{2}(1/e)\right)}
+\theta _{2}
+{ \theta _{3}}
+{ \pi =-{\frac {\operatorname {K} (k)}{\operatorname {K} \left({\sqrt {1-k^{2}}}\right)}}\ln q,\quad k={\frac {\theta _{2}^{2}(q)}{\theta _{3}^{2}(q)}}}
+{ q\in (0,1)}
+{ \operatorname {K} (k)}
+{ \pi =-{\frac {\operatorname {agm} \left(1,{\sqrt {1-k'^{2}}}\right)}{\operatorname {agm} (1,k')}}\ln q,\quad k'={\frac {\theta _{4}^{2}(q)}{\theta _{3}^{2}(q)}}}
+{ q\in (0,1)}
+{ \operatorname {agm} (1,{\sqrt {2}})={\frac {\pi }{\varpi }}}
+\varpi 
+{ i\pi =\operatorname {Log} (-1)=\lim _{n\to \infty }n\left((-1)^{1/n}-1\right)}
+\operatorname {Log} 
+{ 1-{\frac {\pi ^{2}}{12}}=\lim _{n\rightarrow \infty }{\frac {1}{n^{2}}}\sum _{k=1}^{n}(n{\bmod {k}})}
+{style n{\bmod {k}}}
+{ \pi =\lim _{r\to \infty }{\frac {1}{r^{2}}}\sum _{x=-r}^{r}\;\sum _{y=-r}^{r}{\begin{cases}1&{{if }}{\sqrt {x^{2}+y^{2}}}\leq r\\0&{{if }}{\sqrt {x^{2}+y^{2}}}>r\end{cases}}}
+\pi =\lim _{n\rightarrow \infty }{\frac {4}{n^{2}}}\sum _{k=1}^{n}{\sqrt {n^{2}-k^{2}}}
+{ \pi =\lim _{n\to \infty }{\frac {2^{4n}n!^{4}}{n(2n)!^{2}}}=\lim _{n\rightarrow \infty }{\frac {2^{4n}}{n{2n \choose n}^{2}}}=\lim _{n\rightarrow \infty }{\frac {1}{n}}\left({\frac {(2n)!!}{(2n-1)!!}}\right)^{2}}
+{ \pi =\lim _{n\to \infty }{\frac {1}{n}}\ln {\frac {16}{\lambda (ni)}}}
+\lambda 
+{ \pi =\lim _{n\to \infty }{\frac {24}{\sqrt {n}}}\ln \left(2^{1/4}G_{n}\right)=\lim _{n\to \infty }{\frac {24}{\sqrt {n}}}\ln \left(2^{1/4}g_{n}\right)}
+G_{n}
+g_{n}
+{ \mu _{0}=4\pi \cdot 10^{-7}\,\mathrm {N} /\mathrm {A} ^{2}}
+{ n\in \mathbb {Q} ^{+}}
+e^{\pi }
+{ {\sqrt {n}}\in \mathbb {Q} ^{+}}
+e^{\pi }
+{ \zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}={\frac {1}{1^{s}}}+{\frac {1}{2^{s}}}+{\frac {1}{3^{s}}}+\cdots }
+{ \zeta (s)=\prod _{p{{ prime}}}{\frac {1}{1-p^{-s}}}={\frac {1}{1-2^{-s}}}\cdot {\frac {1}{1-3^{-s}}}\cdot {\frac {1}{1-5^{-s}}}\cdot {\frac {1}{1-7^{-s}}}\cdot {\frac {1}{1-11^{-s}}}\cdots }
+{ \left(1-{\frac {2}{2^{s}}}\right)\zeta (s)=\eta (s)=\sum _{n=1}^{\infty }{\frac {(-1)^{n+1}}{n^{s}}}={\frac {1}{1^{s}}}-{\frac {1}{2^{s}}}+{\frac {1}{3^{s}}}-\cdots ,}
+{ \eta (s)/(1-2/2^{s})}
+{ s=1+2\pi in/\log 2}
+\zeta(s) = 2^s\pi^{s-1}\ \sin\left(\frac{\pi s}{2}\right)\ \Gamma(1-s)\ \zeta(1-s)
+{ \Pi (x)=\pi (x)+{\frac {1}{2}}\pi (x^{\frac {1}{2}})+{\frac {1}{3}}\pi (x^{\frac {1}{3}})+{\frac {1}{4}}\pi (x^{\frac {1}{4}})+{\frac {1}{5}}\pi (x^{\frac {1}{5}})+{\frac {1}{6}}\pi (x^{\frac {1}{6}})+\cdots }
+{ {\begin{aligned}\pi (x)&=\sum _{n=1}^{\infty }{\frac {\mu (n)}{n}}\Pi (x^{\frac {1}{n}})\\&=\Pi (x)-{\frac {1}{2}}\Pi (x^{\frac {1}{2}})-{\frac {1}{3}}\Pi (x^{\frac {1}{3}})-{\frac {1}{5}}\Pi (x^{\frac {1}{5}})+{\frac {1}{6}}\Pi (x^{\frac {1}{6}})-\cdots ,\end{aligned}}}
+{ \Pi _{0}(x)=\operatorname {li} (x)-\sum _{\rho }\operatorname {li} (x^{\rho })-\log 2+\int _{x}^{\infty }{\frac {dt}{t(t^{2}-1)\log t}}}
+{ \Pi _{0}(x)=\lim _{\varepsilon \to 0}{\frac {\Pi (x-\varepsilon )+\Pi (x+\varepsilon )}{2}}}
+{ \operatorname {li} (x)=\int _{0}^{x}{\frac {dt}{\log t}}}
+{ \pi (x)-\operatorname {li} (x)=O\left(x^{\beta }\log x\right)}
+{ |\pi (x)-\operatorname {li} (x)|<{\frac {1}{8\pi }}{\sqrt {x}}\log x,\qquad {{for all }}x\geq 2657,}
+{ |\psi (x)-x|<{\frac {1}{8\pi }}{\sqrt {x}}\log ^{2}x,\qquad {{for all }}x\geq 732,}
+{ x\geq 2}
+{ x-{\frac {4}{\pi }}{\sqrt {x}}\log x<p\leq x}
+\frac{1}{\zeta(s)} = \sum_{n=1}^\infty \frac{\mu(n)}{n^s}
+M(x) = \sum_{n \le x} \mu(n)
+{ M(x)=O\left(x^{{\frac {1}{2}}+\varepsilon }\right)}
+|M(x)| \le \sqrt x
+\sigma(n) = \sum_{d\mid n} d
+\sigma(n) < e^\gamma n \log \log n
+{ \sigma (n)<H_{n}+\log(H_{n})e^{H_{n}}}
+H_{n}
+{ {\frac {n}{\varphi (n)}}<e^{\gamma }\log \log n+{\frac {e^{\gamma }(4+\gamma -\log 4\pi )}{\sqrt {\log n}}}}
+{ \sum _{i=1}^{m}|F_{n}(i)-{\frac {i}{m}}|=O\left(n^{{\frac {1}{2}}+\epsilon }\right)}
+m = \sum_{i=1}^n\phi(i)
+\log g(n) < \sqrt{\operatorname{Li}^{-1}(n)}
+\zeta\left(\frac{1}{2} + it\right) = O(t^\varepsilon
+t\to \infty 
+ e^\gamma\le \limsup_{t\rightarrow +\infty}\frac{|\zeta(1+it)|}{\log\log t}\le 2e^\gamma
+ \frac{6}{\pi^2}e^\gamma\le \limsup_{t\rightarrow +\infty}\frac{1/|\zeta(1+it)|}{\log\log t}\le \frac{12}{\pi^2}e^\gamma
+-\sum_{k=1}^\infty \frac{(-x)^k}{(k-1)! \zeta(2k)}= O\left(x^{\frac{1}{4}+\epsilon}\right)
+f(x) = \sum_{\nu=1}^nc_\nu\rho \left(\frac{\theta_\nu}{x} \right)
+\sum_{\nu=1}^nc_\nu\theta_\nu=0
+{ \int _{0}^{\infty }{\frac {z^{-\sigma -1}\phi (z)}{{e^{x/z}}+1}}\,dz=0}
+\phi 
+1/2<\sigma <1
+\zeta'(s)
+\zeta (s)
+0 < \Re(s) < \frac12
+\zeta (s)
+{ H(\lambda ,z):=\int _{0}^{\infty }e^{\lambda u^{2}}\Phi (u)\cos(zu)\,du}
+{ \Phi (u)=\sum _{n=1}^{\infty }(2\pi ^{2}n^{4}e^{9u}-3\pi n^{2}e^{5u})e^{-\pi n^{2}e^{4u}}}
+{ \Lambda \leq 0}
+{ \Lambda =0}
+{ \Lambda \leq 02}
+{ \lim _{x\to 1^{-}}\sum _{p>2}(-1)^{(p+1)/2}x^{p}=+\infty ,}
+{ \pi (x)>\operatorname {li} (x)+{\frac {1}{3}}{\frac {\sqrt {x}}{\log x}}\log \log \log x,}
+{ \pi (x)<\operatorname {li} (x)-{\frac {1}{3}}{\frac {\sqrt {x}}{\log x}}\log \log \log x}
+{ \Delta (n)}
+{ \Delta (n)}
+{ h(D)>C{\frac {\sqrt {|D|}}{\log |D|}}}
+{ \varphi (n)<e^{-\gamma }{\frac {n}{\log \log n}}}
+\sqrt{q}
+\Re(s)\in (0,n)
+\Re(s)=1/2,3/2,\dots,n-1/2
+\Re(s)=1, 2, \dots,n-1
+\hat H
+{ \zeta (1/2+i{\hat {H}})=0}
+1/2 + i \hat H
+{ \sigma _{x}\sigma _{p}\geq {\frac {\hbar }{2}}}
+{ N(s)={\frac {1}{\pi }}\operatorname {Arg} \xi (1/2+i{\sqrt {s}})}
+{ V^{-1}(x)={\sqrt {4\pi }}{\frac {d^{1/2}N(x)}{dx^{1/2}}}}
+{ \det(H+1/4+s(s-1))}
+{ {\frac {\xi (s)}{\xi (0)}}={\frac {\det(H+s(s-1)+1/4)}{\det(H+1/4)}}}
+{ \sum _{n=1}^{N}n^{-s}}
+{ T(x)=\sum _{n\leq x}{\frac {\lambda (n)}{n}}\geq 0{{ for }}x>0,}
+N(T)=\frac{1}{\pi}\mathop{\mathrm{Arg}}(\xi(s)) = \frac{1}{\pi}\mathop{\mathrm{Arg}}(\Gamma(\frac{s}{2})\pi^{-\frac{s}{2}}\zeta(s)s(s-1)/2)
+\frac{1}{\pi}\mathop{\mathrm{Arg}}(\Gamma(\frac{s}{2})\pi^{-s/2}s(s-1)/2) = \frac{T}{2\pi}\log\frac{T}{2\pi}-\frac{T}{2\pi} +7/8+O(1/T) 
+{ S(T)={\frac {1}{\pi }}\mathop {\mathrm {Arg} } (\zeta (1/2+iT))=O(\log T)}
+{ T>e}
+{ |N(T)-{\frac {T}{2\pi }}\log {\frac {T}{2\pi e}}|\leq 0112\log T+0278\log \log T+3385+{\frac {02}{T}}}
+H \ge T^{\frac{27}{82}+\varepsilon}
+{ H(\log T)^{\frac {1}{3}}e^{-c{\sqrt {\log \log T}}}}
+\int_0^T|S(t)|^{2k}dt = \frac{(2k)!}{k!(2\pi)^{2k}}T(\log \log T)^k + O(T(\log \log T)^{k-1/2})
+|\zeta(\sigma)^3\zeta(\sigma+it)^4\zeta(\sigma+2it)|\ge 1
+|\zeta(\sigma+it)| = \exp\Re\sum_{p^n}\frac{p^{-n(\sigma+it)}}{n}=\exp\sum_{p^n}\frac{p^{-n\sigma}\cos(t\log p^n)}{n
+|\zeta(\sigma)^3\zeta(\sigma+it)^4\zeta(\sigma+2it)| = \exp\sum_{p^n}p^{-n\sigma}\frac{3+4\cos(t\log p^n)+\cos(2t\log p^n)}{n}
+3+4\cos(\theta)+\cos(2\theta) = 2 (1+\cos(\theta))^2\ge0
+\sigma\ge 1-\frac{1}{5754(\log{|t|})^{2/3}(\log{\log{|t|}})^{1/3}}
+{ \sigma \geq 1-{\frac {1}{5573412\log |t|}}}
+{ 306\cdot 10^{10}<|t|<\exp(101515)\approx 55\cdot 10^{4408}}
+{ O(T)}
+{ \Theta (T\log T)}
+\zeta\left(\frac{1}{2}+it\right)
+\zeta\left(\frac{1}{2}+it\right)
+\zeta\left(\frac{1}{2}+it\right)
+(T,T+H]
+H = T^{a + \varepsilon}
+\varepsilon >0
+\varepsilon >0
+T_0 = T_0(\varepsilon) > 0
+T \geq T_0
+{ H=T^{{\frac {1}{4}}+\varepsilon }}
+(T,T+H]
+\zeta {\bigl (}{\frac {1}{2}}+it{\bigr )}
+N_{0}(T)
+{ ~\zeta \left({\frac {1}{2}}+it\right)~}
+{ (0,T]~}
+\varepsilon >0
+T_0 = T_0(\varepsilon) > 0
+c=c(\varepsilon )>0
+T \geq T_0
+{ H=T^{{\frac {1}{2}}+\varepsilon }}
+{ N_{0}(T+H)-N_{0}(T)\geq cH}
+T_0 = T_0(\varepsilon) > 0
+T \geq T_0
+H=T^{05+\varepsilon }
+N(T+H)-N(T) \geq cH\log T
+H=T^{05}
+H = T^{a+\varepsilon}
+a = \frac{27}{82} = \frac{1}{3} -\frac{1}{246}
+\zeta\left(\frac{1}{2}+it\right)
+H = T^{\varepsilon}
+\varepsilon _{1}
+0<\varepsilon, \varepsilon_{1}<1
+{ H\geq \exp {\{(\log T)^{\varepsilon }\}}}
+{ H(\log T)^{1-\varepsilon _{1}}}
+\zeta\left(\frac{1}{2}+it\right)
+\pi^{-\frac{s}{2}}\Gamma(\frac{s}{2})\zeta(s)
+\zeta(\frac{1}{2} +it) = Z(t)e^{-i\theta(t)}
+{ \zeta (1/2+it)}
+{ M(x)=\sum _{n\leq x}\mu (n)}
+{ M(x)=O(x^{1/2+\varepsilon })}
+{ \zeta (1)=\log \infty }
+{ \log \log \infty }
+{ \pi (x)-\operatorname {li} x}
+{ 3\cdot 10^{12}}
+{ \sin x+y}
+{ \sin(x)+y}
+{ \sin(x+y)}
+\sin ^{2}x
+{ \sin ^{2}(x)}
+{ \sin(x)\sin(x),}
+{ \sin(\sin x)}
+{ -\!1}
+{ \sin ^{-1}x}
+\sin^{-1}(x)
+{ \arcsin x,}
+{ \sin ^{[-1]}(x)}
+{ -\!1}
+{ \sin \theta ={\frac {\mathrm {opposite} }{\mathrm {hypotenuse} }}}
+{ \csc \theta ={\frac {\mathrm {hypotenuse} }{\mathrm {opposite} }}}
+{ \cos \theta ={\frac {\mathrm {adjacent} }{\mathrm {hypotenuse} }}}
+{ \sec \theta ={\frac {\mathrm {hypotenuse} }{\mathrm {adjacent} }}}
+{ \tan \theta ={\frac {\mathrm {opposite} }{\mathrm {adjacent} }}}
+{ \cot \theta ={\frac {\mathrm {adjacent} }{\mathrm {opposite} }}}
+\sin(\theta )
+{ \cos(90^{\circ }-\theta )}
+\sin \theta =\cos \left({\frac {\pi }{2}}-\theta \right)={\frac {1}{\csc \theta }}
+{ \sin x=\cos \left(90^{\circ }-x\right)={\frac {1}{\csc x}}}
+\cos \theta =\sin \left({\frac {\pi }{2}}-\theta \right)={\frac {1}{\sec \theta }}
+{ \cos x=\sin \left(90^{\circ }-x\right)={\frac {1}{\sec x}}\,}
+\tan \theta ={\frac {\sin \theta }{\cos \theta }}=\cot \left({\frac {\pi }{2}}-\theta \right)={\frac {1}{\cot \theta }}
+{ \tan x={\frac {\sin x}{\cos x}}=\cot \left(90^{\circ }-x\right)={\frac {1}{\cot x}}}
+\cot \theta ={\frac {\cos \theta }{\sin \theta }}=\tan \left({\frac {\pi }{2}}-\theta \right)={\frac {1}{\tan \theta }}
+{ \cot x={\frac {\cos x}{\sin x}}=\tan \left(90^{\circ }-x\right)={\frac {1}{\tan x}}}
+\sec \theta =\csc \left({\frac {\pi }{2}}-\theta \right)={\frac {1}{\cos \theta }}
+{ \sec x=\csc \left(90^{\circ }-x\right)={\frac {1}{\cos x}}}
+\csc \theta =\sec \left({\frac {\pi }{2}}-\theta \right)={\frac {1}{\sin \theta }}
+{ \csc x=\sec \left(90^{\circ }-x\right)={\frac {1}{\sin x}}}
+{style \frac{\pi}{2}}
+{\mathcal  L}
+{ \theta >0,}
+{ \theta <0}
+{ \mathrm {A} =(x_{\mathrm {A} },y_{\mathrm {A} })}
+{ {\mathcal {L}},}
+{ \mathrm {B} =(1,y_{\mathrm {B} }),}
+{ \mathrm {C} =(x_{\mathrm {C} },1)}
+{ {\mathcal {L}},}
+{ \mathrm {D} =(0,y_{\mathrm {D} })}
+{ \mathrm {E} =(x_{\mathrm {E} },0)}
+{ \cos \theta =x_{\mathrm {A} }\quad }
+{ \quad \sin \theta =y_{\mathrm {A} }}
+0 \le \theta \le \pi/2
+x^{2}+y^{2}=1
+{ \mathrm {P} =(x,y)}
+{ \cos ^{2}\theta +\sin ^{2}\theta =1}
+{ \tan \theta =y_{\mathrm {B} }\quad }
+{ \quad \cot \theta =x_{\mathrm {C} },}
+{ \csc \theta \ =y_{\mathrm {D} }\quad }
+{ \quad \sec \theta =x_{\mathrm {E} }}
+{ \tan \theta ={\frac {\sin \theta }{\cos \theta }},\quad \cot \theta ={\frac {\cos \theta }{\sin \theta }},\quad \sec \theta ={\frac {1}{\cos \theta }},\quad \csc \theta ={\frac {1}{\sin \theta }}}
+{ \pm 2\pi }
+2\pi 
+2\pi 
+{ \sin \theta =\sin \left(\theta +2k\pi \right)\quad }
+{ \quad \cos \theta =\cos \left(\theta +2k\pi \right)}
+2\pi 
+2\pi 
+\pi 
+\pi 
+{ \tan \theta =\tan(\theta +k\pi )\quad }
+{ \quad \cot \theta =\cot(\theta +k\pi )}
+{ \sin 0=\sin 0^{\circ }\quad ={\frac {\sqrt {0}}{2}}=0}
+{ \sin {\frac {\pi }{6}}=\sin 30^{\circ }={\frac {\sqrt {1}}{2}}={\frac {1}{2}}}
+{ \sin {\frac {\pi }{4}}=\sin 45^{\circ }={\frac {\sqrt {2}}{2}}={\frac {1}{\sqrt {2}}}}
+{ \sin {\frac {\pi }{3}}=\sin 60^{\circ }={\frac {\sqrt {3}}{2}}}
+{ \sin {\frac {\pi }{2}}=\sin 90^{\circ }={\frac {\sqrt {4}}{2}}=1}
+\sin(\theta )
+\cos(\theta )
+\tan(\theta )
+{ 0}
+0^{\circ }
+{ 0}
+{ 0}
+{ {\frac {\pi }{12}}}
+{ 15^{\circ }}
+{\frac {{\sqrt {6}}-{\sqrt {2}}}{4}}
+{\frac {{\sqrt {6}}+{\sqrt {2}}}{4}}
+2-{\sqrt {3}}
+\frac{\pi}{6}
+30^{\circ }
+{\frac {1}{2}}
+{\frac {\sqrt {3}}{2}}
+{\frac {\sqrt {3}}{3}}
+\frac{\pi}{4}
+45^\circ
+{\frac {\sqrt {2}}{2}}
+{\frac {\sqrt {2}}{2}}
+{\frac  {\pi }{3}}
+60^{\circ }
+{\frac {\sqrt {3}}{2}}
+{\frac {1}{2}}
+{\sqrt {3}}
+{ {\frac {5\pi }{12}}}
+{ 75^{\circ }}
+{\frac {{\sqrt {6}}+{\sqrt {2}}}{4}}
+{\frac {{\sqrt {6}}-{\sqrt {2}}}{4}}
+{ 2+{\sqrt {3}}}
+{\frac {\pi }{2}}
+90^{\circ }
+{ 0}
+\cos(x)
+{ p_{n}(x)=\sum _{k=0}^{n}(-1)^{k}{\frac {x^{2k}}{(2k)!}}}
+{ {\frac {d}{dx}}\sin x=\cos x,\ {\frac {d}{dx}}\cos x=-\sin x,\ \sin(0)=0,\ \cos(0)=1}
+{style {\frac {d^{2}}{dx^{2}}}\sin x={\frac {d}{dx}}\cos x=-\sin x}
+{style {\frac {d^{2}}{dx^{2}}}\cos x=-{\frac {d}{dx}}\sin x=-\cos x}
+{ y''+y=0}
+{ \tan x=\sin x/\cos x}
+{ {\frac {d}{dx}}\tan x={\frac {\cos ^{2}x+\sin ^{2}x}{\cos ^{2}x}}=1+\tan ^{2}x}
+{ {\begin{aligned}\sin x&=x-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-{\frac {x^{7}}{7!}}+\cdots \\[6mu]&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}}{(2n+1)!}}x^{2n+1}\\[8pt]\cos x&=1-{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}-{\frac {x^{6}}{6!}}+\cdots \\[6mu]&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}}{(2n)!}}x^{2n}\end{aligned}}}
+{style (2k+1){\frac {\pi }{2}}}
+{ k\pi }
+{ {\begin{aligned}\tan x&{}=\sum _{n=0}^{\infty }{\frac {U_{2n+1}}{(2n+1)!}}x^{2n+1}\\[8mu]&{}=\sum _{n=1}^{\infty }{\frac {(-1)^{n-1}2^{2n}\left(2^{2n}-1\right)B_{2n}}{(2n)!}}x^{2n-1}\\[5mu]&{}=x+{\frac {1}{3}}x^{3}+{\frac {2}{15}}x^{5}+{\frac {17}{315}}x^{7}+\cdots ,\qquad {{for }}|x|<{\frac {\pi }{2}}\end{aligned}}}
+{ {\begin{aligned}\csc x&=\sum _{n=0}^{\infty }{\frac {(-1)^{n+1}2\left(2^{2n-1}-1\right)B_{2n}}{(2n)!}}x^{2n-1}\\[5mu]&=x^{-1}+{\frac {1}{6}}x+{\frac {7}{360}}x^{3}+{\frac {31}{15120}}x^{5}+\cdots ,\qquad {{for }}0<|x|<\pi \end{aligned}}}
+{ {\begin{aligned}\sec x&=\sum _{n=0}^{\infty }{\frac {U_{2n}}{(2n)!}}x^{2n}=\sum _{n=0}^{\infty }{\frac {(-1)^{n}E_{2n}}{(2n)!}}x^{2n}\\[5mu]&=1+{\frac {1}{2}}x^{2}+{\frac {5}{24}}x^{4}+{\frac {61}{720}}x^{6}+\cdots ,\qquad {{for }}|x|<{\frac {\pi }{2}}\end{aligned}}}
+{ {\begin{aligned}\cot x&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}2^{2n}B_{2n}}{(2n)!}}x^{2n-1}\\[5mu]&=x^{-1}-{\frac {1}{3}}x-{\frac {1}{45}}x^{3}-{\frac {2}{945}}x^{5}-\cdots ,\qquad {{for }}0<|x|<\pi \end{aligned}}}
+{ \sin x={\cfrac {x}{1+{\cfrac {x^{2}}{2\cdot 3-x^{2}+{\cfrac {2\cdot 3x^{2}}{4\cdot 5-x^{2}+{\cfrac {4\cdot 5x^{2}}{6\cdot 7-x^{2}+\ddots }}}}}}}}}
+{ \cos x={\cfrac {1}{1+{\cfrac {x^{2}}{1\cdot 2-x^{2}+{\cfrac {1\cdot 2x^{2}}{3\cdot 4-x^{2}+{\cfrac {3\cdot 4x^{2}}{5\cdot 6-x^{2}+\ddots }}}}}}}}}
+{ \tan x={\cfrac {x}{1-{\cfrac {x^{2}}{3-{\cfrac {x^{2}}{5-{\cfrac {x^{2}}{7-\ddots }}}}}}}}={\cfrac {1}{{\cfrac {1}{x}}-{\cfrac {1}{{\cfrac {3}{x}}-{\cfrac {1}{{\cfrac {5}{x}}-{\cfrac {1}{{\cfrac {7}{x}}-\ddots }}}}}}}}}
+{ \pi \cot \pi x=\lim _{N\to \infty }\sum _{n=-N}^{N}{\frac {1}{x+n}}}
+{ \pi \cot \pi x={\frac {1}{x}}+2x\sum _{n=1}^{\infty }{\frac {1}{x^{2}-n^{2}}}}
+{ \pi \csc \pi x=\sum _{n=-\infty }^{\infty }{\frac {(-1)^{n}}{x+n}}={\frac {1}{x}}+2x\sum _{n=1}^{\infty }{\frac {(-1)^{n}}{x^{2}-n^{2}}},}
+{ \pi ^{2}\csc ^{2}\pi x=\sum _{n=-\infty }^{\infty }{\frac {1}{(x+n)^{2}}},}
+{ \pi \sec \pi x=\sum _{n=0}^{\infty }(-1)^{n}{\frac {(2n+1)}{(n+{\frac {1}{2}})^{2}-x^{2}}},}
+{ \pi \tan \pi x=2x\sum _{n=0}^{\infty }{\frac {1}{(n+{\frac {1}{2}})^{2}-x^{2}}}}
+{ \sin z=z\prod _{n=1}^{\infty }\left(1-{\frac {z^{2}}{n^{2}\pi ^{2}}}\right),\quad z\in \mathbb {C} }
+{ \cos z=\prod _{n=1}^{\infty }\left(1-{\frac {z^{2}}{(n-1/2)^{2}\pi ^{2}}}\right),\quad z\in \mathbb {C} }
+\cos(\theta )
+\sin(\theta )
+e^{i\theta }
+{ e^{ix}=\cos x+i\sin x}
+{ f_{1}(x)=\cos x+i\sin x,}
+{ f_{2}(x)=e^{ix}}
+{ df_{j}(x)/dx=if_{j}(x)}
+{ d/dx\,(f_{1}(x)/f_{2}(x))=0}
+{ f_{1}(x)/f_{2}(x)}
+{ f_{1}(0)=f_{2}(0)=1}
+{ {\begin{aligned}e^{ix}&=\cos x+i\sin x\\[5pt]e^{-ix}&=\cos x-i\sin x\end{aligned}}}
+{ {\begin{aligned}\sin x&={\frac {e^{ix}-e^{-ix}}{2i}}\\[5pt]\cos x&={\frac {e^{ix}+e^{-ix}}{2}}\end{aligned}}}
+{ \cos x=\operatorname {Re} \left(e^{ix}\right),\qquad \sin x=\operatorname {Im} \left(e^{ix}\right)}
+{ e^{a+b}=e^{a}e^{b}}
+\cos(x-y)=\cos x\cos y+\sin x\sin y
+{ 0<x\cos x<\sin x<x\quad {{ for }}\quad 0<x<1}
+{ {\begin{aligned}\sin z&=\sin x\cosh y+i\cos x\sinh y\\[5pt]\cos z&=\cos x\cosh y-i\sin x\sinh y\end{aligned}}}
+\sin z
+\cos z
+\tan z
+\cot z
+\sec z
+\csc z
+{ {\begin{aligned}\sin(-x)&=-\sin x\\\cos(-x)&=\cos x\\\tan(-x)&=-\tan x\\\cot(-x)&=-\cot x\\\csc(-x)&=-\csc x\\\sec(-x)&=\sec x\end{aligned}}}
+{ {\begin{aligned}\sin(x+2k\pi )&=\sin x\\\cos(x+2k\pi )&=\cos x\\\tan(x+k\pi )&=\tan x\\\cot(x+k\pi )&=\cot x\\\csc(x+2k\pi )&=\csc x\\\sec(x+2k\pi )&=\sec x\end{aligned}}}
+{ \sin ^{2}x+\cos ^{2}x=1}
+{ {\begin{aligned}\sin \left(x+y\right)&=\sin x\cos y+\cos x\sin y,\\[5mu]\cos \left(x+y\right)&=\cos x\cos y-\sin x\sin y,\\[5mu]\tan(x+y)&={\frac {\tan x+\tan y}{1-\tan x\tan y}}\end{aligned}}}
+{ {\begin{aligned}\sin \left(x-y\right)&=\sin x\cos y-\cos x\sin y,\\[5mu]\cos \left(x-y\right)&=\cos x\cos y+\sin x\sin y,\\[5mu]\tan(x-y)&={\frac {\tan x-\tan y}{1+\tan x\tan y}}\end{aligned}}}
+{ {\begin{aligned}\sin 2x&=2\sin x\cos x={\frac {2\tan x}{1+\tan ^{2}x}},\\[5mu]\cos 2x&=\cos ^{2}x-\sin ^{2}x=2\cos ^{2}x-1=1-2\sin ^{2}x={\frac {1-\tan ^{2}x}{1+\tan ^{2}x}},\\[5mu]\tan 2x&={\frac {2\tan x}{1-\tan ^{2}x}}\end{aligned}}}
+{ t=\tan {\frac {1}{2}}\theta ,}
+\theta 
+{ {\begin{aligned}\sin \theta &={\frac {2t}{1+t^{2}}},\\[5mu]\cos \theta &={\frac {1-t^{2}}{1+t^{2}}},\\[5mu]\tan \theta &={\frac {2t}{1-t^{2}}}\end{aligned}}}
+{ d\theta ={\frac {2}{1+t^{2}}}\,dt,}
+{style \int f(x)\,dx}
+\sin x
+\cos x
+{ -\cos x+C}
+\cos x
+{ -\sin x}
+{ \sin x+C}
+{ \tan x}
+{ \sec ^{2}x=1+\tan ^{2}x}
+{ -\ln \left|\cos x\right|+C}
+{ \csc x}
+{ -\csc x\cot x}
+{ -\ln \left|\csc x+\cot x\right|+C}
+{ \sec x}
+{ \sec x\tan x}
+{ \ln \left|\sec x+\tan x\right|+C}
+{ \cot x}
+{ -\csc ^{2}x=-1-\cot ^{2}x}
+{ \ln \left|\sin x\right|+C}
+{ {\begin{aligned}{\frac {d\cos x}{dx}}&={\frac {d}{dx}}\sin(\pi /2-x)=-\cos(\pi /2-x)=-\sin x\,,\\{\frac {d\csc x}{dx}}&={\frac {d}{dx}}\sec(\pi /2-x)=-\sec(\pi /2-x)\tan(\pi /2-x)=-\csc x\cot x\,,\\{\frac {d\cot x}{dx}}&={\frac {d}{dx}}\tan(\pi /2-x)=-\sec ^{2}(\pi /2-x)=-\csc ^{2}x\,\end{aligned}}}
+{ y=\arcsin x}
+{ \sin y=x}
+{ -1\leq x\leq 1}
+{style -{\frac {\pi }{2}}\leq y\leq {\frac {\pi }{2}}}
+{ y=\arccos x}
+{ \cos y=x}
+{ -1\leq x\leq 1}
+{style 0\leq y\leq \pi }
+{ y=\arctan x}
+{ \tan y=x}
+{ -\infty <x<\infty }
+{style -{\frac {\pi }{2}}<y<{\frac {\pi }{2}}}
+{ y=\operatorname {arccot} x}
+{ \cot y=x}
+{ -\infty <x<\infty }
+{style 0<y<\pi }
+{ y=\operatorname {arcsec} x}
+{ \sec y=x}
+{ x<-1{{ or }}x>1}
+{style 0\leq y\leq \pi ,\;y\neq {\frac {\pi }{2}}}
+{ y=\operatorname {arccsc} x}
+{ \csc y=x}
+{ x<-1{{ or }}x>1}
+{style -{\frac {\pi }{2}}\leq y\leq {\frac {\pi }{2}},\;y\neq 0}
+{ {\frac {\sin A}{a}}={\frac {\sin B}{b}}={\frac {\sin C}{c}}={\frac {2\Delta }{abc}},}
+{ {\frac {a}{\sin A}}={\frac {b}{\sin B}}={\frac {c}{\sin C}}=2R,}
+{ c^{2}=a^{2}+b^{2}-2ab\cos C,}
+{ \cos C={\frac {a^{2}+b^{2}-c^{2}}{2ab}}}
+{ {\frac {\tan {\frac {A-B}{2}}}{\tan {\frac {A+B}{2}}}}={\frac {a-b}{a+b}}}
+{ r={\sqrt {{\frac {1}{s}}(s-a)(s-b)(s-c)}}}
+{ \cot {\frac {A}{2}}={\frac {s-a}{r}}}
+{ {\frac {\cot {\dfrac {A}{2}}}{s-a}}={\frac {\cot {\dfrac {B}{2}}}{s-b}}={\frac {\cot {\dfrac {C}{2}}}{s-c}}={\frac {1}{r}}}
+{ f(t)=\sum _{k=1}^{\infty }c_{k}\varphi _{k}(t)}
+{ f_{{square}}(t)={\frac {4}{\pi }}\sum _{k=1}^{\infty }{\sin {\big (}(2k-1)t{\big )} \over 2k-1}}
+{ x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}
+ax^{2}+bx+c=0
+{ ax^{2}+bx+c=a(x-r)(x-s)=0}
+Figure 1 Plots of the quadratic function, y = eh x squared plus b x plus c, varying each coefficient separately while the other coefficients are fixed at values eh = 1, b = 0, c = 0 The left plot illustrates varying c When c equals 0, the vertex of the parabola representing the quadratic function is centered on the origin, and the parabola rises on both sides of the origin, opening to the top When c is greater than zero, the parabola does not change in shape, but its vertex is raised above the origin When c is less than zero, the vertex of the parabola is lowered below the origin The center plot illustrates varying b When b is less than zero, the parabola representing the quadratic function is unchanged in shape, but its vertex is shifted to the right of and below the origin When b is greater than zero, its vertex is shifted to the left of and below the origin The vertices of the family of curves created by varying b follow along a parabolic curve The right plot illustrates varying eh When eh is positive, the quadratic function is a parabola opening to the top When eh is zero, the quadratic function is a horizontal straight line When eh is negative, the quadratic function is a parabola opening to the bottom
+{ x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}
+ax^{2}+bx+c=0
+{ ax^{2}+bx+c=a(x-r)(x-s)=0}
+Figure 1 Plots of the quadratic function, y = eh x squared plus b x plus c, varying each coefficient separately while the other coefficients are fixed at values eh = 1, b = 0, c = 0 The left plot illustrates varying c When c equals 0, the vertex of the parabola representing the quadratic function is centered on the origin, and the parabola rises on both sides of the origin, opening to the top When c is greater than zero, the parabola does not change in shape, but its vertex is raised above the origin When c is less than zero, the vertex of the parabola is lowered below the origin The center plot illustrates varying b When b is less than zero, the parabola representing the quadratic function is unchanged in shape, but its vertex is shifted to the right of and below the origin When b is greater than zero, its vertex is shifted to the left of and below the origin The vertices of the family of curves created by varying b follow along a parabolic curve The right plot illustrates varying eh When eh is positive, the quadratic function is a parabola opening to the top When eh is zero, the quadratic function is a horizontal straight line When eh is negative, the quadratic function is a parabola opening to the bottom
+{ x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}
+ax^{2}+bx+c=0
+{ ax^{2}+bx+c=a(x-r)(x-s)=0}
+Figure 1 Plots of the quadratic function, y = eh x squared plus b x plus c, varying each coefficient separately while the other coefficients are fixed at values eh = 1, b = 0, c = 0 The left plot illustrates varying c When c equals 0, the vertex of the parabola representing the quadratic function is centered on the origin, and the parabola rises on both sides of the origin, opening to the top When c is greater than zero, the parabola does not change in shape, but its vertex is raised above the origin When c is less than zero, the vertex of the parabola is lowered below the origin The center plot illustrates varying b When b is less than zero, the parabola representing the quadratic function is unchanged in shape, but its vertex is shifted to the right of and below the origin When b is greater than zero, its vertex is shifted to the left of and below the origin The vertices of the family of curves created by varying b follow along a parabolic curve The right plot illustrates varying eh When eh is positive, the quadratic function is a parabola opening to the top When eh is zero, the quadratic function is a horizontal straight line When eh is negative, the quadratic function is a parabola opening to the bottom
+Figure 2 illustrates an x y plot of the quadratic function f of x equals x squared minus x minus 2 The x-coordinate of the points where the graph intersects the x-axis, x equals −1 and x equals 2, are the solutions of the quadratic equation x squared minus x minus 2 equals zero
+x^{2}+2hx+h^{2}=(x+h)^{2
+1) \ x^2+2x-2=0
+2) \ x^2+2x=2
+3) \ x^2+2x+1=2+1
+4) \ \left(x+1 \right)^2=3
+5) \ x+1=\pm\sqrt{3}
+6) \ x=-1\pm\sqrt{3}
+\left(x+{\frac {b}{2a}}\right)^{2}={\frac {b^{2}-4ac}{4a^{2}}}
+{ x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}
+{ x={\frac {2c}{-b\pm {\sqrt {b^{2}-4ac}}}}}
+x^{2}+px+q=
+{ x={\frac {1}{2}}\left(-p\pm {\sqrt {p^{2}-4q}}\right),}
+{ x=-{\frac {p}{2}}\pm {\sqrt {\left({\frac {p}{2}}\right)^{2}-q}}}
+Figure 3 This figure plots three quadratic functions on a single Cartesian plane graph to illustrate the effects of discriminant values When the discriminant, delta, is positive, the parabola intersects the x-axis at two points When delta is zero, the vertex of the parabola touches the x-axis at a single point When delta is negative, the parabola does not intersect the x-axis at all
+\Delta = b^2 - 4ac
+\frac{-b + \sqrt {\Delta}}{2a} \quad{and}\quad \frac{-b - \sqrt {\Delta}}{2a
+-\frac{b}{2a
+{ -{\frac {b}{2a}}+i{\frac {\sqrt {-\Delta }}{2a}}\quad {{and}}\quad -{\frac {b}{2a}}-i{\frac {\sqrt {-\Delta }}{2a}},}
+\scriptstyle x=\frac{-b}{2a}
+ax^{2}+bx+c
+ax^{2}+bx+c=0
+ax^2+bx+c = a \left( x - \frac{-b + \sqrt {b^2-4ac}}{2a} \right) \left( x - \frac{-b - \sqrt {b^2-4ac}}{2a} \right)
+ax^2+bx+c = a \left( x + \frac{b}{2a} \right)^2
+y=ax^2+bx+
+{ y=a(x-h)^{2}+k}
+{ h+id\quad {{and}}\quad x-id,}
+{ 5+3i\quad {{and}}\quad 5-3i}
+{ (c/a)/R}
+y=\frac{1}{2} at^2+v_y t+h
+y=\frac{a}{2v_x^2} x^2+\frac{v_y}{v_x} x+h
+x^{2}-x-1=0
+{ x+y=p,\ \ xy=q,}
+{ z^{2}+q=pz}
+{ x=\left({\frac {p}{2}}\right)+{\sqrt {\left({\frac {p}{2}}\right)^{2}-q}}}
+{ x={\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}}}
+x={\frac {{\sqrt {4ac+b^{2}}}-b}{2a}}
+{ x_{1}+x_{2}=-{\frac {b}{a}},\quad x_{1}x_{2}={\frac {c}{a}}}
+{ \left(x-x_{1}\right)\left(x-x_{2}\right)=x^{2}-\left(x_{1}+x_{2}\right)x+x_{1}x_{2}=0,}
+ x_V = \frac {x_1 + x_2} {2} = -\frac{b}{2a}
+ y_V = - \frac{b^2}{4a} + c = - \frac{ b^2 - 4ac} {4a}
+{ ax^{2}+bx+c=a\left(\left(x-{\frac {b}{2a}}\right)^{2}-{\frac {b^{2}-4ac}{4a}}\right)}
+ x_1 \approx -\frac{b}{a} 
+{ x_{2}={\frac {c}{ax_{1}}}\approx -{\frac {c}{b}}}
+ax^2 + bx \pm c = 0
+x = \sqrt{c/a} \tan\theta 
+\sin^2\theta + \frac{b}{\sqrt {ac}} \sin\theta  \cos\theta \pm \cos^2\theta = 0 
+ \tan 2 \theta_n = + 2 \frac{\sqrt{ac}}{b}
+ \sin 2 \theta_p = - 2 \frac{\sqrt{ac}}{b}
+\log a = 06192290,  \log b = 09618637, \log c  = 10576927
+2 \sqrt{ac}/b = 2 \times 10^{(06192290 + 10576927)/2 - 09618637} = 1505314 
+\theta = (\tan^{-1}1505314) / 2 = 2820169^{\circ} { or } -6179831^{\circ} 
+\log | \tan \theta | = -02706462 { or } 02706462
+ \log\sqrt{c/a} = (10576927 - 06192290) / 2 = 02192318
+x_1 = 10^{02192318 - 02706462} = 0888353
+x_2 = -10^{02192318 + 02706462} = -308943
+b^{2}-4ac<
+x_{1},\,x_{2}=r(\cos \theta \pm i\sin \theta 
+r={\sqrt  {{\frac  {c}{a}}}}
+\theta =\cos ^{{-1}}\left({\frac  {-b}{2{\sqrt  {ac}}}}\right)
+\pm \sqrt {b^2-4ac}
+x^{2} + bx + c
+x = \sqrt{c}
+-\sqrt{c} = -\sqrt{c} + 2\sqrt{c} = \sqrt{c}
+ x^{2} + c = (x + \sqrt{c})^{2}
+\frac{b}{a}R\left(\frac{ac}{b^2}\right)
+\frac{b}{a}\left(R\left(\frac{ac}{b^2}\right)+1\right)
