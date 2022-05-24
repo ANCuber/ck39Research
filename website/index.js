@@ -4,13 +4,19 @@ var fs = require('fs');
 var port = 3000;
 var app = express();
 
-
-app.get('/', function (req, res) {  
-  res.sendFile('index.html', { root: __dirname });
+app.use(express.static('public'));
+app.get('/start', function (req, res) {  
+  res.render('suggestion.ejs');
 }); 
 
+app.get('/send',function(req,res){
+    res.render('send.ejs');
+});
 
 
+app.get('*',function(req,res){
+    res.send('404 error!!!!!  what are you doing?');
+});
 
 
 app.listen(port, function(err){
