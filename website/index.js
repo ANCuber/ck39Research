@@ -11,7 +11,7 @@ app.use(express.urlencoded({
 }))
 function startpage(req,res){
     res.render('newindex',{
-      latex : " x^2 "
+      latex : " \\LaTeX "
   });
 }
 app.get('/start', function (req, res) {  
