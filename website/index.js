@@ -6,12 +6,23 @@ var app = express();
 app.set('views', './views');
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
+app.use(express.urlencoded({
+  extended: true
+}))
+
 app.get('/start', function (req, res) {  
-  res.render('suggestion');
+  res.render('index',{
+      latex : "x\\implies y"
+  });
 }); 
 
-app.get('/send',function(req,res){
-    res.render('send.ejs');
+app.post('/send',function(req,res){ 
+    var content = req.body.response;
+    res.render('send',{
+        yourres : content
+    });
+   
+    
 });
 
 
