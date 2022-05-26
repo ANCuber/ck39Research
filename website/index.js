@@ -9,18 +9,30 @@ app.use(express.static('public'));
 app.use(express.urlencoded({
   extended: true
 }))
-
-app.get('/start', function (req, res) {  
-  res.render('index',{
-      latex : "x\\implies y"
+function startpage(req,res){
+    res.render('newindex',{
+      latex : " x^2 "
   });
+}
+app.get('/start', function (req, res) {  
+  startpage(req,res);
 }); 
-
+app.post('/start',function(req,res){
+    //do something
+    startpage(req,res);
+});
 app.post('/send',function(req,res){ 
-    var content = req.body.response;
-    res.render('send',{
+    var content = req.body.answer;
+    if(content == ""){
+        res.send("NO empty please!");
+
+    }else{
+      console.log(content);
+    res.render('newsend',{
         yourres : content
-    });
+    });   
+    }
+   
    
     
 });
