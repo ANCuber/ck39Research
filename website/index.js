@@ -3,10 +3,11 @@ var fs = require('fs');
 
 var port = 3000;
 var app = express();
-
+app.set('views', './views');
+app.set('view engine', 'ejs');
 app.use(express.static('public'));
 app.get('/start', function (req, res) {  
-  res.render('suggestion.ejs');
+  res.render('suggestion');
 }); 
 
 app.get('/send',function(req,res){
