@@ -1,6 +1,6 @@
 var express = require('express');
 var fs = require('fs');
-
+var Latex = "  \\frac{1}{2} ";
 var port = 3000;
 var app = express();
 app.set('views', './views');
@@ -11,7 +11,7 @@ app.use(express.urlencoded({
 }))
 function startpage(req,res){
     res.render('newindex',{
-      latex : " \\LaTeX "
+      latex : Latex
   });
 }
 app.get('/start', function (req, res) {  
