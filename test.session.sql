@@ -3,7 +3,7 @@ SHOW DATABASES
 
 
 --@block
-INSERT INTO data(latex) VALUE ("x^3");
+INSERT INTO data(latex) VALUE ("\\frac{2}{3}");
 
 
 
@@ -19,3 +19,4 @@ SET description='哈摟'
 WHERE id=1
 
 --@block
+DELETE FROM data

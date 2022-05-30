@@ -64,7 +64,7 @@ app.post('/submit', function (req, res) {
 
 app.post('/send', function (req, res) {
     var content = req.body.answer;
-    if (content == "") {
+    if (content == "" || content.indexOf(' ')>=0  || content.indexOf(';')>=0 ) {
         res.redirect('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
     } else {
         console.log(content);
@@ -77,7 +77,7 @@ app.post('/send', function (req, res) {
 
 
 app.get('*', function (req, res) {
-    res.send('404 error!!!!!  what are you doing?');
+    res.redirect("/start");
 });
 
 

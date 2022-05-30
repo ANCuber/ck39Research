@@ -740,7 +740,7 @@
                         <div class="row justify-content-center">
                             <div class=col-lg-8>
                                 <div class=contact-wrap>
-                                    <h3 class="mb-4 text-center">$$<%=latex%> $$ </h3>
+                                    <h3 class="mb-4 text-center">$$ <%= latex %> $$ </h3>
 
 
                                     <form method=POST action="\send" class=contactForm novalidate>
@@ -749,7 +749,7 @@
                                             <div class=col-md-12>
                                                 <div class=form-group>
                                                     <textarea name=answer class=form-control id=answer cols=35 rows=2
-                                                        placeholder=請輸入答案></textarea>
+                                                        placeholder=請輸入答案(如果沒有東西或顯示有問題請輸入:skip，如果不會請刷新頁面)></textarea>
                                                         <input id=dbid name=dbid value=<%=dbid%> style="visibility:hidden">
                                                 </div>
                                             </div>
