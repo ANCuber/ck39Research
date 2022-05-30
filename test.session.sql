@@ -7,7 +7,7 @@ INSERT INTO data(latex) VALUE ("x^3");
 
 
 --@block
-SELECT * from data
+SELECT * from data WHERE done=1
 
 --@block
 SELECT * from data
