@@ -1,0 +1,2049 @@
+[{
+    "content": " x^n + y^n = z^n "
+},{
+    "content": " p^n + y^n = z^n "
+},{
+    "content": " p^n + p^n = z^n "
+},{
+    "content": " a^n + y^n = z^n "
+},{
+    "content": " a^n + p^n = z^n "
+},{
+    "content": " a^n + b^n = z^n "
+},{
+    "content": " g^n + y^n = z^n "
+},{
+    "content": " g^n + p^n = z^n "
+},{
+    "content": " g^n + b^n = z^n "
+},{
+    "content": " g^n + u^n = z^n "
+},{
+    "content": " x^3 + y^3 = z^3 "
+},{
+    "content": " p^3 + y^3 = z^3 "
+},{
+    "content": " p^3 + p^3 = z^3 "
+},{
+    "content": " a^3 + y^3 = z^3 "
+},{
+    "content": " a^3 + p^3 = z^3 "
+},{
+    "content": " a^3 + b^3 = z^3 "
+},{
+    "content": " g^3 + y^3 = z^3 "
+},{
+    "content": " g^3 + p^3 = z^3 "
+},{
+    "content": " g^3 + b^3 = z^3 "
+},{
+    "content": " g^3 + u^3 = z^3 "
+},{
+    "content": " x^2 + y^5 = z^8 "
+},{
+    "content": " p^2 + y^5 = z^8 "
+},{
+    "content": " p^2 + p^5 = z^8 "
+},{
+    "content": " a^2 + y^5 = z^8 "
+},{
+    "content": " a^2 + p^5 = z^8 "
+},{
+    "content": " a^2 + b^5 = z^8 "
+},{
+    "content": " g^2 + y^5 = z^8 "
+},{
+    "content": " g^2 + p^5 = z^8 "
+},{
+    "content": " g^2 + b^5 = z^8 "
+},{
+    "content": " g^2 + u^5 = z^8 "
+},{
+    "content": "E=mc^2"
+},{
+    "content": "\\sqrt{x^2+1}"
+},{
+    "content": "\\sqrt{p^2+1}"
+},{
+    "content": "\\sqrt{a^2+1}"
+},{
+    "content": "\\sqrt{g^2+1}"
+},{
+    "content": " F = G \\left( \\frac{m_1 m_2}{r^2} \\right)"
+},{
+    "content": "\\frac{1}{2} "
+},{
+    "content": "\\frac{234}{51} "
+},{
+    "content": "\\frac{87}{6903} "
+},{
+    "content": "\\frac{32832}{313} "
+},{
+    "content": "e^{\\pi i} + 1 = 0 "
+},{
+    "content": "2x - 5y =  8 "
+},{
+    "content": "2p - 5y =  8 "
+},{
+    "content": "2p - 5p =  8 "
+},{
+    "content": "2a - 5y =  8 "
+},{
+    "content": "2a - 5p =  8 "
+},{
+    "content": "2a - 5b =  8 "
+},{
+    "content": "2g - 5y =  8 "
+},{
+    "content": "2g - 5p =  8 "
+},{
+    "content": "2g - 5b =  8 "
+},{
+    "content": "2g - 5u =  8 "
+},{
+    "content": "3x + 9y =  -12 "
+},{
+    "content": "3p + 9y =  -12 "
+},{
+    "content": "3p + 9p =  -12 "
+},{
+    "content": "3a + 9y =  -12 "
+},{
+    "content": "3a + 9p =  -12 "
+},{
+    "content": "3a + 9b =  -12 "
+},{
+    "content": "3g + 9y =  -12 "
+},{
+    "content": "3g + 9p =  -12 "
+},{
+    "content": "3g + 9b =  -12 "
+},{
+    "content": "3g + 9u =  -12 "
+},{
+    "content": "x=y "
+},{
+    "content": "p=y "
+},{
+    "content": "p=p "
+},{
+    "content": "a=y "
+},{
+    "content": "a=p "
+},{
+    "content": "a=b "
+},{
+    "content": "g=y "
+},{
+    "content": "g=p "
+},{
+    "content": "g=b "
+},{
+    "content": "g=u "
+},{
+    "content": "w =z "
+},{
+    "content": "a=b+c "
+},{
+    "content": "2x=-y "
+},{
+    "content": "2p=-y "
+},{
+    "content": "2p=-p "
+},{
+    "content": "2a=-y "
+},{
+    "content": "2a=-p "
+},{
+    "content": "2a=-b "
+},{
+    "content": "2g=-y "
+},{
+    "content": "2g=-p "
+},{
+    "content": "2g=-b "
+},{
+    "content": "2g=-u "
+},{
+    "content": "3w=\\frac{1}{2}z    "
+},{
+    "content": "a=b "
+},{
+    "content": "w+2=-1+w "
+},{
+    "content": "ab=cb "
+},{
+    "content": "2x - 5y =  8 "
+},{
+    "content": "2p - 5y =  8 "
+},{
+    "content": "2p - 5p =  8 "
+},{
+    "content": "2a - 5y =  8 "
+},{
+    "content": "2a - 5p =  8 "
+},{
+    "content": "2a - 5b =  8 "
+},{
+    "content": "2g - 5y =  8 "
+},{
+    "content": "2g - 5p =  8 "
+},{
+    "content": "2g - 5b =  8 "
+},{
+    "content": "2g - 5u =  8 "
+},{
+    "content": "3x^2 + 9y =  3a + c "
+},{
+    "content": "3p^2 + 9y =  3a + c "
+},{
+    "content": "3p^2 + 9p =  3a + c "
+},{
+    "content": "3a^2 + 9y =  3a + c "
+},{
+    "content": "3a^2 + 9p =  3a + c "
+},{
+    "content": "3a^2 + 9b =  3a + c "
+},{
+    "content": "3g^2 + 9y =  3a + c "
+},{
+    "content": "3g^2 + 9p =  3a + c "
+},{
+    "content": "3g^2 + 9b =  3a + c "
+},{
+    "content": "3g^2 + 9u =  3a + c "
+},{
+    "content": "3ax+4by=5cz "
+},{
+    "content": "3ap+4by=5cz "
+},{
+    "content": "3ap+4bp=5cz "
+},{
+    "content": "3aa+4by=5cz "
+},{
+    "content": "3aa+4bp=5cz "
+},{
+    "content": "3aa+4bb=5cz "
+},{
+    "content": "3ag+4by=5cz "
+},{
+    "content": "3ag+4bp=5cz "
+},{
+    "content": "3ag+4bb=5cz "
+},{
+    "content": "3ag+4bu=5cz "
+},{
+    "content": " \\int_{a}^{b} x^2 \\,dx "
+},{
+    "content": " \\int_{a}^{b} p^2 \\,dp "
+},{
+    "content": " \\int_{a}^{b} a^2 \\,da "
+},{
+    "content": " \\int_{a}^{b} g^2 \\,dg "
+},{
+    "content": "x^n + y^n = z^m"
+},{
+    "content": "p^n + y^n = z^m"
+},{
+    "content": "p^n + p^n = z^m"
+},{
+    "content": "a^n + y^n = z^m"
+},{
+    "content": "a^n + p^n = z^m"
+},{
+    "content": "a^n + b^n = z^m"
+},{
+    "content": "g^n + y^n = z^m"
+},{
+    "content": "g^n + p^n = z^m"
+},{
+    "content": "g^n + b^n = z^m"
+},{
+    "content": "g^n + u^n = z^m"
+},{
+    "content": "x^3 + y^t = z^3 "
+},{
+    "content": "p^3 + y^t = z^3 "
+},{
+    "content": "p^3 + p^t = z^3 "
+},{
+    "content": "a^3 + y^t = z^3 "
+},{
+    "content": "a^3 + p^t = z^3 "
+},{
+    "content": "a^3 + b^t = z^3 "
+},{
+    "content": "g^3 + y^t = z^3 "
+},{
+    "content": "g^3 + p^t = z^3 "
+},{
+    "content": "g^3 + b^t = z^3 "
+},{
+    "content": "g^3 + u^t = z^3 "
+},{
+    "content": "x^2 + 9 = z^8"
+},{
+    "content": "p^2 + 9 = z^8"
+},{
+    "content": "a^2 + 9 = z^8"
+},{
+    "content": "g^2 + 9 = z^8"
+},{
+    "content": "x^11 + y^9 = 73"
+},{
+    "content": "p^11 + y^9 = 73"
+},{
+    "content": "p^11 + p^9 = 73"
+},{
+    "content": "a^11 + y^9 = 73"
+},{
+    "content": "a^11 + p^9 = 73"
+},{
+    "content": "a^11 + b^9 = 73"
+},{
+    "content": "g^11 + y^9 = 73"
+},{
+    "content": "g^11 + p^9 = 73"
+},{
+    "content": "g^11 + b^9 = 73"
+},{
+    "content": "g^11 + u^9 = 73"
+},{
+    "content": "x^x + y^3 = z^n"
+},{
+    "content": "p^p + y^3 = z^n"
+},{
+    "content": "p^p + p^3 = z^n"
+},{
+    "content": "a^a + y^3 = z^n"
+},{
+    "content": "a^a + p^3 = z^n"
+},{
+    "content": "a^a + b^3 = z^n"
+},{
+    "content": "g^g + y^3 = z^n"
+},{
+    "content": "g^g + p^3 = z^n"
+},{
+    "content": "g^g + b^3 = z^n"
+},{
+    "content": "g^g + u^3 = z^n"
+},{
+    "content": "x^2 + y = x + w^3"
+},{
+    "content": "p^2 + y = p + w^3"
+},{
+    "content": "p^2 + p = p + w^3"
+},{
+    "content": "a^2 + y = a + w^3"
+},{
+    "content": "a^2 + p = a + w^3"
+},{
+    "content": "a^2 + b = a + w^3"
+},{
+    "content": "g^2 + y = g + w^3"
+},{
+    "content": "g^2 + p = g + w^3"
+},{
+    "content": "g^2 + b = g + w^3"
+},{
+    "content": "g^2 + u = g + w^3"
+},{
+    "content": "y^3 + x = s^t"
+},{
+    "content": "y^3 + p = s^t"
+},{
+    "content": "p^3 + p = s^t"
+},{
+    "content": "y^3 + a = s^t"
+},{
+    "content": "p^3 + a = s^t"
+},{
+    "content": "b^3 + a = s^t"
+},{
+    "content": "y^3 + g = s^t"
+},{
+    "content": "p^3 + g = s^t"
+},{
+    "content": "b^3 + g = s^t"
+},{
+    "content": "u^3 + g = s^t"
+},{
+    "content": "w+x+y+z=\\pi "
+},{
+    "content": "w+p+y+z=\\pi "
+},{
+    "content": "w+p+p+z=\\pi "
+},{
+    "content": "w+a+y+z=\\pi "
+},{
+    "content": "w+a+p+z=\\pi "
+},{
+    "content": "w+a+b+z=\\pi "
+},{
+    "content": "w+g+y+z=\\pi "
+},{
+    "content": "w+g+p+z=\\pi "
+},{
+    "content": "w+g+b+z=\\pi "
+},{
+    "content": "w+g+u+z=\\pi "
+},{
+    "content": "x+y+z=n\\pi"
+},{
+    "content": "p+y+z=n\\pi"
+},{
+    "content": "p+p+z=n\\pi"
+},{
+    "content": "a+y+z=n\\pi"
+},{
+    "content": "a+p+z=n\\pi"
+},{
+    "content": "a+b+z=n\\pi"
+},{
+    "content": "g+y+z=n\\pi"
+},{
+    "content": "g+p+z=n\\pi"
+},{
+    "content": "g+b+z=n\\pi"
+},{
+    "content": "g+u+z=n\\pi"
+},{
+    "content": "a^b > \\frac{a}{a+b}"
+},{
+    "content": "xy^2 + x^2y \\leq 0"
+},{
+    "content": "py^2 + p^2y \\leq 0"
+},{
+    "content": "pp^2 + p^2p \\leq 0"
+},{
+    "content": "ay^2 + a^2y \\leq 0"
+},{
+    "content": "ap^2 + a^2p \\leq 0"
+},{
+    "content": "ab^2 + a^2b \\leq 0"
+},{
+    "content": "gy^2 + g^2y \\leq 0"
+},{
+    "content": "gp^2 + g^2p \\leq 0"
+},{
+    "content": "gb^2 + g^2b \\leq 0"
+},{
+    "content": "gu^2 + g^2u \\leq 0"
+},{
+    "content": "ax^{2}+bx+c = 5"
+},{
+    "content": "ap^{2}+bp+c = 5"
+},{
+    "content": "aa^{2}+ba+c = 5"
+},{
+    "content": "ag^{2}+bg+c = 5"
+},{
+    "content": "a(x-r)(x-s)=0"
+},{
+    "content": "a(p-r)(p-s)=0"
+},{
+    "content": "a(a-r)(a-s)=0"
+},{
+    "content": "a(g-r)(g-s)=0"
+},{
+    "content": "z^{2}+q=pz"
+},{
+    "content": "x = \\sqrt{\\theta} \\tan\\theta"
+},{
+    "content": "p = \\sqrt{\\theta} \\tan\\theta"
+},{
+    "content": "a = \\sqrt{\\theta} \\tan\\theta"
+},{
+    "content": "g = \\sqrt{\\theta} \\tan\\theta"
+},{
+    "content": "\\tan 2 \\theta = 2 \\frac{\\sqrt{ac}}{b}"
+},{
+    "content": "r={\\sqrt  {{\\frac  {c}{a}}}}"
+},{
+    "content": "y=a(x-h)^2+k"
+},{
+    "content": "y=a(p-h)^2+k"
+},{
+    "content": "p=a(p-h)^2+k"
+},{
+    "content": "y=a(a-h)^2+k"
+},{
+    "content": "p=a(a-h)^2+k"
+},{
+    "content": "b=a(a-h)^2+k"
+},{
+    "content": "y=a(g-h)^2+k"
+},{
+    "content": "p=a(g-h)^2+k"
+},{
+    "content": "b=a(g-h)^2+k"
+},{
+    "content": "u=a(g-h)^2+k"
+},{
+    "content": "x^{4}+y^{4}=z^{2}"
+},{
+    "content": "p^{4}+y^{4}=z^{2}"
+},{
+    "content": "p^{4}+p^{4}=z^{2}"
+},{
+    "content": "a^{4}+y^{4}=z^{2}"
+},{
+    "content": "a^{4}+p^{4}=z^{2}"
+},{
+    "content": "a^{4}+b^{4}=z^{2}"
+},{
+    "content": "g^{4}+y^{4}=z^{2}"
+},{
+    "content": "g^{4}+p^{4}=z^{2}"
+},{
+    "content": "g^{4}+b^{4}=z^{2}"
+},{
+    "content": "g^{4}+u^{4}=z^{2}"
+},{
+    "content": "p\\equiv 1\\;mod\\;4"
+},{
+    "content": "\\sqrt{x^3+1}"
+},{
+    "content": "\\sqrt{p^3+1}"
+},{
+    "content": "\\sqrt{a^3+1}"
+},{
+    "content": "\\sqrt{g^3+1}"
+},{
+    "content": "\\sqrt{x^2+2x+1}"
+},{
+    "content": "\\sqrt{p^2+2p+1}"
+},{
+    "content": "\\sqrt{a^2+2a+1}"
+},{
+    "content": "\\sqrt{g^2+2g+1}"
+},{
+    "content": "\\sqrt{x^e+\\pi}"
+},{
+    "content": "\\sqrt{p^e+\\pi}"
+},{
+    "content": "\\sqrt{a^e+\\pi}"
+},{
+    "content": "\\sqrt{g^e+\\pi}"
+},{
+    "content": "\\sqrt{\\pi^3+31}"
+},{
+    "content": "\\sqrt{\\sqrt{x^4+6}}"
+},{
+    "content": "\\sqrt{\\sqrt{p^4+6}}"
+},{
+    "content": "\\sqrt{\\sqrt{a^4+6}}"
+},{
+    "content": "\\sqrt{\\sqrt{g^4+6}}"
+},{
+    "content": "\\sqrt{x+x^5+3}"
+},{
+    "content": "\\sqrt{p+p^5+3}"
+},{
+    "content": "\\sqrt{a+a^5+3}"
+},{
+    "content": "\\sqrt{g+g^5+3}"
+},{
+    "content": "\\sqrt{a^3b^2+a^2}"
+},{
+    "content": "\\sqrt{x^2y^4z^6} "
+},{
+    "content": "\\sqrt{p^2y^4z^6} "
+},{
+    "content": "\\sqrt{p^2p^4z^6} "
+},{
+    "content": "\\sqrt{a^2y^4z^6} "
+},{
+    "content": "\\sqrt{a^2p^4z^6} "
+},{
+    "content": "\\sqrt{a^2b^4z^6} "
+},{
+    "content": "\\sqrt{g^2y^4z^6} "
+},{
+    "content": "\\sqrt{g^2p^4z^6} "
+},{
+    "content": "\\sqrt{g^2b^4z^6} "
+},{
+    "content": "\\sqrt{g^2u^4z^6} "
+},{
+    "content": "\\sqrt{a^3+b^3+c^3}"
+},{
+    "content": "\\sqrt{(a+b+c)^{3}}"
+},{
+    "content": "\\sqrt{\\sin(\\frac{\\pi}{3})}"
+},{
+    "content": "\\sqrt{ax^{2}+bx+c}"
+},{
+    "content": "\\sqrt{ap^{2}+bp+c}"
+},{
+    "content": "\\sqrt{aa^{2}+ba+c}"
+},{
+    "content": "\\sqrt{ag^{2}+bg+c}"
+},{
+    "content": "\\sqrt{a(x-r)(x-s)}"
+},{
+    "content": "\\sqrt{a(p-r)(p-s)}"
+},{
+    "content": "\\sqrt{a(a-r)(a-s)}"
+},{
+    "content": "\\sqrt{a(g-r)(g-s)}"
+},{
+    "content": "\\sqrt{z^{2}+q}"
+},{
+    "content": "\\sqrt{x_1+x_2+x_3}"
+},{
+    "content": "\\sqrt{p_1+p_2+p_3}"
+},{
+    "content": "\\sqrt{a_1+a_2+a_3}"
+},{
+    "content": "\\sqrt{g_1+g_2+g_3}"
+},{
+    "content": "\\sqrt{mc^2}"
+},{
+    "content": "\\frac{1}{2} "
+},{
+    "content": "\\frac{234}{51} "
+},{
+    "content": "\\frac{87}{6903} "
+},{
+    "content": "\\frac{32832}{313} "
+},{
+    "content": "\\frac{\\pi^2}{4} "
+},{
+    "content": "\\frac{\\sqrt{x^2+2x+1}}{x+3} "
+},{
+    "content": "\\frac{\\sqrt{p^2+2p+1}}{p+3} "
+},{
+    "content": "\\frac{\\sqrt{a^2+2a+1}}{a+3} "
+},{
+    "content": "\\frac{\\sqrt{g^2+2g+1}}{g+3} "
+},{
+    "content": "\\frac{x^3+1}{x+1} "
+},{
+    "content": "\\frac{p^3+1}{p+1} "
+},{
+    "content": "\\frac{a^3+1}{a+1} "
+},{
+    "content": "\\frac{g^3+1}{g+1} "
+},{
+    "content": "\\frac{a^2b^4}{a^3b^2} "
+},{
+    "content": "\\frac{4}{\\pi^2} "
+},{
+    "content": "\\frac{71}{\\sqrt{153}}"
+},{
+    "content": "\\frac{41}{467}"
+},{
+    "content": "\\frac{34}{500}"
+},{
+    "content": "\\frac{69}{724}"
+},{
+    "content": "\\frac{78}{358}"
+},{
+    "content": "\\frac{62}{464}"
+},{
+    "content": "\\frac{5}{145}"
+},{
+    "content": "\\frac{81}{827}"
+},{
+    "content": "\\frac{61}{491}"
+},{
+    "content": "\\frac{95}{942}"
+},{
+    "content": "\\frac{27}{436} "
+},{
+    "content": "P_{r}^{n}"
+},{
+    "content": "P_{a}^{b}"
+},{
+    "content": "P_{9}^{9}"
+},{
+    "content": "P_{3}^{5}"
+},{
+    "content": "P_{12}^{n}"
+},{
+    "content": "C_{r}^{n}"
+},{
+    "content": "C_{a}^{b}"
+},{
+    "content": "C_{5}^{12}"
+},{
+    "content": "C_{3}^{n}"
+},{
+    "content": "C_{r}^{7}"
+},{
+    "content": "e^{\\pi i} + 1 = 0 "
+},{
+    "content": "2x - 5y =  8 "
+},{
+    "content": "2p - 5y =  8 "
+},{
+    "content": "2p - 5p =  8 "
+},{
+    "content": "2a - 5y =  8 "
+},{
+    "content": "2a - 5p =  8 "
+},{
+    "content": "2a - 5b =  8 "
+},{
+    "content": "2g - 5y =  8 "
+},{
+    "content": "2g - 5p =  8 "
+},{
+    "content": "2g - 5b =  8 "
+},{
+    "content": "2g - 5u =  8 "
+},{
+    "content": "3x + 9y =  -12 "
+},{
+    "content": "3p + 9y =  -12 "
+},{
+    "content": "3p + 9p =  -12 "
+},{
+    "content": "3a + 9y =  -12 "
+},{
+    "content": "3a + 9p =  -12 "
+},{
+    "content": "3a + 9b =  -12 "
+},{
+    "content": "3g + 9y =  -12 "
+},{
+    "content": "3g + 9p =  -12 "
+},{
+    "content": "3g + 9b =  -12 "
+},{
+    "content": "3g + 9u =  -12 "
+},{
+    "content": "x=y "
+},{
+    "content": "p=y "
+},{
+    "content": "p=p "
+},{
+    "content": "a=y "
+},{
+    "content": "a=p "
+},{
+    "content": "a=b "
+},{
+    "content": "g=y "
+},{
+    "content": "g=p "
+},{
+    "content": "g=b "
+},{
+    "content": "g=u "
+},{
+    "content": "w =z "
+},{
+    "content": "a=b+c "
+},{
+    "content": "2x=-y "
+},{
+    "content": "2p=-y "
+},{
+    "content": "2p=-p "
+},{
+    "content": "2a=-y "
+},{
+    "content": "2a=-p "
+},{
+    "content": "2a=-b "
+},{
+    "content": "2g=-y "
+},{
+    "content": "2g=-p "
+},{
+    "content": "2g=-b "
+},{
+    "content": "2g=-u "
+},{
+    "content": "3w=\\frac{1}{2}z    "
+},{
+    "content": "a=b "
+},{
+    "content": "-4 + 5x=2+y "
+},{
+    "content": "-4 + 5p=2+y "
+},{
+    "content": "-4 + 5p=2+p "
+},{
+    "content": "-4 + 5a=2+y "
+},{
+    "content": "-4 + 5a=2+p "
+},{
+    "content": "-4 + 5a=2+b "
+},{
+    "content": "-4 + 5g=2+y "
+},{
+    "content": "-4 + 5g=2+p "
+},{
+    "content": "-4 + 5g=2+b "
+},{
+    "content": "-4 + 5g=2+u "
+},{
+    "content": "w+2=-1+w "
+},{
+    "content": "ab=cb "
+},{
+    "content": "2x - 5y =  8 "
+},{
+    "content": "2p - 5y =  8 "
+},{
+    "content": "2p - 5p =  8 "
+},{
+    "content": "2a - 5y =  8 "
+},{
+    "content": "2a - 5p =  8 "
+},{
+    "content": "2a - 5b =  8 "
+},{
+    "content": "2g - 5y =  8 "
+},{
+    "content": "2g - 5p =  8 "
+},{
+    "content": "2g - 5b =  8 "
+},{
+    "content": "2g - 5u =  8 "
+},{
+    "content": "3x^2 + 9y =  3a + c "
+},{
+    "content": "3p^2 + 9y =  3a + c "
+},{
+    "content": "3p^2 + 9p =  3a + c "
+},{
+    "content": "3a^2 + 9y =  3a + c "
+},{
+    "content": "3a^2 + 9p =  3a + c "
+},{
+    "content": "3a^2 + 9b =  3a + c "
+},{
+    "content": "3g^2 + 9y =  3a + c "
+},{
+    "content": "3g^2 + 9p =  3a + c "
+},{
+    "content": "3g^2 + 9b =  3a + c "
+},{
+    "content": "3g^2 + 9u =  3a + c "
+},{
+    "content": "3ax+4by=5cz "
+},{
+    "content": "3ap+4by=5cz "
+},{
+    "content": "3ap+4bp=5cz "
+},{
+    "content": "3aa+4by=5cz "
+},{
+    "content": "3aa+4bp=5cz "
+},{
+    "content": "3aa+4bb=5cz "
+},{
+    "content": "3ag+4by=5cz "
+},{
+    "content": "3ag+4bp=5cz "
+},{
+    "content": "3ag+4bb=5cz "
+},{
+    "content": "3ag+4bu=5cz "
+},{
+    "content": "a+b+c < 8 "
+},{
+    "content": "x^2 < 2x + 9"
+},{
+    "content": "p^2 < 2p + 9"
+},{
+    "content": "a^2 < 2a + 9"
+},{
+    "content": "g^2 < 2g + 9"
+},{
+    "content": "x^3 + 5y + x^2 + 6 \\geq 0"
+},{
+    "content": "p^3 + 5y + p^2 + 6 \\geq 0"
+},{
+    "content": "p^3 + 5p + p^2 + 6 \\geq 0"
+},{
+    "content": "a^3 + 5y + a^2 + 6 \\geq 0"
+},{
+    "content": "a^3 + 5p + a^2 + 6 \\geq 0"
+},{
+    "content": "a^3 + 5b + a^2 + 6 \\geq 0"
+},{
+    "content": "g^3 + 5y + g^2 + 6 \\geq 0"
+},{
+    "content": "g^3 + 5p + g^2 + 6 \\geq 0"
+},{
+    "content": "g^3 + 5b + g^2 + 6 \\geq 0"
+},{
+    "content": "g^3 + 5u + g^2 + 6 \\geq 0"
+},{
+    "content": "x^2y^5 + 7xy \\leq 0"
+},{
+    "content": "p^2y^5 + 7py \\leq 0"
+},{
+    "content": "p^2p^5 + 7pp \\leq 0"
+},{
+    "content": "a^2y^5 + 7ay \\leq 0"
+},{
+    "content": "a^2p^5 + 7ap \\leq 0"
+},{
+    "content": "a^2b^5 + 7ab \\leq 0"
+},{
+    "content": "g^2y^5 + 7gy \\leq 0"
+},{
+    "content": "g^2p^5 + 7gp \\leq 0"
+},{
+    "content": "g^2b^5 + 7gb \\leq 0"
+},{
+    "content": "g^2u^5 + 7gu \\leq 0"
+},{
+    "content": "abx - c = y^2"
+},{
+    "content": "abp - c = y^2"
+},{
+    "content": "abp - c = p^2"
+},{
+    "content": "aba - c = y^2"
+},{
+    "content": "aba - c = p^2"
+},{
+    "content": "aba - c = b^2"
+},{
+    "content": "abg - c = y^2"
+},{
+    "content": "abg - c = p^2"
+},{
+    "content": "abg - c = b^2"
+},{
+    "content": "abg - c = u^2"
+},{
+    "content": "4a = \\frac{5}{2}"
+},{
+    "content": "\\log_a b"
+},{
+    "content": "\\log_{10} 100"
+},{
+    "content": "\\log_a 10 + \\log_b 10"
+},{
+    "content": "\\log_{10} a = \\log_{100} a^2"
+},{
+    "content": "x_1 + x_2 + x_3 = 5"
+},{
+    "content": "p_1 + p_2 + p_3 = 5"
+},{
+    "content": "a_1 + a_2 + a_3 = 5"
+},{
+    "content": "g_1 + g_2 + g_3 = 5"
+},{
+    "content": "a_1 + a_3 + a_5 = 7"
+},{
+    "content": "a + b + c + d = x + y + z"
+},{
+    "content": "a + b + c + d = p + y + z"
+},{
+    "content": "a + b + c + d = p + p + z"
+},{
+    "content": "a + b + c + d = a + y + z"
+},{
+    "content": "a + b + c + d = a + p + z"
+},{
+    "content": "a + b + c + d = a + b + z"
+},{
+    "content": "a + b + c + d = g + y + z"
+},{
+    "content": "a + b + c + d = g + p + z"
+},{
+    "content": "a + b + c + d = g + b + z"
+},{
+    "content": "a + b + c + d = g + u + z"
+},{
+    "content": "a^b + \\log_{10} c"
+},{
+    "content": "\\frac{\\sin(x)}{\\cos(x)} = \\tan(x)"
+},{
+    "content": "\\frac{\\sin(p)}{\\cos(p)} = \\tan(p)"
+},{
+    "content": "\\frac{\\sin(a)}{\\cos(a)} = \\tan(a)"
+},{
+    "content": "\\frac{\\sin(g)}{\\cos(g)} = \\tan(g)"
+},{
+    "content": "\\frac{\\log_{a} b}{\\log_{b} a}"
+},{
+    "content": "\\sum_{n=1}^{100} n "
+},{
+    "content": "\\sum_{n=0}^{50} 2^n "
+},{
+    "content": "\\sum_{k=1}^{n} k 2^{k-1}"
+},{
+    "content": "\\sum_{k=15}^{83} 2n+1"
+},{
+    "content": "R = q^{2} r^{2}"
+},{
+    "content": "F = G \\left( \\frac{m_1 m_2}{r^2} \\right)"
+},{
+    "content": "A = \\frac{\\pi r^2}{2} "
+},{
+    "content": "A = \\frac{1}{2} \\pi r^2 "
+},{
+    "content": "\\sin(a + b) = \\sin a \\cos b + \\cos b \\sin a "
+},{
+    "content": "\\cos(a + b) = \\cos a \\cos b - \\sin a \\sin b"
+},{
+    "content": "\\sin(x + y) = \\sin x \\cos y + \\cos y \\sin x "
+},{
+    "content": "\\sin(p + y) = \\sin p \\cos y + \\cos y \\sin p "
+},{
+    "content": "\\sin(p + p) = \\sin p \\cos p + \\cos p \\sin p "
+},{
+    "content": "\\sin(a + y) = \\sin a \\cos y + \\cos y \\sin a "
+},{
+    "content": "\\sin(a + p) = \\sin a \\cos p + \\cos p \\sin a "
+},{
+    "content": "\\sin(a + b) = \\sin a \\cos b + \\cos b \\sin a "
+},{
+    "content": "\\sin(g + y) = \\sin g \\cos y + \\cos y \\sin g "
+},{
+    "content": "\\sin(g + p) = \\sin g \\cos p + \\cos p \\sin g "
+},{
+    "content": "\\sin(g + b) = \\sin g \\cos b + \\cos b \\sin g "
+},{
+    "content": "\\sin(g + u) = \\sin g \\cos u + \\cos u \\sin g "
+},{
+    "content": "\\cos(x + y) = \\cos x \\cos y - \\sin x \\sin y"
+},{
+    "content": "\\cos(p + y) = \\cos p \\cos y - \\sin p \\sin y"
+},{
+    "content": "\\cos(p + p) = \\cos p \\cos p - \\sin p \\sin p"
+},{
+    "content": "\\cos(a + y) = \\cos a \\cos y - \\sin a \\sin y"
+},{
+    "content": "\\cos(a + p) = \\cos a \\cos p - \\sin a \\sin p"
+},{
+    "content": "\\cos(a + b) = \\cos a \\cos b - \\sin a \\sin b"
+},{
+    "content": "\\cos(g + y) = \\cos g \\cos y - \\sin g \\sin y"
+},{
+    "content": "\\cos(g + p) = \\cos g \\cos p - \\sin g \\sin p"
+},{
+    "content": "\\cos(g + b) = \\cos g \\cos b - \\sin g \\sin b"
+},{
+    "content": "\\cos(g + u) = \\cos g \\cos u - \\sin g \\sin u"
+},{
+    "content": "\\sin^2(x) + \\cos^2(x) = 1"
+},{
+    "content": "\\sin^2(p) + \\cos^2(p) = 1"
+},{
+    "content": "\\sin^2(a) + \\cos^2(a) = 1"
+},{
+    "content": "\\sin^2(g) + \\cos^2(g) = 1"
+},{
+    "content": "\\sin(2x) = 2 \\cos x \\sin x"
+},{
+    "content": "\\sin(2p) = 2 \\cos p \\sin p"
+},{
+    "content": "\\sin(2a) = 2 \\cos a \\sin a"
+},{
+    "content": "\\sin(2g) = 2 \\cos g \\sin g"
+},{
+    "content": "\\sin(\\frac{\\pi}{3})"
+},{
+    "content": "\\cos(\\frac{\\pi}{4}) + \\sin(\\pi)"
+},{
+    "content": "\\int_{a}^{b} x^2 \\,dx "
+},{
+    "content": "\\int_{a}^{b} p^2 \\,dp "
+},{
+    "content": "\\int_{a}^{b} a^2 \\,da "
+},{
+    "content": "\\int_{a}^{b} g^2 \\,dg "
+},{
+    "content": "\\int_{0}^{1} x^3 + x \\,dx"
+},{
+    "content": "\\int_{0}^{1} p^3 + p \\,dp"
+},{
+    "content": "\\int_{0}^{1} a^3 + a \\,da"
+},{
+    "content": "\\int_{0}^{1} g^3 + g \\,dg"
+},{
+    "content": "\\int_{0}^{n} \\sin x \\,dx"
+},{
+    "content": "\\int_{0}^{n} \\sin p \\,dp"
+},{
+    "content": "\\int_{0}^{n} \\sin a \\,da"
+},{
+    "content": "\\int_{0}^{n} \\sin g \\,dg"
+},{
+    "content": "\\int_{1}^{n} \\frac{1}{y} \\,dy "
+},{
+    "content": "\\int_{1}^{n} \\frac{1}{p} \\,dp "
+},{
+    "content": "\\int_{1}^{n} \\frac{1}{b} \\,db "
+},{
+    "content": "\\int_{1}^{n} \\frac{1}{u} \\,du "
+},{
+    "content": "\\int_{a}^{b} y^3 + 5a \\,dy"
+},{
+    "content": "\\int_{a}^{b} p^3 + 5a \\,dp"
+},{
+    "content": "\\int_{a}^{b} b^3 + 5a \\,db"
+},{
+    "content": "\\int_{a}^{b} u^3 + 5a \\,du"
+},{
+    "content": "\\int_{2}^{50} y^2 + y \\,dx"
+},{
+    "content": "\\int_{2}^{50} y^2 + y \\,dp"
+},{
+    "content": "\\int_{2}^{50} p^2 + p \\,dp"
+},{
+    "content": "\\int_{2}^{50} y^2 + y \\,da"
+},{
+    "content": "\\int_{2}^{50} p^2 + p \\,da"
+},{
+    "content": "\\int_{2}^{50} b^2 + b \\,da"
+},{
+    "content": "\\int_{2}^{50} y^2 + y \\,dg"
+},{
+    "content": "\\int_{2}^{50} p^2 + p \\,dg"
+},{
+    "content": "\\int_{2}^{50} b^2 + b \\,dg"
+},{
+    "content": "\\int_{2}^{50} u^2 + u \\,dg"
+},{
+    "content": "\\int_{-n}^{1} a^3 + 2a^2 \\,dz"
+},{
+    "content": "\\int_{-10}^{0} b^2 + z \\,dz"
+},{
+    "content": "p=x^{2}+y^{2}"
+},{
+    "content": "p=p^{2}+y^{2}"
+},{
+    "content": "p=p^{2}+p^{2}"
+},{
+    "content": "p=a^{2}+y^{2}"
+},{
+    "content": "p=a^{2}+p^{2}"
+},{
+    "content": "p=a^{2}+b^{2}"
+},{
+    "content": "p=g^{2}+y^{2}"
+},{
+    "content": "p=g^{2}+p^{2}"
+},{
+    "content": "p=g^{2}+b^{2}"
+},{
+    "content": "p=g^{2}+u^{2}"
+},{
+    "content": "a^{p-1}\\equiv 1{\\pmod {p}}"
+},{
+    "content": "x = \\sqrt{c}"
+},{
+    "content": "p = \\sqrt{c}"
+},{
+    "content": "a = \\sqrt{c}"
+},{
+    "content": "g = \\sqrt{c}"
+},{
+    "content": "\\sin ^{2}\\theta +\\cos ^{2}\\theta =1"
+},{
+    "content": "\\sqrt{1 - \\cos^2 \\theta} = \\sin \\theta"
+},{
+    "content": "\\sqrt{1 - \\sin^2 \\theta} = \\cos \\theta"
+},{
+    "content": "\\sin(x+y)\\sin(x-y)=\\sin^{2}{x}-\\sin^{2}{y}"
+},{
+    "content": "\\sin(p+y)\\sin(p-y)=\\sin^{2}{p}-\\sin^{2}{y}"
+},{
+    "content": "\\sin(p+p)\\sin(p-p)=\\sin^{2}{p}-\\sin^{2}{p}"
+},{
+    "content": "\\sin(a+y)\\sin(a-y)=\\sin^{2}{a}-\\sin^{2}{y}"
+},{
+    "content": "\\sin(a+p)\\sin(a-p)=\\sin^{2}{a}-\\sin^{2}{p}"
+},{
+    "content": "\\sin(a+b)\\sin(a-b)=\\sin^{2}{a}-\\sin^{2}{b}"
+},{
+    "content": "\\sin(g+y)\\sin(g-y)=\\sin^{2}{g}-\\sin^{2}{y}"
+},{
+    "content": "\\sin(g+p)\\sin(g-p)=\\sin^{2}{g}-\\sin^{2}{p}"
+},{
+    "content": "\\sin(g+b)\\sin(g-b)=\\sin^{2}{g}-\\sin^{2}{b}"
+},{
+    "content": "\\sin(g+u)\\sin(g-u)=\\sin^{2}{g}-\\sin^{2}{u}"
+},{
+    "content": "\\sin(x+y)\\sin(x-y)=\\cos^{2}{y}-\\cos^{2}{x}"
+},{
+    "content": "\\sin(p+y)\\sin(p-y)=\\cos^{2}{y}-\\cos^{2}{p}"
+},{
+    "content": "\\sin(p+p)\\sin(p-p)=\\cos^{2}{p}-\\cos^{2}{p}"
+},{
+    "content": "\\sin(a+y)\\sin(a-y)=\\cos^{2}{y}-\\cos^{2}{a}"
+},{
+    "content": "\\sin(a+p)\\sin(a-p)=\\cos^{2}{p}-\\cos^{2}{a}"
+},{
+    "content": "\\sin(a+b)\\sin(a-b)=\\cos^{2}{b}-\\cos^{2}{a}"
+},{
+    "content": "\\sin(g+y)\\sin(g-y)=\\cos^{2}{y}-\\cos^{2}{g}"
+},{
+    "content": "\\sin(g+p)\\sin(g-p)=\\cos^{2}{p}-\\cos^{2}{g}"
+},{
+    "content": "\\sin(g+b)\\sin(g-b)=\\cos^{2}{b}-\\cos^{2}{g}"
+},{
+    "content": "\\sin(g+u)\\sin(g-u)=\\cos^{2}{u}-\\cos^{2}{g}"
+},{
+    "content": "a^{b+c}=a^{b}a^{c}"
+},{
+    "content": "(a+b)(c+d)=ac+ad+bc+bd"
+},{
+    "content": "(a+b)^2=a^2+2ab+b^2"
+},{
+    "content": "(a+b+c)^2=a^2+b^2+c^2+2ab+2bc+2ca"
+},{
+    "content": "(a-b)^2=a^2-2ab+b^2"
+},{
+    "content": "a^{2}-b^{2}=(a+b)(a-b)"
+},{
+    "content": "(a+b)^{3}=a^{3}+3a^{2}b+3ab^{2}+b^{3}"
+},{
+    "content": "(a-b)^{3}=a^{3}-3a^{2}b+3ab^{2}-b^{3}"
+},{
+    "content": "a^{3}+b^{3}=(a+b)^{3}-3ab(a+b)"
+},{
+    "content": "a^{4}+a^{2}b^{2}+b^{4}=(a^{2}+ab+b^{2})(a^{2}-ab+b^{2})"
+},{
+    "content": "a^{2}+b^{2}=(a+b)^{2}-2ab"
+},{
+    "content": "a^{2}+b^{2}=(a-b)^{2}+2ab"
+},{
+    "content": "a^{2}-b^{2}=\\left(a+b\\right)\\left(a-b\\right)"
+},{
+    "content": "a^4+a^2b^2+b^4 = (a^2+ab+b^2)(a^2-ab+b^2)"
+},{
+    "content": "a^3+b^3+c^3= (a+b+c)^3+3(a+b+c)(-ab-bc-ca)+3abc"
+},{
+    "content": "C=2\\pi r"
+},{
+    "content": "C=\\pi d"
+},{
+    "content": "A=\\pi r^{2}"
+},{
+    "content": "A=4\\pi r^{2}"
+},{
+    "content": "e^{{i\\pi }}+1=0"
+},{
+    "content": "e^{{i\\pi }} = -1"
+},{
+    "content": "T=2\\pi {\\sqrt {\\frac {L}{g}}}"
+},{
+    "content": "\\Delta H = m \\cdot s \\cdot \\Delta T"
+},{
+    "content": "a \\cdot b \\cdot c = d"
+},{
+    "content": "a \\cdot b = c \\cdot d"
+},{
+    "content": "x \\cdot y \\geq 1"
+},{
+    "content": "p \\cdot y \\geq 1"
+},{
+    "content": "p \\cdot p \\geq 1"
+},{
+    "content": "a \\cdot y \\geq 1"
+},{
+    "content": "a \\cdot p \\geq 1"
+},{
+    "content": "a \\cdot b \\geq 1"
+},{
+    "content": "g \\cdot y \\geq 1"
+},{
+    "content": "g \\cdot p \\geq 1"
+},{
+    "content": "g \\cdot b \\geq 1"
+},{
+    "content": "g \\cdot u \\geq 1"
+},{
+    "content": "xy \\geq 1"
+},{
+    "content": "py \\geq 1"
+},{
+    "content": "pp \\geq 1"
+},{
+    "content": "ay \\geq 1"
+},{
+    "content": "ap \\geq 1"
+},{
+    "content": "ab \\geq 1"
+},{
+    "content": "gy \\geq 1"
+},{
+    "content": "gp \\geq 1"
+},{
+    "content": "gb \\geq 1"
+},{
+    "content": "gu \\geq 1"
+},{
+    "content": "V =\\left (\\frac{4}{3} \\right ) \\pi r^3"
+},{
+    "content": "1 = \\frac{T^{2}}{R^{3}}"
+},{
+    "content": "e=\\frac{C^{2}}{GMm^{2}}"
+},{
+    "content": "2a - 5y = c "
+},{
+    "content": "2a - 5p = c "
+},{
+    "content": "2a - 5b = c "
+},{
+    "content": "2a - 5u = c "
+},{
+    "content": "3x = 12 + 6b + y "
+},{
+    "content": "3p = 12 + 6b + y "
+},{
+    "content": "3p = 12 + 6b + p "
+},{
+    "content": "3a = 12 + 6b + y "
+},{
+    "content": "3a = 12 + 6b + p "
+},{
+    "content": "3a = 12 + 6b + b "
+},{
+    "content": "3g = 12 + 6b + y "
+},{
+    "content": "3g = 12 + 6b + p "
+},{
+    "content": "3g = 12 + 6b + b "
+},{
+    "content": "3g = 12 + 6b + u "
+},{
+    "content": "a=b+c+d"
+},{
+    "content": "w=\\frac{\\pi}{2}t    "
+},{
+    "content": "p^h+q^g=h^u"
+},{
+    "content": "(a-b-c)^{2}"
+},{
+    "content": "(p-h-q)^{2}"
+},{
+    "content": "g^{2}+h^{2}+u^{2}-2gh-2gu+2uh"
+},{
+    "content": "a^{2}-b^{2}"
+},{
+    "content": "m^{2}-e^{2}"
+},{
+    "content": "(a+b)(a-b)"
+},{
+    "content": "(y+l)(y-l)"
+},{
+    "content": "(p+l)(p-l)"
+},{
+    "content": "(b+l)(b-l)"
+},{
+    "content": "(u+l)(u-l)"
+},{
+    "content": "(a+b)^{3}"
+},{
+    "content": "(l+f)^{3}"
+},{
+    "content": "x^{3}+3x^{2}f+3xf^{2}+f^{3}"
+},{
+    "content": "p^{3}+3p^{2}f+3pf^{2}+f^{3}"
+},{
+    "content": "a^{3}+3a^{2}f+3af^{2}+f^{3}"
+},{
+    "content": "g^{3}+3g^{2}f+3gf^{2}+f^{3}"
+},{
+    "content": "(a-b)^{3}"
+},{
+    "content": "(r-c)^{3}"
+},{
+    "content": "a^{3}-3a^{2}b+3ab^{2}-b^{3}"
+},{
+    "content": "s^{3}-3s^{2}c+3sc^{2}-c^{3}"
+},{
+    "content": "a^{3}+b^{3}"
+},{
+    "content": "g^{3}+g^{3}"
+},{
+    "content": "(a+b)^{3}-3ab(a+b)"
+},{
+    "content": "(w+k)^{3}-3wk(w+k)"
+},{
+    "content": "a^{3}-b^{3}"
+},{
+    "content": "n^{3}-q^{3}"
+},{
+    "content": "(a-b)^{3}+3ab(a-b) "
+},{
+    "content": "(u-x)^{3}+3ux(u-x)"
+},{
+    "content": "(u-p)^{3}+3up(u-p)"
+},{
+    "content": "(u-a)^{3}+3ua(u-a)"
+},{
+    "content": "(u-g)^{3}+3ug(u-g)"
+},{
+    "content": "a^{3}+b^{3}+c^{3}-3abc"
+},{
+    "content": "f^{3}+n^{3}+f^{3}-3fnf"
+},{
+    "content": "a+b+c"
+},{
+    "content": "a^{2}+b^{2}+c^{2}-ab-bc-ca"
+},{
+    "content": "o+z+v"
+},{
+    "content": "o^{2}+z^{2}+v^{2}-oz-zv-vo"
+},{
+    "content": "a^{4}+a^{2}b^{2}+b^{4}"
+},{
+    "content": "s^{4}+s^{2}r^{2}+r^{4}"
+},{
+    "content": "(a^{2}+ab+b^{2})(a^{2}-ab+b^{2})"
+},{
+    "content": "(k^{2}+kj+j^{2})(k^{2}-kj+j^{2})"
+},{
+    "content": "a^{2}+b^{2}"
+},{
+    "content": "r^{2}+e^{2}"
+},{
+    "content": "(a+b)^{2}-2ab"
+},{
+    "content": "a^{2}+b^{2}"
+},{
+    "content": "r^{2}+p^{2}"
+},{
+    "content": "(a-b)^{2}+2ab"
+},{
+    "content": "(r-v)^{2}+2rv"
+},{
+    "content": "(a+b+c)^{3}"
+},{
+    "content": "(s+t+m)^{3}"
+},{
+    "content": "a^{3}+b^{3}+c^{3}+3(a+b)(b+c)(a+c)"
+},{
+    "content": "w^{3}+c^{3}+y^{3}+3(w+c)(c+y)(w+y)"
+},{
+    "content": "w^{3}+c^{3}+p^{3}+3(w+c)(c+p)(w+p)"
+},{
+    "content": "w^{3}+c^{3}+b^{3}+3(w+c)(c+b)(w+b)"
+},{
+    "content": "w^{3}+c^{3}+u^{3}+3(w+c)(c+u)(w+u)"
+},{
+    "content": "(a+b+c)^2"
+},{
+    "content": "(s+y+y)^2"
+},{
+    "content": "(s+p+p)^2"
+},{
+    "content": "(s+b+b)^2"
+},{
+    "content": "(s+u+u)^2"
+},{
+    "content": "k^{4}+k^{2}k^{2}+k^{4}"
+},{
+    "content": "s^{4}+s^{2}r^{2}+r^{4}"
+},{
+    "content": "(s^{2}+sr+r^{2})(s^{2}-sr+r^{2})"
+},{
+    "content": "(k^{2}+kj+j^{2})(k^{2}-kj+j^{2})"
+},{
+    "content": "y^{2}+c^{2}"
+},{
+    "content": "p^{2}+c^{2}"
+},{
+    "content": "b^{2}+c^{2}"
+},{
+    "content": "u^{2}+c^{2}"
+},{
+    "content": "r^{2}+e^{2}"
+},{
+    "content": "(l+s)^{2}-2ls"
+},{
+    "content": "(g+g)^{2}-2gg"
+},{
+    "content": "f^{2}+a^{2}"
+},{
+    "content": "r^{2}+p^{2}"
+},{
+    "content": "(e-f)^{2}+2ef"
+},{
+    "content": "(r-v)^{2}+2rv"
+},{
+    "content": "(o+e+j)^{3}"
+},{
+    "content": "(s+t+m)^{3}"
+},{
+    "content": "v^{3}+a^{3}+b^{3}+3(v+a)(a+b)(v+b)"
+},{
+    "content": "(p+o+e)^2"
+},{
+    "content": "(s+y+y)^2"
+},{
+    "content": "(s+p+p)^2"
+},{
+    "content": "(s+b+b)^2"
+},{
+    "content": "(s+u+u)^2"
+},{
+    "content": "\\sin A=\\frac{a}{c}"
+},{
+    "content": "\\cos A=\\frac{b}{c}"
+},{
+    "content": "\\tan A=\\frac{a}{b} "
+},{
+    "content": "c^2=a^2+b^2-2ab\\cos C"
+},{
+    "content": "\\cos^2 A - \\sin^2 A"
+},{
+    "content": "2 \\cos^2 A - 1"
+},{
+    "content": "1 - 2 \\sin^2 A"
+},{
+    "content": "\\pm\\, \\sqrt{\\frac{1 - \\cos A}{2}}"
+},{
+    "content": "\\pm\\, \\sqrt{\\frac{1 + \\cos A}{2}}"
+},{
+    "content": "\\sqrt{x^3+1}"
+},{
+    "content": "\\sqrt{p^3+1}"
+},{
+    "content": "\\sqrt{a^3+1}"
+},{
+    "content": "\\sqrt{g^3+1}"
+},{
+    "content": "\\sqrt{3}{\\sqrt{x^4+6}}"
+},{
+    "content": "\\sqrt{3}{\\sqrt{p^4+6}}"
+},{
+    "content": "\\sqrt{3}{\\sqrt{a^4+6}}"
+},{
+    "content": "\\sqrt{3}{\\sqrt{g^4+6}}"
+},{
+    "content": "\\sqrt{x+x^5+3}"
+},{
+    "content": "\\sqrt{p+p^5+3}"
+},{
+    "content": "\\sqrt{a+a^5+3}"
+},{
+    "content": "\\sqrt{g+g^5+3}"
+},{
+    "content": "\\sqrt{4}{a^3b^2+a^2}"
+},{
+    "content": "\\sqrt{3}{x^2y^4z^6}"
+},{
+    "content": "\\sqrt{3}{p^2y^4z^6}"
+},{
+    "content": "\\sqrt{3}{p^2p^4z^6}"
+},{
+    "content": "\\sqrt{3}{a^2y^4z^6}"
+},{
+    "content": "\\sqrt{3}{a^2p^4z^6}"
+},{
+    "content": "\\sqrt{3}{a^2b^4z^6}"
+},{
+    "content": "\\sqrt{3}{g^2y^4z^6}"
+},{
+    "content": "\\sqrt{3}{g^2p^4z^6}"
+},{
+    "content": "\\sqrt{3}{g^2b^4z^6}"
+},{
+    "content": "\\sqrt{3}{g^2u^4z^6}"
+},{
+    "content": "\\sqrt{a^3+b^3+c^3}"
+},{
+    "content": "\\sqrt{(a+b+c)^{3}}"
+},{
+    "content": "\\sqrt{3}{\\sin(\\frac{\\pi}{3})}"
+},{
+    "content": "\\sqrt{ax^{2}+bx+c}"
+},{
+    "content": "\\sqrt{ap^{2}+bp+c}"
+},{
+    "content": "\\sqrt{aa^{2}+ba+c}"
+},{
+    "content": "\\sqrt{ag^{2}+bg+c}"
+},{
+    "content": "\\sqrt{3}{z^{2}+q}"
+},{
+    "content": "\\sqrt{5}{x_1+x_2+x_3}"
+},{
+    "content": "\\sqrt{5}{p_1+p_2+p_3}"
+},{
+    "content": "\\sqrt{5}{a_1+a_2+a_3}"
+},{
+    "content": "\\sqrt{5}{g_1+g_2+g_3}"
+},{
+    "content": "\\sin{x} + y"
+},{
+    "content": "\\sin{p} + y"
+},{
+    "content": "\\sin{p} + p"
+},{
+    "content": "\\sin{a} + y"
+},{
+    "content": "\\sin{a} + p"
+},{
+    "content": "\\sin{a} + b"
+},{
+    "content": "\\sin{g} + y"
+},{
+    "content": "\\sin{g} + p"
+},{
+    "content": "\\sin{g} + b"
+},{
+    "content": "\\sin{g} + u"
+},{
+    "content": "\\cos{x} + y"
+},{
+    "content": "\\cos{p} + y"
+},{
+    "content": "\\cos{p} + p"
+},{
+    "content": "\\cos{a} + y"
+},{
+    "content": "\\cos{a} + p"
+},{
+    "content": "\\cos{a} + b"
+},{
+    "content": "\\cos{g} + y"
+},{
+    "content": "\\cos{g} + p"
+},{
+    "content": "\\cos{g} + b"
+},{
+    "content": "\\cos{g} + u"
+},{
+    "content": "\\sin{a} + c"
+},{
+    "content": "\\cos{b} + d"
+},{
+    "content": "\\sin^3{x} + cos^2{y}"
+},{
+    "content": "\\sin^3{p} + cos^2{y}"
+},{
+    "content": "\\sin^3{p} + cos^2{p}"
+},{
+    "content": "\\sin^3{a} + cos^2{y}"
+},{
+    "content": "\\sin^3{a} + cos^2{p}"
+},{
+    "content": "\\sin^3{a} + cos^2{b}"
+},{
+    "content": "\\sin^3{g} + cos^2{y}"
+},{
+    "content": "\\sin^3{g} + cos^2{p}"
+},{
+    "content": "\\sin^3{g} + cos^2{b}"
+},{
+    "content": "\\sin^3{g} + cos^2{u}"
+},{
+    "content": "x \\rightarrow \\infty"
+},{
+    "content": "p \\rightarrow \\infty"
+},{
+    "content": "p \\rightarrow \\inftp"
+},{
+    "content": "a \\rightarrow \\infty"
+},{
+    "content": "a \\rightarrow \\inftp"
+},{
+    "content": "a \\rightarrow \\inftb"
+},{
+    "content": "g \\rightarrow \\infty"
+},{
+    "content": "g \\rightarrow \\inftp"
+},{
+    "content": "g \\rightarrow \\inftb"
+},{
+    "content": "g \\rightarrow \\inftu"
+},{
+    "content": "x \\rightarrow 1"
+},{
+    "content": "p \\rightarrow 1"
+},{
+    "content": "a \\rightarrow 1"
+},{
+    "content": "g \\rightarrow 1"
+},{
+    "content": "x \\rightarrow 0"
+},{
+    "content": "p \\rightarrow 0"
+},{
+    "content": "a \\rightarrow 0"
+},{
+    "content": "g \\rightarrow 0"
+},{
+    "content": "a \\rightarrow 100"
+},{
+    "content": "b \\rightarrow -1"
+},{
+    "content": "c \\rightarrow -\\infty"
+},{
+    "content": "c \\rightarrow -\\inftp"
+},{
+    "content": "c \\rightarrow -\\inftb"
+},{
+    "content": "c \\rightarrow -\\inftu"
+},{
+    "content": "y \\rightarrow 23"
+},{
+    "content": "p \\rightarrow 23"
+},{
+    "content": "b \\rightarrow 23"
+},{
+    "content": "u \\rightarrow 23"
+},{
+    "content": "a \\rightarrow \\infty"
+},{
+    "content": "a \\rightarrow \\inftp"
+},{
+    "content": "a \\rightarrow \\inftb"
+},{
+    "content": "a \\rightarrow \\inftu"
+},{
+    "content": "c \\rightarrow -7"
+},{
+    "content": "z \\rightarrow -\\infty"
+},{
+    "content": "z \\rightarrow -\\inftp"
+},{
+    "content": "z \\rightarrow -\\inftb"
+},{
+    "content": "z \\rightarrow -\\inftu"
+},{
+    "content": "orz"
+},{
+    "content": "\\forall n = 0"
+},{
+    "content": "\\forall n > 0"
+},{
+    "content": "\\forall n \\leq 1"
+},{
+    "content": "\\forall x = 1"
+},{
+    "content": "\\forall p = 1"
+},{
+    "content": "\\forall a = 1"
+},{
+    "content": "\\forall g = 1"
+},{
+    "content": "\\forall xy \\geq 0"
+},{
+    "content": "\\forall py \\geq 0"
+},{
+    "content": "\\forall pp \\geq 0"
+},{
+    "content": "\\forall ay \\geq 0"
+},{
+    "content": "\\forall ap \\geq 0"
+},{
+    "content": "\\forall ab \\geq 0"
+},{
+    "content": "\\forall gy \\geq 0"
+},{
+    "content": "\\forall gp \\geq 0"
+},{
+    "content": "\\forall gb \\geq 0"
+},{
+    "content": "\\forall gu \\geq 0"
+},{
+    "content": "6 \\div 2 = 3"
+},{
+    "content": "120 \\div 5 = 24"
+},{
+    "content": "33 \\div 11 = 3"
+},{
+    "content": "41 \\div 18467 = 6334"
+},{
+    "content": "26500 \\div 19169 = 15724"
+},{
+    "content": "11478 \\div 29358 = 26962"
+},{
+    "content": "24464 \\div 5705 = 28145"
+},{
+    "content": "23281 \\div 16827 = 9961"
+},{
+    "content": "491 \\div 2995 = 11942"
+},{
+    "content": "4827 \\div 5436 = 32391"
+},{
+    "content": "14604 \\div 3902 = 153"
+},{
+    "content": "292 \\div 12382 = 17421"
+},{
+    "content": "18716 \\div 19718 = 19895"
+},{
+    "content": "5447 \\div 21726 = 14771"
+},{
+    "content": "11538 \\div 1869 = 19912"
+},{
+    "content": "25667 \\div 26299 = 17035"
+},{
+    "content": "9894 \\div 28703 = 23811"
+},{
+    "content": "31322 \\div 30333 = 17673"
+},{
+    "content": "4664 \\div 15141 = 7711"
+},{
+    "content": "p \\div h = q"
+},{
+    "content": "g \\div h = u"
+},{
+    "content": "m \\div e = a"
+},{
+    "content": "y \\div l = n"
+},{
+    "content": "p \\div l = n"
+},{
+    "content": "b \\div l = n"
+},{
+    "content": "u \\div l = n"
+},{
+    "content": "N \\div q = D"
+},{
+    "content": "U \\div x = W"
+},{
+    "content": "U \\div p = W"
+},{
+    "content": "U \\div a = W"
+},{
+    "content": "U \\div g = W"
+},{
+    "content": "F \\div n = F"
+},{
+    "content": "O \\div z = V"
+},{
+    "content": "S \\div r = T"
+},{
+    "content": "w \\div k = F"
+},{
+    "content": "n \\div q = D"
+},{
+    "content": "u \\div x = W"
+},{
+    "content": "u \\div p = W"
+},{
+    "content": "u \\div a = W"
+},{
+    "content": "u \\div g = W"
+},{
+    "content": "f \\div n = F"
+},{
+    "content": "30+6+11=36+11"
+},{
+    "content": "(5-5)\\div 5=0"
+},{
+    "content": "6\\times 6+25\\div 5=36+5"
+},{
+    "content": "30\\div 5\\times 2= 12"
+},{
+    "content": "1+1=2"
+},{
+    "content": "2+3=5"
+},{
+    "content": "5+4+2=11"
+},{
+    "content": "3+3+3+3=12"
+},{
+    "content": "3{1 \\over 2}=3+{1 \\over 2}"
+},{
+    "content": "\\sum _{k=1}^{5}k^{2}"
+},{
+    "content": "x=a\\times 10^{n}"
+},{
+    "content": "p=a\\times 10^{n}"
+},{
+    "content": "a=a\\times 10^{n}"
+},{
+    "content": "g=a\\times 10^{n}"
+},{
+    "content": "2.34\\times 10^{-5}"
+},{
+    "content": "\\frac {a}{b}+\\frac {c}{d}"
+},{
+    "content": "ad+bc \\over bd"
+},{
+    "content": "{a+b \\over c}={\\frac {a}{c}}+{\\frac {b}{c}}"
+},{
+    "content": "{{5}-{3}}=2"
+},{
+    "content": "6-3=3"
+},{
+    "content": "5\\times 2"
+},{
+    "content": "5\\cdot 2"
+},{
+    "content": "mn=\\sum _{k=1}^{n}m"
+},{
+    "content": "{20}\\div {4}=5"
+},{
+    "content": "{20}\\div {5}=4"
+},{
+    "content": "{6}\\div {3}=2"
+},{
+    "content": "a\\times b=c"
+},{
+    "content": "a=c\\div b"
+},{
+    "content": "a \\times b"
+},{
+    "content": "c\\div b=a\\dots d"
+},{
+    "content": "c=a\\times b+d"
+},{
+    "content": "c=a\\times(b+d)"
+},{
+    "content": "b\\mid a"
+},{
+    "content": "5\\mid 15"
+},{
+    "content": "6\\nmid 20"
+},{
+    "content": "1260257\\div {37}=34061"
+},{
+    "content": "X^{3}-12X^{2}-42"
+},{
+    "content": "X^{2}-9X-27 = -123"
+},{
+    "content": "i^2 = -1"
+},{
+    "content": "a{\\frac {b}{c}}"
+},{
+    "content": "\\frac {3}{6}= \\frac {1}{2}"
+},{
+    "content": "\\frac {1}{2}= \\frac {2}{4}"
+},{
+    "content": "\\frac {a}{b} = a:b"
+},{
+    "content": "\\frac {a}{b}\\equiv a\\div b"
+},{
+    "content": "b\\in \\mathbb {Z}"
+},{
+    "content": "K\\in \\mathbb {A}"
+},{
+    "content": "x\\in \\mathbb {S}"
+},{
+    "content": "p\\in \\mathbb {S}"
+},{
+    "content": "a\\in \\mathbb {S}"
+},{
+    "content": "g\\in \\mathbb {S}"
+},{
+    "content": "a \\not = b"
+},{
+    "content": "a+b \\not = b+c"
+},{
+    "content": "x^2 + 3x + 2 \\not = 0"
+},{
+    "content": "p^2 + 3p + 2 \\not = 0"
+},{
+    "content": "a^2 + 3a + 2 \\not = 0"
+},{
+    "content": "g^2 + 3g + 2 \\not = 0"
+},{
+    "content": "x^3y + y^2 \\not = -1"
+},{
+    "content": "p^3y + y^2 \\not = -1"
+},{
+    "content": "p^3p + p^2 \\not = -1"
+},{
+    "content": "a^3y + y^2 \\not = -1"
+},{
+    "content": "a^3p + p^2 \\not = -1"
+},{
+    "content": "a^3b + b^2 \\not = -1"
+},{
+    "content": "g^3y + y^2 \\not = -1"
+},{
+    "content": "g^3p + p^2 \\not = -1"
+},{
+    "content": "g^3b + b^2 \\not = -1"
+},{
+    "content": "g^3u + u^2 \\not = -1"
+},{
+    "content": "a^3 + bc \\not = d^2"
+},{
+    "content": "a^3 + 1 \\not = 0"
+},{
+    "content": "h^k + t \\not = r"
+},{
+    "content": "r + s + t + w \\not = a^b"
+},{
+    "content": "a^b \\not = \\frac{a}{a+b}"
+},{
+    "content": "\\frac{1}{x} \\not = \\frac{1}{x^2}"
+},{
+    "content": "\\frac{1}{p} \\not = \\frac{1}{p^2}"
+},{
+    "content": "\\frac{1}{a} \\not = \\frac{1}{a^2}"
+},{
+    "content": "\\frac{1}{g} \\not = \\frac{1}{g^2}"
+},{
+    "content": "a\\times b \\not = c"
+},{
+    "content": "a \\not = c\\div b"
+},{
+    "content": "ad \\le bc"
+},{
+    "content": "ad \\ge bc"
+},{
+    "content": "x<y"
+},{
+    "content": "p<y"
+},{
+    "content": "p<p"
+},{
+    "content": "a<y"
+},{
+    "content": "a<p"
+},{
+    "content": "a<b"
+},{
+    "content": "g<y"
+},{
+    "content": "g<p"
+},{
+    "content": "g<b"
+},{
+    "content": "g<u"
+},{
+    "content": "x\\leq y"
+},{
+    "content": "p\\leq y"
+},{
+    "content": "p\\leq p"
+},{
+    "content": "a\\leq y"
+},{
+    "content": "a\\leq p"
+},{
+    "content": "a\\leq b"
+},{
+    "content": "g\\leq y"
+},{
+    "content": "g\\leq p"
+},{
+    "content": "g\\leq b"
+},{
+    "content": "g\\leq u"
+},{
+    "content": "y\\nleq x = y > x"
+},{
+    "content": "y\\nleq p = y > p"
+},{
+    "content": "p\\nleq p = p > p"
+},{
+    "content": "y\\nleq a = y > a"
+},{
+    "content": "p\\nleq a = p > a"
+},{
+    "content": "b\\nleq a = b > a"
+},{
+    "content": "y\\nleq g = y > g"
+},{
+    "content": "p\\nleq g = p > g"
+},{
+    "content": "b\\nleq g = b > g"
+},{
+    "content": "u\\nleq g = u > g"
+}]
