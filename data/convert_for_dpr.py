@@ -5,6 +5,7 @@ import json
 # 開啟 CSV 檔案
 filename = "data.csv"
 filenamewrite = 'data_dpr.json'
+doc_store = 'doc_store.json'
 with open(filenamewrite,'w',encoding='utf-8') as out:
   with open(filename, newline='',encoding='utf-8') as csvfile:
     lines = csv.reader(csvfile)
@@ -22,7 +23,17 @@ with open(filenamewrite,'w',encoding='utf-8') as out:
         i+=1
         out.write(json_obj.decode())     
         out.write(',')
-
+with open(filename, newline='',encoding='utf-8') as csvfile:
+  with open(doc_store,'w',encoding='utf-8') as doc:
+    lines = csv.reader(csvfile)
+    for line in lines:
+      dictionary={
+        'content':[]
+      }
+      dictionary['content']=line[0]
+      json_obj = json.dumps(dictionary,indent=4,ensure_ascii=False).encode('utf-8')
+      doc.write(json_obj.decode())
+      doc.write(',')
 
 
 
