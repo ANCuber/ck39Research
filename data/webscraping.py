@@ -2,8 +2,9 @@ from html.parser import HTMLParser
 import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
+url = input("input web address:")
 response = requests.get(
-	url="https://en.wikipedia.org/wiki/Quadratic_equation",
+	url=url
 )
 soup = BeautifulSoup(response.content, 'html.parser')
 tags=soup.findAll('img')
