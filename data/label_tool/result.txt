@@ -1,0 +1,84 @@
+\mathbb {C} ,複數
+\frac{a}{b},分之a
+\mathbb {C} ,複數域
+{ (x+1)^{2}=-9},x加1
+\frac{a}{b},a分之b
+\mathbb {C} ,複數域
+{ (x+1)^{2}=-9},平方等負9
+{ {\mathcal {Re}}(z)},z的實數部
+{ {\mathfrak {R}}(z)},z的實數
+{ {\mathcal {Im}}(z)},z的虛數
+{ {\mathfrak {I}}(z)},z的虛數
+{ \operatorname {Re} (2+3i)=2\quad {{ and }}\quad \operatorname {Im} (2+3i)=3~},skip
+\mathbb{C} ,skip
+{ (\Re (z),\Im (z))},z的部的虛數
+{ (a+bi)\cdot i=ai+b(i)^{2}=-b+ai},skip
+{ z=re^{i\varphi }=r(\cos \varphi +i\sin \varphi )},z等於r乘以e的iphi次方等於r乘以cosphi加isinphi
+\varphi ,phi
+{ r=|z|={\sqrt {x^{2}+y^{2}}}},r等於z的絕對值等於根號x平方加y平方
+{ \varphi =\arg(x+yi)={\begin{cases}2\arctan \left({\dfrac {y}{{\sqrt {x^{2}+y^{2}}}+x}}\right)&{{if }}y\neq 0{{ or }}x>0,\\\pi &{{if }}x<0{{ and }}y=0,\\{{undefined}}&{{if }}x=0{{ and }}y=0\end{cases}}},skip
+{ \varphi =\operatorname {atan2} \left(\operatorname {Im} (z),\operatorname {Re} (z)\right)},skip
+{ z=r(\cos \varphi +i\sin \varphi )},z等於r乘以cosphi加isinphi
+{ z=re^{i\varphi }{{ or }}z=r\exp i\varphi },skip
+{ z=r\operatorname {\mathrm {cis} } \varphi },z等於rcisphi
+{ z=r\angle \varphi },z等於r角phi
+{ \pm {\sqrt {-2-2i}}},正負根號負2減2i
+\sqrt{81 - 144},
+{ {\sqrt {-63}}},根號負63
+{ {\sqrt {144-81}}=3{\sqrt {7}}},根號144減81等於3乘以根號7
+{ {\frac {1}{\sqrt {3}}}\left(\left({\sqrt {-1}}\right)^{1/3}+\left({\sqrt {-1}}\right)^{-1/3}\right)},skip
+{ -i,{\frac {{\sqrt {3}}+i}{2}},{\frac {-{\sqrt {3}}+i}{2}}},負i,二分之根號三加i,二分之負根號三加i
+{ {\sqrt {-1}}^{1/3}},根號負之1次方
+{ {\sqrt {-1}}^{2}={\sqrt {-1}}{\sqrt {-1}}=-1},根號1平方等於根號負1根號負1等於負1
+{ {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}},根號a乘以根號b等於根號ab
+{style {\frac {1}{\sqrt {a}}}={\sqrt {\frac {1}{a}}}},skip
+{\sqrt {-1}},根號負1
+{ (\cos \theta +i\sin \theta )^{n}=\cos n\theta +i\sin n\theta },skip
+{ \cos \theta +i\sin \theta =e^{i\theta }},costheta加isintheta等於e的itheta次方
+{\sqrt {-1}},根號-1
+{ r={\sqrt {a^{2}+b^{2}}}},r等於根號a平加b平
+{\sqrt {-1}},根號負一
+{ {\overline {\overline {z}}}=z,},z共軛等於z
+{ \operatorname {Re} ({\overline {z}})=\operatorname {Re} (z)\quad },z共軛的實部等於z的實部
+{ \quad |{\overline {z}}|=|z|},z共軛的絕對值等於z的絕對值
+{ \operatorname {Im} ({\overline {z}})=-\operatorname {Im} (z)\quad {{ and }}\quad \operatorname {arg} {\overline {z}}\equiv -\operatorname {arg} z{\pmod {2\pi }}},skip
+{ z\cdot {\overline {z}}=x^{2}+y^{2}=|z|^{2}=|{\overline {z}}|^{2}},skip
+{ \operatorname {Re} (z)={\dfrac {z+{\overline {z}}}{2}},\quad {{ and }}\quad \operatorname {Im} (z)={\dfrac {z-{\overline {z}}}{2i}}},skip
+{ {\begin{aligned}{\overline {z\pm w}}&={\overline {z}}\pm {\overline {w}},\\{\overline {z\cdot w}}&={\overline {z}}\cdot {\overline {w}},\\{\overline {z/w}}&={\overline {z}}/{\overline {w}}\end{aligned}}},skip
+{ a=x+yi},a等於x加yi
+{ b=u+vi},b等於u加vi
+{ a+b=(x+yi)+(u+vi)=(x+u)+(y+v)i},skip
+{ a-b=(x+yi)-(u+vi)=(x-u)+(y-v)i},skip
+{ a=x+yi},a等於x+yi
+{ ra=r(x+yi)=rx+ryi},ra等於r乘以x加yi等於rx加ryi
+{ a-b=a+(-1)\,b},a減b等於a加負1b
+{ (x+yi)\,(u+vi)=(xu-yv)+(xv+yu)i},skip
+{ (x+yi)^{2}=x^{2}-y^{2}+2xyi},x加yi平方等於x平方減y方加2xyi
+{ {\frac {1}{z}}={\frac {\overline {z}}{z{\overline {z}}}}={\frac {\overline {z}}{|z|^{2}}}={\frac {\overline {z}}{x^{2}+y^{2}}}={\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i,},skip
+{ {\frac {w}{z}}=w\cdot {\frac {1}{z}}=(u+vi)\cdot \left({\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i\right)={\frac {(ux+vy)+(vx-uy)i}{x^{2}+y^{2}}}},skip
+{ {\begin{alignedat}{4}\cos a\cos b&-\sin a\sin b&{}={}&\cos(a+b)\\\cos a\sin b&+\sin a\cos b&{}={}&\sin(a+b)\end{alignedat}}},skip
+{ z_{1}z_{2}=r_{1}r_{2}(\cos(\varphi _{1}+\varphi _{2})+i\sin(\varphi _{1}+\varphi _{2}))},skip
+{ (2+i)(3+i)=5+5i},二加i乘以三加i等於5加5i
+{ {\frac {\pi }{4}}=\arctan \left({\frac {1}{2}}\right)+\arctan \left({\frac {1}{3}}\right)},skip
+{ {\frac {z_{1}}{z_{2}}}={\frac {r_{1}}{r_{2}}}\left(\cos(\varphi _{1}-\varphi _{2})+i\sin(\varphi _{1}-\varphi _{2})\right)},skip
+\pm (\gamma +\delta i),正負gamma加deltai
+{ \gamma ={\sqrt {\frac {a+{\sqrt {a^{2}+b^{2}}}}{2}}}},skip
+{ \delta =(\operatorname {sgn} b){\sqrt {\frac {-a+{\sqrt {a^{2}+b^{2}}}}{2}}},},skip
+\pm (\gamma +\delta i),正負gamma加deltai
+{\sqrt {a^{2}+b^{2}}},根號a平加b平
+{ {\sqrt {a^{2}+b^{2}}}={\sqrt {z{\overline {z}}}},},平加
+{ \exp \colon \mathbb {C} \to \mathbb {C} ;z\mapsto \exp z},skip
+{ \exp z=\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}},},
+{ e=\exp 1=\sum _{n=0}^{\infty }{\frac {1}{n!}}\approx 271828},skip
+{ \exp z=e^{z}},skip
+{ e^{z}=\exp z},skip
+{ e^{z+t}=e^{z}e^{t}},e的z加t次方等於e的z次方乘以的t次方
+{ e^{iy}=\cos y+i\sin y},e的iy次方等於cosy加isiny
+{ e^{x+iy}=e^{x}(\cos y+i\sin y)=e^{x}\cos y+ie^{x}\sin y,},skip
+{ \ln \colon \mathbb {R} ^{+}\to \mathbb {R} ;x\mapsto \ln x},skip
+{ z\in \mathbb {C} ^{\times }},複數集合
+{ z=r(\cos \varphi +i\sin \varphi )},z等乘以cosphi加isinphi
+{ r,\varphi \in \mathbb {R} ,},r,phi屬於實數
+{ \ln z=\ln r+i\varphi },lnz等於lnr加iphi
+{ \exp \ln z=\exp(\ln r+i\varphi )=r\exp i\varphi =r(\cos \varphi +i\sin \varphi )=z},skip
+{ \ln z=\left\{\ln r+i(\varphi +2\pi k)\mid k\in \mathbb {Z} \right\},},skip

@@ -1,0 +1,554 @@
+{ \ln \colon \;\mathbb {C} ^{\times }\;\to \;\;\;\mathbb {R} ^{+}+\;i\,\left(-\pi ,\pi \right]}
+{ z\in \mathbb {C} \setminus \left(-\mathbb {R} _{\geq 0}\right)}
+{ z\in -\mathbb {R} ^{+}}
+{ x^{z}=e^{z\ln x},}
+{ z^{t}=\left\{e^{t\ln r}\,(\cos(\varphi t+2\pi kt)+i\sin(\varphi t+2\pi kt))\}\mid k\in \mathbb {Z} \right\}}
+{ z^{n}=(r(\cos \varphi +i\sin \varphi ))^{n}=r^{n}\,(\cos n\varphi +i\sin n\varphi )}
+{ z^{1/n}={\sqrt[{n}]{r}}\left(\cos \left({\frac {\varphi +2k\pi }{n}}\right)+i\sin \left({\frac {\varphi +2k\pi }{n}}\right)\right)}
+{ {\sqrt[{n}]{r}}}
+{ (z^{n})^{1/n}\neq z,}
+\mathbb{C} 
+{ {\begin{aligned}z_{1}+z_{2}&=z_{2}+z_{1},\\z_{1}z_{2}&=z_{2}z_{1}\end{aligned}}}
+\mathbb{C} 
+{ \mathbb {C} }
+{ a_{n}z^{n}+\dotsb +a_{1}z+a_{0}=0}
+\mathbb{C} 
+\mathbb {Q} 
+\mathbb {R} 
+{ \mathbb {C} }
+\mathbb{C} 
+\mathbb {Q} 
+{ \mathbb {C} ,}
+{ \mathbb {C} }
+{ \mathbb {Q} _{p}}
+\mathbb{C} 
+\mathbb{C} 
+\mathbb{C} 
+\mathbb{C} 
+{ \mathbb {C} }
+\mathbb{C} 
+\mathbb{C} 
+{ \mathbb {C} }
+\mathbb{C} 
+{ \mathbb {C} }
+{ \mathbb {C} }
+\mathbb {R} 
+{ \mathbb {C} }
+\mathbb{C} 
+\mathbb{C} 
+\mathbb {R} 
+\mathbb{C} 
+\mathbb {R} ^{2}
+{ {\begin{aligned}(a,b)+(c,d)&=(a+c,b+d)\\(a,b)\cdot (c,d)&=(ac-bd,bc+ad)\end{aligned}}}
+\mathbb{C} 
+{ (x+y)z=xz+yz}
+\mathbb {R} 
+{ a_{n}X^{n}+\dotsb +a_{1}X+a_{0},}
+{ \mathbb {R} [X]}
+{ \mathbb {R} [X]/(X^{2}+1)}
+{ \mathbb {R} [X]/(X^{2}+1)}
+{ \mathbb {R} ,}
+{ \mathbb {R} [X],}
+\mathbb{C} 
+\mathbb{C} 
+\mathbb {R} 
+\mathbb{C} 
+{ \mathbb {R} }
+{ {\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}}
+{ a+ib\mapsto {\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}}
+{ {\begin{pmatrix}\cos t&-\sin t\\\sin t&\;\;\cos t\end{pmatrix}}}
+{ \cos t+i\sin t}
+\mathbb {C} 
+{ \operatorname {d} (z_{1},z_{2})=|z_{1}-z_{2}|}
+{ |z_{1}+z_{2}|\leq |z_{1}|+|z_{2}|}
+{ \exp z:=1+z+{\frac {z^{2}}{2\cdot 1}}+{\frac {z^{3}}{3\cdot 2\cdot 1}}+\cdots =\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}}
+{ \exp(i\varphi )=\cos \varphi +i\sin \varphi }
+{ \exp(i\pi )=-1}
+{ \exp z=w}
+{ \log w=\ln |w|+i\arg w,}
+{ z^{\omega }=\exp(\omega \log z),}
+{ a^{bc}=\left(a^{b}\right)^{c}}
+\mathbb {C} 
+\mathbb {C} 
+\mathbb {R} 
+\mathbb {C} 
+\mathbb {C} 
+{ f(z)=az+b{\overline {z}}}
+b{\overline {z}}
+\mathbb {C} 
+u,v,w
+{ \{u,v,w\}}
+{ S(u,v,w)={\frac {u-w}{u-v}}}
+{ \{u,v,w\}}
+{ f_{c}(z)=z^{2}+c}
+\mathbb {C} 
+{\overline {\mathbb {Q} }}
+\mathbb {Q} 
+\mathbb {C} 
+{ x(t)=\operatorname {Re} \{X(t)\}}
+{ X(t)=Ae^{i\omega t}=ae^{i\phi }e^{i\omega t}=ae^{i(\omega t+\phi )}}
+{ {\begin{aligned}\cos((\omega +\alpha )t)+\cos \left((\omega -\alpha )t\right)&=\operatorname {Re} \left(e^{i(\omega +\alpha )t}+e^{i(\omega -\alpha )t}\right)\\&=\operatorname {Re} \left(\left(e^{i\alpha t}+e^{-i\alpha t}\right)\cdot e^{i\omega t}\right)\\&=\operatorname {Re} \left(2\cos(\alpha t)\cdot e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \operatorname {Re} \left(e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \cos \left(\omega t\right)\end{aligned}}}
+{ V(t)=V_{0}e^{j\omega t}=V_{0}\left(\cos \omega t+j\sin \omega t\right),}
+{ v(t)=\operatorname {Re} (V)=\operatorname {Re} \left[V_{0}e^{j\omega t}\right]=V_{0}\cos \omega t}
+\mathbb {R} 
+\mathbb {C} 
+\mathbb {H} 
+\mathbb {O} 
+\mathbb {R} 
+{ \mathbb {C} ,}
+\mathbb {R} 
+\mathbb {R} 
+\mathbb {R} 
+{ {\begin{aligned}\mathbb {C} &\rightarrow \mathbb {C} \\z&\mapsto wz\end{aligned}}}
+{ {\begin{pmatrix}\operatorname {Re} (w)&-\operatorname {Im} (w)\\\operatorname {Im} (w)&\operatorname {Re} (w)\end{pmatrix}},}
+\mathbb {C} 
+{ J={\begin{pmatrix}p&q\\r&-p\end{pmatrix}},\quad p^{2}+qr+1=0}
+{ \{z=aI+bJ:a,b\in \mathbb {R} \}}
+{ \mathbb {C} ,}
+{ \mathbb {R} ^{2}}
+{ \mathbb {R} ,}
+{ \mathbb {C} ,}
+{ \mathbb {H} ,}
+{ \mathbb {O} }
+{ \mathbb {R} [x]/(x^{2}-1)}
+{ \mathbb {R} [x]/(x^{2}+1)}
+\mathbb {R} 
+{ \mathbb {Q} ,}
+\mathbb {Q} 
+{ \mathbb {Q} _{p}}
+\mathbb {R} 
+\mathbb {Q} 
+\mathbb {R} 
+{ \mathbb {Q} _{p},}
+{ {\overline {\mathbb {Q} _{p}}}}
+{ \mathbb {Q} _{p}}
+\mathbb {C} 
+{\mathbb  {C}}_{p}
+{ {\overline {\mathbb {Q} _{p}}}}
+{ \mathbb {R} ,}
+{ \mathbb {Q} _{p},}
+{ \mathbb {C} ,}
+{ {\mathcal {G}}_{2}^{+}}
+{ :\;\mathbb {C} }
+{ :\;\mathbb {R} }
+{ :\;\mathbb {Q} }
+{ :\;\mathbb {Z} }
+{ :\;\mathbb {N} }
+\R^2
+\mathbb{C} 
+\left(\sqrt[3]{u} + \sqrt[3]{v}\right)^3 = 3 \sqrt[3]{uv} \left(\sqrt[3]{u} + \sqrt[3]{v}\right) + u + v
+x = \sqrt[3]{u} + \sqrt[3]{v}
+p = 3 \sqrt[3]{uv}
+u = q/2 + \sqrt{(q/2)^2-(p/3)^3}
+v = q/2 - \sqrt{(q/2)^2-(p/3)^3}
+x = \sqrt[3]{q/2 + \sqrt{(q/2)^2-(p/3)^3}} + \sqrt[3]{q/2 - \sqrt{(q/2)^2-(p/3)^3}}
+{ a=m+n{\sqrt {-1}}}
+{ a_{'}}
+{ a'={\sqrt {m^{2}+n^{2}}}}
+{ a=m+n{\sqrt {-1}}}
+{ a_{'}}
+{ a'={\sqrt {m^{2}+n^{2}}}}
+{ a={\sqrt {m^{2}+n^{2}}}}
+{ a+b{\sqrt {-1}}}
+{ a+b{\sqrt {-1}}}
+{ a={\sqrt {m^{2}+n^{2}}}}
+{ a+b{\sqrt {-1}}}
+{ a+b{\sqrt {-1}}\,,}
+{ {\frac {a}{\sqrt {a^{2}+b^{2}}}}+{\frac {b}{\sqrt {a^{2}+b^{2}}}}{\sqrt {-1}}}
+{\sqrt {-1}}
+\infty 
+\infty 
+{\sqrt {-1}}
+-\infty 
++\infty 
+\scriptstyle {\sqrt {-1}}
+\mathbb N
+\mathbb {Z} 
+\mathbb {Q} 
+\mathbb {A} 
+\mathbb{R} 
+\mathbb{C} 
+\mathbb {H} 
+\mathbb {O} 
+\mathbb{R} 
+\mathbb{C} 
+{\mathbb  S}
+{\overrightarrow {AB}}
+{ {\stackrel {\,\longrightarrow }{AB}}}
+{ {\stackrel {\,\longrightarrow }{A'B'}}}
+{\overrightarrow {AB}}
+{ {\overrightarrow {E}},}
+{ {\overrightarrow {E}},}
+\overrightarrow{E}
+\mathbb {R} ^{n}
+\mathbb {R} ^{n}
+\mathbb {R} ^{n}
+{ \mathbb {R} ^{n}}
+{ {\overrightarrow {OP}}}
+\mathbb {R} ^{n
+{\overrightarrow {AB}}
+{ (1,2,3)+(-2,0,4)=(1-2,2+0,3+4)=(-1,2,7)\,}
+\mathbf {u} 
+\mathbf {v} 
+\mathbf {w} 
+{\vec {a}}
+{\underset {^{\sim }}{a}}
+{ {\stackrel {\longrightarrow }{AB}}}
+{\mathfrak {a}}
+{ \mathbf {a} =(2,3)}
+{\overrightarrow {OA}}
+{ \mathbf {a} =(a_{1},a_{2},a_{3})}
+{ \mathbf {a} =(a_{x},a_{y},a_{z})}
+{ \mathbf {a} =(a_{1},a_{2},a_{3},\cdots ,a_{n-1},a_{n})}
+{ \mathbf {a} ={\begin{bmatrix}a_{1}\\a_{2}\\a_{3}\\\end{bmatrix}}=[a_{1}\ a_{2}\ a_{3}]^{\operatorname {T} }}
+{ {\mathbf {e} }_{1}=(1,0,0),\ {\mathbf {e} }_{2}=(0,1,0),\ {\mathbf {e} }_{3}=(0,0,1)}
+{ \mathbf {a} =(a_{1},a_{2},a_{3})=a_{1}(1,0,0)+a_{2}(0,1,0)+a_{3}(0,0,1),\ }
+{ \mathbf {a} =\mathbf {a} _{1}+\mathbf {a} _{2}+\mathbf {a} _{3}=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3},}
+\mathbf {i} ,\mathbf {j} ,\mathbf {k} 
+\mathbf {\hat {x}} ,\mathbf {\hat {y}} ,\mathbf {\hat {z}} 
+{ \mathbf {a} =\mathbf {a} _{x}+\mathbf {a} _{y}+\mathbf {a} _{z}=a_{x}{\mathbf {i} }+a_{y}{\mathbf {j} }+a_{z}{\mathbf {k} }}
+\mathbf {\hat {x}} ,\mathbf {\hat {y}} ,\mathbf {\hat {z}} 
+{\boldsymbol {\hat {\rho }}},{\boldsymbol {\hat {\phi }}},\mathbf {\hat {z}} 
+\mathbf {\hat {r}} ,{\boldsymbol {\hat {\theta }}},{\boldsymbol {\hat {\phi }}}
+{ {\mathbf {e} }_{1}=(1,0,0),\ {\mathbf {e} }_{2}=(0,1,0),\ {\mathbf {e} }_{3}=(0,0,1)}
+{ {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}}
+{ {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}}
+{ {\mathbf {b} }=b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}}
+{ a_{1}=b_{1},\quad a_{2}=b_{2},\quad a_{3}=b_{3}\,}
+{ {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}}
+{ {\mathbf {b} }=b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}}
+{ a_{1}=-b_{1},\quad a_{2}=-b_{2},\quad a_{3}=-b_{3}\,}
+{ \mathbf {a} +\mathbf {b} =(a_{1}+b_{1})\mathbf {e} _{1}+(a_{2}+b_{2})\mathbf {e} _{2}+(a_{3}+b_{3})\mathbf {e} _{3}}
+{ \mathbf {a} -\mathbf {b} =(a_{1}-b_{1})\mathbf {e} _{1}+(a_{2}-b_{2})\mathbf {e} _{2}+(a_{3}-b_{3})\mathbf {e} _{3}}
+{ r\mathbf {a} =(ra_{1})\mathbf {e} _{1}+(ra_{2})\mathbf {e} _{2}+(ra_{3})\mathbf {e} _{3}}
+{ \left\|\mathbf {a} \right\|={\sqrt {a_{1}^{2}+a_{2}^{2}+a_{3}^{2}}},}
+{ \left\|\mathbf {a} \right\|={\sqrt {\mathbf {a} \cdot \mathbf {a} }}}
+{ \mathbf {\hat {a}} ={\frac {\mathbf {a} }{\left\|\mathbf {a} \right\|}}={\frac {a_{1}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{1}+{\frac {a_{2}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{2}+{\frac {a_{3}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{3}}
+{\vec {0}}
+{ \mathbf {a} \cdot \mathbf {b} =\left\|\mathbf {a} \right\|\left\|\mathbf {b} \right\|\cos \theta ,}
+{ \mathbf {a} \cdot \mathbf {b} =a_{1}b_{1}+a_{2}b_{2}+a_{3}b_{3}}
+{ \mathbf {a} \times \mathbf {b} =\left\|\mathbf {a} \right\|\left\|\mathbf {b} \right\|\sin(\theta )\,\mathbf {n} }
+{ {\mathbf {a} }\times {\mathbf {b} }=(a_{2}b_{3}-a_{3}b_{2}){\mathbf {e} }_{1}+(a_{3}b_{1}-a_{1}b_{3}){\mathbf {e} }_{2}+(a_{1}b_{2}-a_{2}b_{1}){\mathbf {e} }_{3}}
+{ (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )=\mathbf {a} \cdot (\mathbf {b} \times \mathbf {c} )}
+{ (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )={\begin{vmatrix}a_{1}&a_{2}&a_{3}\\b_{1}&b_{2}&b_{3}\\c_{1}&c_{2}&c_{3}\\\end{vmatrix}}}
+{ (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )=(\mathbf {c} \ \mathbf {a} \ \mathbf {b} )=(\mathbf {b} \ \mathbf {c} \ \mathbf {a} )=-(\mathbf {a} \ \mathbf {c} \ \mathbf {b} )=-(\mathbf {b} \ \mathbf {a} \ \mathbf {c} )=-(\mathbf {c} \ \mathbf {b} \ \mathbf {a} )}
+{ \mathbf {a} =p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3}}
+{ {\begin{aligned}p&=\mathbf {a} \cdot \mathbf {e} _{1},\\q&=\mathbf {a} \cdot \mathbf {e} _{2},\\r&=\mathbf {a} \cdot \mathbf {e} _{3}\end{aligned}}}
+{ \mathbf {a} =u\mathbf {n} _{1}+v\mathbf {n} _{2}+w\mathbf {n} _{3}}
+{ {\begin{aligned}u&=\mathbf {a} \cdot \mathbf {n} _{1},\\v&=\mathbf {a} \cdot \mathbf {n} _{2},\\w&=\mathbf {a} \cdot \mathbf {n} _{3}\end{aligned}}}
+{ {\begin{aligned}u&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{1},\\v&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{2},\\w&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{3}\end{aligned}}}
+{ {\begin{aligned}u&=p\mathbf {e} _{1}\cdot \mathbf {n} _{1}+q\mathbf {e} _{2}\cdot \mathbf {n} _{1}+r\mathbf {e} _{3}\cdot \mathbf {n} _{1},\\v&=p\mathbf {e} _{1}\cdot \mathbf {n} _{2}+q\mathbf {e} _{2}\cdot \mathbf {n} _{2}+r\mathbf {e} _{3}\cdot \mathbf {n} _{2},\\w&=p\mathbf {e} _{1}\cdot \mathbf {n} _{3}+q\mathbf {e} _{2}\cdot \mathbf {n} _{3}+r\mathbf {e} _{3}\cdot \mathbf {n} _{3}\end{aligned}}}
+{ {\begin{aligned}u&=c_{11}p+c_{12}q+c_{13}r,\\v&=c_{21}p+c_{22}q+c_{23}r,\\w&=c_{31}p+c_{32}q+c_{33}r,\end{aligned}}}
+{ {\begin{bmatrix}u\\v\\w\\\end{bmatrix}}={\begin{bmatrix}c_{11}&c_{12}&c_{13}\\c_{21}&c_{22}&c_{23}\\c_{31}&c_{32}&c_{33}\end{bmatrix}}{\begin{bmatrix}p\\q\\r\end{bmatrix}}}
+{ {\begin{aligned}c_{11}&=\mathbf {n} _{1}\cdot \mathbf {e} _{1}\\c_{12}&=\mathbf {n} _{1}\cdot \mathbf {e} _{2}\\c_{13}&=\mathbf {n} _{1}\cdot \mathbf {e} _{3}\\c_{21}&=\mathbf {n} _{2}\cdot \mathbf {e} _{1}\\c_{22}&=\mathbf {n} _{2}\cdot \mathbf {e} _{2}\\c_{23}&=\mathbf {n} _{2}\cdot \mathbf {e} _{3}\\c_{31}&=\mathbf {n} _{3}\cdot \mathbf {e} _{1}\\c_{32}&=\mathbf {n} _{3}\cdot \mathbf {e} _{2}\\c_{33}&=\mathbf {n} _{3}\cdot \mathbf {e} _{3}\end{aligned}}}
+{ (a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2})+(b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2})=(a_{1}+b_{1}){\mathbf {e} }_{1}+(a_{2}+b_{2}){\mathbf {e} }_{2},}
+{ {\begin{aligned}(a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}+a_{4}{\mathbf {e} }_{4})&+(b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}+b_{4}{\mathbf {e} }_{4})=\\(a_{1}+b_{1}){\mathbf {e} }_{1}+(a_{2}+b_{2}){\mathbf {e} }_{2}&+(a_{3}+b_{3}){\mathbf {e} }_{3}+(a_{4}+b_{4}){\mathbf {e} }_{4}\end{aligned}}}
+{ (a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2})\wedge (b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2})=(a_{1}b_{2}-a_{2}b_{1})\mathbf {e} _{1}\mathbf {e} _{2}}
+{ {\mathbf {x} }=x_{1}{\mathbf {e} }_{1}+x_{2}{\mathbf {e} }_{2}+x_{3}{\mathbf {e} }_{3}}
+{ {\mathbf {y} }-{\mathbf {x} }=(y_{1}-x_{1}){\mathbf {e} }_{1}+(y_{2}-x_{2}){\mathbf {e} }_{2}+(y_{3}-x_{3}){\mathbf {e} }_{3}}
+{ {\mathbf {x} }_{t}=t{\mathbf {v} }+{\mathbf {x} }_{0},}
+{ {\mathbf {F} }=m{\mathbf {a} }}
+{ E={\mathbf {F} }\cdot ({\mathbf {x} }_{2}-{\mathbf {x} }_{1})}
+^{-1}
+\mathbb {B} 
+\mathbb {B} 
+{ \mathbb {B} ^{n}}
+\mathbb {Z} 
+\mathbb {Z} 
+\mathbb{R} 
+\mathbb{R} 
+\mathbb {R} ^{n}
+\mathbb{C} 
+\mathbb{C} 
+{ \mathbb {C} ^{n}}
+{ \left(x+1)^{2}\right\vert _{x=4}}
+{ \forall x\in X,\forall y\in Y,\forall z\in Y,\quad ((x,y)\in R\land (x,z)\in R)\implies y=z}
+{ \forall x\in X,\exists y\in Y,\quad (x,y)\in R}
+{ Y^{X},}
+{ Y^{X}=\prod _{x\in X}Y}
+S\subseteq X
+x\in X
+{ f(x)=x+1}
+\mathbb {R} 
+\mathbb {R} 
+{ f(x)=\sin(x^{2}+1)}
+x\mapsto x+1
+\mathbb {R} 
+{ {\begin{aligned}\operatorname {sqr} \colon \mathbb {Z} &\to \mathbb {Z} \\x&\mapsto x^{2}\end{aligned}}}
+{ f\colon X\times X\to Y;\;(x,t)\mapsto f(x,t)}
+X\to Y
+{ x\mapsto f(x,t_{0})}
+{ x\mapsto f(x,t_{0})}
+{ f_{x}}
+f_{n}
+{ x\mapsto f(x,t)}
+f_{t}
+f_{t}
+{ f_{t}(x)=f(x,t)}
+{ x,t\in X}
+{ x\mapsto f(x),}
+{ a(\cdot )^{2}}
+{ x\mapsto ax^{2}}
+{style \int _{a}^{\,(\cdot )}f(u)\,du}
+{style x\mapsto \int _{a}^{x}f(u)\,du}
+{ A=\{1,2,3\}}
+{ f\colon A\to \mathbb {R} }
+{ f(1)=2,f(2)=3,f(3)=4}
+{ f(n)=n+1}
+{ n\in \{1,2,3\}}
+\mathbb {R} 
+{ \mathbb {R} ,}
+{ f(x)={\sqrt {1+x^{2}}}}
+f\colon \mathbb{R} \to \mathbb{R}
+{ \mathbb {R} ,}
+{ 1+x^{2}}
+f(x)=\sqrt{1-x^2}
+{ f(x)=ax^{2}+bx+c,}
+{ f(x)=x^{3}-3x-1,}
+{ f(x)=(x-1)(x^{3}+1)+2x^{2}-1}
+{ f(x)={\frac {x-1}{x+1}},}
+{ f(x)={\frac {1}{x+1}}+{\frac {3}{x}}-{\frac {2}{x-1}}}
+{ f\colon X\to Y,}
+{ f^{-1}\colon Y\to X}
+y\in Y
+x\in X
+f\colon X\to Y
+{ E\subseteq X}
+{ F\subseteq Y}
+{ x\in E,}
+y\in Y
+{ x\in E,}
+{ f\colon E\to Y,}
+x^{2}+y^{2}=1
+{ y=\pm {\sqrt {1-x^{2}}},}
+{ y^{5}+y+x=0}
+\mathbb {R} 
+{ e^{x}=\sum _{n=0}^{\infty }{x^{n} \over n!}}
+{ n\mapsto n!}
+{ n!=n(n-1)!\quad {{for}}\quad n>0,}
+{ 0!=1}
+{ f\colon X\to Y,}
+{ G=\{(x,f(x))\mid x\in X\}}
+{ (x,y)\in G}
+{ x\mapsto x^{2},}
+{ (x,x^{2})}
+{ x\in \mathbb {R} ,}
+{ x\mapsto x^{2},}
+{ (r,\theta )=(x,x^{2}),}
+{ f\colon \{1,\ldots ,5\}^{2}\to \mathbb {R} }
+f(x,y)=xy
+{ f\colon X\to Y,}
+{ f(X)=\{f(x)\mid x\in X\}}
+f\colon X\to Y
+{ g\colon Y\to Z}
+g\circ f\colon X\rightarrow Z
+(g\circ f)(x)=g(f(x))
+g\circ f
+g\circ f
+g\circ f
+f\circ g
+g\circ f
+{ f\circ g}
+{ g(f(x))=x^{2}+1}
+{ f(g(x))=(x+1)^{2}}
+{ (h\circ g)\circ f}
+{ h\circ (g\circ f)}
+{ h\circ g\circ f=(h\circ g)\circ f=h\circ (g\circ f)}
+{ \operatorname {id} _{X}}
+{ \operatorname {id} _{Y}}
+{ f\circ \operatorname {id} _{X}=\operatorname {id} _{Y}\circ f=f}
+Another composition In this example, (g ∘ f )(c) = #
+{ f\colon X\to Y}
+{ f(A)=\{f(x)\mid x\in A\}}
+f^{-1}(y)
+{ f^{-1}(y)=\{x\in X\mid f(x)=y\}}
+f^{{-1}}(B)
+{ f^{-1}(B)=\{x\in X\mid f(x)\in B\}}
+{ \{4,9\}}
+{ \{-3,-2,2,3\}}
+f^{-1}(y)
+{ f^{-1}(0)=\mathbb {Z} }
+f\colon X\to Y
+{ A\subseteq B\Longrightarrow f(A)\subseteq f(B)}
+{ C\subseteq D\Longrightarrow f^{-1}(C)\subseteq f^{-1}(D)}
+{ A\subseteq f^{-1}(f(A))}
+{ C\supseteq f(f^{-1}(C))}
+{ f(f^{-1}(f(A)))=f(A)}
+{ f^{-1}(f(f^{-1}(C)))=f^{-1}(C)}
+{ f^{-1}}
+{ f^{-1}(C)}
+f^{-1}
+{ f^{-1}(C)}
+{ \{x,\{x\}\}}
+{ f[A],f^{-1}[C]}
+f\colon X\to Y
+{ y\in Y,}
+f^{-1}(y)
+{ g\colon Y\to X}
+{ g\circ f=\operatorname {id} _{X},}
+x_{0}
+{ g(y)=x}
+{ g(y)=x_{0}}
+{ y\not \in f(X)}
+{ g\circ f=\operatorname {id} _{X},}
+{ y=f(x),}
+{ x=g(y),}
+{ f^{-1}(y)=\{x\}}
+{ f(x)=y}
+f^{-1}(y)
+y\in Y
+{ g\colon Y\to X}
+{ f\circ g=\operatorname {id} _{Y},}
+{ g(y)=x,}
+{ f^{-1}(y)}
+{ y\in Y,}
+f^{-1}(y)
+{ g\colon Y\to X}
+{ g\circ f=\operatorname {id} _{X}}
+{ f\circ g=\operatorname {id} _{Y}}
+f\colon X\to Y
+{ i\circ s}
+f\colon X\to Y
+{ f|_{S}}
+{ f|_{S}(x)=f(x)}
+{ f|_{S}}
+{ f|_{S}}
+{ f|_{S}(S)=f(S)}
+{style X=\bigcup _{i\in I}U_{i}}
+{ f_{i}\colon U_{i}\to Y}
+U_{i}
+i,j
+f_{i}
+f_{j}
+{ U_{i}\cap U_{j}}
+f\colon X\to Y
+{ f|_{U_{i}}=f_{i}}
+{ h(x)={\frac {ax+b}{cx+d}}}
+{ -d/c,}
+{ a/c}
+{ h(\infty )=a/c}
+{ h(-d/c)=\infty }
+(x,y)
+{ x\circ y}
+{ X_{1}\times \cdots \times X_{n}}
+X_1, \ldots, X_n
+(x_1, \ldots, x_n)
+{ x_{i}\in X_{i}}
+1\leq i\leq n
+{ f\colon U\to Y,}
+{ U\subseteq X_{1}\times \cdots \times X_{n}}
+f(x_1,x_2)
+{ f((x_{1},x_{2}))}
+X_{i}
+\mathbb {R} 
+X_{i}
+\mathbb {C} 
+{ {\begin{aligned}{{Euclidean division}}\colon \quad \mathbb {Z} \times (\mathbb {Z} \setminus \{0\})&\to \mathbb {Z} \times \mathbb {Z} \\(a,b)&\mapsto (\operatorname {quotient} (a,b),\operatorname {remainder} (a,b))\end{aligned}}}
+{ {\begin{aligned}(f+g)(x)&=f(x)+g(x)\\(f-g)(x)&=f(x)-g(x)\\(f\cdot g)(x)&=f(x)\cdot g(x)\\\end{aligned}}}
+{ {\frac {f}{g}}(x)={\frac {f(x)}{g(x)}},}
+{ x\mapsto {\frac {1}{x}},}
+{ x\mapsto {\frac {1}{x}}}
+{ {\frac {f(x)-f(y)}{x-y}}}
+{ y''+y=0}
+{ \sin 0=0,\quad \cos 0=1,\quad {\frac {\partial \sin x}{\partial x}}(0)=1,\quad {\frac {\partial \cos x}{\partial x}}(0)=0}
+\mathbb {R} ^{n}
+\mathbb {R} ^{n}
+x_
+x_
+{ {\sqrt {x_{0}}},}
+{ -{\sqrt {x_{0}}}}
+{ x^{3}-3x-y=0}
+{ 0,{\sqrt {3}},{{ or }}-{\sqrt {3}}}
+{ x\mapsto \{x\}}
+(a,b,c)
+a^{2}+b^{2}=c^{2}
+{ \left({\frac {1}{2}}\left(x-{\frac {1}{x}}\right)\right)^{2}+1=\left({\frac {1}{2}}\left(x+{\frac {1}{x}}\right)\right)^{2},}
+{\sqrt {2}}
+{\sqrt {2}}
+{\sqrt  {3}},{\sqrt  {5}},\dots ,{\sqrt  {17}}
+f(x,y)=z^{2}
+f(x,y,z)=w^{2}
+f(x_{1},x_{2},x_{3})=0
+g_{1},g_{2},g_{3}
+x_{i}=g_{i}(r,s)
+i=1,2,3
+f(x_{1},x_{2},x_{3})=0
+{ n\equiv a_{1}{\bmod {m}}_{1}}
+{ n\equiv a_{2}{\bmod {m}}_{2}}
+{ a^{p-1}\equiv 1{\bmod {p}}}
+x^{2}-Ny^{2}=1
+x^{{4}}+y^{{4}}=z^{{4}}
+x^{3}+y^{3}=z^{3}
+x^{n}+y^{n}=z^{n}
+n\geq 3
+p=x^{2}+y^{2}
+{ p\equiv 1{\bmod {4}}}
+x^{4}+y^{4}=z^{2}
+x^{2}+Ny^{2}
+mX^{2}+nY^{2}
+ax^{2}+by^{2}+cz^{2}=0
+x^{5}+(11/2)x^{3}-7x^{2}+9=0
+a+b{\sqrt  {d}}
+{\sqrt  {-5}}
+6=2\cdot 3
+6=(1+{\sqrt  {-5}})(1-{\sqrt  {-5}})
+1+{\sqrt  {-5}}
+1-{\sqrt  {-5}}
+{ x^{2}+y^{2}=1,}
+(x,y)
+a^{2}+b^{2}=c^{2}
+f(x,y)=0
+f(x,y)=0
+f(x,y)=0
+f(x,y)=0
+\gcd(a,q)=1
+|x-a/q|<{\frac  {1}{q^{c}}}
+{ 0}
+{ a+b,a+2b,a+3b,\ldots ,a+10b}
+{ a\equiv b{\bmod {m}}}
+{ xa\equiv 1{\bmod {p}}}
+(p^{2}-q^{2},2pq,p^{2}+q^{2})
+{ a\equiv b{\pmod {n}}}
+{ a\equiv b\;({{mod}}\;n)}
+{ a=kn+b,}
+{ a=pn+r,}
+{ b=qn+r,}
+{ a-b=kn,}
+{ 38\equiv 14{\pmod {12}}}
+{ {\begin{aligned}2&\equiv -3{\pmod {5}}\\-8&\equiv 7{\pmod {5}}\\-3&\equiv -8{\pmod {5}}\end{aligned}}}
+{ ax+ny=1}
+x,y
+{ a^{(p-1)/2}\equiv 1{\pmod {p}}}
+{style \mathbb {Z} /n\mathbb {Z} }
+\mathbb {Z} /n
+\mathbb {Z} _{n}
+\mathbb {Z} _{n}
+\mathbb {Z} /n\mathbb {Z} 
+{ \mathbb {Z} /n\mathbb {Z} =\left\{{\overline {a}}_{n}\mid a\in \mathbb {Z} \right\}=\left\{{\overline {0}}_{n},{\overline {1}}_{n},{\overline {2}}_{n},\ldots ,{\overline {n{-}1}}_{n}\right\}}
+\mathbb {Z} /n\mathbb {Z} 
+\mathbb {Z} 
+\mathbb {Z} /n\mathbb {Z} 
+{\overline {a}}_{n}+{\overline {b}}_{n}={\overline {(a+b)}}_{n}
+{\overline {a}}_{n}-{\overline {b}}_{n}={\overline {(a-b)}}_{n}
+{\overline {a}}_{n}{\overline {b}}_{n}={\overline {(ab)}}_{n}
+\mathbb {Z} /n\mathbb {Z} 
+\mathbb {Z} /24\mathbb {Z} 
+{ {\overline {12}}_{24}+{\overline {21}}_{24}={\overline {33}}_{24}={\overline {9}}_{24}}
+\mathbb {Z} /n\mathbb {Z} 
+\mathbb {Z} 
+n\mathbb {Z} 
+0\mathbb {Z} 
+\mathbb {Z} /n\mathbb {Z} 
+n\mathbb {Z} 
+\mathbb {Z} 
+\mathbb {Z} /n\mathbb {Z} 
+\mathbb {Z} /0\mathbb {Z} 
+\mathbb {Z} 
+n=p^{k}
+{ \mathrm {GF} (n)=\mathbb {F} _{n}}
+{ \mathbb {Z} /n\mathbb {Z} }
+(\mathbb {Z} /n\mathbb {Z} )^{\times }
+{ {\overline {a}}_{n}}
+\varphi (n)
+{ a\cdot b{\pmod {m}}}
+{ a^{b}{\pmod {m}}}
