@@ -6,6 +6,7 @@ import json
 filename = "data.csv"
 filenamewrite = 'data_dpr.json'
 doc_store = 'doc_store.json'
+# for the main dpr
 with open(filenamewrite,'w',encoding='utf-8') as out:
   with open(filename, newline='',encoding='utf-8') as csvfile:
     lines = csv.reader(csvfile)
@@ -23,6 +24,7 @@ with open(filenamewrite,'w',encoding='utf-8') as out:
         i+=1
         out.write(json_obj.decode())     
         out.write(',')
+# for dpr document store
 with open(filename, newline='',encoding='utf-8') as csvfile:
   with open(doc_store,'w',encoding='utf-8') as doc:
     lines = csv.reader(csvfile)
