@@ -1,0 +1,384 @@
+\mathbb {C} ,複數
+\frac{a}{b},分之a
+\mathbb {C} ,複數域
+{ (x+1)^{2}=-9},x加1
+\frac{a}{b},a分之b
+\mathbb {C} ,複數域
+{ (x+1)^{2}=-9},平方等負9
+{ {\mathcal {Re}}(z)},z的實數部
+{ {\mathfrak {R}}(z)},z的實數
+{ {\mathcal {Im}}(z)},z的虛數
+{ {\mathfrak {I}}(z)},z的虛數
+{ \operatorname {Re} (2+3i)=2\quad {{ and }}\quad \operatorname {Im} (2+3i)=3~},skip
+\mathbb{C} ,skip
+{ (\Re (z),\Im (z))},z的部的虛數
+{ (a+bi)\cdot i=ai+b(i)^{2}=-b+ai},skip
+{ z=re^{i\varphi }=r(\cos \varphi +i\sin \varphi )},z等於r乘以e的iphi次方等於r乘以cosphi加isinphi
+\varphi ,phi
+{ r=|z|={\sqrt {x^{2}+y^{2}}}},r等於z的絕對值等於根號x平方加y平方
+{ \varphi =\arg(x+yi)={\begin{cases}2\arctan \left({\dfrac {y}{{\sqrt {x^{2}+y^{2}}}+x}}\right)&{{if }}y\neq 0{{ or }}x>0,\\\pi &{{if }}x<0{{ and }}y=0,\\{{undefined}}&{{if }}x=0{{ and }}y=0\end{cases}}},skip
+{ \varphi =\operatorname {atan2} \left(\operatorname {Im} (z),\operatorname {Re} (z)\right)},skip
+{ z=r(\cos \varphi +i\sin \varphi )},z等於r乘以cosphi加isinphi
+{ z=re^{i\varphi }{{ or }}z=r\exp i\varphi },skip
+{ z=r\operatorname {\mathrm {cis} } \varphi },z等於rcisphi
+{ z=r\angle \varphi },z等於r角phi
+{ \pm {\sqrt {-2-2i}}},正負根號負2減2i
+\sqrt{81 - 144},
+{ {\sqrt {-63}}},根號負63
+{ {\sqrt {144-81}}=3{\sqrt {7}}},根號144減81等於3乘以根號7
+{ {\frac {1}{\sqrt {3}}}\left(\left({\sqrt {-1}}\right)^{1/3}+\left({\sqrt {-1}}\right)^{-1/3}\right)},skip
+{ -i,{\frac {{\sqrt {3}}+i}{2}},{\frac {-{\sqrt {3}}+i}{2}}},負i,二分之根號三加i,二分之負根號三加i
+{ {\sqrt {-1}}^{1/3}},根號負之1次方
+{ {\sqrt {-1}}^{2}={\sqrt {-1}}{\sqrt {-1}}=-1},根號1平方等於根號負1根號負1等於負1
+{ {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}},根號a乘以根號b等於根號ab
+{style {\frac {1}{\sqrt {a}}}={\sqrt {\frac {1}{a}}}},skip
+{\sqrt {-1}},根號負1
+{ (\cos \theta +i\sin \theta )^{n}=\cos n\theta +i\sin n\theta },skip
+{ \cos \theta +i\sin \theta =e^{i\theta }},costheta加isintheta等於e的itheta次方
+{\sqrt {-1}},根號-1
+{ r={\sqrt {a^{2}+b^{2}}}},r等於根號a平加b平
+{\sqrt {-1}},根號負一
+{ {\overline {\overline {z}}}=z,},z共軛等於z
+{ \operatorname {Re} ({\overline {z}})=\operatorname {Re} (z)\quad },z共軛的實部等於z的實部
+{ \quad |{\overline {z}}|=|z|},z共軛的絕對值等於z的絕對值
+{ \operatorname {Im} ({\overline {z}})=-\operatorname {Im} (z)\quad {{ and }}\quad \operatorname {arg} {\overline {z}}\equiv -\operatorname {arg} z{\pmod {2\pi }}},skip
+{ z\cdot {\overline {z}}=x^{2}+y^{2}=|z|^{2}=|{\overline {z}}|^{2}},skip
+{ \operatorname {Re} (z)={\dfrac {z+{\overline {z}}}{2}},\quad {{ and }}\quad \operatorname {Im} (z)={\dfrac {z-{\overline {z}}}{2i}}},skip
+{ {\begin{aligned}{\overline {z\pm w}}&={\overline {z}}\pm {\overline {w}},\\{\overline {z\cdot w}}&={\overline {z}}\cdot {\overline {w}},\\{\overline {z/w}}&={\overline {z}}/{\overline {w}}\end{aligned}}},skip
+{ a=x+yi},a等於x加yi
+{ b=u+vi},b等於u加vi
+{ a+b=(x+yi)+(u+vi)=(x+u)+(y+v)i},skip
+{ a-b=(x+yi)-(u+vi)=(x-u)+(y-v)i},skip
+{ a=x+yi},a等於x+yi
+{ ra=r(x+yi)=rx+ryi},ra等於r乘以x加yi等於rx加ryi
+{ a-b=a+(-1)\,b},a減b等於a加負1b
+{ (x+yi)\,(u+vi)=(xu-yv)+(xv+yu)i},skip
+{ (x+yi)^{2}=x^{2}-y^{2}+2xyi},x加yi平方等於x平方減y方加2xyi
+{ {\frac {1}{z}}={\frac {\overline {z}}{z{\overline {z}}}}={\frac {\overline {z}}{|z|^{2}}}={\frac {\overline {z}}{x^{2}+y^{2}}}={\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i,},skip
+{ {\frac {w}{z}}=w\cdot {\frac {1}{z}}=(u+vi)\cdot \left({\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i\right)={\frac {(ux+vy)+(vx-uy)i}{x^{2}+y^{2}}}},skip
+{ {\begin{alignedat}{4}\cos a\cos b&-\sin a\sin b&{}={}&\cos(a+b)\\\cos a\sin b&+\sin a\cos b&{}={}&\sin(a+b)\end{alignedat}}},skip
+{ z_{1}z_{2}=r_{1}r_{2}(\cos(\varphi _{1}+\varphi _{2})+i\sin(\varphi _{1}+\varphi _{2}))},skip
+{ (2+i)(3+i)=5+5i},二加i乘以三加i等於5加5i
+{ {\frac {\pi }{4}}=\arctan \left({\frac {1}{2}}\right)+\arctan \left({\frac {1}{3}}\right)},skip
+{ {\frac {z_{1}}{z_{2}}}={\frac {r_{1}}{r_{2}}}\left(\cos(\varphi _{1}-\varphi _{2})+i\sin(\varphi _{1}-\varphi _{2})\right)},skip
+\pm (\gamma +\delta i),正負gamma加deltai
+{ \gamma ={\sqrt {\frac {a+{\sqrt {a^{2}+b^{2}}}}{2}}}},skip
+{ \delta =(\operatorname {sgn} b){\sqrt {\frac {-a+{\sqrt {a^{2}+b^{2}}}}{2}}},},skip
+\pm (\gamma +\delta i),正負gamma加deltai
+{\sqrt {a^{2}+b^{2}}},根號a平加b平
+{ {\sqrt {a^{2}+b^{2}}}={\sqrt {z{\overline {z}}}},},平加
+{ \exp \colon \mathbb {C} \to \mathbb {C} ;z\mapsto \exp z},skip
+{ \exp z=\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}},},
+{ e=\exp 1=\sum _{n=0}^{\infty }{\frac {1}{n!}}\approx 271828},skip
+{ \exp z=e^{z}},skip
+{ e^{z}=\exp z},skip
+{ e^{z+t}=e^{z}e^{t}},e的z加t次方等於e的z次方乘以的t次方
+{ e^{iy}=\cos y+i\sin y},e的iy次方等於cosy加isiny
+{ e^{x+iy}=e^{x}(\cos y+i\sin y)=e^{x}\cos y+ie^{x}\sin y,},skip
+{ \ln \colon \mathbb {R} ^{+}\to \mathbb {R} ;x\mapsto \ln x},skip
+{ z\in \mathbb {C} ^{\times }},複數集合
+{ z=r(\cos \varphi +i\sin \varphi )},z等乘以cosphi加isinphi
+{ r,\varphi \in \mathbb {R} ,},r,phi屬於實數
+{ \ln z=\ln r+i\varphi },lnz等於lnr加iphi
+{ \exp \ln z=\exp(\ln r+i\varphi )=r\exp i\varphi =r(\cos \varphi +i\sin \varphi )=z},skip
+{ \ln z=\left\{\ln r+i(\varphi +2\pi k)\mid k\in \mathbb {Z} \right\},},skip
+{ \ln \colon \;\mathbb {C} ^{\times }\;\to \;\;\;\mathbb {R} ^{+}+\;i\,\left(-\pi ,\pi \right]},skip
+{ z\in \mathbb {C} \setminus \left(-\mathbb {R} _{\geq 0}\right)},skip
+{ z\in -\mathbb {R} ^{+}},z是負正實數的子集
+{ x^{z}=e^{z\ln x},},x的z次方等於e的z乘以lnx次方
+{ z^{t}=\left\{e^{t\ln r}\,(\cos(\varphi t+2\pi kt)+i\sin(\varphi t+2\pi kt))\}\mid k\in \mathbb {Z} \right\}},skip
+{ z^{n}=(r(\cos \varphi +i\sin \varphi ))^{n}=r^{n}\,(\cos n\varphi +i\sin n\varphi )},skip
+{ z^{1/n}={\sqrt[{n}]{r}}\left(\cos \left({\frac {\varphi +2k\pi }{n}}\right)+i\sin \left({\frac {\varphi +2k\pi }{n}}\right)\right)},skip
+{ {\sqrt[{n}]{r}}},r的n次根號
+{ (z^{n})^{1/n}\neq z,},z的n次方的n分之1次方不等於z
+\mathbb{C} ,複數域
+{ {\begin{aligned}z_{1}+z_{2}&=z_{2}+z_{1},\\z_{1}z_{2}&=z_{2}z_{1}\end{aligned}}},skip
+\mathbb{C} ,skip
+{ \mathbb {C} },skip
+{ a_{n}z^{n}+\dotsb +a_{1}z+a_{0}=0},skip
+\mathbb{C} ,skip
+\mathbb {Q} ,有理數域
+\mathbb {R} ,實數域
+{ \mathbb {C} },skip
+\mathbb{C} ,skip
+\mathbb {Q} ,有理數
+{ \mathbb {C} ,},skip
+{ \mathbb {C} },skip
+{ \mathbb {Q} _{p}},有理數p
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+{ \mathbb {C} },skip
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+{ \mathbb {C} },skip
+\mathbb{C} ,skip
+{ \mathbb {C} },skip
+{ \mathbb {C} },skip
+\mathbb {R} ,skip
+{ \mathbb {C} },skip
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+\mathbb {R} ,skip
+\mathbb{C} ,skip
+\mathbb {R} ^{2},實數域平方
+{ {\begin{aligned}(a,b)+(c,d)&=(a+c,b+d)\\(a,b)\cdot (c,d)&=(ac-bd,bc+ad)\end{aligned}}},skip
+\mathbb{C} ,skip
+{ (x+y)z=xz+yz},x加y乘以z等於xz加yz
+\mathbb {R} ,實數
+{ a_{n}X^{n}+\dotsb +a_{1}X+a_{0},},skip
+{ \mathbb {R} [X]},skip
+{ \mathbb {R} [X]/(X^{2}+1)},skip
+{ \mathbb {R} [X]/(X^{2}+1)},skip
+{ \mathbb {R} ,},skip
+{ \mathbb {R} [X],},skip
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+\mathbb {R} ,實數
+\mathbb{C} ,skip
+{ \mathbb {R} },skip
+{ {\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}},skip
+{ a+ib\mapsto {\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}},skip
+{ {\begin{pmatrix}\cos t&-\sin t\\\sin t&\;\;\cos t\end{pmatrix}}},skip
+{ \cos t+i\sin t},cos t 加 i sin t
+\mathbb {C} ,skip
+{ \operatorname {d} (z_{1},z_{2})=|z_{1}-z_{2}|},d of z1,z2 等於z1減z2的絕對值
+{ |z_{1}+z_{2}|\leq |z_{1}|+|z_{2}|},skip
+{ \exp z:=1+z+{\frac {z^{2}}{2\cdot 1}}+{\frac {z^{3}}{3\cdot 2\cdot 1}}+\cdots =\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}},skip
+{ \exp(i\varphi )=\cos \varphi +i\sin \varphi },skip
+{ \exp(i\pi )=-1},exp of ipi等於負1
+{ \exp z=w},exp of z等於w
+{ \log w=\ln |w|+i\arg w,},log w 等於ln w的絕對值加iw的極角值
+{ z^{\omega }=\exp(\omega \log z),},z的omega次方等exp of omega log z
+{ a^{bc}=\left(a^{b}\right)^{c}},a的bc次方等於a的b次方的c次方
+\mathbb {C} ,skip
+\mathbb {C} ,skip
+\mathbb {R} ,實數
+\mathbb {C} ,skip
+\mathbb {C} ,skip
+{ f(z)=az+b{\overline {z}}},f of z等於az加bz共軛
+b{\overline {z}},bz共軛
+\mathbb {C} ,skip
+u,v,w,u,v,w
+{ \{u,v,w\}},skip
+{ S(u,v,w)={\frac {u-w}{u-v}}},S of u,v,w等於u減v分之u減w
+{ \{u,v,w\}},skip
+{ f_{c}(z)=z^{2}+c},fc of z等於z平方加c
+\mathbb {C} ,skip
+{\overline {\mathbb {Q} }},skip
+\mathbb {Q} ,有理數
+\mathbb {C} ,skip
+{ x(t)=\operatorname {Re} \{X(t)\}},x of t等於X of t 的實部
+{ X(t)=Ae^{i\omega t}=ae^{i\phi }e^{i\omega t}=ae^{i(\omega t+\phi )}},skip
+{ {\begin{aligned}\cos((\omega +\alpha )t)+\cos \left((\omega -\alpha )t\right)&=\operatorname {Re} \left(e^{i(\omega +\alpha )t}+e^{i(\omega -\alpha )t}\right)\\&=\operatorname {Re} \left(\left(e^{i\alpha t}+e^{-i\alpha t}\right)\cdot e^{i\omega t}\right)\\&=\operatorname {Re} \left(2\cos(\alpha t)\cdot e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \operatorname {Re} \left(e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \cos \left(\omega t\right)\end{aligned}}},skip
+{ V(t)=V_{0}e^{j\omega t}=V_{0}\left(\cos \omega t+j\sin \omega t\right),},skip
+{ v(t)=\operatorname {Re} (V)=\operatorname {Re} \left[V_{0}e^{j\omega t}\right]=V_{0}\cos \omega t},skip
+\mathbb {R} ,skip
+\mathbb {C} ,skip
+\mathbb {H} ,四元數
+\mathbb {O} ,八元數
+\mathbb {R} ,skip
+{ \mathbb {C} ,},skip
+\mathbb {R} ,skip
+\mathbb {R} ,skip
+\mathbb {R} ,skip
+{ {\begin{aligned}\mathbb {C} &\rightarrow \mathbb {C} \\z&\mapsto wz\end{aligned}}},skip
+{ {\begin{pmatrix}\operatorname {Re} (w)&-\operatorname {Im} (w)\\\operatorname {Im} (w)&\operatorname {Re} (w)\end{pmatrix}},},skip
+\mathbb {C} ,skip
+{ J={\begin{pmatrix}p&q\\r&-p\end{pmatrix}},\quad p^{2}+qr+1=0},skip
+{ \{z=aI+bJ:a,b\in \mathbb {R} \}},skip
+{ \mathbb {C} ,},skip
+{ \mathbb {R} ^{2}},R平方
+{ \mathbb {R} ,},R,
+{ \mathbb {C} ,},C,
+{ \mathbb {H} ,},四元數,
+{ \mathbb {O} },八元數,
+{ \mathbb {R} [x]/(x^{2}-1)},skip
+{ \mathbb {R} [x]/(x^{2}+1)},skip
+\mathbb {R} ,skip
+{ \mathbb {Q} ,},skip
+\mathbb {Q} ,Q
+{ \mathbb {Q} _{p}},Qp
+\mathbb {R} ,R
+\mathbb {Q} ,skip
+\mathbb {R} ,skip
+{ \mathbb {Q} _{p},},Qp
+{ {\overline {\mathbb {Q} _{p}}}},skip
+{ \mathbb {Q} _{p}},skip
+\mathbb {C} ,C
+{\mathbb  {C}}_{p},Cp
+{ {\overline {\mathbb {Q} _{p}}}},skip
+{ \mathbb {R} ,},skip
+{ \mathbb {Q} _{p},},skip
+{ \mathbb {C} ,},skip
+{ {\mathcal {G}}_{2}^{+}},skip
+{ :\;\mathbb {C} },:C
+{ :\;\mathbb {R} },skip
+{ :\;\mathbb {Q} },skip
+{ :\;\mathbb {Z} },:Z
+{ :\;\mathbb {N} },skip
+\R^2,skip
+\mathbb{C} ,skip
+\left(\sqrt[3]{u} + \sqrt[3]{v}\right)^3 = 3 \sqrt[3]{uv} \left(\sqrt[3]{u} + \sqrt[3]{v}\right) + u + v,skip
+x = \sqrt[3]{u} + \sqrt[3]{v},x等於u的三次根號加v的三次根號
+p = 3 \sqrt[3]{uv},p等於3乘以uv的三次根號
+u = q/2 + \sqrt{(q/2)^2-(p/3)^3},u等於2分之q加根號二分之q平方減三分之p的三次方
+v = q/2 - \sqrt{(q/2)^2-(p/3)^3},v等於二分之q減根號q除以2平方減p除以3立方
+x = \sqrt[3]{q/2 + \sqrt{(q/2)^2-(p/3)^3}} + \sqrt[3]{q/2 - \sqrt{(q/2)^2-(p/3)^3}},skip
+{ a=m+n{\sqrt {-1}}},a等於m加n乘以根號負1
+{ a_{'}},skip
+{ a'={\sqrt {m^{2}+n^{2}}}},a prime等於根號m平加n平
+{ a=m+n{\sqrt {-1}}},skip
+{ a_{'}},skip
+{ a'={\sqrt {m^{2}+n^{2}}}},skip
+{ a={\sqrt {m^{2}+n^{2}}}},a等於根號m平加n平
+{ a+b{\sqrt {-1}}},a加b根號負1
+{ a+b{\sqrt {-1}}},skip
+{ a={\sqrt {m^{2}+n^{2}}}},skip
+{ a+b{\sqrt {-1}}},skip
+{ a+b{\sqrt {-1}}\,,},skip
+{ {\frac {a}{\sqrt {a^{2}+b^{2}}}}+{\frac {b}{\sqrt {a^{2}+b^{2}}}}{\sqrt {-1}}},skip
+{\sqrt {-1}},負1開根號
+\infty ,無限大
+\infty ,無限大
+{\sqrt {-1}},負一開根號
+-\infty ,負無限大
++\infty ,正無限大
+\scriptstyle {\sqrt {-1}},skip
+\mathbb N,skip
+\mathbb {Z} ,Z
+\mathbb {Q} ,Q
+\mathbb {A} ,代數數
+\mathbb{R} ,實數
+\mathbb{C} ,skip
+\mathbb {H} ,skip
+\mathbb {O} ,skip
+\mathbb{R} ,skip
+\mathbb{C} ,C
+{\mathbb  S},skip
+{\overrightarrow {AB}},AB向量
+{ {\stackrel {\,\longrightarrow }{AB}}},skip
+{ {\stackrel {\,\longrightarrow }{A'B'}}},skip
+{\overrightarrow {AB}},AB向量
+{ {\overrightarrow {E}},},E向量
+{ {\overrightarrow {E}},},E向量
+\overrightarrow{E},E向量
+\mathbb {R} ^{n},實數的n次方
+\mathbb {R} ^{n},R的n次方
+\mathbb {R} ^{n},skip
+{ \mathbb {R} ^{n}},skip
+{ {\overrightarrow {OP}}},OP向量
+\mathbb {R} ^{n,skip
+{\overrightarrow {AB}},AB向量
+{ (1,2,3)+(-2,0,4)=(1-2,2+0,3+4)=(-1,2,7)\,},1,2,3 加負2,0,4等於1減2,2加0,34等於負1,2,7
+\mathbf {u} ,skip
+\mathbf {v} ,v
+\mathbf {w} ,w
+{\vec {a}},a向量
+{\underset {^{\sim }}{a}},skip
+{ {\stackrel {\longrightarrow }{AB}}},skip
+{\mathfrak {a}},skip
+{ \mathbf {a} =(2,3)},a等於2,3
+{\overrightarrow {OA}},OA向量
+{ \mathbf {a} =(a_{1},a_{2},a_{3})},a等於a1,a2,a3
+{ \mathbf {a} =(a_{x},a_{y},a_{z})},a等於ax,ay,az
+{ \mathbf {a} =(a_{1},a_{2},a_{3},\cdots ,a_{n-1},a_{n})},skip
+{ \mathbf {a} ={\begin{bmatrix}a_{1}\\a_{2}\\a_{3}\\\end{bmatrix}}=[a_{1}\ a_{2}\ a_{3}]^{\operatorname {T} }},skip
+{ {\mathbf {e} }_{1}=(1,0,0),\ {\mathbf {e} }_{2}=(0,1,0),\ {\mathbf {e} }_{3}=(0,0,1)},skip
+{ \mathbf {a} =(a_{1},a_{2},a_{3})=a_{1}(1,0,0)+a_{2}(0,1,0)+a_{3}(0,0,1),\ },skip
+{ \mathbf {a} =\mathbf {a} _{1}+\mathbf {a} _{2}+\mathbf {a} _{3}=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3},},a等於a1加a2加a3
+\mathbf {i} ,\mathbf {j} ,\mathbf {k} ,i,j,k
+\mathbf {\hat {x}} ,\mathbf {\hat {y}} ,\mathbf {\hat {z}} ,xhat,yhat,zhat
+{ \mathbf {a} =\mathbf {a} _{x}+\mathbf {a} _{y}+\mathbf {a} _{z}=a_{x}{\mathbf {i} }+a_{y}{\mathbf {j} }+a_{z}{\mathbf {k} }},skip
+\mathbf {\hat {x}} ,\mathbf {\hat {y}} ,\mathbf {\hat {z}} ,x hat,y hat,z hat
+{\boldsymbol {\hat {\rho }}},{\boldsymbol {\hat {\phi }}},\mathbf {\hat {z}} ,skip
+\mathbf {\hat {r}} ,{\boldsymbol {\hat {\theta }}},{\boldsymbol {\hat {\phi }}},skip
+{ {\mathbf {e} }_{1}=(1,0,0),\ {\mathbf {e} }_{2}=(0,1,0),\ {\mathbf {e} }_{3}=(0,0,1)},skip
+{ {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}},skip
+{ {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}},skip
+{ {\mathbf {b} }=b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}},skip
+{ a_{1}=b_{1},\quad a_{2}=b_{2},\quad a_{3}=b_{3}\,},a1等於b1,a2等於b2,a3等於b3
+{ {\mathbf {a} }=a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}},a等於a1e1加a2e2加a3e3
+{ {\mathbf {b} }=b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}},b等於b1e1加b2e2加b3e3
+{ a_{1}=-b_{1},\quad a_{2}=-b_{2},\quad a_{3}=-b_{3}\,},a1等於負b1 a2等於負b2 a3等於負b3
+{ \mathbf {a} +\mathbf {b} =(a_{1}+b_{1})\mathbf {e} _{1}+(a_{2}+b_{2})\mathbf {e} _{2}+(a_{3}+b_{3})\mathbf {e} _{3}},skip
+{ \mathbf {a} -\mathbf {b} =(a_{1}-b_{1})\mathbf {e} _{1}+(a_{2}-b_{2})\mathbf {e} _{2}+(a_{3}-b_{3})\mathbf {e} _{3}},a減b等於a1減b1
+{ r\mathbf {a} =(ra_{1})\mathbf {e} _{1}+(ra_{2})\mathbf {e} _{2}+(ra_{3})\mathbf {e} _{3}},skip
+{ \left\|\mathbf {a} \right\|={\sqrt {a_{1}^{2}+a_{2}^{2}+a_{3}^{2}}},},skip
+{ \left\|\mathbf {a} \right\|={\sqrt {\mathbf {a} \cdot \mathbf {a} }}},a的絕對值等於根號a內積a
+{ \mathbf {\hat {a}} ={\frac {\mathbf {a} }{\left\|\mathbf {a} \right\|}}={\frac {a_{1}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{1}+{\frac {a_{2}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{2}+{\frac {a_{3}}{\left\|\mathbf {a} \right\|}}\mathbf {e} _{3}},skip
+{\vec {0}},0向量
+{ \mathbf {a} \cdot \mathbf {b} =\left\|\mathbf {a} \right\|\left\|\mathbf {b} \right\|\cos \theta ,},a內積b等於a的絕對值乘b的絕對值乘以cos theta
+{ \mathbf {a} \cdot \mathbf {b} =a_{1}b_{1}+a_{2}b_{2}+a_{3}b_{3}},a內積b等於a1b1加a2b2加a3b3
+{ \mathbf {a} \times \mathbf {b} =\left\|\mathbf {a} \right\|\left\|\mathbf {b} \right\|\sin(\theta )\,\mathbf {n} },a外積b等於a的絕對值乘以b的絕對值乘以sin theta{ {\mathbf {a} }\times {\mathbf {b} }=(a_{2}b_{3}-a_{3}b_{2}){\mathbf {e} }_{1}+(a_{3}b_{1}-a_{1}b_{3}){\mathbf {e} }_{2}+(a_{1}b_{2}-a_{2}b_{1}){\mathbf {e} }_{3}},skip
+{ (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )=\mathbf {a} \cdot (\mathbf {b} \times \mathbf {c} )},a b c等於a內積b外積c
+{ (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )={\begin{vmatrix}a_{1}&a_{2}&a_{3}\\b_{1}&b_{2}&b_{3}\\c_{1}&c_{2}&c_{3}\\\end{vmatrix}}},skip
+{ (\mathbf {a} \ \mathbf {b} \ \mathbf {c} )=(\mathbf {c} \ \mathbf {a} \ \mathbf {b} )=(\mathbf {b} \ \mathbf {c} \ \mathbf {a} )=-(\mathbf {a} \ \mathbf {c} \ \mathbf {b} )=-(\mathbf {b} \ \mathbf {a} \ \mathbf {c} )=-(\mathbf {c} \ \mathbf {b} \ \mathbf {a} )},a b c 等於 c a b
+{ \mathbf {a} =p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3}},a等於pe1加qe2加re3
+{ {\begin{aligned}p&=\mathbf {a} \cdot \mathbf {e} _{1},\\q&=\mathbf {a} \cdot \mathbf {e} _{2},\\r&=\mathbf {a} \cdot \mathbf {e} _{3}\end{aligned}}},skip
+{ \mathbf {a} =u\mathbf {n} _{1}+v\mathbf {n} _{2}+w\mathbf {n} _{3}},a等於un1加vn2加wn3
+{ {\begin{aligned}u&=\mathbf {a} \cdot \mathbf {n} _{1},\\v&=\mathbf {a} \cdot \mathbf {n} _{2},\\w&=\mathbf {a} \cdot \mathbf {n} _{3}\end{aligned}}},skip
+{ {\begin{aligned}u&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{1},\\v&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{2},\\w&=(p\mathbf {e} _{1}+q\mathbf {e} _{2}+r\mathbf {e} _{3})\cdot \mathbf {n} _{3}\end{aligned}}},skip
+{ {\begin{aligned}u&=p\mathbf {e} _{1}\cdot \mathbf {n} _{1}+q\mathbf {e} _{2}\cdot \mathbf {n} _{1}+r\mathbf {e} _{3}\cdot \mathbf {n} _{1},\\v&=p\mathbf {e} _{1}\cdot \mathbf {n} _{2}+q\mathbf {e} _{2}\cdot \mathbf {n} _{2}+r\mathbf {e} _{3}\cdot \mathbf {n} _{2},\\w&=p\mathbf {e} _{1}\cdot \mathbf {n} _{3}+q\mathbf {e} _{2}\cdot \mathbf {n} _{3}+r\mathbf {e} _{3}\cdot \mathbf {n} _{3}\end{aligned}}},skip
+{ {\begin{aligned}u&=c_{11}p+c_{12}q+c_{13}r,\\v&=c_{21}p+c_{22}q+c_{23}r,\\w&=c_{31}p+c_{32}q+c_{33}r,\end{aligned}}},skip
+{ {\begin{bmatrix}u\\v\\w\\\end{bmatrix}}={\begin{bmatrix}c_{11}&c_{12}&c_{13}\\c_{21}&c_{22}&c_{23}\\c_{31}&c_{32}&c_{33}\end{bmatrix}}{\begin{bmatrix}p\\q\\r\end{bmatrix}}},skip
+{ {\begin{aligned}c_{11}&=\mathbf {n} _{1}\cdot \mathbf {e} _{1}\\c_{12}&=\mathbf {n} _{1}\cdot \mathbf {e} _{2}\\c_{13}&=\mathbf {n} _{1}\cdot \mathbf {e} _{3}\\c_{21}&=\mathbf {n} _{2}\cdot \mathbf {e} _{1}\\c_{22}&=\mathbf {n} _{2}\cdot \mathbf {e} _{2}\\c_{23}&=\mathbf {n} _{2}\cdot \mathbf {e} _{3}\\c_{31}&=\mathbf {n} _{3}\cdot \mathbf {e} _{1}\\c_{32}&=\mathbf {n} _{3}\cdot \mathbf {e} _{2}\\c_{33}&=\mathbf {n} _{3}\cdot \mathbf {e} _{3}\end{aligned}}},skip
+{ (a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2})+(b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2})=(a_{1}+b_{1}){\mathbf {e} }_{1}+(a_{2}+b_{2}){\mathbf {e} }_{2},},a1e1加a2e2加b1e1加b2e2
+{ {\begin{aligned}(a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2}+a_{3}{\mathbf {e} }_{3}+a_{4}{\mathbf {e} }_{4})&+(b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2}+b_{3}{\mathbf {e} }_{3}+b_{4}{\mathbf {e} }_{4})=\\(a_{1}+b_{1}){\mathbf {e} }_{1}+(a_{2}+b_{2}){\mathbf {e} }_{2}&+(a_{3}+b_{3}){\mathbf {e} }_{3}+(a_{4}+b_{4}){\mathbf {e} }_{4}\end{aligned}}},skip
+{ (a_{1}{\mathbf {e} }_{1}+a_{2}{\mathbf {e} }_{2})\wedge (b_{1}{\mathbf {e} }_{1}+b_{2}{\mathbf {e} }_{2})=(a_{1}b_{2}-a_{2}b_{1})\mathbf {e} _{1}\mathbf {e} _{2}},skip
+{ {\mathbf {x} }=x_{1}{\mathbf {e} }_{1}+x_{2}{\mathbf {e} }_{2}+x_{3}{\mathbf {e} }_{3}},x等於x1e1加x2e2加x3e3
+{ {\mathbf {y} }-{\mathbf {x} }=(y_{1}-x_{1}){\mathbf {e} }_{1}+(y_{2}-x_{2}){\mathbf {e} }_{2}+(y_{3}-x_{3}){\mathbf {e} }_{3}},y減x等於y1減x1e1加y2減x2e2加y3減x3e3
+{ {\mathbf {x} }_{t}=t{\mathbf {v} }+{\mathbf {x} }_{0},},xt等於tv加x0
+{ {\mathbf {F} }=m{\mathbf {a} }},F等於ma
+{ E={\mathbf {F} }\cdot ({\mathbf {x} }_{2}-{\mathbf {x} }_{1})},E等於F乘以x2減x1
+^{-1},skip
+\mathbb {B} ,skip
+\mathbb {B} ,skip
+{ \mathbb {B} ^{n}},skip
+\mathbb {Z} ,Z
+\mathbb {Z} ,整數域
+\mathbb{R} ,skip
+\mathbb{R} ,skip
+\mathbb {R} ^{n},skip
+\mathbb{C} ,skip
+\mathbb{C} ,skip
+{ \mathbb {C} ^{n}},skip
+{ \left(x+1)^{2}\right\vert _{x=4}},x加1平方於x等於4
+{ \forall x\in X,\forall y\in Y,\forall z\in Y,\quad ((x,y)\in R\land (x,z)\in R)\implies y=z},siip
+{ \forall x\in X,\exists y\in Y,\quad (x,y)\in R},所有在X裡的x都存在一個在Y裡的y 使得x,y在實數域
+{ Y^{X},},Y的X次方
+{ Y^{X}=\prod _{x\in X}Y},Y的X次方等於所有在X裡的x Y的乘積
+S\subseteq X,S是X的子集
+x\in X,x屬於X
+{ f(x)=x+1},f of x等於x加1
+\mathbb {R} ,R
+\mathbb {R} ,skip
+{ f(x)=\sin(x^{2}+1)},f of x 等於 sin x平方加1
+x\mapsto x+1,skip
+\mathbb {R} ,skip
+{ {\begin{aligned}\operatorname {sqr} \colon \mathbb {Z} &\to \mathbb {Z} \\x&\mapsto x^{2}\end{aligned}}},skip
+{ f\colon X\times X\to Y;\;(x,t)\mapsto f(x,t)},skip
+X\to Y,X to Y
+{ x\mapsto f(x,t_{0})},skip
+{ x\mapsto f(x,t_{0})},skip
+{ f_{x}},fx
+f_{n},fn
+{ x\mapsto f(x,t)},skip
+f_{t},ft
+f_{t},ft
+{ f_{t}(x)=f(x,t)},ft of x等於 f of x,t
+{ x,t\in X},x,t屬於X
+{ x\mapsto f(x),},skip
+{ a(\cdot )^{2}},skip
+{ x\mapsto ax^{2}},skip
+{style \int _{a}^{\,(\cdot )}f(u)\,du},skip
+{style x\mapsto \int _{a}^{x}f(u)\,du},skip
+{ A=\{1,2,3\}},A等於1,2,3
+{ f\colon A\to \mathbb {R} },skip
+{ f(1)=2,f(2)=3,f(3)=4},f of 1 等於2, f of 2 等於3,f of 3 等於4
+{ f(n)=n+1},f of n 等於n加1
+{ n\in \{1,2,3\}},n屬於1,2,3
+\mathbb {R} ,skip
+{ \mathbb {R} ,},skip
+{ f(x)={\sqrt {1+x^{2}}}},f of x等於根號1加x平方

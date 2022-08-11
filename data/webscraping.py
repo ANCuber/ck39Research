@@ -6,6 +6,7 @@ url = input("input web address:")
 response = requests.get(
 	url=url
 )
+writefiledir = "testdata_for_seq2seq_base.txt"
 soup = BeautifulSoup(response.content, 'html.parser')
 tags=soup.findAll('img')
 for tex in tags:
@@ -22,7 +23,7 @@ for tex in tags:
             if(postext[-1]==','):
                 postext = postext[0:-2]
             postext= postext+'\n'
-            with open("database.txt", "a",encoding='utf-8') as file_object:
+            with open(writefiledir, "a",encoding='utf-8') as file_object:
                 file_object.write(postext)
 
 

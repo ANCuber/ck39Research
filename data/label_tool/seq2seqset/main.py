@@ -2,7 +2,9 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('TKAgg')
 ax=plt.subplot(111)
-with open('database.txt','r') as f:
+basedir = "testdata_for_seq2seq_base.txt";
+writedir = "result.txt"
+with open(basedir,'r') as f:
     lines = f.readlines();
     for line in lines:
         ax=plt.subplot(111)
@@ -13,8 +15,12 @@ with open('database.txt','r') as f:
         ax.text(0, 0.5,'$%s$'%a,size=50,color='black')
         plt.show(block=False)
         g = input();
+        plt.close()
+        if(g=="skip"):
+            continue;
         with open('result.txt','a') as wf:
             wf.write(a+","+g+'\n');
             print(g + a)
             wf.close();
-        plt.close()
+        
+#note: things to remove, \left \right \quad \space, redundent {} () , style
