@@ -1,7 +1,6 @@
 import csv
 def num_there(s):
     return any(i.isdigit() for i in s)
-  
 
 
 
@@ -37,4 +36,3 @@ with open(filenamewrite,'w',encoding='utf-8') as out:
           newrow[0] = row[0].replace('y','p');
           newrow[1] = row[1].replace('y','p');
           writer.writerow(newrow);
-
