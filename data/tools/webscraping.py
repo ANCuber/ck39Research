@@ -19,3 +19,4 @@ while(True):
         if(len(postext)!=0):
             with open(writefiledir,'a',encoding='utf-8') as f:
                 f.write(postext+'\n')
+    print("complete! :)")
