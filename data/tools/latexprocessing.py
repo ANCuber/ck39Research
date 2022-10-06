@@ -15,6 +15,8 @@ def norm(rlatex):
         rlatex = rlatex[11:-1]
     if(rlatex.startswith(r"{\begin{aligned}")):
         rlatex = rlatex[16:-14]
+    if(r"\begin{array}" in rlatex):
+        return ""
     rlatex.replace(r"\left",'')
     rlatex.replace(r"\right",'')
     for i in range(5):
