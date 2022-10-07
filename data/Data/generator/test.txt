@@ -329,3 +329,236 @@ k\cdot 2^{n}+1
 \mu(1) = 1
 \mu(n) = 0
 \{1, p, p^2\}
+\pi =3.14159265
+e=2.718281828
+i={\sqrt {-{1}}}
+\infty
+{\frac {a}{b}}
+a,b\in Z,b\neq 0
+a/b
+{\frac {a}{b}}\equiv a:b\ (a,b\in \mathbb {Z} ,a,b\neq 0)
+{\frac {a}{b}}\equiv a\div b\ (a,b\in \mathbb {Z} ,b\neq 0)
+\frac{1}{3}
+\frac{1}{3}
+{\frac {4}{~{}15~{}}}
+{\frac {3}{~{}7~{}}}
+{\frac {5}{~{}3~{}}}
+{\frac {8}{~{}8~{}}}
+a{\frac {b}{c}}
+1{\frac {1}{~{}2~{}}}
+{\frac {~{}(a\times c)+b~{}}{c}}
+{\frac {1}{100}}
+10^{-2}
+{\frac {1}{~{}99~{}}}
+{\frac {19}{~{}20~{}}}={\frac {1}{~{}2~{}}}+{\frac {1}{~{}3~{}}}+{\frac {1}{~{}9~{}}}+{\frac {1}{~{}180~{}}}
+{\frac {~{}{\frac {a}{~{}b~{}}}~{}}{\frac {c}{~{}d~{}}}}
+{\frac {ad}{~{}bc~{}}}
+x=a_{0}+{\frac {1}{~{}a_{1}+{\frac {1}{~{}a_{2}+{\frac {1}{~{}a_{3}+\dots }}}}}}
+{\frac {3}{6}}={\frac {1}{2}}
+{\frac {1}{2}}={\frac {2}{4}}
+{\frac {1}{4}}+{\frac {1}{4}}={\frac {1+1}{4}}={\frac {2}{4}}={\frac {1}{2}}
+{\frac {1}{5}}+{\frac {1}{3}}={\frac {3}{15}}+{\frac {5}{15}}={\frac {3+5}{15}}={\frac {8}{15}}
+={\frac {1}{5}}\times {\frac {11}{7}}={\frac {1\times 11}{5\times 7}}={\frac {11}{35}}
+\pi =3.14159265
+e=2.718281828
+i={\sqrt {-{1}}}
+10^n
+{\frac {1}{7}}=0.142\ 857\ 142\ 857\ 142\ 857\ldots
+{\frac {11}{6}}=1.833\ 333\ldots
+\pi =3.141\ 592\ 653\ 589\ 793\ 23\ldots
+e=2.718\ 281\ 828\ 459\ 04\ldots
+0.9999...={\frac  {9}{9}}=1
+0.2525...={\frac  {25}{99}}
+0.333...={\frac  {3}{9}}={\frac  {1}{3}}
+0.1333333...=0.1+0.0333333...={\frac  {2}{15}}
+3{\color {Brown}.14}
+3{\color {Brown},14}
+3{\begin{smallmatrix}{\color {Brown}\underline {14}}\end{smallmatrix}}
+3^{{\,{\color {Brown}\underline {14}}}}
+{\sqrt {2}}
+{\sqrt {3}}=1.73205080\cdots
+\log _{10}3=0.47712125\cdots
+e=2.71828182845904523536\cdots
+\sin {45^{\circ }}={\frac {\sqrt {2}}{2}}=0.70710678\cdots
+\pi =3.141592653589793238462\cdots
+\log _{10}2+\log _{10}5=\log _{10}10=1
+\pi +e
+\pi -e
+m\pi +ne
+\pi -\pi =0
+{\sqrt {2}}+{\sqrt {3}}
+2^{e}
+\pi ^{e}
+\pi ^{\sqrt {2}}
+x^{2}=c\qquad (c>0)
+\rho ^{2}<c
+x^{2}\ -\!\rho ^{2}&=c\ -\!\rho ^{2}\\(x\ -\!\rho )(x\ +\!\rho )&=c\ -\!\rho ^{2}\\x\ -\!\rho &={\frac {c\ -\!\rho ^{2}}{\rho \ +\!x}}\\x&=\rho \ +\!{\frac {c\ -\!\rho ^{2}}{\rho \ +\!x}}\\&=\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{\rho \ +\!\left(\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{\rho \ +\!x}}\right)}}\\&=\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{2\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{2\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{\ddots \,}}}}}}={\sqrt {c}}
+{\sqrt {2}}
+{\sqrt {2}}={\frac {p}{q}}
+{\frac {p}{q}}
+2={\frac {p^{2}}{q^{2}}}
+2q^{2}=p^{2}
+p^2
+q^{2}=2p_{1}^{2}
+{\frac {p}{q}}
+{\sqrt {2}}
+{\sqrt {2}}+{\sqrt {3}}
+{\sqrt {2}}+{\sqrt {3}}=p
+5+2{\sqrt {6}}=p^{2}\Rightarrow {\sqrt {6}}={\frac {p^{2}-5}{2}}
+{\frac {p^{2}-5}{2}}
+{\sqrt {a}}
+{\sqrt {6}}
+{\frac {p^{2}-5}{2}}
+{\frac {p^{2}-5}{2}}
+{\sqrt {2}}+{\sqrt {3}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p
+10+2{\sqrt {6}}+2{\sqrt {10}}+2{\sqrt {15}}=p^{2}\Rightarrow {\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}={\frac {p^{2}-10}{2}}
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}
+31+10{\sqrt {6}}+6{\sqrt {10}}+4{\sqrt {15}}={\frac {(p^{2}-10)^{2}}{4}}
+5{\sqrt {6}}+3{\sqrt {10}}+2{\sqrt {15}}={\frac {{\frac {(p^{2}-10)^{2}}{8}}-31}{2}}
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}
+3{\sqrt {6}}+{\sqrt {10}}+2({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}})={\frac {{\frac {(p^{2}-10)^{2}}{4}}-31}{2}}
+\Rightarrow 3{\sqrt {6}}+{\sqrt {10}}={\frac {{\frac {(p^{2}-10)^{2}}{4}}-31}{2}}-2({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}})
+{\sqrt {a}}+{\sqrt {b}}
+3{\sqrt {6}}+{\sqrt {10}}
+{\frac {{\frac {(p^{2}-10)^{2}}{8}}-31}{2}}
+2({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}})
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p
+\Rightarrow {\sqrt {2}}+{\sqrt {3}}=p-{\sqrt {5}}
+\Rightarrow ({\sqrt {2}}+{\sqrt {3}})^{2}=(p-{\sqrt {5}})^{2}
+\Rightarrow 5+2{\sqrt {6}}=p^{2}+5-2p{\sqrt {5}}
+\Rightarrow 2({\sqrt {6}}+p{\sqrt {5}})=p^{2}
+{\sqrt {a}}+{\sqrt {b}}
+{\sqrt {6}}+p{\sqrt {5}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}+{\sqrt {7}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}+{\sqrt {7}}=p
+\Rightarrow {\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p-{\sqrt {7}}
+\Rightarrow 10+2{\sqrt {6}}+2{\sqrt {10}}+2{\sqrt {15}}=p^{2}+7-2p{\sqrt {7}}
+\Rightarrow {\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}={\frac {p^{2}}{2}}-{\frac {3}{2}}
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}
+\Rightarrow {\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}={\frac {p^{2}}{2}}-{\frac {3}{2}}-p{\sqrt {7}}
+\Rightarrow \left({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}\right)^{2}=\left(p^{2}-{\frac {3}{2}}-p{\sqrt {7}}\right)^{2}
+\Rightarrow \left({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}\right)^{2}=\left[\left(p^{2}-{\frac {3}{2}}\right)-p{\sqrt {7}}\right]^{2}
+\Rightarrow 31+2{\sqrt {60}}+2{\sqrt {90}}+2{\sqrt {150}}=\left(p^{2}-{\frac {3}{2}}\right)^{2}+(-p{\sqrt {7}})^{2}-2\times {p}{\sqrt {7}}\times \left(p^{2}-{\frac {3}{2}}\right)
+\Rightarrow 31+4{\sqrt {15}}+6{\sqrt {10}}+10{\sqrt {6}}=\left(p^{2}-{\frac {3}{2}}\right)^{2}+7p^{2}-p(2p^{2}-3){\sqrt {7}}
+\Rightarrow 2{\sqrt {10}}+6{\sqrt {6}}+p(2p^{2}-3){\sqrt {7}}=\left(p^{2}-{\frac {3}{2}}\right)^{2}+7p^{2}-4\left({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}\right)-31
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}
+{\sqrt {a}}+{\sqrt {b}}+{\sqrt {c}}
+{\sqrt {10}}+6{\sqrt {6}}+p(2p^{2}-3){\sqrt {7}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}+{\sqrt {7}}
+{\sqrt {2}}
+y^2 = x
+4^{2}=(-4)^{2}=16
+{\sqrt {x}}
+{\sqrt {9}}=3
+3^{2}=3\times 3=9
+{\sqrt {x}}
+-\sqrt x
+\pm {\sqrt {x}}
+\sqrt 2
+\sqrt {}
+\sqrt[n]{\,\,}
+x^\frac 1 2 = \sqrt x
+x^{2}
+f(x) = \sqrt x
+\begin{align}
+\sqrt{x} \sqrt{y} &= \sqrt{xy}\\
+\frac{\sqrt{x}}{\sqrt{y}} &= \sqrt{\frac{x}{y}}
+\end{align}
+i=\sqrt{-1}
+\pm \sqrt{-x}i
+\sqrt{-x}i = \sqrt x
+\sqrt{5}i
+-\sqrt{5}i
+\sqrt{x} \sqrt{y} &= \sqrt{-x}\,i \times \sqrt{-y}\,i = \sqrt{xy}\,i^2 = -\sqrt{xy}\\
+\frac{\sqrt{x}}{\sqrt{y}} &= \frac{\sqrt{-x}i}{\sqrt{-y}i} = \sqrt{\frac{-x}{-y}} = \sqrt{\frac{x}{y}}
+i^{2}=-1
+(-i)^{2}=i^{2}=-1
+{\sqrt {-x}}=i{\sqrt {x}}
+(i{\sqrt {x}})^{2}=i^{2}({\sqrt {x}})^{2}=(-1)x=-x
+w^{2}=z
+{\sqrt {i}}={\frac {\sqrt {2}}{2}}+i{\frac {\sqrt {2}}{2}}={\frac {\sqrt {2}}{2}}(1+i)
+i&=(a+bi)^{2}\\&=a^{2}+2abi-b^{2}
+{\begin{cases}2ab=1\\a^{2}-b^{2}=0\end{cases}}
+a=b=\pm {\frac {\sqrt {2}}{2}}
+a=b={\frac {\sqrt {2}}{2}}
+i=\cos \left({\frac {\pi }{2}}\right)+i\sin \left({\frac {\pi }{2}}\right)
+{\sqrt {i}}&=\left[\cos \left({\frac {\pi }{2}}\right)+i\sin \left({\frac {\pi }{2}}\right)\right]^{\frac {1}{2}}\\&=\cos \left({\frac {\pi }{4}}\right)+i\sin \left({\frac {\pi }{4}}\right)\\&={\frac {\sqrt {2}}{2}}+i{\frac {\sqrt {2}}{2}}\\&={\frac {\sqrt {2}}{2}}(1+i)
+x+iy
+(x, y)
+(r,\varphi )
+r\geq 0
+re^{i\varphi }
+z=re^{i\varphi },-\pi <\varphi \leq \pi
+{\sqrt {z}}={\sqrt {r}}e^{\frac {i\varphi }{2}}
+\sqrt{1+x}
+x(\left\vert x\right\vert <1)
+{\sqrt {r\left(\cos \varphi +i\sin \varphi \right)}}={\sqrt {r}}\left(\cos {\frac {\varphi }{2}}+i\sin {\frac {\varphi }{2}}\right)
+{\sqrt {z}}={\sqrt {\frac {|z|+\Re (z)}{2}}}\pm i{\sqrt {\frac {|z|-\Re (z)}{2}}}
+\sqrt{zw} = \sqrt{z} \sqrt{w}
+{\frac {\sqrt {w}}{\sqrt {z}}}={\sqrt {\frac {w}{z}}}
+{\sqrt {z^{*}}}=\left({\sqrt {z}}\right)^{*}
+-1=i\cdot i={\sqrt  {-1}}\cdot {\sqrt  {-1}}={\sqrt  {(-1)\cdot (-1)}}={\sqrt  {1}}=1
+x\in\mathbb{R}
+{\sqrt {x^{4}+2x^{2}+1}}={\sqrt {(x^{2}+1)^{2}}}=|x^{2}+1|=x^{2}+1
+{\sqrt {2}}
+{\frac{p}{q}}
+\left( \sqrt 2 \right) ^{2} = {\frac{p^2}{q^2}} = 2
+p^2
+2k
+2q^2 = p^2 = 4k^2
+q^2 = 2k^2
+q^2
+{\sqrt {2}}
+{\sqrt {2}}
+{\sqrt {24}}={\sqrt {2^{2}\cdot 6}}={\sqrt {2^{2}}}{\sqrt {6}}=2{\sqrt {6}}
+2{\sqrt {6}}
+(a+b)^{2}=a^{2}+2ab+b^{2}=a^{2}+(2a+b)b
+\sqrt{200}
+\sqrt{200} \approx 14.14213562373095048801668872421
+\sqrt {1}
+\sqrt {2}
+\sqrt {3}
+\sqrt {4} = 2
+\sqrt {5}
+\sqrt {6}
+\sqrt {7}
+\sqrt {8} = 2 sqrt {2}
+\sqrt {9} = 3
+\sqrt {10}
+\sqrt {11}
+\sqrt {12} = 2 \sqrt {3}
+\sqrt {13}
+\sqrt {14}
+\sqrt {15}
+\sqrt {16} = 4
+\sqrt {17}
+\sqrt {18} = 3 \sqrt{2}
+\sqrt {19}
+\sqrt {20} = 2 \sqrt{5}
+x_{n+1} = \frac{1}{2}\left(x_n + \frac{S}{x_n}\right)
+\sqrt{125348}
+x_0 = 3^6 = 729.000
+x_1 = \frac{1}{2} \left(x_0 + \frac{S}{x_0}\right) = \frac{1}{2} \left(729.000 + \frac{125348}{729.000}\right) = 450.472
+x_2 = \frac{1}{2} \left(x_1 + \frac{S}{x_1}\right) = \frac{1}{2} \left(450.472 + \frac{125348}{450.472}\right) = 364.365
+x_3 = \frac{1}{2} \left(x_2 + \frac{S}{x_2}\right) = \frac{1}{2} \left(364.365 + \frac{125348}{364.365}\right) = 354.191
+x_4 = \frac{1}{2} \left(x_3 + \frac{S}{x_3}\right) = \frac{1}{2} \left(354.191 + \frac{125348}{354.191}\right) = 354.045
+x_5 = \frac{1}{2} \left(x_4 + \frac{S}{x_4}\right) = \frac{1}{2} \left(354.045 + \frac{125348}{354.045}\right) = 354.045
+\sqrt{125348} \approx 354.045
+{\sqrt {1}}=1
+{\sqrt {4}}=2
+{\sqrt {9}}=3
+\sqrt {16}}=4
+xy=N
+x=x={\frac {x+y}{2}}
+{\sqrt {AB}}
+x^2 + y^2 = \left({\frac{n+1}{2}}\right)^2
+x^2+y^2=r^2
+\left({\frac{n+1}{2}} -1 \right)
+\left({\frac{n+1}{2}} -1 \right)^2 + y^2 = \left({\frac{n+1}{2}}\right)^2
+y={\sqrt {n}}
+
+modified
