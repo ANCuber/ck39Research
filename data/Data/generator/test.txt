@@ -26,8 +26,6 @@ n-1
 {\sqrt {n}}
 O((\log n)^{2})
 1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
-\zeta (2)
-\zeta (2)=\pi ^{2}/6
 6/\pi ^{2}
 p(n)=a+bn
 {\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
@@ -106,4 +104,767 @@ n=1
 n=0
 \operatorname {Spec} A
 k\cdot 2^{n}+1
+2^{0}+1=2This is a good article. Click here for more information
+{\sqrt {n}}
+2,3,\dots ,n-1
+2\times n/2
+\mathbf {P}
+\mathbb {P}
+(n-1)!+1
+2^{2^{n}}+1
+2^p-1
+{\tfrac {1}{2}}+{\tfrac {1}{3}}+{\tfrac {1}{5}}+{\tfrac {1}{7}}+{\tfrac {1}{11}}+\cdots
+x/\log x
+\log x
+n>1
+34866&=2\times 3\times 3\times 13\times 149\\&=2\times 3^{2}\times 13\times 149
+3^2
+p_{1},p_{2},\ldots ,p_{n}
+N=1+p_{1}\cdot p_{2}\cdots p_{n}
+N=p'_{1}\cdot p'_{2}\cdots p'_{m}
+1+{\big (}2\cdot 3\cdot 5\cdot 7\cdot 11\cdot 13{\big )}=30031=59\cdot 509
+A>1
+\left\lfloor A^{3^{n}}\right\rfloor {\text{ and }}\left\lfloor 2^{\cdots ^{2^{2^{\mu }}}}\right\rfloor
+n
+\lfloor {}\cdot {}\rfloor
+n=4\cdot 10^{18}
+n!+2,n!+3,\dots ,n!+n
+n-1
+8!=40320
+{\sqrt {n}}
+O((\log n)^{2})
+1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
+\zeta (2)
+\zeta (2)=\pi ^{2}/6
+6/\pi ^{2}
+p(n)=a+bn
+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
+{\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}
+\left({{\frac {1}{3}}+{\frac {1}{5}}}\right)+\left({{\frac {1}{5}}+{\frac {1}{7}}}\right)+\left({{\frac {1}{11}}+{\frac {1}{13}}}\right)+\cdots
+{\tfrac {n}{\log n}}
+\operatorname {Li} (n)
+\pi (n)
+\pi (11)=5
+n/\log n
+\pi (n)\sim {\frac {n}{\log n}}
+n\log n
+\log n
+\pi (n)
+\pi (n)\sim \operatorname {Li} (n)=\int _{2}^{n}{\frac {dt}{\log t}}
+a,a+q,a+2q,a+3q,\dots
+4n^{2}-2n+41
+n^{2}-n+41
+1\leq n\leq 40
+s=1
+1+{\tfrac {1}{2}}+{\tfrac {1}{3}}+\dots
+\{0,1,2,\dots ,n-1\}
+x\equiv y
+2/3\equiv 3{\bmod {7}}
+2\equiv 9{\bmod {7}}
+2/3\equiv x{\bmod {6}}
+a\not \equiv 0
+a^{p-1}\equiv 1
+\sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}}
+p>1
+(p-1)
+\;n=r\cdot s\;
+(n-1)
+(n-1)!\equiv -1{\pmod {n}}
+\nu _{p}(n)
+m/n
+\nu _{p}(m)-\nu _{p}(n)
+|q|_{p}
+|q|_{p}=p^{-\nu _{p}(q)}
+\{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}
+\mathbb {Z} [i]
+a+bi
+1+i
+1-i
+p=x^{2}+y^{2}
+p=(x+iy)(x-iy)
+a+b\sqrt{-5}
+21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})
+p^{n}
+p^{n}
+n=a\cdot b
+{\sqrt {37}}
+p-2
+a^{(p-1)/2}\pm 1
+1/2^{n}
+\varepsilon
+O((\log n)^{6+\varepsilon })
+O((\log n)^{4+\varepsilon })
+O((\log n)^{2+\varepsilon })
+O(k(\log n)^{2+\varepsilon })
+4^{-k}
+O(k(\log n)^{2+\varepsilon })
+2^{{-k}}
+a^{b}{\bmod {c}}
+2^{16}
+Construction of a regular pentagon using straightedge and compass
+F_{k}=2^{2^{k}}+1
+2^{a}3^{b}+1
+\pm 1
+n\#
+n\#\pm 1
+4\cdot 10^{{18}}
+n=1
+n=0
+\operatorname {Spec} A
+k\cdot 2^{n}+1
+k
 2^{0}+1=2
+{\sqrt {n}}
+2,3,\dots ,n-1
+2\times n/2
+\mathbf {P}
+\mathbb {P}
+(n-1)!+1
+2^{2^{n}}+1
+2^p-1
+{\tfrac {1}{2}}+{\tfrac {1}{3}}+{\tfrac {1}{5}}+{\tfrac {1}{7}}+{\tfrac {1}{11}}+\cdots
+x/\log x
+\log x
+n>1
+34866&=2\times 3\times 3\times 13\times 149\\&=2\times 3^{2}\times 13\times 149
+3^2
+p_{1},p_{2},\ldots ,p_{n}
+N=1+p_{1}\cdot p_{2}\cdots p_{n}
+N=p'_{1}\cdot p'_{2}\cdots p'_{m}
+1+{\big (}2\cdot 3\cdot 5\cdot 7\cdot 11\cdot 13{\big )}=30031=59\cdot 509
+A>1
+\left\lfloor A^{3^{n}}\right\rfloor {\text{ and }}\left\lfloor 2^{\cdots ^{2^{2^{\mu }}}}\right\rfloor
+\lfloor {}\cdot {}\rfloor
+n=4\cdot 10^{18}
+n!+2,n!+3,\dots ,n!+n
+n-1
+8!=40320
+{\sqrt {n}}
+O((\log n)^{2})
+1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
+6/\pi ^{2}
+p(n)=a+bn
+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
+{\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}
+\left({{\frac {1}{3}}+{\frac {1}{5}}}\right)+\left({{\frac {1}{5}}+{\frac {1}{7}}}\right)+\left({{\frac {1}{11}}+{\frac {1}{13}}}\right)+\cdots
+{\tfrac {n}{\log n}}
+\operatorname {Li} (n)
+\pi (n)
+\pi (11)=5
+\pi (n)\sim {\frac {n}{\log n}}
+\pi (n)
+n\log n
+\log n
+\pi (n)
+\pi (n)\sim \operatorname {Li} (n)=\int _{2}^{n}{\frac {dt}{\log t}}
+a,a+q,a+2q,a+3q,\dots
+Prime numbers in arithmetic progression mod 9
+The Ulam spiral
+4n^{2}-2n+41
+n^{2}-n+41
+1\leq n\leq 40
+Plot of the absolute values of the zeta function
+\zeta (s)
+\zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}=\prod _{p{\text{ prime}}}{\frac {1}{1-p^{-s}}}
+s=1
+1+{\tfrac {1}{2}}+{\tfrac {1}{3}}+\dots
+\{0,1,2,\dots ,n-1\}
+x\equiv y
+2/3\equiv 3{\bmod {7}}
+2\equiv 9{\bmod {7}}
+2/3\equiv x{\bmod {6}}
+a\not \equiv 0
+a^{p-1}\equiv 1
+\sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}}
+p>1
+(p-1)
+\;n=r\cdot s\;
+(n-1)
+(n-1)!\equiv -1{\pmod {n}}
+\nu _{p}(n)
+m/n
+\nu _{p}(m)-\nu _{p}(n)
+|q|_{p}
+|q|_{p}=p^{-\nu _{p}(q)}
+\{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}
+\mathbb {Z} [i]
+a+bi
+1+i
+1-i
+p=x^{2}+y^{2}
+p=(x+iy)(x-iy)
+a+b\sqrt{-5}
+21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})
+p^{n}
+p^{n}
+n=a\cdot b
+{\sqrt {37}}
+Animation of the sieve of Eratosthenes
+p-2
+a^{(p-1)/2}\pm 1
+1/2^{n}
+\varepsilon
+O((\log n)^{6+\varepsilon })
+O((\log n)^{4+\varepsilon })
+O((\log n)^{2+\varepsilon })
+O(k(\log n)^{2+\varepsilon })
+4^{-k}
+O(k(\log n)^{2+\varepsilon })
+2^{{-k}}
+a^{b}{\bmod {c}}
+2^{16}
+Construction of a regular pentagon using straightedge and compass
+F_{k}=2^{2^{k}}+1
+2^{a}3^{b}+1
+\pm 1
+n\#\pm 1
+4\cdot 10^{{18}}
+n=1
+n=0
+\operatorname {Spec} A
+k\cdot 2^{n}+1
+2^{0}+1=2
+\mu (n)=(-1)^{2x}=1
+\mu (n)=(-1)^{2x+1}=-1
+\mu(1) = 1
+\mu(n) = 0
+\{1, p, p^2\}
+\pi =3.14159265
+e=2.718281828
+i={\sqrt {-{1}}}
+\infty
+{\frac {a}{b}}
+a,b\in Z,b\neq 0
+a/b
+{\frac {a}{b}}\equiv a:b\ (a,b\in \mathbb {Z} ,a,b\neq 0)
+{\frac {a}{b}}\equiv a\div b\ (a,b\in \mathbb {Z} ,b\neq 0)
+\frac{1}{3}
+\frac{1}{3}
+{\frac {4}{~{}15~{}}}
+{\frac {3}{~{}7~{}}}
+{\frac {5}{~{}3~{}}}
+{\frac {8}{~{}8~{}}}
+a{\frac {b}{c}}
+1{\frac {1}{~{}2~{}}}
+{\frac {~{}(a\times c)+b~{}}{c}}
+{\frac {1}{100}}
+10^{-2}
+{\frac {1}{~{}99~{}}}
+{\frac {19}{~{}20~{}}}={\frac {1}{~{}2~{}}}+{\frac {1}{~{}3~{}}}+{\frac {1}{~{}9~{}}}+{\frac {1}{~{}180~{}}}
+{\frac {~{}{\frac {a}{~{}b~{}}}~{}}{\frac {c}{~{}d~{}}}}
+{\frac {ad}{~{}bc~{}}}
+x=a_{0}+{\frac {1}{~{}a_{1}+{\frac {1}{~{}a_{2}+{\frac {1}{~{}a_{3}+\dots }}}}}}
+{\frac {3}{6}}={\frac {1}{2}}
+{\frac {1}{2}}={\frac {2}{4}}
+{\frac {1}{4}}+{\frac {1}{4}}={\frac {1+1}{4}}={\frac {2}{4}}={\frac {1}{2}}
+{\frac {1}{5}}+{\frac {1}{3}}={\frac {3}{15}}+{\frac {5}{15}}={\frac {3+5}{15}}={\frac {8}{15}}
+={\frac {1}{5}}\times {\frac {11}{7}}={\frac {1\times 11}{5\times 7}}={\frac {11}{35}}
+\pi =3.14159265
+e=2.718281828
+i={\sqrt {-{1}}}
+10^n
+{\frac {1}{7}}=0.142\ 857\ 142\ 857\ 142\ 857\ldots
+{\frac {11}{6}}=1.833\ 333\ldots
+\pi =3.141\ 592\ 653\ 589\ 793\ 23\ldots
+e=2.718\ 281\ 828\ 459\ 04\ldots
+0.9999...={\frac  {9}{9}}=1
+0.2525...={\frac  {25}{99}}
+0.333...={\frac  {3}{9}}={\frac  {1}{3}}
+0.1333333...=0.1+0.0333333...={\frac  {2}{15}}
+3{\color {Brown}.14}
+3{\color {Brown},14}
+3{\begin{smallmatrix}{\color {Brown}\underline {14}}\end{smallmatrix}}
+3^{{\,{\color {Brown}\underline {14}}}}
+{\sqrt {2}}
+{\sqrt {3}}=1.73205080\cdots
+\log _{10}3=0.47712125\cdots
+e=2.71828182845904523536\cdots
+\sin {45^{\circ }}={\frac {\sqrt {2}}{2}}=0.70710678\cdots
+\pi =3.141592653589793238462\cdots
+\log _{10}2+\log _{10}5=\log _{10}10=1
+\pi +e
+\pi -e
+m\pi +ne
+\pi -\pi =0
+{\sqrt {2}}+{\sqrt {3}}
+2^{e}
+\pi ^{e}
+\pi ^{\sqrt {2}}
+x^{2}=c\qquad (c>0)
+\rho ^{2}<c
+x^{2}\ -\!\rho ^{2}&=c\ -\!\rho ^{2}\\(x\ -\!\rho )(x\ +\!\rho )&=c\ -\!\rho ^{2}\\x\ -\!\rho &={\frac {c\ -\!\rho ^{2}}{\rho \ +\!x}}\\x&=\rho \ +\!{\frac {c\ -\!\rho ^{2}}{\rho \ +\!x}}\\&=\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{\rho \ +\!\left(\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{\rho \ +\!x}}\right)}}\\&=\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{2\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{2\rho \ +\!{\cfrac {c\ -\!\rho ^{2}}{\ddots \,}}}}}}={\sqrt {c}}
+{\sqrt {2}}
+{\sqrt {2}}={\frac {p}{q}}
+{\frac {p}{q}}
+2={\frac {p^{2}}{q^{2}}}
+2q^{2}=p^{2}
+p^2
+q^{2}=2p_{1}^{2}
+{\frac {p}{q}}
+{\sqrt {2}}
+{\sqrt {2}}+{\sqrt {3}}
+{\sqrt {2}}+{\sqrt {3}}=p
+5+2{\sqrt {6}}=p^{2}\Rightarrow {\sqrt {6}}={\frac {p^{2}-5}{2}}
+{\frac {p^{2}-5}{2}}
+{\sqrt {a}}
+{\sqrt {6}}
+{\frac {p^{2}-5}{2}}
+{\frac {p^{2}-5}{2}}
+{\sqrt {2}}+{\sqrt {3}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p
+10+2{\sqrt {6}}+2{\sqrt {10}}+2{\sqrt {15}}=p^{2}\Rightarrow {\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}={\frac {p^{2}-10}{2}}
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}
+31+10{\sqrt {6}}+6{\sqrt {10}}+4{\sqrt {15}}={\frac {(p^{2}-10)^{2}}{4}}
+5{\sqrt {6}}+3{\sqrt {10}}+2{\sqrt {15}}={\frac {{\frac {(p^{2}-10)^{2}}{8}}-31}{2}}
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}
+3{\sqrt {6}}+{\sqrt {10}}+2({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}})={\frac {{\frac {(p^{2}-10)^{2}}{4}}-31}{2}}
+\Rightarrow 3{\sqrt {6}}+{\sqrt {10}}={\frac {{\frac {(p^{2}-10)^{2}}{4}}-31}{2}}-2({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}})
+{\sqrt {a}}+{\sqrt {b}}
+3{\sqrt {6}}+{\sqrt {10}}
+{\frac {{\frac {(p^{2}-10)^{2}}{8}}-31}{2}}
+2({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}})
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p
+\Rightarrow {\sqrt {2}}+{\sqrt {3}}=p-{\sqrt {5}}
+\Rightarrow ({\sqrt {2}}+{\sqrt {3}})^{2}=(p-{\sqrt {5}})^{2}
+\Rightarrow 5+2{\sqrt {6}}=p^{2}+5-2p{\sqrt {5}}
+\Rightarrow 2({\sqrt {6}}+p{\sqrt {5}})=p^{2}
+{\sqrt {a}}+{\sqrt {b}}
+{\sqrt {6}}+p{\sqrt {5}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}+{\sqrt {7}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}+{\sqrt {7}}=p
+\Rightarrow {\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}=p-{\sqrt {7}}
+\Rightarrow 10+2{\sqrt {6}}+2{\sqrt {10}}+2{\sqrt {15}}=p^{2}+7-2p{\sqrt {7}}
+\Rightarrow {\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}={\frac {p^{2}}{2}}-{\frac {3}{2}}
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}
+\Rightarrow {\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}={\frac {p^{2}}{2}}-{\frac {3}{2}}-p{\sqrt {7}}
+\Rightarrow \left({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}\right)^{2}=\left(p^{2}-{\frac {3}{2}}-p{\sqrt {7}}\right)^{2}
+\Rightarrow \left({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}\right)^{2}=\left[\left(p^{2}-{\frac {3}{2}}\right)-p{\sqrt {7}}\right]^{2}
+\Rightarrow 31+2{\sqrt {60}}+2{\sqrt {90}}+2{\sqrt {150}}=\left(p^{2}-{\frac {3}{2}}\right)^{2}+(-p{\sqrt {7}})^{2}-2\times {p}{\sqrt {7}}\times \left(p^{2}-{\frac {3}{2}}\right)
+\Rightarrow 31+4{\sqrt {15}}+6{\sqrt {10}}+10{\sqrt {6}}=\left(p^{2}-{\frac {3}{2}}\right)^{2}+7p^{2}-p(2p^{2}-3){\sqrt {7}}
+\Rightarrow 2{\sqrt {10}}+6{\sqrt {6}}+p(2p^{2}-3){\sqrt {7}}=\left(p^{2}-{\frac {3}{2}}\right)^{2}+7p^{2}-4\left({\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}\right)-31
+{\sqrt {6}}+{\sqrt {10}}+{\sqrt {15}}+p{\sqrt {7}}
+{\sqrt {a}}+{\sqrt {b}}+{\sqrt {c}}
+{\sqrt {10}}+6{\sqrt {6}}+p(2p^{2}-3){\sqrt {7}}
+{\sqrt {2}}+{\sqrt {3}}+{\sqrt {5}}+{\sqrt {7}}
+{\sqrt {2}}
+y^2 = x
+4^{2}=(-4)^{2}=16
+{\sqrt {x}}
+{\sqrt {9}}=3
+3^{2}=3\times 3=9
+{\sqrt {x}}
+-\sqrt x
+\pm {\sqrt {x}}
+\sqrt 2
+\sqrt {}
+\sqrt[n]{\,\,}
+x^\frac 1 2 = \sqrt x
+x^{2}
+f(x) = \sqrt x
+\begin{align}
+\sqrt{x} \sqrt{y} &= \sqrt{xy}\\
+\frac{\sqrt{x}}{\sqrt{y}} &= \sqrt{\frac{x}{y}}
+\end{align}
+i=\sqrt{-1}
+\pm \sqrt{-x}i
+\sqrt{-x}i = \sqrt x
+\sqrt{5}i
+-\sqrt{5}i
+\sqrt{x} \sqrt{y} &= \sqrt{-x}\,i \times \sqrt{-y}\,i = \sqrt{xy}\,i^2 = -\sqrt{xy}\\
+\frac{\sqrt{x}}{\sqrt{y}} &= \frac{\sqrt{-x}i}{\sqrt{-y}i} = \sqrt{\frac{-x}{-y}} = \sqrt{\frac{x}{y}}
+i^{2}=-1
+(-i)^{2}=i^{2}=-1
+{\sqrt {-x}}=i{\sqrt {x}}
+(i{\sqrt {x}})^{2}=i^{2}({\sqrt {x}})^{2}=(-1)x=-x
+w^{2}=z
+{\sqrt {i}}={\frac {\sqrt {2}}{2}}+i{\frac {\sqrt {2}}{2}}={\frac {\sqrt {2}}{2}}(1+i)
+i&=(a+bi)^{2}\\&=a^{2}+2abi-b^{2}
+{\begin{cases}2ab=1\\a^{2}-b^{2}=0\end{cases}}
+a=b=\pm {\frac {\sqrt {2}}{2}}
+a=b={\frac {\sqrt {2}}{2}}
+i=\cos \left({\frac {\pi }{2}}\right)+i\sin \left({\frac {\pi }{2}}\right)
+{\sqrt {i}}&=\left[\cos \left({\frac {\pi }{2}}\right)+i\sin \left({\frac {\pi }{2}}\right)\right]^{\frac {1}{2}}\\&=\cos \left({\frac {\pi }{4}}\right)+i\sin \left({\frac {\pi }{4}}\right)\\&={\frac {\sqrt {2}}{2}}+i{\frac {\sqrt {2}}{2}}\\&={\frac {\sqrt {2}}{2}}(1+i)
+x+iy
+(x, y)
+(r,\varphi )
+r\geq 0
+re^{i\varphi }
+z=re^{i\varphi },-\pi <\varphi \leq \pi
+{\sqrt {z}}={\sqrt {r}}e^{\frac {i\varphi }{2}}
+\sqrt{1+x}
+x(\left\vert x\right\vert <1)
+{\sqrt {r\left(\cos \varphi +i\sin \varphi \right)}}={\sqrt {r}}\left(\cos {\frac {\varphi }{2}}+i\sin {\frac {\varphi }{2}}\right)
+{\sqrt {z}}={\sqrt {\frac {|z|+\Re (z)}{2}}}\pm i{\sqrt {\frac {|z|-\Re (z)}{2}}}
+\sqrt{zw} = \sqrt{z} \sqrt{w}
+{\frac {\sqrt {w}}{\sqrt {z}}}={\sqrt {\frac {w}{z}}}
+{\sqrt {z^{*}}}=\left({\sqrt {z}}\right)^{*}
+-1=i\cdot i={\sqrt  {-1}}\cdot {\sqrt  {-1}}={\sqrt  {(-1)\cdot (-1)}}={\sqrt  {1}}=1
+x\in\mathbb{R}
+{\sqrt {x^{4}+2x^{2}+1}}={\sqrt {(x^{2}+1)^{2}}}=|x^{2}+1|=x^{2}+1
+{\sqrt {2}}
+{\frac{p}{q}}
+\left( \sqrt 2 \right) ^{2} = {\frac{p^2}{q^2}} = 2
+p^2
+2k
+2q^2 = p^2 = 4k^2
+q^2 = 2k^2
+q^2
+{\sqrt {2}}
+{\sqrt {2}}
+{\sqrt {24}}={\sqrt {2^{2}\cdot 6}}={\sqrt {2^{2}}}{\sqrt {6}}=2{\sqrt {6}}
+2{\sqrt {6}}
+(a+b)^{2}=a^{2}+2ab+b^{2}=a^{2}+(2a+b)b
+\sqrt{200}
+\sqrt{200} \approx 14.14213562373095048801668872421
+\sqrt {1}
+\sqrt {2}
+\sqrt {3}
+\sqrt {4} = 2
+\sqrt {5}
+\sqrt {6}
+\sqrt {7}
+\sqrt {8} = 2 sqrt {2}
+\sqrt {9} = 3
+\sqrt {10}
+\sqrt {11}
+\sqrt {12} = 2 \sqrt {3}
+\sqrt {13}
+\sqrt {14}
+\sqrt {15}
+\sqrt {16} = 4
+\sqrt {17}
+\sqrt {18} = 3 \sqrt{2}
+\sqrt {19}
+\sqrt {20} = 2 \sqrt{5}
+x_{n+1} = \frac{1}{2}\left(x_n + \frac{S}{x_n}\right)
+\sqrt{125348}
+x_0 = 3^6 = 729.000
+x_1 = \frac{1}{2} \left(x_0 + \frac{S}{x_0}\right) = \frac{1}{2} \left(729.000 + \frac{125348}{729.000}\right) = 450.472
+x_2 = \frac{1}{2} \left(x_1 + \frac{S}{x_1}\right) = \frac{1}{2} \left(450.472 + \frac{125348}{450.472}\right) = 364.365
+x_3 = \frac{1}{2} \left(x_2 + \frac{S}{x_2}\right) = \frac{1}{2} \left(364.365 + \frac{125348}{364.365}\right) = 354.191
+x_4 = \frac{1}{2} \left(x_3 + \frac{S}{x_3}\right) = \frac{1}{2} \left(354.191 + \frac{125348}{354.191}\right) = 354.045
+x_5 = \frac{1}{2} \left(x_4 + \frac{S}{x_4}\right) = \frac{1}{2} \left(354.045 + \frac{125348}{354.045}\right) = 354.045
+\sqrt{125348} \approx 354.045
+{\sqrt {1}}=1
+{\sqrt {4}}=2
+{\sqrt {9}}=3
+\sqrt {16}}=4
+xy=N
+x=x={\frac {x+y}{2}}
+{\sqrt {AB}}
+x^2 + y^2 = \left({\frac{n+1}{2}}\right)^2
+x^2+y^2=r^2
+\left({\frac{n+1}{2}} -1 \right)
+\left({\frac{n+1}{2}} -1 \right)^2 + y^2 = \left({\frac{n+1}{2}}\right)^2
+y={\sqrt {n}}
+
+modified
+
+\sin ^{-1}x
+{\frac {1}{12}}
+{\frac  {1}{8}}
+{\frac {1}{6}}
+\frac{1}{4}
+{\frac {1}{2}}
+\frac{3}{4}
+0^{\circ }
+30^{\circ }
+45^{\circ }
+60^{\circ }
+90^{\circ}
+180^{\circ }
+270^{\circ }
+360^{\circ }
+\frac{\pi}{6}
+{\frac {\pi }{4}}
+\frac{\pi}{3}
+\frac{\pi}{2}
+\pi
+{\frac  {3\pi }{2}}
+2\pi
+0^g
+33{\frac {1}{3}}^{g}
+50^g
+66{\frac {2}{3}}^{g}
+100^g
+200^g
+300^g
+400^g
+\sin ^{2}\theta +\cos ^{2}\theta =1
+\tan ^{2}\theta +1\,=\sec ^{2}\theta
+1\,+\cot ^{2}\theta =\csc ^{2}\theta
+\sin \theta
+\sin \theta
+\sqrt{1 - \cos^2\theta}
+\frac{\tan\theta}{\sqrt{1 + \tan^2\theta}}
+\frac{1}{\sqrt{1+\cot^2\theta}}
+\frac{\sqrt{\sec^2 \theta - 1}}{\sec \theta}
+\frac{1}{\csc \theta}
+\cos \theta
+\sqrt{1 - \sin^2\theta}
+\cos \theta
+\frac{1}{\sqrt{1 + \tan^2 \theta}}
+\frac{\cot \theta}{\sqrt{1 + \cot^2 \theta}}
+\frac{1}{\sec \theta}
+\frac{\sqrt{\csc^2\theta - 1}}{\csc \theta}
+\tan \theta
+\frac{\sin\theta}{\sqrt{1 - \sin^2\theta}}
+\frac{\sqrt{1 - \cos^2\theta}}{\cos \theta}
+\tan \theta
+\frac{1}{\cot \theta}
+\sqrt{\sec^2\theta - 1}
+\frac{1}{\sqrt{\csc^2\theta - 1}}
+\cot \theta
+{{\sqrt  {1-\sin ^{2}\theta }} \over \sin \theta }
+{\cos \theta  \over {\sqrt  {1-\cos ^{2}\theta }}}
+{1 \over \tan \theta }
+\cot \theta
+{1 \over {\sqrt  {\sec ^{2}\theta -1}}}
+{\sqrt  {\csc ^{2}\theta -1}}
+\sec \theta
+{1 \over {\sqrt  {1-\sin ^{2}\theta }}}
+{1 \over \cos \theta }
+{\sqrt  {1+\tan ^{2}\theta }}
+{{\sqrt  {1+\cot ^{2}\theta }} \over \cot \theta }
+\sec \theta
+{\csc \theta  \over {\sqrt  {\csc ^{2}\theta -1}}}
+\csc \theta
+{1 \over \sin \theta }
+{1 \over {\sqrt  {1-\cos ^{2}\theta }}}
+{{\sqrt  {1+\tan ^{2}\theta }} \over \tan \theta }
+{\sqrt  {1+\cot ^{2}\theta }}
+{\sec \theta  \over {\sqrt  {\sec ^{2}\theta -1}}}
+\csc \theta
+\operatorname {versin} \theta
+\operatorname {vers} \theta
+\operatorname {ver} \theta
+1-\cos \theta
+\operatorname {vercosin} \theta
+1+\cos \theta
+\operatorname {coversin} \theta
+\operatorname {cvs} \theta
+1-\sin \theta
+\operatorname {covercosin} \theta
+1+\sin \theta
+\operatorname {haversin} \theta
+{\frac {1-\cos \theta }{2}}
+\operatorname {havercosin} \theta
+{\frac {1+\cos \theta }{2}}
+\operatorname {hacoversin} \theta
+{\frac {1-\sin \theta }{2}}
+\operatorname {hacovercosin} \theta
+{\frac {1+\sin \theta }{2}}
+\operatorname {exsec} \theta
+\sec \theta -1
+\operatorname {excsc} \theta
+\csc \theta -1
+\operatorname {crd} \theta
+2\sin \left({\frac  {\theta }{2}}\right)
+\operatorname {cis} \theta
+\cos \theta +i\;\sin \theta
+\arg x
+\operatorname {Im}(\ln x)
+\theta =0
+\theta ={\tfrac {\pi }{4}}
+\theta ={\tfrac  {\pi }{2}}
+\theta ={\tfrac {3\pi }{4}}
+\sin(0-\theta )&=-\sin \theta \\\cos(0-\theta )&=+\cos \theta \\\tan(0-\theta )&=-\tan \theta \\\cot(0-\theta )&=-\cot \theta \\\sec(0-\theta )&=+\sec \theta \\\csc(0-\theta )&=-\csc \theta
+\sin({\tfrac  {\pi }{2}}-\theta )&=+\cos \theta \\\cos({\tfrac  {\pi }{2}}-\theta )&=+\sin \theta \\\tan({\tfrac  {\pi }{2}}-\theta )&=+\cot \theta \\\cot({\tfrac  {\pi }{2}}-\theta )&=+\tan \theta \\\sec({\tfrac  {\pi }{2}}-\theta )&=+\csc \theta \\\csc({\tfrac  {\pi }{2}}-\theta )&=+\sec \theta
+\sin(\pi -\theta )&=+\sin \theta \\\cos(\pi -\theta )&=-\cos \theta \\\tan(\pi -\theta )&=-\tan \theta \\\cot(\pi -\theta )&=-\cot \theta \\\sec(\pi -\theta )&=-\sec \theta \\\csc(\pi -\theta )&=+\csc \theta
+\sin({\tfrac  {3\pi }{2}}-\theta )&=-\cos \theta \\\cos({\tfrac  {3\pi }{2}}-\theta )&=-\sin \theta \\\tan({\tfrac  {3\pi }{2}}-\theta )&=+\cot \theta \\\cot({\tfrac  {3\pi }{2}}-\theta )&=+\tan \theta \\\sec({\tfrac  {3\pi }{2}}-\theta )&=-\csc \theta \\\csc({\tfrac  {3\pi }{2}}-\theta )&=-\sec \theta
+\tfrac{\pi}{2}
+\pi
+2\pi
+\tfrac{\pi}{2}
+\tfrac{3\pi}{2}
+\tan x
+\cot x
+\sin x
+\cos y
+\csc y
+\sec y
+\sin(\theta +{\tfrac  {\pi }{2}})&=+\cos \theta \\\cos(\theta +{\tfrac  {\pi }{2}})&=-\sin \theta \\\tan(\theta +{\tfrac  {\pi }{2}})&=-\cot \theta \\\cot(\theta +{\tfrac  {\pi }{2}})&=-\tan \theta \\\sec(\theta +{\tfrac  {\pi }{2}})&=-\csc \theta \\\csc(\theta +{\tfrac  {\pi }{2}})&=+\sec \theta
+\sin(\theta +\pi )&=-\sin \theta \\\cos(\theta +\pi )&=-\cos \theta \\\tan(\theta +\pi )&=+\tan \theta \\\cot(\theta +\pi )&=+\cot \theta \\\sec(\theta +\pi )&=-\sec \theta \\\csc(\theta +\pi )&=-\csc \theta
+\sin(\theta +{\tfrac  {3\pi }{2}})&=-\cos \theta \\\cos(\theta +{\tfrac  {3\pi }{2}})&=+\sin \theta \\\tan(\theta +{\tfrac  {3\pi }{2}})&=-\cot \theta \\\cot(\theta +{\tfrac  {3\pi }{2}})&=-\tan \theta \\\sec(\theta +{\tfrac  {3\pi }{2}})&=+\csc \theta \\\csc(\theta +{\tfrac  {3\pi }{2}})&=-\sec \theta
+\sin(\theta +2\pi )&=+\sin \theta \\\cos(\theta +2\pi )&=+\cos \theta \\\tan(\theta +2\pi )&=+\tan \theta \\\cot(\theta +2\pi )&=+\cot \theta \\\sec(\theta +2\pi )&=+\sec \theta \\\csc(\theta +2\pi )&=+\csc \theta
+\sin(\alpha \pm \beta )=\sin \alpha \cos \beta \pm \cos \alpha \sin \beta
+\cos(\alpha \pm \beta )=\cos \alpha \cos \beta \mp \sin \alpha \sin \beta
+\tan(\alpha \pm \beta )={\frac  {\tan \alpha \pm \tan \beta }{1\mp \tan \alpha \tan \beta }}
+\cot(\alpha \pm \beta )={\frac  {\cot \alpha \cot \beta \mp 1}{\cot \beta \pm \cot \alpha }}
+\sec(\alpha \pm \beta )={\frac  {\sec \alpha \sec \beta }{1\mp \tan \alpha \tan \beta }}
+\csc(\alpha \pm \beta )={\frac  {\csc \alpha \csc \beta }{\cot \beta \pm \cot \alpha }}
+x\pm y=a\pm b&\Rightarrow \ x+y=a+b\\&{\mbox{and}}\ x-y=a-b
+x\pm y=a\mp b&\Rightarrow \ x+y=a-b\\&{\mbox{and}}\ x-y=a+b
+\sin \left(\sum _{{i=1}}^{\infty }\theta _{i}\right)=\sum _{{{\mathrm  {odd}}\ k\geq 1}}(-1)^{{{\frac  {k-1}{2}}}}\sum _{{|A|=k}}\left(\prod _{{i\in A}}\sin \theta _{i}\prod _{{i\not \in A}}\cos \theta _{i}\right)
+\cos \left(\sum _{{i=1}}^{\infty }\theta _{i}\right)=\sum _{{{\mathrm  {even}}\ k\geq 0}}~(-1)^{{{\frac  {k}{2}}}}~~\sum _{{|A|=k}}\left(\prod _{{i\in A}}\sin \theta _{i}\prod _{{i\not \in A}}\cos \theta _{i}\right)
+|A|=k
+\left\{1,2,3,\ldots \right\}
+x_{i}=\tan \theta _{i}
+i=1,\ldots ,n
+i=1,\ldots ,n
+k=0,\ldots ,n
+\tan(\theta_1+\cdots+\theta_n) = \frac{e_1 - e_3 + e_5 -\cdots}{e_0 - e_2 + e_4 - \cdots}
+\begin{align} \tan(\theta_1 + \theta_2 + \theta_3)
+&{}= \frac{e_1 - e_3}{e_0 - e_2} = \frac{(x_1 + x_2 + x_3) \ - \ (x_1 x_2 x_3)}{
+1 \ - \ (x_1 x_2 + x_1 x_3 + x_2 x_3)}, \\  \\
+\tan(\theta_1 + \theta_2 + \theta_3 + \theta_4)
+&{}= \frac{e_1 - e_3}{e_0 - e_2 + e_4} \\  \\
+&{}= \frac{(x_1 + x_2 + x_3 + x_4) \ - \ (x_1 x_2 x_3 + x_1 x_2 x_4 + x_1 x_3 x_4 + x_2 x_3 x_4)}{
+1 \ - \ (x_1 x_2 + x_1 x_3 + x_1 x_4 + x_2 x_3 + x_2 x_4 + x_3 x_4) \ + \ (x_1 x_2 x_3 x_4)},\end{align}
+\cos n\theta =T_{n}\cos \theta
+\sin ^{2}n\theta =S_{n}\sin ^{2}\theta
+\cos n\theta +i\sin n\theta =(\cos \theta +i\sin \theta )^{n}
+1+2\cos x+2\cos 2x+2\cos 3x+\cdots +2\cos(nx)={\frac {\sin \left[\left(n+{\frac {1}{2}}\right)x\right]}{\sin {\frac {x}{2}}}}
+\sin 2\theta &=2\sin \theta \cos \theta \ \\&={\frac  {2\tan \theta }{1+\tan ^{2}\theta }}
+\tan 2\theta &={\frac  {2\tan \theta }{1-\tan ^{2}\theta }}\ \\&={\frac  {1}{1-\tan \theta }}-{\frac  {1}{1+\tan \theta }}
+\sec 2\theta &={\frac {\sec ^{2}\theta }{1-\tan ^{2}\theta }}\\&={\frac {\sec ^{2}\theta }{2-\sec ^{2}\theta }}
+\cos 2\theta &=\cos ^{2}\theta -\sin ^{2}\theta \\&=2\cos ^{2}\theta -1\\&=1-2\sin ^{2}\theta \\&={\frac  {1-\tan ^{2}\theta }{1+\tan ^{2}\theta }}
+\cot 2\theta &={\frac {\cot ^{2}\theta -1}{2\cot \theta }}\\&={\frac {\cot \theta -\tan \theta }{2}}
+\csc 2\theta &={\frac {\csc ^{2}\theta }{2\cot \theta }}\\&={\frac {\sec \theta \csc \theta }{2}}
+\sin ^{2}\theta ={\frac {1-\cos 2\theta }{2}}
+\tan ^{2}\theta ={\frac {1-\cos 2\theta }{1+\cos 2\theta }}
+\cos ^{2}\theta ={\frac {1+\cos 2\theta }{2}}
+\cot ^{2}\theta ={\frac {1+\cos 2\theta }{1-\cos 2\theta }}
+\sin 3\theta = 3 \sin \theta- 4 \sin^3\theta
+\tan 3\theta ={\frac  {3\tan \theta -\tan ^{3}\theta }{1-3\tan ^{2}\theta }}
+\sec 3\theta ={\frac  {\sec ^{3}\theta }{4-3\sec ^{2}\theta }}
+\cos 3\theta = 4 \cos^3\theta - 3 \cos \theta
+\cot 3\theta ={\frac  {\cot ^{3}\theta -3\cot \theta }{3\cot ^{2}\theta -1}}
+\csc 3\theta ={\frac  {\csc ^{3}\theta }{3\csc ^{2}\theta -4}}
+\sin {\frac  {\theta }{2}}=\pm \,{\sqrt  {{\frac  {1-\cos \theta }{2}}}}
+\tan {\frac {\theta }{2}}&=\csc \theta -\cot \theta \\&=\pm \,{\sqrt {1-\cos \theta  \over 1+\cos \theta }}\\&={\frac {\sin \theta }{1+\cos \theta }}\\&={\frac {1-\cos \theta }{\sin \theta }}\\&={\frac {\cos \theta +\sin \theta -1}{\cos \theta -\sin \theta +1}}\\&={\sqrt {\cot ^{2}\theta +1}}-\cot \theta
+\sec {\frac  {\theta }{2}}=\pm \,{\sqrt  {{\frac  {2\sec \theta }{\sec \theta +1}}}}
+\cos {\frac  {\theta }{2}}=\pm \,{\sqrt  {{\frac  {1+\cos \theta }{2}}}}
+\cot {\frac {\theta }{2}}&=\csc \theta +\cot \theta \\&=\pm \,{\sqrt {1+\cos \theta  \over 1-\cos \theta }}\\&={\frac {\sin \theta }{1-\cos \theta }}\\&={\frac {1+\cos \theta }{\sin \theta }}\\&={\frac {\cos \theta -\sin \theta +1}{\cos \theta +\sin \theta -1}}\\&={\sqrt {\cot ^{2}\theta +1}}+\cot \theta
+\csc {\frac  {\theta }{2}}=\pm \,{\sqrt  {{\frac  {2\sec \theta }{\sec \theta -1}}}}
+\sin n\theta =\sum _{{k=0}}^{n}{\binom  {n}{k}}\cos ^{k}\theta \,\sin ^{{n-k}}\theta \,\sin \left[{\frac  {1}{2}}(n-k)\pi \right]=\sin \theta \sum _{{k=0}}^{{\lfloor {\frac  {n-1}{2}}\rfloor }}(-1)^{k}{\binom  {n-1-k}{k}}~(2\cos \theta )^{{n-1-2k}}
+\cos n\theta =\sum _{{k=0}}^{n}{\binom  {n}{k}}\cos ^{k}\theta \,\sin ^{{n-k}}\theta \,\cos \left[{\frac  {1}{2}}(n-k)\pi \right]={\frac  {1}{2}}\sum _{{k=0}}^{{\lfloor {\frac  {n}{2}}\rfloor }}(-1)^{k}{\frac  {n}{n-k}}{\binom  {n-k}{k}}~(2\cos \theta )^{{n-2k}}
+\tan n\theta ={\frac  {\displaystyle \sum _{{k=1}}^{{\left[{\frac  {n}{2}}\right]}}(-1)^{{k+1}}{\binom  {n}{2k-1}}\tan ^{{2k-1}}\theta }{\displaystyle \sum _{{k=1}}^{{\left[{\frac  {n+1}{2}}\right]}}(-1)^{{k+1}}{\binom  {n}{2(k-1)}}\tan ^{{2(k-1)}}\theta }}
+\tan \,n\theta ={\frac  {\tan(n{-}1)\theta +\tan \theta }{1-\tan(n{-}1)\theta \,\tan \theta }}
+\cot \,n\theta ={\frac  {\cot(n{-}1)\theta \,\cot \theta -1}{\cot(n{-}1)\theta +\cot \theta }}
+\operatorname {versin} 2\theta =2\sin ^{2}\theta ={\frac {(sin2\theta )(sin\theta )}{cos\theta }}=1-\cos 2\theta
+\operatorname {cvs} 2\theta =(\sin \theta -\cos \theta )^{2}=1-\sin 2\theta
+\sin ^{2}\theta ={\frac  {1-\cos 2\theta }{2}}
+\cos ^{2}\theta ={\frac  {1+\cos 2\theta }{2}}
+\sin ^{2}\theta \cos ^{2}\theta ={\frac  {1-\cos 4\theta }{8}}
+\sin ^{3}\theta ={\frac  {3\sin \theta -\sin 3\theta }{4}}
+\cos ^{3}\theta ={\frac  {3\cos \theta +\cos 3\theta }{4}}
+\sin ^{3}\theta \cos ^{3}\theta ={\frac  {3\sin 2\theta -\sin 6\theta }{32}}
+\sin ^{4}\theta ={\frac  {3-4\cos 2\theta +\cos 4\theta }{8}}
+\cos ^{4}\theta ={\frac  {3+4\cos 2\theta +\cos 4\theta }{8}}
+\sin ^{4}\theta \cos ^{4}\theta ={\frac  {3-4\cos 4\theta +\cos 8\theta }{128}}
+\sin ^{5}\theta ={\frac  {10\sin \theta -5\sin 3\theta +\sin 5\theta }{16}}
+\cos ^{5}\theta ={\frac  {10\cos \theta +5\cos 3\theta +\cos 5\theta }{16}}
+\sin ^{5}\theta \cos ^{5}\theta ={\frac  {10\sin 2\theta -5\sin 6\theta +\sin 10\theta }{512}}
+\cos ^{n}\theta ={\frac  {2}{2^{n}}}\sum _{{k=0}}^{{{\frac  {n-1}{2}}}}{\binom  {n}{k}}\cos {[(n-2k)\theta ]}
+\sin ^{n}\theta ={\frac {2}{2^{n}}}\sum _{k=0}^{\frac {n-1}{2}}(-1)^{\left({\frac {n-1}{2}}-k\right)}{\binom {n}{k}}\sin {[(n-2k)\theta ]}
+\cos ^{n}\theta ={\frac  {1}{2^{n}}}{\binom  {n}{{\frac  {n}{2}}}}+{\frac  {2}{2^{n}}}\sum _{{k=0}}^{{{\frac  {n}{2}}-1}}{\binom  {n}{k}}\cos {[(n-2k)\theta ]}
+\sin ^{n}\theta ={\frac {1}{2^{n}}}{\binom {n}{\frac {n}{2}}}+{\frac {2}{2^{n}}}\sum _{k=0}^{{\frac {n}{2}}-1}(-1)^{\left({\frac {n}{2}}-k\right)}{\binom {n}{k}}\cos {[(n-2k)\theta ]}
+\prod _{{k=0}}^{{n-1}}\cos 2^{k}\theta ={\frac  {\sin 2^{n}\theta }{2^{n}\sin \theta }}
+\prod _{{k=0}}^{{n-1}}\sin \left(x+{\frac  {k\pi }{n}}\right)={\frac  {\sin nx}{2^{{n-1}}}}
+\prod _{{k=1}}^{{n-1}}\sin \left({\frac  {k\pi }{n}}\right)={\frac  {n}{2^{{n-1}}}}
+\prod _{{k=1}}^{{n-1}}\sin \left({\frac  {k\pi }{2n}}\right)={\frac  {{\sqrt  {n}}}{2^{{n-1}}}}
+\prod _{{k=1}}^{{n}}\sin \left({\frac  {k\pi }{2n+1}}\right)={\frac  {{\sqrt  {2n+1}}}{2^{n}}}
+\prod _{{k=1}}^{{n-1}}\cos \left({\frac  {k\pi }{n}}\right)={\frac  {\sin {\frac  {n\pi }{2}}}{2^{{n-1}}}}
+\prod _{{k=1}}^{{n-1}}\cos \left({\frac  {k\pi }{2n}}\right)={\frac  {{\sqrt  {n}}}{2^{{n-1}}}}
+\prod _{{k=1}}^{n}\cos \left({\frac  {k\pi }{2n+1}}\right)={\frac  {1}{2^{n}}}
+\prod _{{k=1}}^{{n-1}}\tan \left({\frac  {k\pi }{n}}\right)={\frac  {n}{\sin {\frac  {n\pi }{2}}}}
+\prod _{{k=1}}^{{n-1}}\tan \left({\frac  {k\pi }{2n}}\right)=1
+\prod _{{k=1}}^{n}\tan {\frac  {k\pi }{2n+1}}={\sqrt  {2n+1}}
+\sin \alpha \cos \beta ={\sin(\alpha +\beta )+\sin(\alpha -\beta ) \over 2}
+\sin \alpha +\sin \beta =2\sin {\frac {\alpha +\beta }{2}}\cos {\frac {\alpha -\beta }{2}}
+\cos \alpha \sin \beta ={\sin(\alpha +\beta )-\sin(\alpha -\beta ) \over 2}
+\sin \alpha -\sin \beta =2\cos {\alpha +\beta  \over 2}\sin {\alpha -\beta  \over 2}
+\cos \alpha \cos \beta ={\cos(\alpha +\beta )+\cos(\alpha -\beta ) \over 2}
+\cos \alpha +\cos \beta =2\cos {\frac {\alpha +\beta }{2}}\cos {\frac {\alpha -\beta }{2}}
+\sin \alpha \sin \beta =-{\cos(\alpha +\beta )-\cos(\alpha -\beta ) \over 2}
+\cos \alpha -\cos \beta =-2\sin {\alpha +\beta  \over 2}\sin {\alpha -\beta  \over 2}
+\sin(x+y)\sin(x-y)=\sin ^{2}{x}-\sin ^{2}{y}=\cos ^{2}{y}-\cos ^{2}{x}
+\cos(x+y)\cos(x-y)=\cos ^{2}{x}-\sin ^{2}{y}=\cos ^{2}{y}-\sin ^{2}{x}
+x+y+z=n\pi
+\tan x+\tan y+\tan z=\tan x\tan y\tan z
+\cot x\cot y+\cot y\cot z+\cot z\cot x=1
+x+y+z=n\pi +{\frac {\pi }{2}}
+\tan x\tan y+\tan y\tan z+\tan z\tan x=1
+\cot x+\cot y+\cot z=\cot x\cot y\cot z
+x+y+z=\pi
+\sin 2x+\sin 2y+\sin 2z=4\sin x\sin y\sin z
+\sin x+\sin y+\sin z=4\cos {\frac {x}{2}}\cos {\frac {y}{2}}\cos {\frac {z}{2}}
+\cos x+\cos y+\cos z=1+4\sin {\frac {x}{2}}\sin {\frac {y}{2}}\sin {\frac {z}{2}}
+w+x+y+z=\pi
+\sin(w+x)\sin(x+y)&=\sin(x+y)\sin(y+z)\\&=\sin(y+z)\sin(z+w)\\&{}=\sin(z+w)\sin(w+x)\\&{}=\sin w\sin y+\sin x\sin z
+e^{{ix}}=\cos x+i\;\sin x,\;e^{{-ix}}=\cos x-i\;\sin x
+e^{x}=\cosh x+\sinh x\!,\;e^{{-x}}=\cosh x-\sinh x
+\cosh ix={\tfrac {1}{2}}(e^{ix}+e^{-ix})=\cos x
+\sinh ix={\tfrac {1}{2}}(e^{ix}-e^{-ix})=i\sin x
+\sin \theta =-i\sinh {i\theta }
+\sinh {\theta }=i\sin {(-i\theta )}
+\cos {\theta }=\cosh {i\theta }
+\cosh {\theta }=\cos {(-i\theta )}
+\tan \theta =-i\tanh {i\theta }
+\tanh {\theta }=i\tan {(-i\theta )}
+\cot {\theta }=i\coth {i\theta }
+\coth \theta =-i\cot {(-i\theta )}
+\sec {\theta }=\operatorname {sech} {\,i\theta }
+\operatorname {sech} {\theta }=\sec {(-i\theta )}
+\csc {\theta }=i\;\operatorname {csch} {\,i\theta }
+\operatorname {csch}\theta =-i\csc {(-i\theta )}
+\cosh ix={\tfrac {1}{2}}(e^{ix}+e^{-ix})=\cos x
+\sinh ix={\tfrac {1}{2}}(e^{ix}-e^{-ix})=i\sin x
+\cosh(x+iy)=\cosh(x)\cos(y)+i\sinh(x)\sin(y)
+\sinh(x+iy)=\sinh(x)\cos(y)+i\cosh(x)\sin(y)
+\tanh ix=i\tan x
+\cosh x=\cos ix
+\sinh x=-i\sin ix
+\tanh x=-i\tan ix
+a\sin x+b\cos x={\sqrt {a^{2}+b^{2}}}\cdot \sin(x+\varphi )\;(a>0)
+\varphi =\arctan \left({\frac  {b}{a}}\right)
+a\sin x+b\sin(x+\alpha )=c\sin(x+\beta )\;(a+b\cos x>0)
+c={\sqrt  {a^{2}+b^{2}+2ab\cos \alpha }}
+\beta =\arctan \left({\frac {b\sin x}{a+b\cos x}}\right)
+\arcsin x+\arccos x={\frac  {\pi }{2}}\;
+\arctan x+\operatorname{arccot} x={\frac  {\pi }{2}}.\;
+\arctan x+\arctan {\frac  {1}{x}}=\left\{{\begin{matrix}{\frac  {\pi }{2}},&{\mbox{if }}x>0\\-{\frac  {\pi }{2}},&{\mbox{if }}x<0\end{matrix}}\right
+\arctan x+\arctan y=\arctan {\frac  {x+y}{1-xy}}+\left\{{\begin{matrix}\pi ,&{\mbox{if }}x,y>0\\-\pi ,&{\mbox{if }}x,y<0\\0,&{\mbox{otherwise }}\end{matrix}}\right
+\sin(\arccos x)={\sqrt  {1-x^{2}}}
+\sin(\arctan x)={\frac  {x}{{\sqrt  {1+x^{2}}}}}
+\cos(\arctan x)={\frac  {1}{{\sqrt  {1+x^{2}}}}}
+\cos(\arcsin x)={\sqrt  {1-x^{2}}}
+\tan(\arcsin x)={\frac  {x}{{\sqrt  {1-x^{2}}}}}
+\tan(\arccos x)={\frac  {{\sqrt  {1-x^{2}}}}{x}}
+\sin x=x\prod _{{n=1}}^{\infty }\left(1-{\frac  {x^{2}}{\pi ^{2}n^{2}}}\right)
+\sinh x=x\prod _{{n=1}}^{\infty }\left(1+{\frac  {x^{2}}{\pi ^{2}n^{2}}}\right)
+{\frac  {\sin x}{x}}=\prod _{{n=1}}^{\infty }\cos \left({\frac  {x}{2^{n}}}\right)
+\cos x=\prod _{{n=1}}^{\infty }\left(1-{\frac  {x^{2}}{\pi ^{2}(n-{\frac  {1}{2}})^{2}}}\right)
+\cosh x=\prod _{{n=1}}^{\infty }\left(1+{\frac  {x^{2}}{\pi ^{2}(n-{\frac  {1}{2}})^{2}}}\right)
+|\sin x|={\frac  1{2}}\prod _{{n=0}}^{\infty }{\sqrt[ {2^{{n+1}}}]{\left|\tan \left(2^{n}x\right)\right|}}
+\lim _{{x\rightarrow 0}}{\frac  {\sin x}{x}}=1
+\lim _{{x\rightarrow 0}}{\frac  {1-\cos x}{x}}=0
+\tan {\frac {x}{2}}=1-{\frac {\cos x}{\sin x}}
+\sin 'x=\cos x
+\cos 'x=-\sin x
+{d \over dx}\sin(x)=\cos(x)
+{d \over dx}\sin x&=\cos x,&{d \over dx}\arcsin x&={1 \over {\sqrt  {1-x^{2}}}}\\\\{d \over dx}\cos x&=-\sin x,&{d \over dx}\arccos x&=-{1 \over {\sqrt  {1-x^{2}}}}\\\\{d \over dx}\tan x&=\sec ^{2}x,&{d \over dx}\arctan x&={1 \over 1+x^{2}}\\\\{d \over dx}\cot x&=-\csc ^{2}x,&{d \over dx}\operatorname{arccot} x&=-{1 \over 1+x^{2}}\\\\{d \over dx}\sec x&=\tan x\sec x,&{d \over dx}\operatorname{arcsec} x&={1 \over |x|{\sqrt  {x^{2}-1}}}\\\\{d \over dx}\csc x&=-\csc x\cot x,&{d \over dx}\operatorname{arccsc} x&=-{1 \over |x|{\sqrt  {x^{2}-1}}}
+\sin \theta ={\frac  {e^{{{i}\theta }}-e^{{-{i}\theta }}}{2{i}}}
+\arcsin x=-{i}\ln \left({i}x+{\sqrt  {1-x^{2}}}\right)
+\cos \theta ={\frac  {e^{{{i}\theta }}+e^{{-{i}\theta }}}{2}}
+\arccos x=-{i}\ln \left(x+{\sqrt  {x^{2}-1}}\right)
+\tan \theta ={\frac  {e^{{{i}\theta }}-e^{{-{i}\theta }}}{{i}(e^{{{i}\theta }}+e^{{-{i}\theta }})}}
+\arctan x={\frac  {i}{2}}\ln \left({\frac  {{i}+x}{{i}-x}}\right)
+\csc \theta ={\frac  {2{i}}{e^{{{i}\theta }}-e^{{-{i}\theta }}}}
+\operatorname{arccsc} x=-{i}\ln \left({\tfrac  {i}{x}}+{\sqrt  {1-{\tfrac  {1}{x^{2}}}}}\right)
+\sec \theta ={\frac  {2}{e^{{{i}\theta }}+e^{{-{i}\theta }}}}
+\operatorname{arcsec} x=-{i}\ln \left({\tfrac  {1}{x}}+{\sqrt  {1-{\tfrac  {i}{x^{2}}}}}\right)
+\cot \theta ={\frac  {{i}(e^{{{i}\theta }}+e^{{-{i}\theta }})}{e^{{{i}\theta }}-e^{{-{i}\theta }}}}
+\operatorname{arccot} x={\frac  {i}{2}}\ln \left({\frac  {{i}-x}{{i}+x}}\right)
+\operatorname {cis}\,\theta =e^{{{i}\theta }}
+\operatorname {arccis}\,x=-{i}\ln x
+\sinh \theta ={\frac {e^{\theta }-e^{-\theta }}{2}}
+\operatorname {arcsinh} \,x=\ln \left(x\pm {\sqrt {x^{2}+1}}\right)
+\cosh \theta ={\frac {e^{\theta }+e^{-\theta }}{2}}
+\operatorname {arccosh} \,x=\ln \left(x\pm {\sqrt {x^{2}-1}}\right)=\pm \ln \left(x+{\sqrt {x^{2}-1}}\right)
+\tanh \theta ={\frac {sinh\theta }{cosh\theta }}={\frac {e^{\theta }-e^{-\theta }}{e^{\theta }+e^{-\theta }}}
+\operatorname {arctanh} \,x={\frac {1}{2}}\ln \left({\frac {1+x}{1-x}}\right)
