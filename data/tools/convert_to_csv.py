@@ -11,6 +11,9 @@ with open(filedir,'r',encoding = 'utf-8') as f:
         if(line[0:3]=="---"):
             continue
         pairstuff = line.split("||,||")
+        pairstuff[1]=pairstuff[1].strip('\n')
+        pairstuff[0] = "\""+pairstuff[0]+"\""
+        pairstuff[1] = "\""+pairstuff[1]+"\""
         with open(csvname,'a') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(pairstuff)
