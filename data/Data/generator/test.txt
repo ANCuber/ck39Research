@@ -26,8 +26,6 @@ n-1
 {\sqrt {n}}
 O((\log n)^{2})
 1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
-\zeta (2)
-\zeta (2)=\pi ^{2}/6
 6/\pi ^{2}
 p(n)=a+bn
 {\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
@@ -107,244 +105,93 @@ n=0
 \operatorname {Spec} A
 k\cdot 2^{n}+1
 2^{0}+1=2This is a good article. Click here for more information
-Page semi-protected
-Groups of two to twelve dots, showing that the composite numbers of dots (4, 6, 8, 9, 10, and 12) can be arranged into rectangles but prime numbers cannot
-n
-n
 {\sqrt {n}}
-n
-n
-n
-Demonstration, with Cuisenaire rods, that 7 is prime, because none of 2, 3, 4, 5, or 6 divide it evenly
-n
-n
-n
 2,3,\dots ,n-1
-n
-n
 2\times n/2
 \mathbf {P}
 \mathbb {P}
-The Rhind Mathematical Papyrus
-n
 (n-1)!+1
 2^{2^{n}}+1
 2^p-1
-p
 {\tfrac {1}{2}}+{\tfrac {1}{3}}+{\tfrac {1}{5}}+{\tfrac {1}{7}}+{\tfrac {1}{11}}+\cdots
-x
-x
 x/\log x
 \log x
-x
 n>1
-n
-2n
 34866&=2\times 3\times 3\times 13\times 149\\&=2\times 3^{2}\times 13\times 149
-3
 3^2
-3
-p
-p
-ab
-a
-b
-p
-a
-p
-b
-p
-p
-1
 p_{1},p_{2},\ldots ,p_{n}
 N=1+p_{1}\cdot p_{2}\cdots p_{n}
-N
 N=p'_{1}\cdot p'_{2}\cdots p'_{m}
-N
-N
-N
 1+{\big (}2\cdot 3\cdot 5\cdot 7\cdot 11\cdot 13{\big )}=30031=59\cdot 509
 A>1
-\mu
 \left\lfloor A^{3^{n}}\right\rfloor {\text{ and }}\left\lfloor 2^{\cdots ^{2^{2^{\mu }}}}\right\rfloor
 n
 \lfloor {}\cdot {}\rfloor
-A
-\mu
-n
 n=4\cdot 10^{18}
 n!+2,n!+3,\dots ,n!+n
 n-1
-n
 8!=40320
-k
-2k
-1
-n
 {\sqrt {n}}
 O((\log n)^{2})
-k
 1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
 \zeta (2)
 \zeta (2)=\pi ^{2}/6
 6/\pi ^{2}
-n
 p(n)=a+bn
-a
-b
-b
 {\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
-x
-p
-x
-x
 {\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}
-n
 \left({{\frac {1}{3}}+{\frac {1}{5}}}\right)+\left({{\frac {1}{5}}+{\frac {1}{7}}}\right)+\left({{\frac {1}{11}}+{\frac {1}{13}}}\right)+\cdots
 {\tfrac {n}{\log n}}
 \operatorname {Li} (n)
-n
 \pi (n)
-n
 \pi (11)=5
-\pi (n)
-n
-\pi (n)
 n/\log n
 \pi (n)\sim {\frac {n}{\log n}}
-\pi (n)
-n
-n
-n
-n
 n\log n
 \log n
 \pi (n)
 \pi (n)\sim \operatorname {Li} (n)=\int _{2}^{n}{\frac {dt}{\log t}}
 a,a+q,a+2q,a+3q,\dots
-a
-q
-Prime numbers in arithmetic progression mod 9
-The Ulam spiral
 4n^{2}-2n+41
 n^{2}-n+41
 1\leq n\leq 40
-Plot of the absolute values of the zeta function
-\zeta (s)
-s
-\zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}=\prod _{p{\text{ prime}}}{\frac {1}{1-p^{-s}}}
 s=1
 1+{\tfrac {1}{2}}+{\tfrac {1}{3}}+\dots
-x
-x
 \{0,1,2,\dots ,n-1\}
-n
-n
-x
-y
 x\equiv y
-n
-n
-7
-3
 2/3\equiv 3{\bmod {7}}
-3
 2\equiv 9{\bmod {7}}
-6
-3
 2/3\equiv x{\bmod {6}}
-3
-2
-0
-3
 a\not \equiv 0
-p
 a^{p-1}\equiv 1
-p
-a
 \sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}}
-p
-p
 p>1
 (p-1)
--1
-p
 \;n=r\cdot s\;
 (n-1)
 (n-1)!\equiv -1{\pmod {n}}
-p
 \nu _{p}(n)
-n
-p
-n
-p
 m/n
 \nu _{p}(m)-\nu _{p}(n)
-p
 |q|_{p}
-q
 |q|_{p}=p^{-\nu _{p}(q)}
-p
-p
-p
-p
-p
-p
-p
-p
-p
-R
-p
-xy
-R
-x
-y
 \{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}
 \mathbb {Z} [i]
 a+bi
-i
-a
-b
 1+i
 1-i
-p
 p=x^{2}+y^{2}
 p=(x+iy)(x-iy)
-p
 a+b\sqrt{-5}
-a
-b
-21
 21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})
 p^{n}
 p^{n}
-n
-n
-n
-n
-n
 n=a\cdot b
-a
-b
-n
 {\sqrt {37}}
-Animation of the sieve of Eratosthenes
-n
-p
-a
-2
 p-2
 a^{(p-1)/2}\pm 1
-p
-p
-p
-n
 1/2^{n}
-n
-k
 \varepsilon
-n
-k
 O((\log n)^{6+\varepsilon })
 O((\log n)^{4+\varepsilon })
 O((\log n)^{2+\varepsilon })
@@ -352,48 +199,133 @@ O(k(\log n)^{2+\varepsilon })
 4^{-k}
 O(k(\log n)^{2+\varepsilon })
 2^{{-k}}
-n
-n
-n
-n
-x
-y
-x
-y
-xy
 a^{b}{\bmod {c}}
-k
 2^{16}
 Construction of a regular pentagon using straightedge and compass
 F_{k}=2^{2^{k}}+1
-k
-F_5
-n
-n
-n
-n
 2^{a}3^{b}+1
-n
-n
-n
 \pm 1
-a
-p
-p
-\pm 1
-n
 n\#
-n
 n\#\pm 1
 4\cdot 10^{{18}}
-k
 n=1
 n=0
 \operatorname {Spec} A
 k\cdot 2^{n}+1
 k
 2^{0}+1=2
-Divisibility of 60
-icon
-icon
-image
+{\sqrt {n}}
+2,3,\dots ,n-1
+2\times n/2
+\mathbf {P}
+\mathbb {P}
+(n-1)!+1
+2^{2^{n}}+1
+2^p-1
+{\tfrac {1}{2}}+{\tfrac {1}{3}}+{\tfrac {1}{5}}+{\tfrac {1}{7}}+{\tfrac {1}{11}}+\cdots
+x/\log x
+\log x
+n>1
+34866&=2\times 3\times 3\times 13\times 149\\&=2\times 3^{2}\times 13\times 149
+3^2
+p_{1},p_{2},\ldots ,p_{n}
+N=1+p_{1}\cdot p_{2}\cdots p_{n}
+N=p'_{1}\cdot p'_{2}\cdots p'_{m}
+1+{\big (}2\cdot 3\cdot 5\cdot 7\cdot 11\cdot 13{\big )}=30031=59\cdot 509
+A>1
+\left\lfloor A^{3^{n}}\right\rfloor {\text{ and }}\left\lfloor 2^{\cdots ^{2^{2^{\mu }}}}\right\rfloor
+\lfloor {}\cdot {}\rfloor
+n=4\cdot 10^{18}
+n!+2,n!+3,\dots ,n!+n
+n-1
+8!=40320
+{\sqrt {n}}
+O((\log n)^{2})
+1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
+6/\pi ^{2}
+p(n)=a+bn
+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
+{\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}
+\left({{\frac {1}{3}}+{\frac {1}{5}}}\right)+\left({{\frac {1}{5}}+{\frac {1}{7}}}\right)+\left({{\frac {1}{11}}+{\frac {1}{13}}}\right)+\cdots
+{\tfrac {n}{\log n}}
+\operatorname {Li} (n)
+\pi (n)
+\pi (11)=5
+\pi (n)\sim {\frac {n}{\log n}}
+\pi (n)
+n\log n
+\log n
+\pi (n)
+\pi (n)\sim \operatorname {Li} (n)=\int _{2}^{n}{\frac {dt}{\log t}}
+a,a+q,a+2q,a+3q,\dots
+Prime numbers in arithmetic progression mod 9
+The Ulam spiral
+4n^{2}-2n+41
+n^{2}-n+41
+1\leq n\leq 40
+Plot of the absolute values of the zeta function
+\zeta (s)
+\zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}=\prod _{p{\text{ prime}}}{\frac {1}{1-p^{-s}}}
+s=1
+1+{\tfrac {1}{2}}+{\tfrac {1}{3}}+\dots
+\{0,1,2,\dots ,n-1\}
+x\equiv y
+2/3\equiv 3{\bmod {7}}
+2\equiv 9{\bmod {7}}
+2/3\equiv x{\bmod {6}}
+a\not \equiv 0
+a^{p-1}\equiv 1
+\sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}}
+p>1
+(p-1)
+\;n=r\cdot s\;
+(n-1)
+(n-1)!\equiv -1{\pmod {n}}
+\nu _{p}(n)
+m/n
+\nu _{p}(m)-\nu _{p}(n)
+|q|_{p}
+|q|_{p}=p^{-\nu _{p}(q)}
+\{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}
+\mathbb {Z} [i]
+a+bi
+1+i
+1-i
+p=x^{2}+y^{2}
+p=(x+iy)(x-iy)
+a+b\sqrt{-5}
+21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})
+p^{n}
+p^{n}
+n=a\cdot b
+{\sqrt {37}}
+Animation of the sieve of Eratosthenes
+p-2
+a^{(p-1)/2}\pm 1
+1/2^{n}
+\varepsilon
+O((\log n)^{6+\varepsilon })
+O((\log n)^{4+\varepsilon })
+O((\log n)^{2+\varepsilon })
+O(k(\log n)^{2+\varepsilon })
+4^{-k}
+O(k(\log n)^{2+\varepsilon })
+2^{{-k}}
+a^{b}{\bmod {c}}
+2^{16}
+Construction of a regular pentagon using straightedge and compass
+F_{k}=2^{2^{k}}+1
+2^{a}3^{b}+1
+\pm 1
+n\#\pm 1
+4\cdot 10^{{18}}
+n=1
+n=0
+\operatorname {Spec} A
+k\cdot 2^{n}+1
+2^{0}+1=2
+\mu (n)=(-1)^{2x}=1
+\mu (n)=(-1)^{2x+1}=-1
+\mu(1) = 1
+\mu(n) = 0
+\{1, p, p^2\}
