@@ -27,7 +27,7 @@ with open(filedir,'r',encoding='utf-8') as f:
         except:
             print("there is an error in LaTex commands")
             continue;
-        if(des=="skip"):
+        if(des=="skip" or des==""):
             continue
         if(des=='exit' or des=='quit'):
             with open(writefiledir,'a',encoding='utf-8') as bw:
