@@ -272,62 +272,6 @@ s=1
 x\equiv y
 2/3\equiv 3{\bmod {7}}
 2\equiv 9{\bmod {7}}
-2/3\equiv x{\bmod {6}}
-a\not \equiv 0
-a^{p-1}\equiv 1
-\sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}}
-p>1
-(p-1)
-\;n=r\cdot s\;
-(n-1)
-(n-1)!\equiv -1{\pmod {n}}
-\nu _{p}(n)
-m/n
-\nu _{p}(m)-\nu _{p}(n)
-|q|_{p}
-|q|_{p}=p^{-\nu _{p}(q)}
-\{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}
-\mathbb {Z} [i]
-a+bi
-1+i
-1-i
-p=x^{2}+y^{2}
-p=(x+iy)(x-iy)
-a+b\sqrt{-5}
-21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})
-p^{n}
-p^{n}
-n=a\cdot b
-{\sqrt {37}}
-Animation of the sieve of Eratosthenes
-p-2
-a^{(p-1)/2}\pm 1
-1/2^{n}
-\varepsilon
-O((\log n)^{6+\varepsilon })
-O((\log n)^{4+\varepsilon })
-O((\log n)^{2+\varepsilon })
-O(k(\log n)^{2+\varepsilon })
-4^{-k}
-O(k(\log n)^{2+\varepsilon })
-2^{{-k}}
-a^{b}{\bmod {c}}
-2^{16}
-Construction of a regular pentagon using straightedge and compass
-F_{k}=2^{2^{k}}+1
-2^{a}3^{b}+1
-\pm 1
-n\#\pm 1
-4\cdot 10^{{18}}
-n=1
-n=0
-\operatorname {Spec} A
-k\cdot 2^{n}+1
-2^{0}+1=2
-\mu (n)=(-1)^{2x}=1
-\mu (n)=(-1)^{2x+1}=-1
-\mu(1) = 1
-\mu(n) = 0
 \{1, p, p^2\}
 \pi =3.14159265
 e=2.718281828
