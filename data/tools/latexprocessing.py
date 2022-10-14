@@ -29,3 +29,17 @@ def norm(rlatex):
         rlatex = rlatex.strip(',')
         rlatex = rlatex.strip('.')
     return rlatex;
+
+def givenoise(s):
+    import random
+    import string
+    randomlist = []
+    s = list(s)
+    p = (int)(len(s)/5);
+    for i in range(0,p):
+        n = random.randint(0,len(s))
+    randomlist.append(n)
+    for i in randomlist:
+        print(i)
+        s[i] = random.choices(string.ascii_letters)[0]
+    return s

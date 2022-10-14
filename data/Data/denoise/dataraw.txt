@@ -1,0 +1,2156 @@
+\psi (\mathbf {r} )={\frac {1}{\sqrt {\pi {a_{0}}^{3}}}}e^{-r/a_{0}}
+a_{0}
+\mathbb {C}
+e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+x\mapsto e^{x}
+p_n = 1-\frac{1}{1!}+\frac{1}{2!}-\frac{1}{3!}+\cdots+(-1)^n\frac{1}{n!}
+\zeta (3)=1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+{\frac {1}{4^{3}}}+\cdots
+F_{n}={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}
+\frac{1+\sqrt{5}}{2}
+\gamma &=\lim _{n\to \infty }\left(\left(\sum _{k=1}^{n}{\frac {1}{k}}\right)-\ln n\right)\\[5px]
+\gamma
+\gamma
+\begin{matrix} 1 \\ 11 \\ 21 \\ 1211 \\ 111221 \\ 312211 \\ \vdots \end{matrix}
+r=a_0+\dfrac{1}{a_1+\dfrac{1}{a_2+\dfrac{1}{a_3+\cdots}}}
+A=\lim _{{n\rightarrow \infty }}{\frac  {\prod _{{k=1}}^{{n}}k^{k}}{n^{{n^{2}/2+n/2+1/12}}e^{{-n^{2}/4}}}}
+c=\sum _{j=1}^{\infty }10^{-j!}=0.\underbrace {\overbrace {110001} ^{3!{\text{ digits}}}000000000000000001} _{4!{\text{ digits}}}000\dots
+C_{10} = 0.{\color{blue}{1}}2{\color{blue}{3}}4{\color{blue}{5}}6{\color{blue}{7}}8{\color{blue}{9}}10{\color{blue}{11}}12{\color{blue}{13}}14{\color{blue}{15}}16\dots
+y'(x)=-2y+e^{-x}
+\int\cos x\ dx=\sin x+C
+\frac{\partial f(x,y)}{\partial x}=0
+G=\left . \begin{matrix} 3 \underbrace{ \uparrow \ldots \uparrow } 3 \\ \underbrace{\vdots } \\ 3 \uparrow\uparrow\uparrow\uparrow 3 \end{matrix} \right \} \text{64 layers}
+a,b,c,\dots
+\alpha ,\beta ,\,\gamma ,\dots
+E_{B}
+\beta ^{*}
+B_{2}
+C_{b}
+\aleph _{0}
+\mathrm {googol} =10^{100}\,\ ,\ \mathrm {googolplex} =10^{\mathrm {googol} }=10^{10^{100}}
+\gamma
+\varphi
+\Lambda
+0\leq \Lambda \leq 0.2
+\beta
+\lambda
+\sigma
+\lambda
+\mu
+\beta
+\zeta (3)
+\lambda
+\theta
+\rho
+\mu
+\alpha
+\psi
+\delta
+\mathbb {C}
+(x+1)^{2}=-9
+{\mathcal {Re}}(z)
+{\mathfrak {R}}(z)
+{\mathcal {Im}}(z)
+{\mathfrak {I}}(z)
+\operatorname {Re} (2+3i)=2\quad {\text{ and }}\quad \operatorname {Im} (2+3i)=3~
+\mathbb{C}
+(\Re (z),\Im (z))
+(a+bi)\cdot i=ai+b(i)^{2}=-b+ai
+z=re^{i\varphi }=r(\cos \varphi +i\sin \varphi )
+\varphi
+r=|z|={\sqrt {x^{2}+y^{2}}}
+\varphi =\arg(x+yi)={\begin{cases}2\arctan \left({\dfrac {y}{{\sqrt {x^{2}+y^{2}}}+x}}\right)&{\text{if }}y\neq 0{\text{ or }}x>0,\\\pi &{\text{if }}x<0{\text{ and }}y=0,\\{\text{undefined}}&{\text{if }}x=0{\text{ and }}y=0.\end{cases}}
+\varphi =\operatorname {atan2} \left(\operatorname {Im} (z),\operatorname {Re} (z)\right)
+z=r(\cos \varphi +i\sin \varphi )
+z=re^{i\varphi }{\text{ or }}z=r\exp i\varphi
+z=r\operatorname {\mathrm {cis} } \varphi
+z=r\angle \varphi
+\pm {\sqrt {-2-2i}}
+\sqrt{81 - 144}
+{\sqrt {-63}}=3i{\sqrt {7}}
+{\sqrt {144-81}}=3{\sqrt {7}}
+{\tfrac {1}{\sqrt {3}}}\left(\left({\sqrt {-1}}\right)^{1/3}+\left({\sqrt {-1}}\right)^{-1/3}\right)
+-i,{\frac {{\sqrt {3}}+i}{2}},{\frac {-{\sqrt {3}}+i}{2}}
+{\sqrt {-1}}^{1/3}
+{\sqrt {-1}}^{2}={\sqrt {-1}}{\sqrt {-1}}=-1
+{\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}
+{\frac {1}{\sqrt {a}}}={\sqrt {\frac {1}{a}}}
+{\sqrt {-1}}
+(\cos \theta +i\sin \theta )^{n}=\cos n\theta +i\sin n\theta
+\cos \theta +i\sin \theta =e^{i\theta }
+{\sqrt {-1}}
+r={\sqrt {a^{2}+b^{2}}}
+{\sqrt {-1}}
+{\overline {\overline {z}}}=z
+\operatorname {Re} ({\overline {z}})=\operatorname {Re} (z)\quad
+\quad |{\overline {z}}|=|z|
+\operatorname {Im} ({\overline {z}})=-\operatorname {Im} (z)\quad {\text{ and }}\quad \operatorname {arg} {\overline {z}}\equiv -\operatorname {arg} z{\pmod {2\pi }}
+z\cdot {\overline {z}}=x^{2}+y^{2}=|z|^{2}=|{\overline {z}}|^{2}
+\operatorname {Re} (z)={\dfrac {z+{\overline {z}}}{2}},\quad {\text{ and }}\quad \operatorname {Im} (z)={\dfrac {z-{\overline {z}}}{2i}}
+{\overline {z\pm w}}&={\overline {z}}\pm {\overline {w}},\\{\overline {z\cdot w}}&={\overline {z}}\cdot {\overline {w}},\\{\overline {z/w}}&={\overline {z}}/{\overline {w}}
+a=x+yi
+b=u+vi
+a+b=(x+yi)+(u+vi)=(x+u)+(y+v)i
+a-b=(x+yi)-(u+vi)=(x-u)+(y-v)i
+a=x+yi
+ra=r(x+yi)=rx+ryi
+a-b=a+(-1)\,b
+(x+yi)\,(u+vi)=(xu-yv)+(xv+yu)i
+(x+yi)^{2}=x^{2}-y^{2}+2xyi
+{\frac {1}{z}}={\frac {\overline {z}}{z{\overline {z}}}}={\frac {\overline {z}}{|z|^{2}}}={\frac {\overline {z}}{x^{2}+y^{2}}}={\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i
+{\frac {w}{z}}=w\cdot {\frac {1}{z}}=(u+vi)\cdot \left({\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i\right)={\frac {(ux+vy)+(vx-uy)i}{x^{2}+y^{2}}}
+{\begin{alignedat}{4}\cos a\cos b&-\sin a\sin b&{}={}&\cos(a+b)\\\cos a\sin b&+\sin a\cos b&{}={}&\sin(a+b).\end{alignedat}}
+z_{1}z_{2}=r_{1}r_{2}(\cos(\varphi _{1}+\varphi _{2})+i\sin(\varphi _{1}+\varphi _{2}))
+(2+i)(3+i)=5+5i
+{\frac {\pi }{4}}=\arctan \left({\frac {1}{2}}\right)+\arctan \left({\frac {1}{3}}\right)
+{\frac {z_{1}}{z_{2}}}={\frac {r_{1}}{r_{2}}}\left(\cos(\varphi _{1}-\varphi _{2})+i\sin(\varphi _{1}-\varphi _{2})\right)
+\pm (\gamma +\delta i)
+\gamma ={\sqrt {\frac {a+{\sqrt {a^{2}+b^{2}}}}{2}}}
+\delta =(\operatorname {sgn} b){\sqrt {\frac {-a+{\sqrt {a^{2}+b^{2}}}}{2}}}
+\pm (\gamma +\delta i)
+{\sqrt {a^{2}+b^{2}}}
+{\sqrt {a^{2}+b^{2}}}={\sqrt {z{\overline {z}}}}
+\exp \colon \mathbb {C} \to \mathbb {C} ;z\mapsto \exp z
+\exp z=\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}
+e=\exp 1=\sum _{n=0}^{\infty }{\frac {1}{n!}}\approx 2.71828
+\exp z=e^{z}
+e^{z}=\exp z
+e^{z+t}=e^{z}e^{t}
+e^{iy}=\cos y+i\sin y
+e^{x+iy}=e^{x}(\cos y+i\sin y)=e^{x}\cos y+ie^{x}\sin y
+\ln \colon \mathbb {R} ^{+}\to \mathbb {R} ;x\mapsto \ln x
+z\in \mathbb {C} ^{\times }
+z=r(\cos \varphi +i\sin \varphi )
+r,\varphi \in \mathbb {R}
+\ln z=\ln r+i\varphi
+\exp \ln z=\exp(\ln r+i\varphi )=r\exp i\varphi =r(\cos \varphi +i\sin \varphi )=z
+\ln z=\left\{\ln r+i(\varphi +2\pi k)\mid k\in \mathbb {Z} \right\}
+\ln \colon \;\mathbb {C} ^{\times }\;\to \;\;\;\mathbb {R} ^{+}+\;i\,\left(-\pi ,\pi \right]
+z\in \mathbb {C} \setminus \left(-\mathbb {R} _{\geq 0}\right)
+z\in -\mathbb {R} ^{+}
+x^{z}=e^{z\ln x}
+z^{t}=\left\{e^{t\ln r}\,(\cos(\varphi t+2\pi kt)+i\sin(\varphi t+2\pi kt))\}\mid k\in \mathbb {Z} \right\}
+z^{n}=(r(\cos \varphi +i\sin \varphi ))^{n}=r^{n}\,(\cos n\varphi +i\sin n\varphi )
+z^{1/n}={\sqrt[{n}]{r}}\left(\cos \left({\frac {\varphi +2k\pi }{n}}\right)+i\sin \left({\frac {\varphi +2k\pi }{n}}\right)\right)
+{\sqrt[{n}]{r}}
+(z^{n})^{1/n}\neq z
+\mathbb{C}
+z_{1}+z_{2}&=z_{2}+z_{1},\\z_{1}z_{2}&=z_{2}z_{1}
+\mathbb{C}
+\mathbb {C}
+a_{n}z^{n}+\dotsb +a_{1}z+a_{0}=0
+\mathbb{C}
+\mathbb {Q}
+\mathbb {R}
+\mathbb {C}
+\mathbb{C}
+\mathbb {Q}
+\mathbb {C}
+\mathbb {C}
+\mathbb {Q} _{p}
+\mathbb{C}
+\mathbb{C}
+\mathbb{C}
+\mathbb{C}
+\mathbb {C}
+\mathbb{C}
+\mathbb{C}
+\mathbb {C}
+\mathbb{C}
+\mathbb {C}
+\mathbb {C}
+\mathbb {R}
+\mathbb {C}
+\mathbb{C}
+\mathbb{C}
+\mathbb {R}
+\mathbb{C}
+\mathbb {R} ^{2}
+(a,b)+(c,d)&=(a+c,b+d)\\(a,b)\cdot (c,d)&=(ac-bd,bc+ad)
+\mathbb{C}
+(x+y)z=xz+yz
+\mathbb {R}
+a_{n}X^{n}+\dotsb +a_{1}X+a_{0}
+\mathbb {R} [X]
+\mathbb {R} [X]/(X^{2}+1)
+\mathbb {R} [X]/(X^{2}+1)
+\mathbb {R}
+\mathbb {R} [X]
+\mathbb{C}
+\mathbb{C}
+\mathbb {R}
+\mathbb{C}
+\mathbb {R}
+{\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}
+a+ib\mapsto {\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}
+{\begin{pmatrix}\cos t&-\sin t\\\sin t&\;\;\cos t\end{pmatrix}}
+\cos t+i\sin t
+\mathbb {C}
+\operatorname {d} (z_{1},z_{2})=|z_{1}-z_{2}|
+|z_{1}+z_{2}|\leq |z_{1}|+|z_{2}|
+\exp z:=1+z+{\frac {z^{2}}{2\cdot 1}}+{\frac {z^{3}}{3\cdot 2\cdot 1}}+\cdots =\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}
+\exp(i\varphi )=\cos \varphi +i\sin \varphi
+\exp(i\pi )=-1
+\exp z=w
+\log w=\ln |w|+i\arg w
+z^{\omega }=\exp(\omega \log z)
+a^{bc}=\left(a^{b}\right)^{c}
+\mathbb {C}
+\mathbb {C}
+\mathbb {R}
+\mathbb {C}
+\mathbb {C}
+f(z)=az+b{\overline {z}}
+b{\overline {z}}
+\mathbb {C}
+u,v,w
+\{u,v,w\}
+S(u,v,w)={\frac {u-w}{u-v}}
+S
+\{u,v,w\}
+c
+f_{c}(z)=z^{2}+c
+c
+(x-a)(x-b)(x-c)=0
+\mathbb {C}
+{\overline {\mathbb {Q} }}
+\mathbb {Q}
+\mathbb {C}
+x(t)=\operatorname {Re} \{X(t)\}
+X(t)=Ae^{i\omega t}=ae^{i\phi }e^{i\omega t}=ae^{i(\omega t+\phi )}
+\cos((\omega +\alpha )t)+\cos \left((\omega -\alpha )t\right)&=\operatorname {Re} \left(e^{i(\omega +\alpha )t}+e^{i(\omega -\alpha )t}\right)\\&=\operatorname {Re} \left(\left(e^{i\alpha t}+e^{-i\alpha t}\right)\cdot e^{i\omega t}\right)\\&=\operatorname {Re} \left(2\cos(\alpha t)\cdot e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \operatorname {Re} \left(e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \cos \left(\omega t\right)
+V(t)=V_{0}e^{j\omega t}=V_{0}\left(\cos \omega t+j\sin \omega t\right)
+v(t)=\operatorname {Re} (V)=\operatorname {Re} \left[V_{0}e^{j\omega t}\right]=V_{0}\cos \omega t
+\mathbb {R}
+\mathbb {C}
+\mathbb {H}
+\mathbb {O}
+\mathbb {R}
+\mathbb {C}
+\mathbb {R}
+\mathbb {R}
+\mathbb {R}
+\mathbb {C} &\rightarrow \mathbb {C} \\z&\mapsto wz
+{\begin{pmatrix}\operatorname {Re} (w)&-\operatorname {Im} (w)\\\operatorname {Im} (w)&\operatorname {Re} (w)\end{pmatrix}}
+\mathbb {C}
+J={\begin{pmatrix}p&q\\r&-p\end{pmatrix}},\quad p^{2}+qr+1=0
+\{z=aI+bJ:a,b\in \mathbb {R} \}
+\mathbb {C}
+\mathbb {R} ^{2}
+\mathbb {R}
+\mathbb {C}
+\mathbb {H}
+\mathbb {O}
+\mathbb {R} [x]/(x^{2}-1)
+\mathbb {R} [x]/(x^{2}+1)
+\mathbb {R}
+\mathbb {Q}
+\mathbb {Q}
+\mathbb {Q} _{p}
+\mathbb {R}
+\mathbb {Q}
+\mathbb {R}
+\mathbb {Q} _{p}
+{\overline {\mathbb {Q} _{p}}}
+\mathbb {Q} _{p}
+\mathbb {C}
+{\mathbb  {C}}_{p}
+{\overline {\mathbb {Q} _{p}}}
+\mathbb {R}
+\mathbb {Q} _{p}
+\mathbb {C}
+{\mathcal {G}}_{2}^{+}
+:\;\mathbb {C}
+:\;\mathbb {R}
+:\;\mathbb {Q}
+:\;\mathbb {Z}
+:\;\mathbb {N}
+\R^2
+\mathbb{C}
+\left(\sqrt[3]{u} + \sqrt[3]{v}\right)^3 = 3 \sqrt[3]{uv} \left(\sqrt[3]{u} + \sqrt[3]{v}\right) + u + v
+x = \sqrt[3]{u} + \sqrt[3]{v}
+p = 3 \sqrt[3]{uv}
+q = u + v
+u = q/2 + \sqrt{(q/2)^2-(p/3)^3}
+v = q/2 - \sqrt{(q/2)^2-(p/3)^3}
+x = \sqrt[3]{q/2 + \sqrt{(q/2)^2-(p/3)^3}} + \sqrt[3]{q/2 - \sqrt{(q/2)^2-(p/3)^3}}
+(q/2)^2-(p/3)^3
+a=m+n{\sqrt {-1}}
+m
+n
+a_{'}
+a'={\sqrt {m^{2}+n^{2}}}
+a=m+n{\sqrt {-1}}
+m
+n
+a_{'}
+a'={\sqrt {m^{2}+n^{2}}}
+a={\sqrt {m^{2}+n^{2}}}
+a+b{\sqrt {-1}}
+a+b{\sqrt {-1}}
+a={\sqrt {m^{2}+n^{2}}}
+a+b{\sqrt {-1}}
+a+b{\sqrt {-1}}
+{\tfrac {a}{\sqrt {a^{2}+b^{2}}}}+{\tfrac {b}{\sqrt {a^{2}+b^{2}}}}{\sqrt {-1}}
+{\sqrt {-1}}
+\infty
+\infty
+{\sqrt {-1}}
+-\infty
++\infty
+{\sqrt {-1}}
+\mathbb N
+\mathbb {Z}
+\mathbb {Q}
+\mathbb {A}
+\mathbb{R}
+\mathbb{C}
+\mathbb {H}
+\mathbb {O}
+\mathbb{R}
+\mathbb{C}
+{\mathbb  S}
+Page semi-protected
+\psi (\mathbf {r} )={\frac {1}{\sqrt {\pi {a_{0}}^{3}}}}e^{-r/a_{0}}
+a_{0}
+\mathbb {R}
+\mathbb {C}
+e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+x\mapsto e^{x}
+p_n = 1-\frac{1}{1!}+\frac{1}{2!}-\frac{1}{3!}+\cdots+(-1)^n\frac{1}{n!}
+\zeta (3)=1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+{\frac {1}{4^{3}}}+\cdots
+F_{n}={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}
+\frac{1+\sqrt{5}}{2}
+\gamma &=\lim _{n\to \infty }\left(\left(\sum _{k=1}^{n}{\frac {1}{k}}\right)-\ln n\right)\\[5px]
+\gamma
+\gamma
+\begin{matrix} 1 \\ 11 \\ 21 \\ 1211 \\ 111221 \\ 312211 \\ \vdots \end{matrix}
+r=a_0+\dfrac{1}{a_1+\dfrac{1}{a_2+\dfrac{1}{a_3+\cdots}}}
+A=\lim _{{n\rightarrow \infty }}{\frac  {\prod _{{k=1}}^{{n}}k^{k}}{n^{{n^{2}/2+n/2+1/12}}e^{{-n^{2}/4}}}}
+c=\sum _{j=1}^{\infty }10^{-j!}=0.\underbrace {\overbrace {110001} ^{3!{\text{ digits}}}000000000000000001} _{4!{\text{ digits}}}000\dots
+C_{10} = 0.{\color{blue}{1}}2{\color{blue}{3}}4{\color{blue}{5}}6{\color{blue}{7}}8{\color{blue}{9}}10{\color{blue}{11}}12{\color{blue}{13}}14{\color{blue}{15}}16\dots
+y'(x)=-2y+e^{-x}
+\int\cos x\ dx=\sin x+C
+\frac{\partial f(x,y)}{\partial x}=0
+G=\left . \begin{matrix} 3 \underbrace{ \uparrow \ldots \uparrow } 3 \\ \underbrace{\vdots } \\ 3 \uparrow\uparrow\uparrow\uparrow 3 \end{matrix} \right \} \text{64 layers}
+a,b,c,\dots
+\alpha ,\beta ,\,\gamma ,\dots
+E_{B}
+\beta ^{*}
+B_{2}
+C_{b}
+\aleph _{0}
+\mathrm {googol} =10^{100}\,\ ,\ \mathrm {googolplex} =10^{\mathrm {googol} }=10^{10^{100}}
+\gamma
+\varphi
+\Lambda
+0\leq \Lambda \leq 0.2
+\beta
+\lambda
+\sigma
+\lambda
+\mu
+\beta
+\zeta (3)
+\lambda
+\theta
+\rho
+\mu
+\alpha
+\psi
+\delta
+Page semi-protected
+\psi (\mathbf {r} )={\frac {1}{\sqrt {\pi {a_{0}}^{3}}}}e^{-r/a_{0}}
+a_{0}
+\mathbb {R}
+\mathbb {C}
+e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+x\mapsto e^{x}
+p_n = 1-\frac{1}{1!}+\frac{1}{2!}-\frac{1}{3!}+\cdots+(-1)^n\frac{1}{n!}
+\zeta (3)=1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+{\frac {1}{4^{3}}}+\cdots
+F_{n}={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}
+\frac{1+\sqrt{5}}{2}
+\gamma &=\lim _{n\to \infty }\left(\left(\sum _{k=1}^{n}{\frac {1}{k}}\right)-\ln n\right)\\[5px]
+\gamma
+\gamma
+\begin{matrix} 1 \\ 11 \\ 21 \\ 1211 \\ 111221 \\ 312211 \\ \vdots \end{matrix}
+r=a_0+\dfrac{1}{a_1+\dfrac{1}{a_2+\dfrac{1}{a_3+\cdots}}}
+A=\lim _{{n\rightarrow \infty }}{\frac  {\prod _{{k=1}}^{{n}}k^{k}}{n^{{n^{2}/2+n/2+1/12}}e^{{-n^{2}/4}}}}
+c=\sum _{j=1}^{\infty }10^{-j!}=0.\underbrace {\overbrace {110001} ^{3!{\text{ digits}}}000000000000000001} _{4!{\text{ digits}}}000\dots
+C_{10} = 0.{\color{blue}{1}}2{\color{blue}{3}}4{\color{blue}{5}}6{\color{blue}{7}}8{\color{blue}{9}}10{\color{blue}{11}}12{\color{blue}{13}}14{\color{blue}{15}}16\dots
+y'(x)=-2y+e^{-x}
+\int\cos x\ dx=\sin x+C
+\frac{\partial f(x,y)}{\partial x}=0
+G=\left . \begin{matrix} 3 \underbrace{ \uparrow \ldots \uparrow } 3 \\ \underbrace{\vdots } \\ 3 \uparrow\uparrow\uparrow\uparrow 3 \end{matrix} \right \} \text{64 layers}
+a,b,c,\dots
+\alpha ,\beta ,\,\gamma ,\dots
+E_{B}
+\beta ^{*}
+B_{2}
+C_{b}
+\aleph _{0}
+\mathrm {googol} =10^{100}\,\ ,\ \mathrm {googolplex} =10^{\mathrm {googol} }=10^{10^{100}}
+\gamma
+\varphi
+\Lambda
+0\leq \Lambda \leq 0.2
+\beta
+\lambda
+\sigma
+\lambda
+\mu
+\beta
+\zeta (3)
+\lambda
+\theta
+\rho
+\mu
+\alpha
+\psi
+\delta
+(+x,+y,+z)&&(-x,+y,+z)&&(+x,-y,+z)&&(+x,+y,-z)\\(+x,-y,-z)&&(-x,+y,-z)&&(-x,-y,+z)&&(-x,-y,-z)
+\mathbb {R} ^{2}=\mathbb {R} \times \mathbb {R}
+\mathbb {R}
+\mathbb {R} ^{n}
+(x_{1},y_{1})
+(x_{2},y_{2})
+d={\sqrt {(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}}}
+(x_{1},y_{1},z_{1})
+(x_{2},y_{2},z_{2})
+d={\sqrt {(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}+(z_{2}-z_{1})^{2}}}
+(x',y')=(x+a,y+b)
+\theta
+x'&=x\cos \theta -y\sin \theta \\y'&=x\sin \theta +y\cos \theta
+(x',y')=((x\cos \theta -y\sin \theta \,),(x\sin \theta +y\cos \theta \,))
+\theta
+x'&=x\cos 2\theta +y\sin 2\theta \\y'&=x\sin 2\theta -y\cos 2\theta
+(x',y')=((x\cos 2\theta +y\sin 2\theta \,),(x\sin 2\theta -y\cos 2\theta \,))
+(x,y)
+{\begin{pmatrix}x\\y\end{pmatrix}}
+(x',y')
+(x,y)
+{\begin{pmatrix}x'\\y'\end{pmatrix}}=A{\begin{pmatrix}x\\y\end{pmatrix}}+b
+A={\begin{pmatrix}A_{1,1}&A_{1,2}\\A_{2,1}&A_{2,2}\end{pmatrix}}
+b={\begin{pmatrix}b_{1}\\b_{2}\end{pmatrix}}
+x'&=xA_{1,1}+yA_{1,1}+b_{1}\\y'&=xA_{2,1}+yA_{2,2}+b_{2}
+A
+A_{1,1}A_{1,2}+A_{2,1}A_{2,2}=0
+A_{1,1}^{2}+A_{2,1}^{2}=A_{1,2}^{2}+A_{2,2}^{2}=1
+A_{1,1}A_{2,2}-A_{2,1}A_{1,2}=1
+A_{1,1}A_{2,2}-A_{2,1}A_{1,2}=-1
+b_{1}=b_{2}=0
+{\begin{pmatrix}x'\\y'\\1\end{pmatrix}}=A'{\begin{pmatrix}x\\y\\1\end{pmatrix}}
+A'={\begin{pmatrix}A_{1,1}&A_{1,2}&b_{1}\\A_{2,1}&A_{2,2}&b_{2}\\0&0&1\end{pmatrix}}
+{\begin{pmatrix}A_{1,1}&A_{2,1}&b_{1}\\A_{1,2}&A_{2,2}&b_{2}\\0&0&1\end{pmatrix}}{\begin{pmatrix}x\\y\\1\end{pmatrix}}={\begin{pmatrix}x'\\y'\\1\end{pmatrix}}
+A_{i,j}
+(x',y')=(mx,my)
+(x',y')=(x+ys,y)
+(x',y')=(x,xs+y)
+\mathbf {r}
+\mathbf {r} =x\mathbf {i} +y\mathbf {j}
+\mathbf {i} ={\begin{pmatrix}1\\0\end{pmatrix}}
+\mathbf {j} ={\begin{pmatrix}0\\1\end{pmatrix}}
+(x,y,z)
+\mathbf {r} =x\mathbf {i} +y\mathbf {j} +z\mathbf {k}
+\mathbf {i} ={\begin{pmatrix}1\\0\\0\end{pmatrix}}
+\mathbf {j} ={\begin{pmatrix}0\\1\\0\end{pmatrix}}
+\mathbf {k} ={\begin{pmatrix}0\\0\\1\end{pmatrix}}
+Stereographic projection in 3D.svg
+The pons asinorum or bridge of asses theorem states that in an isosceles triangle, α = β and γ = δ
+The triangle angle sum theorem states that the sum of the three angles of any triangle, in this case angles α, β, and γ, will always equal 180 degrees
+The Pythagorean theorem states that the sum of the areas of the two squares on the legs (a and b) of a right triangle equals the area of the square on the hypotenuse (c)
+Thales' theorem states that if AC is a diameter, then the angle at B is a right angle
+A\propto L^{2}
+V\propto L^{3}
+A surveyor uses a level
+Sphere packing applies to a stack of oranges
+A parabolic mirror brings parallel rays of light to a focus
+Geometry is used in art and architecture
+The water tower consists of a cone, a cylinder, and a hemisphere. Its volume can be calculated using solid geometry
+Geometry can be used to design origami
+Motor partsolutions.gif
+|PQ|={\sqrt {(p_{x}-q_{x})^{2}+(p_{y}-q_{y})^{2}}}
+[icon]
+icon
+icon
+{\sqrt {\frac {1-x^{2}}{1+x^{2}}}}
+{\frac {3x^{2}-2xy+c}{y^{3}-1}}
+{\sqrt {\frac {1-x^{2}}{1+x^{2}}}}
+{\frac {P(x)}{Q(x)}}
+Algebraic equation notation.svg
+x,y
+\geq
+a,b,c
+x,y
+z
+x^{2}
+x
+1x^{2}
+x^{2}
+3x^{1}
+3x
+3x^{0}
+3
+x^{0}
+1
+Page semi-protected
+\psi (\mathbf {r} )={\frac {1}{\sqrt {\pi {a_{0}}^{3}}}}e^{-r/a_{0}}
+a_{0}
+\mathbb {R}
+\mathbb {C}
+e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+x\mapsto e^{x}
+p_n = 1-\frac{1}{1!}+\frac{1}{2!}-\frac{1}{3!}+\cdots+(-1)^n\frac{1}{n!}
+\zeta (3)=1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+{\frac {1}{4^{3}}}+\cdots
+F_{n}={\frac {\varphi ^{n}-(1-\varphi )^{n}}{\sqrt {5}}}
+\frac{1+\sqrt{5}}{2}
+\gamma &=\lim _{n\to \infty }\left(\left(\sum _{k=1}^{n}{\frac {1}{k}}\right)-\ln n\right)\\[5px]
+\gamma
+\gamma
+\begin{matrix} 1 \\ 11 \\ 21 \\ 1211 \\ 111221 \\ 312211 \\ \vdots \end{matrix}
+r=a_0+\dfrac{1}{a_1+\dfrac{1}{a_2+\dfrac{1}{a_3+\cdots}}}
+A=\lim _{{n\rightarrow \infty }}{\frac  {\prod _{{k=1}}^{{n}}k^{k}}{n^{{n^{2}/2+n/2+1/12}}e^{{-n^{2}/4}}}}
+c=\sum _{j=1}^{\infty }10^{-j!}=0.\underbrace {\overbrace {110001} ^{3!{\text{ digits}}}000000000000000001} _{4!{\text{ digits}}}000\dots
+C_{10} = 0.{\color{blue}{1}}2{\color{blue}{3}}4{\color{blue}{5}}6{\color{blue}{7}}8{\color{blue}{9}}10{\color{blue}{11}}12{\color{blue}{13}}14{\color{blue}{15}}16\dots
+y'(x)=-2y+e^{-x}
+\int\cos x\ dx=\sin x+C
+\frac{\partial f(x,y)}{\partial x}=0
+G=\left . \begin{matrix} 3 \underbrace{ \uparrow \ldots \uparrow } 3 \\ \underbrace{\vdots } \\ 3 \uparrow\uparrow\uparrow\uparrow 3 \end{matrix} \right \} \text{64 layers}
+a,b,c,\dots
+\alpha ,\beta ,\,\gamma ,\dots
+E_{B}
+\beta ^{*}
+B_{2}
+C_{b}
+\aleph _{0}
+\mathrm {googol} =10^{100}\,\ ,\ \mathrm {googolplex} =10^{\mathrm {googol} }=10^{10^{100}}
+\gamma
+\varphi
+\Lambda
+0\leq \Lambda \leq 0.2
+\beta
+\lambda
+\sigma
+\lambda
+\mu
+\beta
+\zeta (3)
+\lambda
+\theta
+\rho
+\mu
+\alpha
+\psi
+\delta
+\mathbb {C}
+(x+1)^{2}=-9
+{\mathcal {Re}}(z)
+{\mathfrak {R}}(z)
+{\mathcal {Im}}(z)
+{\mathfrak {I}}(z)
+\operatorname {Re} (2+3i)=2\quad {\text{ and }}\quad \operatorname {Im} (2+3i)=3~
+\mathbb{C}
+(\Re (z),\Im (z))
+(a+bi)\cdot i=ai+b(i)^{2}=-b+ai
+z=re^{i\varphi }=r(\cos \varphi +i\sin \varphi )
+\varphi
+r=|z|={\sqrt {x^{2}+y^{2}}}
+\varphi =\arg(x+yi)={\begin{cases}2\arctan \left({\dfrac {y}{{\sqrt {x^{2}+y^{2}}}+x}}\right)&{\text{if }}y\neq 0{\text{ or }}x>0,\\\pi &{\text{if }}x<0{\text{ and }}y=0,\\{\text{undefined}}&{\text{if }}x=0{\text{ and }}y=0.\end{cases}}
+\varphi =\operatorname {atan2} \left(\operatorname {Im} (z),\operatorname {Re} (z)\right)
+z=r(\cos \varphi +i\sin \varphi )
+z=re^{i\varphi }{\text{ or }}z=r\exp i\varphi
+z=r\operatorname {\mathrm {cis} } \varphi
+z=r\angle \varphi
+\pm {\sqrt {-2-2i}}
+\sqrt{81 - 144}
+{\sqrt {-63}}=3i{\sqrt {7}}
+{\sqrt {144-81}}=3{\sqrt {7}}
+{\tfrac {1}{\sqrt {3}}}\left(\left({\sqrt {-1}}\right)^{1/3}+\left({\sqrt {-1}}\right)^{-1/3}\right)
+-i,{\frac {{\sqrt {3}}+i}{2}},{\frac {-{\sqrt {3}}+i}{2}}
+{\sqrt {-1}}^{1/3}
+{\sqrt {-1}}^{2}={\sqrt {-1}}{\sqrt {-1}}=-1
+{\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}
+{\frac {1}{\sqrt {a}}}={\sqrt {\frac {1}{a}}}
+{\sqrt {-1}}
+(\cos \theta +i\sin \theta )^{n}=\cos n\theta +i\sin n\theta
+\cos \theta +i\sin \theta =e^{i\theta }
+{\sqrt {-1}}
+r={\sqrt {a^{2}+b^{2}}}
+{\sqrt {-1}}
+{\overline {\overline {z}}}=z
+\operatorname {Re} ({\overline {z}})=\operatorname {Re} (z)\quad
+\quad |{\overline {z}}|=|z|
+\operatorname {Im} ({\overline {z}})=-\operatorname {Im} (z)\quad {\text{ and }}\quad \operatorname {arg} {\overline {z}}\equiv -\operatorname {arg} z{\pmod {2\pi }}
+z\cdot {\overline {z}}=x^{2}+y^{2}=|z|^{2}=|{\overline {z}}|^{2}
+\operatorname {Re} (z)={\dfrac {z+{\overline {z}}}{2}},\quad {\text{ and }}\quad \operatorname {Im} (z)={\dfrac {z-{\overline {z}}}{2i}}
+{\overline {z\pm w}}&={\overline {z}}\pm {\overline {w}},\\{\overline {z\cdot w}}&={\overline {z}}\cdot {\overline {w}},\\{\overline {z/w}}&={\overline {z}}/{\overline {w}}
+a=x+yi
+b=u+vi
+a+b=(x+yi)+(u+vi)=(x+u)+(y+v)i
+a-b=(x+yi)-(u+vi)=(x-u)+(y-v)i
+a=x+yi
+ra=r(x+yi)=rx+ryi
+a-b=a+(-1)\,b
+(x+yi)\,(u+vi)=(xu-yv)+(xv+yu)i
+(x+yi)^{2}=x^{2}-y^{2}+2xyi
+{\frac {1}{z}}={\frac {\overline {z}}{z{\overline {z}}}}={\frac {\overline {z}}{|z|^{2}}}={\frac {\overline {z}}{x^{2}+y^{2}}}={\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i
+{\frac {w}{z}}=w\cdot {\frac {1}{z}}=(u+vi)\cdot \left({\frac {x}{x^{2}+y^{2}}}-{\frac {y}{x^{2}+y^{2}}}i\right)={\frac {(ux+vy)+(vx-uy)i}{x^{2}+y^{2}}}
+{\begin{alignedat}{4}\cos a\cos b&-\sin a\sin b&{}={}&\cos(a+b)\\\cos a\sin b&+\sin a\cos b&{}={}&\sin(a+b).\end{alignedat}}
+z_{1}z_{2}=r_{1}r_{2}(\cos(\varphi _{1}+\varphi _{2})+i\sin(\varphi _{1}+\varphi _{2}))
+(2+i)(3+i)=5+5i
+{\frac {\pi }{4}}=\arctan \left({\frac {1}{2}}\right)+\arctan \left({\frac {1}{3}}\right)
+{\frac {z_{1}}{z_{2}}}={\frac {r_{1}}{r_{2}}}\left(\cos(\varphi _{1}-\varphi _{2})+i\sin(\varphi _{1}-\varphi _{2})\right)
+\pm (\gamma +\delta i)
+\gamma ={\sqrt {\frac {a+{\sqrt {a^{2}+b^{2}}}}{2}}}
+\delta =(\operatorname {sgn} b){\sqrt {\frac {-a+{\sqrt {a^{2}+b^{2}}}}{2}}}
+\pm (\gamma +\delta i)
+{\sqrt {a^{2}+b^{2}}}
+{\sqrt {a^{2}+b^{2}}}={\sqrt {z{\overline {z}}}}
+\exp \colon \mathbb {C} \to \mathbb {C} ;z\mapsto \exp z
+\exp z=\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}
+e=\exp 1=\sum _{n=0}^{\infty }{\frac {1}{n!}}\approx 2.71828
+\exp z=e^{z}
+e^{z}=\exp z
+e^{z+t}=e^{z}e^{t}
+e^{iy}=\cos y+i\sin y
+e^{x+iy}=e^{x}(\cos y+i\sin y)=e^{x}\cos y+ie^{x}\sin y
+\ln \colon \mathbb {R} ^{+}\to \mathbb {R} ;x\mapsto \ln x
+z\in \mathbb {C} ^{\times }
+z=r(\cos \varphi +i\sin \varphi )
+r,\varphi \in \mathbb {R}
+\ln z=\ln r+i\varphi
+\exp \ln z=\exp(\ln r+i\varphi )=r\exp i\varphi =r(\cos \varphi +i\sin \varphi )=z
+\ln z=\left\{\ln r+i(\varphi +2\pi k)\mid k\in \mathbb {Z} \right\}
+\ln \colon \;\mathbb {C} ^{\times }\;\to \;\;\;\mathbb {R} ^{+}+\;i\,\left(-\pi ,\pi \right]
+z\in \mathbb {C} \setminus \left(-\mathbb {R} _{\geq 0}\right)
+z\in -\mathbb {R} ^{+}
+x^{z}=e^{z\ln x}
+z^{t}=\left\{e^{t\ln r}\,(\cos(\varphi t+2\pi kt)+i\sin(\varphi t+2\pi kt))\}\mid k\in \mathbb {Z} \right\}
+z^{n}=(r(\cos \varphi +i\sin \varphi ))^{n}=r^{n}\,(\cos n\varphi +i\sin n\varphi )
+z^{1/n}={\sqrt[{n}]{r}}\left(\cos \left({\frac {\varphi +2k\pi }{n}}\right)+i\sin \left({\frac {\varphi +2k\pi }{n}}\right)\right)
+{\sqrt[{n}]{r}}
+(z^{n})^{1/n}\neq z
+\mathbb{C}
+z_{1}+z_{2}&=z_{2}+z_{1},\\z_{1}z_{2}&=z_{2}z_{1}
+\mathbb{C}
+\mathbb {C}
+a_{n}z^{n}+\dotsb +a_{1}z+a_{0}=0
+\mathbb{C}
+\mathbb {Q}
+\mathbb {R}
+\mathbb {C}
+\mathbb{C}
+\mathbb {Q}
+\mathbb {C}
+\mathbb {C}
+\mathbb {Q} _{p}
+\mathbb{C}
+\mathbb{C}
+\mathbb{C}
+\mathbb{C}
+\mathbb {C}
+\mathbb{C}
+\mathbb{C}
+\mathbb {C}
+\mathbb{C}
+\mathbb {C}
+\mathbb {C}
+\mathbb {R}
+\mathbb {C}
+\mathbb{C}
+\mathbb{C}
+\mathbb {R}
+\mathbb{C}
+\mathbb {R} ^{2}
+(a,b)+(c,d)&=(a+c,b+d)\\(a,b)\cdot (c,d)&=(ac-bd,bc+ad)
+\mathbb{C}
+(x+y)z=xz+yz
+\mathbb {R}
+a_{n}X^{n}+\dotsb +a_{1}X+a_{0}
+\mathbb {R} [X]
+\mathbb {R} [X]/(X^{2}+1)
+\mathbb {R} [X]/(X^{2}+1)
+\mathbb {R}
+\mathbb {R} [X]
+\mathbb{C}
+\mathbb{C}
+\mathbb {R}
+\mathbb{C}
+\mathbb {R}
+{\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}
+a+ib\mapsto {\begin{pmatrix}a&-b\\b&\;\;a\end{pmatrix}}
+{\begin{pmatrix}\cos t&-\sin t\\\sin t&\;\;\cos t\end{pmatrix}}
+\cos t+i\sin t
+\mathbb {C}
+\operatorname {d} (z_{1},z_{2})=|z_{1}-z_{2}|
+|z_{1}+z_{2}|\leq |z_{1}|+|z_{2}|
+\exp z:=1+z+{\frac {z^{2}}{2\cdot 1}}+{\frac {z^{3}}{3\cdot 2\cdot 1}}+\cdots =\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}
+\exp(i\varphi )=\cos \varphi +i\sin \varphi
+\exp(i\pi )=-1
+\exp z=w
+\log w=\ln |w|+i\arg w
+z^{\omega }=\exp(\omega \log z)
+a^{bc}=\left(a^{b}\right)^{c}
+\mathbb {C}
+\mathbb {C}
+\mathbb {R}
+\mathbb {C}
+\mathbb {C}
+f(z)=az+b{\overline {z}}
+b{\overline {z}}
+\mathbb {C}
+u,v,w
+\{u,v,w\}
+S(u,v,w)={\frac {u-w}{u-v}}
+S
+\{u,v,w\}
+c
+f_{c}(z)=z^{2}+c
+c
+(x-a)(x-b)(x-c)=0
+\mathbb {C}
+{\overline {\mathbb {Q} }}
+\mathbb {Q}
+\mathbb {C}
+x(t)=\operatorname {Re} \{X(t)\}
+X(t)=Ae^{i\omega t}=ae^{i\phi }e^{i\omega t}=ae^{i(\omega t+\phi )}
+\cos((\omega +\alpha )t)+\cos \left((\omega -\alpha )t\right)&=\operatorname {Re} \left(e^{i(\omega +\alpha )t}+e^{i(\omega -\alpha )t}\right)\\&=\operatorname {Re} \left(\left(e^{i\alpha t}+e^{-i\alpha t}\right)\cdot e^{i\omega t}\right)\\&=\operatorname {Re} \left(2\cos(\alpha t)\cdot e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \operatorname {Re} \left(e^{i\omega t}\right)\\&=2\cos(\alpha t)\cdot \cos \left(\omega t\right)
+V(t)=V_{0}e^{j\omega t}=V_{0}\left(\cos \omega t+j\sin \omega t\right)
+v(t)=\operatorname {Re} (V)=\operatorname {Re} \left[V_{0}e^{j\omega t}\right]=V_{0}\cos \omega t
+\mathbb {R}
+\mathbb {C}
+\mathbb {H}
+\mathbb {O}
+\mathbb {R}
+\mathbb {C}
+\mathbb {R}
+\mathbb {R}
+\mathbb {R}
+\mathbb {C} &\rightarrow \mathbb {C} \\z&\mapsto wz
+{\begin{pmatrix}\operatorname {Re} (w)&-\operatorname {Im} (w)\\\operatorname {Im} (w)&\operatorname {Re} (w)\end{pmatrix}}
+\mathbb {C}
+J={\begin{pmatrix}p&q\\r&-p\end{pmatrix}},\quad p^{2}+qr+1=0
+\{z=aI+bJ:a,b\in \mathbb {R} \}
+\mathbb {C}
+\mathbb {R} ^{2}
+\mathbb {R}
+\mathbb {C}
+\mathbb {H}
+\mathbb {O}
+\mathbb {R} [x]/(x^{2}-1)
+\mathbb {R} [x]/(x^{2}+1)
+\mathbb {R}
+\mathbb {Q}
+\mathbb {Q}
+\mathbb {Q} _{p}
+\mathbb {R}
+\mathbb {Q}
+\mathbb {R}
+\mathbb {Q} _{p}
+{\overline {\mathbb {Q} _{p}}}
+\mathbb {Q} _{p}
+\mathbb {C}
+{\mathbb  {C}}_{p}
+{\overline {\mathbb {Q} _{p}}}
+\mathbb {R}
+\mathbb {Q} _{p}
+\mathbb {C}
+{\mathcal {G}}_{2}^{+}
+\mathbb{C}
+\left(\sqrt[3]{u} + \sqrt[3]{v}\right)^3 = 3 \sqrt[3]{uv} \left(\sqrt[3]{u} + \sqrt[3]{v}\right) + u + v
+x = \sqrt[3]{u} + \sqrt[3]{v}
+p = 3 \sqrt[3]{uv}
+q = u + v
+u = q/2 + \sqrt{(q/2)^2-(p/3)^3}
+v = q/2 - \sqrt{(q/2)^2-(p/3)^3}
+x = \sqrt[3]{q/2 + \sqrt{(q/2)^2-(p/3)^3}} + \sqrt[3]{q/2 - \sqrt{(q/2)^2-(p/3)^3}}
+(q/2)^2-(p/3)^3
+a=m+n{\sqrt {-1}}
+m
+n
+a_{'}
+a'={\sqrt {m^{2}+n^{2}}}
+a=m+n{\sqrt {-1}}
+m
+n
+a_{'}
+a'={\sqrt {m^{2}+n^{2}}}
+a={\sqrt {m^{2}+n^{2}}}
+a+b{\sqrt {-1}}
+a+b{\sqrt {-1}}
+a={\sqrt {m^{2}+n^{2}}}
+a+b{\sqrt {-1}}
+a+b{\sqrt {-1}}
+{\tfrac {a}{\sqrt {a^{2}+b^{2}}}}+{\tfrac {b}{\sqrt {a^{2}+b^{2}}}}{\sqrt {-1}}
+{\sqrt {-1}}
+\infty
+\infty
+{\sqrt {-1}}
+-\infty
++\infty
+{\sqrt {-1}}
+\mathbb N
+\mathbb {Z}
+\mathbb {Q}
+\mathbb {A}
+\mathbb{R}
+\mathbb{C}
+\mathbb {H}
+\mathbb {O}
+\mathbb{R}
+\mathbb{C}
+{\mathbb  S}
+(+x,+y,+z)&&(-x,+y,+z)&&(+x,-y,+z)&&(+x,+y,-z)\\(+x,-y,-z)&&(-x,+y,-z)&&(-x,-y,+z)&&(-x,-y,-z)
+\mathbb {R} ^{2}=\mathbb {R} \times \mathbb {R}
+\mathbb {R}
+\mathbb {R} ^{n}
+(x_{1},y_{1})
+(x_{2},y_{2})
+d={\sqrt {(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}}}
+(x_{1},y_{1},z_{1})
+(x_{2},y_{2},z_{2})
+d={\sqrt {(x_{2}-x_{1})^{2}+(y_{2}-y_{1})^{2}+(z_{2}-z_{1})^{2}}}
+(x',y')=(x+a,y+b)
+\theta
+x'&=x\cos \theta -y\sin \theta \\y'&=x\sin \theta +y\cos \theta
+(x',y')=((x\cos \theta -y\sin \theta \,),(x\sin \theta +y\cos \theta \,))
+\theta
+x'&=x\cos 2\theta +y\sin 2\theta \\y'&=x\sin 2\theta -y\cos 2\theta
+(x',y')=((x\cos 2\theta +y\sin 2\theta \,),(x\sin 2\theta -y\cos 2\theta \,))
+(x,y)
+{\begin{pmatrix}x\\y\end{pmatrix}}
+(x',y')
+(x,y)
+{\begin{pmatrix}x'\\y'\end{pmatrix}}=A{\begin{pmatrix}x\\y\end{pmatrix}}+b
+A={\begin{pmatrix}A_{1,1}&A_{1,2}\\A_{2,1}&A_{2,2}\end{pmatrix}}
+b={\begin{pmatrix}b_{1}\\b_{2}\end{pmatrix}}
+x'&=xA_{1,1}+yA_{1,1}+b_{1}\\y'&=xA_{2,1}+yA_{2,2}+b_{2}
+A
+A_{1,1}A_{1,2}+A_{2,1}A_{2,2}=0
+A_{1,1}^{2}+A_{2,1}^{2}=A_{1,2}^{2}+A_{2,2}^{2}=1
+A_{1,1}A_{2,2}-A_{2,1}A_{1,2}=1
+A_{1,1}A_{2,2}-A_{2,1}A_{1,2}=-1
+b_{1}=b_{2}=0
+{\begin{pmatrix}x'\\y'\\1\end{pmatrix}}=A'{\begin{pmatrix}x\\y\\1\end{pmatrix}}
+A'={\begin{pmatrix}A_{1,1}&A_{1,2}&b_{1}\\A_{2,1}&A_{2,2}&b_{2}\\0&0&1\end{pmatrix}}
+{\begin{pmatrix}A_{1,1}&A_{2,1}&b_{1}\\A_{1,2}&A_{2,2}&b_{2}\\0&0&1\end{pmatrix}}{\begin{pmatrix}x\\y\\1\end{pmatrix}}={\begin{pmatrix}x'\\y'\\1\end{pmatrix}}
+A_{i,j}
+(x',y')=(mx,my)
+(x',y')=(x+ys,y)
+(x',y')=(x,xs+y)
+\mathbf {r}
+\mathbf {r} =x\mathbf {i} +y\mathbf {j}
+\mathbf {i} ={\begin{pmatrix}1\\0\end{pmatrix}}
+\mathbf {j} ={\begin{pmatrix}0\\1\end{pmatrix}}
+(x,y,z)
+\mathbf {r} =x\mathbf {i} +y\mathbf {j} +z\mathbf {k}
+\mathbf {i} ={\begin{pmatrix}1\\0\\0\end{pmatrix}}
+\mathbf {j} ={\begin{pmatrix}0\\1\\0\end{pmatrix}}
+\mathbf {k} ={\begin{pmatrix}0\\0\\1\end{pmatrix}}
+A\propto L^{2}
+V\propto L^{3}
+|PQ|={\sqrt {(p_{x}-q_{x})^{2}+(p_{y}-q_{y})^{2}}}
+{\sqrt {\frac {1-x^{2}}{1+x^{2}}}}
+{\frac {3x^{2}-2xy+c}{y^{3}-1}}
+{\sqrt {\frac {1-x^{2}}{1+x^{2}}}}
+{\frac {P(x)}{Q(x)}}
+Algebraic equation notation.svg
+x,y
+\geq
+a,b,c
+x,y
+z
+x^{2}
+x
+1x^{2}
+x^{2}
+3x^{1}
+3x
+3x^{0}
+3
+x^{0}
+1
+Illustration of distributive property with rectangles.svg
+x\cdot (y+z)=x\cdot y+x\cdot z
+(P\land (Q\lor R))\Leftrightarrow ((P\land Q)\lor (P\land R))
+(P\lor (Q\land R))\Leftrightarrow ((P\lor Q)\land (P\lor R))
+x\cdot (y+z)=x\cdot y+x\cdot z
+2\cdot (1+3)=(2\cdot 1)+(2\cdot 3)
+x,y,{\text{ and }}z
+S
+x*(y+z)=(x*y)+(x*z);
+x,y,{\text{ and }}z
+S
+(y+z)*x=(y*x)+(z*x);
+\cdot
+a\cdot \left(b\pm c\right)=a\cdot b\pm a\cdot c\qquad {\text{ (left-distributive) }}
+(a\pm b)\cdot c=a\cdot c\pm b\cdot c\qquad {\text{ (right-distributive) }}
+(a\pm b)\div c=a\div c\pm b\div c
+a\div (b\pm c)\neq a\div b\pm a\div c
+\mathbb {R}
+6\cdot 16=6\cdot (10+6)=6\cdot 10+6\cdot 6=60+36=96
+6\cdot 16
+6\cdot 10
+6\cdot 6
+3a^{2}b\cdot (4a-5b)=3a^{2}b\cdot 4a-3a^{2}b\cdot 5b=12a^{3}b-15a^{2}b^{2}
+(a+b)\cdot (a-b)&=a\cdot (a-b)+b\cdot (a-b)=a^{2}-ab+ba-b^{2}=a^{2}-b^{2}\\&=(a+b)\cdot a-(a+b)\cdot b=a^{2}+ba-ab-b^{2}=a^{2}-b^{2}
+12a^{3}b^{2}-30a^{4}bc+18a^{2}b^{3}c^{2}
+6a^{2}b
+12a^{3}b^{2}-30a^{4}bc+18a^{2}b^{3}c^{2}=6a^{2}b\left(2ab-5a^{2}c+3b^{2}c^{2}\right)
+(A+B)\cdot C=A\cdot C+B\cdot C
+l\times m
+A,B
+m\times n
+C
+A\cdot (B+C)=A\cdot B+A\cdot C
+l\times m
+A
+m\times n
+B,C
+\max(a,\min(b,c))=\min(\max(a,b),\max(a,c))\quad {\text{ and }}\quad \min(a,\max(b,c))=\max(\min(a,b),\min(a,c))
+\gcd(a,\operatorname {lcm} (b,c))=\operatorname {lcm} (\gcd(a,b),\gcd(a,c))\quad {\text{ and }}\quad \operatorname {lcm} (a,\gcd(b,c))=\gcd(\operatorname {lcm} (a,b),\operatorname {lcm} (a,c))
+a+\max(b,c)=\max(a+b,a+c)\quad {\text{ and }}\quad a+\min(b,c)=\min(a+b,a+c)
+ac
+ad
+bc
+bd
+(a+b)\cdot (c+d)=ac+ad+bc+bd
+u(v+w)=uv+uw,(u+v)w=uw+vw
+(P\land (Q\lor R))\Leftrightarrow ((P\land Q)\lor (P\land R))\qquad {\text{ and }}\qquad (P\lor (Q\land R))\Leftrightarrow ((P\lor Q)\land (P\lor R))
+\Leftrightarrow
+{\begin{alignedat}{13}&(P&&\;\land &&(Q\lor R))&&\;\Leftrightarrow \;&&((P\land Q)&&\;\lor (P\land R))&&\quad {\text{ Distribution of }}&&{\text{ conjunction }}&&{\text{ over }}&&{\text{ disjunction }}\\&(P&&\;\lor &&(Q\land R))&&\;\Leftrightarrow \;&&((P\lor Q)&&\;\land (P\lor R))&&\quad {\text{ Distribution of }}&&{\text{ disjunction }}&&{\text{ over }}&&{\text{ conjunction }}\\&(P&&\;\land &&(Q\land R))&&\;\Leftrightarrow \;&&((P\land Q)&&\;\land (P\land R))&&\quad {\text{ Distribution of }}&&{\text{ conjunction }}&&{\text{ over }}&&{\text{ conjunction }}\\&(P&&\;\lor &&(Q\lor R))&&\;\Leftrightarrow \;&&((P\lor Q)&&\;\lor (P\lor R))&&\quad {\text{ Distribution of }}&&{\text{ disjunction }}&&{\text{ over }}&&{\text{ disjunction }}\\&(P&&\to &&(Q\to R))&&\;\Leftrightarrow \;&&((P\to Q)&&\to (P\to R))&&\quad {\text{ Distribution of }}&&{\text{ implication }}&&{\text{  }}&&{\text{  }}\\&(P&&\to &&(Q\leftrightarrow R))&&\;\Leftrightarrow \;&&((P\to Q)&&\leftrightarrow (P\to R))&&\quad {\text{ Distribution of }}&&{\text{ implication }}&&{\text{ over }}&&{\text{ equivalence }}\\&(P&&\to &&(Q\land R))&&\;\Leftrightarrow \;&&((P\to Q)&&\;\land (P\to R))&&\quad {\text{ Distribution of }}&&{\text{ implication }}&&{\text{ over }}&&{\text{ conjunction }}\\&(P&&\;\lor &&(Q\leftrightarrow R))&&\;\Leftrightarrow \;&&((P\lor Q)&&\leftrightarrow (P\lor R))&&\quad {\text{ Distribution of }}&&{\text{ disjunction }}&&{\text{ over }}&&{\text{ equivalence }}\\\end{alignedat}}
+{\begin{alignedat}{13}&((P\land Q)&&\;\lor (R\land S))&&\;\Leftrightarrow \;&&(((P\lor R)\land (P\lor S))&&\;\land ((Q\lor R)\land (Q\lor S)))&&\\&((P\lor Q)&&\;\land (R\lor S))&&\;\Leftrightarrow \;&&(((P\land R)\lor (P\land S))&&\;\lor ((Q\land R)\lor (Q\land S)))&&\\\end{alignedat}}
+1/3+1/3+1/3=(1+1+1)/3
+(S,\mu ,\nu )
+\left(S^{\prime },\mu ^{\prime },\nu ^{\prime }\right)
+C
+S.S^{\prime }\to S^{\prime }.S
+\lambda :S.S^{\prime }\to S^{\prime }.S
+\left(S^{\prime },\lambda \right)
+S\to S
+(S,\lambda )
+S^{\prime }\to S^{\prime }
+S^{\prime }.S
+S^{\prime }\mu .\mu ^{\prime }S^{2}.S^{\prime }\lambda S
+\eta ^{\prime }S.\eta
+(xy)^{-1}=y^{-1}x^{-1}
+a
+(x+y)a=ya+xa
+(a\lor b)\Rightarrow c\equiv (a\Rightarrow c)\land (b\Rightarrow c)
+(a\land b)\Rightarrow c\equiv (a\Rightarrow c)\lor (b\Rightarrow c)
+x
+y
+x\wedge y
+x\vee y
+x
+\neg x
+x\wedge y&=xy=\min(x,y)\\x\vee y&=x+y-xy=x+y(1-x)=\max(x,y)\\\neg x&=1-x
+x\wedge y&=\neg (\neg x\vee \neg y)\\x\vee y&=\neg (\neg x\wedge \neg y)
+x\rightarrow y=\neg {x}\vee y
+x\leftrightarrow y=(x\land y)\lor (\neg x\land \neg y)
+x\oplus y=\neg (x\equiv y)=(x\vee y)\wedge \neg (x\wedge y)=(x\vee y)\wedge (\neg x\vee \neg y)=(x\wedge \neg y)\vee (\neg x\wedge y)
+x\equiv y=\neg {(x\oplus y)}=(x\wedge y)\vee (\neg x\wedge \neg y)
+x
+y
+x\rightarrow y
+x\oplus y
+x\equiv y
+\vee
+x\vee (y\vee z)
+=(x\vee y)\vee z
+\wedge
+x\wedge (y\wedge z)
+=(x\wedge y)\wedge z
+\vee
+x\vee y
+=y\vee x
+\wedge
+x\wedge y
+=y\wedge x
+\wedge
+\vee
+x\wedge (y\vee z)
+=(x\wedge y)\vee (x\wedge z)
+\vee
+x\vee 0
+=x
+\wedge
+x\wedge 1
+=x
+\wedge
+x\wedge 0
+=0
+\vee
+x\vee 1
+=1
+\vee
+x\vee x
+=x
+\wedge
+x\wedge x
+=x
+x\wedge (x\vee y)
+=x
+x\vee (x\wedge y)
+=x
+\vee
+\wedge
+x\vee (y\wedge z)
+=(x\vee y)\wedge (x\vee z)
+&{\text{Complementation 1}}&x\wedge \neg x&=0\\&{\text{Complementation 2}}&x\vee \neg x&=1
+&{\text{Double negation}}&\neg {(\neg {x})}&=x
+(-x)(-y)&=xy\\(-x)+(-y)&=-(x+y)
+&{\text{De Morgan 1}}&\neg x\wedge \neg y&=\neg {(x\vee y)}\\&{\text{De Morgan 2}}&\neg x\vee \neg y&=\neg {(x\wedge y)}
+DeMorganGates.GIF
+((a\mid b)\mid c)\mid (a\mid ((a\mid c)\mid a))=c
+\vdash
+\vdash
+\vdash
+\vdash
+xy
+icon
+Computer Retro.svg
+icon
+icon
+Page semi-protected
+ax^{2}+bx+c=0
+a,b,c
+a
+0
+x
+icon
+icon
+Lattice of subgroups and subfields showing their corresponding Galois groups
+Évariste Galois
+x^{2}-4x+1=0
+A&=2+{\sqrt {3}},\\B&=2-{\sqrt {3}}
+A+B=4
+AB=1
+x^{4}-10x^{2}+1
+\left(x^{2}-5\right)^{2}-24
+A&={\sqrt {2}}+{\sqrt {3}},\\B&={\sqrt {2}}-{\sqrt {3}},\\C&=-{\sqrt {2}}+{\sqrt {3}},\\D&=-{\sqrt {2}}-{\sqrt {3}}
+AB&=-1\\AC&=1\\A+D&=0
+\varphi (B)&={\frac {-1}{\varphi (A)}},\\\varphi (C)&={\frac {1}{\varphi (A)}},\\\varphi (D)&=-\varphi (A)
+Der_{K}(F,F)
+Der_{E}(F,F)\subset Der_{K}(F,F)
+V\subset Der_{K}(F,F)
+\{x\in F,f(x)=0\ \forall f\in V\}
+F^{p}\subset K
+f(x)
+f(x)={\frac {P(x)}{Q(x)}}
+P
+Q
+x
+Q
+f
+x
+Q(x)
+\textstyle P
+\textstyle Q
+\textstyle R
+\textstyle P=P_{1}R
+\textstyle Q=Q_{1}R
+f_{1}(x)={\frac {P_{1}(x)}{Q_{1}(x)}}
+f(x)
+f(x)
+f(x)
+f(x)
+f_{1}(x)
+f(x)
+f_{1}(x)
+{\frac {A(x)}{B(x)}}
+{\frac {C(x)}{D(x)}}
+A(x)D(x)=B(x)C(x)
+{\frac {P(x)}{Q(x)}}
+{\frac {P_{1}(x)}{Q_{1}(x)}}
+P(x)
+Q(x)
+\mathbb {Q}
+f(z)=w
+Rational function of degree 3
+y={\frac {x^{3}-2x}{2(x^{2}-5)}}
+Rational function of degree 2
+y={\frac {x^{2}-3x-2}{x^{2}-4}}
+f(x)={\frac {x^{3}-2x}{2(x^{2}-5)}}
+x^{2}=5\Leftrightarrow x=\pm {\sqrt {5}}
+{\tfrac {x}{2}}
+x\to \infty
+f(x)={\frac {x^{2}+2}{x^{2}+1}}
+-1
+f(i)={\frac {i^{2}+2}{i^{2}+1}}={\frac {-1+2}{-1+1}}={\frac {1}{0}}
+f(x)=P(x)
+Q(x)=1
+f(x)=\sin(x)
+f(x)={\tfrac {x}{x}}
+{\frac {1}{x^{2}-x+2}}=\sum _{k=0}^{\infty }a_{k}x^{k}
+1=(x^{2}-x+2)\sum _{k=0}^{\infty }a_{k}x^{k}
+1=\sum _{k=0}^{\infty }a_{k}x^{k+2}-\sum _{k=0}^{\infty }a_{k}x^{k+1}+2\sum _{k=0}^{\infty }a_{k}x^{k}
+1=\sum _{k=2}^{\infty }a_{k-2}x^{k}-\sum _{k=1}^{\infty }a_{k-1}x^{k}+2\sum _{k=0}^{\infty }a_{k}x^{k}
+1=2a_{0}+(2a_{1}-a_{0})x+\sum _{k=2}^{\infty }(a_{k-2}-a_{k-1}+2a_{k})x^{k}
+a_{0}={\frac {1}{2}}
+a_{1}={\frac {1}{4}}
+a_{k}={\frac {1}{2}}(a_{k-1}-a_{k-2})\quad {\text{for}}\ k\geq 2
+'"`UNIQ--postMath-00000035-QINU`"'
+{\frac {1}{az^{5}+z^{3}+bz}}
+'"`UNIQ--postMath-00000036-QINU`"'
+{\frac {1}{z^{3}+z(-3-3i)}}
+'"`UNIQ--postMath-00000037-QINU`"'
+{\frac {z^{2}-0.2+0.7i}{z^{2}+0.917}}
+'"`UNIQ--postMath-00000038-QINU`"'
+{\frac {z^{2}}{z^{9}-z+0.025}}
+f(z)={\frac {P(z)}{Q(z)}}
+Q(z)\neq 0
+a\mapsto P(a)
+P(x)=P
+(x-1)(x-2)
+x^{2}-3x+2
+(x-1)(x-2)=x^{2}-3x+2
+a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0}
+a_{0},\ldots ,a_{n}
+x
+x
+\sum _{k=0}^{n}a_{k}x^{k}
+-5x^{2}y
+\underbrace {_{\,}3x^{2}} _{\begin{smallmatrix}\mathrm {term} \\\mathrm {1} \end{smallmatrix}}\underbrace {-_{\,}5x} _{\begin{smallmatrix}\mathrm {term} \\\mathrm {2} \end{smallmatrix}}\underbrace {+_{\,}4} _{\begin{smallmatrix}\mathrm {term} \\\mathrm {3} \end{smallmatrix}}
+(((((a_{n}x+a_{n-1})x+a_{n-2})x+\dotsb +a_{3})x+a_{2})x+a_{1})x+a_{0}
+P=3x^{2}-2x+5xy-2
+Q=-3x^{2}+3x+4y^{2}+8
+P+Q=3x^{2}-2x+5xy-2-3x^{2}+3x+4y^{2}+8
+P+Q=(3x^{2}-3x^{2})+(-2x+3x)+5xy+4y^{2}+(8-2)
+P+Q=x+5xy+4y^{2}+6
+\color {Red}P&\color {Red}{=2x+3y+5}\\\color {Blue}Q&\color {Blue}{=2x+5y+xy+1}
+PQ=4x^{2}+21xy+2x^{2}y+12x+15y^{2}+3xy^{2}+28y+5
+f
+f\circ g
+f(x)=x^{2}+2x
+g(x)=3x+2
+(f\circ g)(x)=f(g(x))=(3x+2)^{2}+2(3x+2)
+5x^{3}-5
+5(x-1)\left(x^{2}+x+1\right)
+5(x-1)\left(x+{\frac {1+i{\sqrt {3}}}{2}}\right)\left(x+{\frac {1-i{\sqrt {3}}}{2}}\right)
+P=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots +a_{2}x^{2}+a_{1}x+a_{0}=\sum _{i=0}^{n}a_{i}x^{i}
+na_{n}x^{n-1}+(n-1)a_{n-1}x^{n-2}+\dots +2a_{2}x+a_{1}=\sum _{i=1}^{n}ia_{i}x^{i-1}
+P
+{\frac {a_{n}x^{n+1}}{n+1}}+{\frac {a_{n-1}x^{n}}{n}}+\dots +{\frac {a_{2}x^{3}}{3}}+{\frac {a_{1}x^{2}}{2}}+a_{0}x+c=c+\sum _{i=0}^{n}{\frac {a_{i}x^{i+1}}{i+1}}
+a_{n}x^{n}+a_{n-1}x^{n-1}+\cdots +a_{2}x^{2}+a_{1}x+a_{0}
+f(x)
+f(x)=x^{3}-x
+f(x,y)=2x^{3}+4x^{2}y+xy^{5}+y^{2}-7
+\left({\sqrt {1-x^{2}}}\right)^{2}
+1-x^{2}
+[-1,1]
+Polynomial of degree 0: f(x) = 2
+Polynomial of degree 1: f(x) = 2x + 1
+Polynomial of degree 2: f(x) = x2 − x − 2 = (x + 1)(x − 2)
+Polynomial of degree 3: f(x) = x3/4 + 3x2/4 − 3x/2 − 2 = 1/4 (x + 4)(x + 1)(x − 2)
+Polynomial of degree 4: f(x) = 1/14 (x + 4)(x + 1)(x − 1)(x − 3) + 0.5
+Polynomial of degree 5: f(x) = 1/20 (x + 4)(x + 2)(x + 1)(x − 1) (x − 3) + 2
+Polynomial of degree 6: f(x) = 1/100 (x6 − 2x 5 − 26x4 + 28x3 + 145x2 − 26x − 80)
+Polynomial of degree 7: f(x) = (x − 3)(x − 2)(x − 1)(x)(x + 1)(x + 2) (x + 3)
+a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0}=0
+3x^{2}+4x-5=0
+(1+\sqrt 5)/2
+x^{2}-x-1=0
+P(x)=\sum _{i=0}^{n}{a_{i}x^{i}}=a_{0}+a_{1}x+a_{2}x^{2}+\cdots +a_{n}x^{n}
+P(A)=\sum _{i=0}^{n}{a_{i}A^{i}}=a_{0}I+a_{1}A+a_{2}A^{2}+\cdots +a_{n}A^{n}
+R[x]
+R[x_{1},\ldots ,x_{n}]
+R[x_{1},\ldots ,x_{n}]=\left(R[x_{1},\ldots ,x_{n-1}]\right)[x_{n}]
+a\in R
+x-a
+f=q\,g+r
+a=r_{m}b^{m}+r_{m-1}b^{m-1}+\dotsb +r_{1}b+r_{0}
+\left.{\begin{matrix}\scriptstyle {\text{term}}\,+\,{\text{term}}\\\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=
+{\text{sum}}
+\left.{\begin{matrix}\scriptstyle {\text{term}}\,-\,{\text{term}}\\\scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=
+{\text{difference}}
+\left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=
+{\text{product}}
+\left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\\scriptstyle {\text{ }}\\\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=
+{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}
+{\text{base}}^{\text{exponent}}\,=
+{\text{power}}
+{\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=
+{\text{root}}
+\log _{\text{base}}({\text{anti-logarithm}})\,=
+{\text{logarithm}}
+a\times b=\underbrace {b+\cdots +b} _{a{\text{ times}}}
+3\times 4
+3\times 4=4+4+4=12
+4\times 3=3+3+3+3=12
+\times
+2\times 3=6
+3\times 4=12
+2\times 3\times 5=6\times 5=30
+2\times 2\times 2\times 2\times 2=32
+5\cdot 2
+5\,.\,3
+xy
+x
+y
+5x
+x
+5(2)
+(5)2
+(5)(2)
+3xy^{2}
+2\times \pi
+5133\times 486\times \pi
+O(n\log n)
+\textstyle \prod
+\textstyle \sum
+\prod _{i=1}^{4}i=1\cdot 2\cdot 3\cdot 4
+\prod _{i=1}^{4}i=24
+\prod _{i=1}^{6}i=1\cdot 2\cdot 3\cdot 4\cdot 5\cdot 6=720
+\prod _{i=m}^{n}x_{i}=x_{m}\cdot x_{m+1}\cdot x_{m+2}\cdot \,\,\cdots \,\,\cdot x_{n-1}\cdot x_{n}
+\prod _{i=1}^{n}x_{i}=x_{1}\cdot x_{2}\cdot \ldots \cdot x_{n}
+\prod _{i=1}^{n}x=x\cdot x\cdot \ldots \cdot x=x^{n}
+\prod _{i=1}^{n}{x_{i}y_{i}}=\left(\prod _{i=1}^{n}x_{i}\right)\left(\prod _{i=1}^{n}y_{i}\right)
+\left(\prod _{i=1}^{n}x_{i}\right)^{a}=\prod _{i=1}^{n}x_{i}^{a}
+x_{i}
+\prod _{i=1}^{n}x^{a_{i}}=x^{\sum _{i=1}^{n}a_{i}}
+a_{i}
+\prod _{i=m}^{\infty }x_{i}=\lim _{n\to \infty }\prod _{i=m}^{n}x_{i}
+\prod _{i=-\infty }^{\infty }x_{i}=\left(\lim _{m\to -\infty }\prod _{i=m}^{0}x_{i}\right)\cdot \left(\lim _{n\to \infty }\prod _{i=1}^{n}x_{i}\right)
+x\cdot y=y\cdot x
+(x\cdot y)\cdot z=x\cdot (y\cdot z)
+x\cdot (y+z)=x\cdot y+x\cdot z
+x\cdot 1=x
+x\cdot 0=0
+(-1)\cdot x=(-x)
+(-x)+x=0
+(-1)\cdot (-1)=1
+{\frac {1}{x}}
+x\cdot \left({\frac {1}{x}}\right)=1
+x\times 0=0
+x\times S(y)=(x\times y)+x
+x\times 1=x\times S(0)=(x\times 0)+x=0+x=x
+(x_{p},\,x_{m})\times (y_{p},\,y_{m})=(x_{p}\times y_{p}+x_{m}\times y_{m},\;x_{p}\times y_{m}+x_{m}\times y_{p})
+(0,1)\times (0,1)=(0\times 0+1\times 1,\,0\times 1+1\times 0)=(1,0)
+\cdot
+\left(\mathbb {Q} /\{0\},\,\cdot \right)
+N\times M
+N\times (-M)=(-N)\times M=-(N\times M)
+(-N)\times (-M)=N\times M
+{\frac {A}{B}}\times {\frac {C}{D}}
+{\frac {A}{B}}\times {\frac {C}{D}}={\frac {(A\times C)}{(B\times D)}}
+{\frac {A}{B}}
+{\frac {C}{D}}
+z_{1}
+z_{2}
+(a_{1},b_{1})
+(a_{2},b_{2})
+z_{1}\times z_{2}
+(a_{1}\times a_{2}-b_{1}\times b_{2},a_{1}\times b_{2}+a_{2}\times b_{1})
+a_{1}\times a_{2}
+b_{1}
+b_{2}
+{\sqrt {-1}}
+i
+z_{1}\times z_{2}=(a_{1}+b_{1}i)(a_{2}+b_{2}i)=(a_{1}\times a_{2})+(a_{1}\times b_{2}i)+(b_{1}\times a_{2}i)+(b_{1}\times b_{2}i^{2})=(a_{1}a_{2}-b_{1}b_{2})+(a_{1}b_{2}+b_{1}a_{2})i
+z_{1}=r_{1}(\cos \phi _{1}+i\sin \phi _{1}),z_{2}=r_{2}(\cos \phi _{2}+i\sin \phi _{2})
+z_{1}z_{2}=r_{1}r_{2}(\cos(\phi _{1}+\phi _{2})+i\sin(\phi _{1}+\phi _{2}))
+{\frac {x}{y}}
+x\left({\frac {1}{y}}\right)
+{\frac {1}{x}}
+{\frac {x}{y}}
+{\frac {x}{y}}
+x\left({\frac {1}{y}}\right)
+\left({\frac {1}{y}}\right)x
+a^{n}=\underbrace {a\times a\times \cdots \times a} _{n}
+653+274=927
+792-308=484
+5\times 3=15
+3\times 729=2187
+789\times 345=272205
+c\times b=a
+{\frac  ab}=c
+{\frac  63}=2
+2\times 3=6
+{\frac {a}{b}}
+a/b
+a\div b
+\textstyle {5\div {1 \over 2}=5\times {2 \over 1}=5\times 2=10}
+\textstyle {{2 \over 3}\div {2 \over 5}={2 \over 3}\times {5 \over 2}={10 \over 6}={5 \over 3}}
+272\div 8=34
+The number line
+Negative golf scores relative to par
+x+y'=0,\quad {\text{and}}\quad x+y=0
+4x+20=4
+(a\pm b)(c\pm d)
+x^{3}+ax=b
+x^{3}=ax+b
+a,b>0
+-1
+\cos \theta +i\sin \theta =e^{i\theta }
+i={\sqrt {-1}}
+\mathbb N
+\mathbb {Z}
+\mathbb {Q}
+\mathbb {A}
+\mathbb{R}
+\mathbb{C}
+\mathbb {H}
+\mathbb {O}
+\mathbb{R}
+\mathbb{C}
+{\mathbb  S}
+1/n
+\mathbb {N}
+\{1,2,...\}=\mathbb {N} ^{*}=\mathbb {N} ^{+}=\mathbb {N} _{0}\smallsetminus \{0\}=\mathbb {N} _{1}
+\;\{0,1,2,...\}=\mathbb {N} _{0}=\mathbb {N} ^{0}=\mathbb {N} ^{*}\cup \{0\}
+\mathbb {Z}
+\{1,2,3,\dots \}=\{x\in \mathbb {Z} :x>0\}=\mathbb {Z} ^{+}=\mathbb {Z} _{>0}
+\{0,1,2,\dots \}=\{x\in \mathbb {Z} :x\geq 0\}=\mathbb {Z} _{0}^{+}=\mathbb {Z} _{\geq 0}
+\mathbb {N}
+S\colon \mathbb {N} \to \mathbb {N}
+(\mathbb {N} ,+)
+\times
+(\mathbb {N} ^{*},\times )
+\mathbb {N}
+\mathbb {N}
+(\mathbb {N^{*}} ,+)
+a=bq+r{\text{ and }}r<b
+\mathbb {N}
+x
+y
+x
+y
+x
+x+1
+icon
+:\;\mathbb {C}
+:\;\mathbb {R}
+:\;\mathbb {Q}
+:\;\mathbb {Z}
+:\;\mathbb {N}
+\mathbb {N} =\{0,1,2,\ldots \}
+\mathbb {N}
+\mathbb {N}
+\mathbb N
+\mathbb {Z}
+\mathbb {Q}
+\mathbb {A}
+\mathbb{R}
+\mathbb{C}
+\mathbb {H}
+\mathbb {O}
+\mathbb{R}
+\mathbb{C}
+{\mathbb  S}
+This is a good article. Click here for more information
+Page semi-protected
+Groups of two to twelve dots, showing that the composite numbers of dots (4, 6, 8, 9, 10, and 12) can be arranged into rectangles but prime numbers cannot
+n
+n
+{\sqrt {n}}
+n
+n
+n
+Demonstration, with Cuisenaire rods, that 7 is prime, because none of 2, 3, 4, 5, or 6 divide it evenly
+n
+n
+n
+2,3,\dots ,n-1
+n
+n
+2\times n/2
+\mathbf {P}
+\mathbb {P}
+The Rhind Mathematical Papyrus
+n
+(n-1)!+1
+2^{2^{n}}+1
+2^p-1
+p
+{\tfrac {1}{2}}+{\tfrac {1}{3}}+{\tfrac {1}{5}}+{\tfrac {1}{7}}+{\tfrac {1}{11}}+\cdots
+x
+x
+x/\log x
+\log x
+x
+n>1
+n
+2n
+34866&=2\times 3\times 3\times 13\times 149\\&=2\times 3^{2}\times 13\times 149
+3
+3^2
+3
+p
+p
+ab
+a
+b
+p
+a
+p
+b
+p
+p
+1
+p_{1},p_{2},\ldots ,p_{n}
+N=1+p_{1}\cdot p_{2}\cdots p_{n}
+N
+N=p'_{1}\cdot p'_{2}\cdots p'_{m}
+N
+N
+N
+1+{\big (}2\cdot 3\cdot 5\cdot 7\cdot 11\cdot 13{\big )}=30031=59\cdot 509
+A>1
+\mu
+\left\lfloor A^{3^{n}}\right\rfloor {\text{ and }}\left\lfloor 2^{\cdots ^{2^{2^{\mu }}}}\right\rfloor
+n
+\lfloor {}\cdot {}\rfloor
+A
+\mu
+n
+n=4\cdot 10^{18}
+n!+2,n!+3,\dots ,n!+n
+n-1
+n
+8!=40320
+k
+2k
+1
+n
+{\sqrt {n}}
+O((\log n)^{2})
+k
+1+{\tfrac {1}{4}}+{\tfrac {1}{9}}+{\tfrac {1}{16}}+\dots
+\zeta (2)
+\zeta (2)=\pi ^{2}/6
+6/\pi ^{2}
+n
+p(n)=a+bn
+a
+b
+b
+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{5}}+{\frac {1}{7}}+\cdots +{\frac {1}{p}}
+x
+p
+x
+x
+{\frac {1}{1^{2}}}+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+\cdots +{\frac {1}{n^{2}}}
+n
+\left({{\frac {1}{3}}+{\frac {1}{5}}}\right)+\left({{\frac {1}{5}}+{\frac {1}{7}}}\right)+\left({{\frac {1}{11}}+{\frac {1}{13}}}\right)+\cdots
+{\tfrac {n}{\log n}}
+\operatorname {Li} (n)
+n
+\pi (n)
+n
+\pi (11)=5
+\pi (n)
+n
+\pi (n)
+n/\log n
+\pi (n)\sim {\frac {n}{\log n}}
+\pi (n)
+n
+n
+n
+n
+n\log n
+\log n
+\pi (n)
+\pi (n)\sim \operatorname {Li} (n)=\int _{2}^{n}{\frac {dt}{\log t}}
+a,a+q,a+2q,a+3q,\dots
+a
+q
+Prime numbers in arithmetic progression mod 9
+The Ulam spiral
+4n^{2}-2n+41
+n^{2}-n+41
+1\leq n\leq 40
+Plot of the absolute values of the zeta function
+\zeta (s)
+s
+\zeta (s)=\sum _{n=1}^{\infty }{\frac {1}{n^{s}}}=\prod _{p{\text{ prime}}}{\frac {1}{1-p^{-s}}}
+s=1
+1+{\tfrac {1}{2}}+{\tfrac {1}{3}}+\dots
+x
+x
+\{0,1,2,\dots ,n-1\}
+n
+n
+x
+y
+x\equiv y
+n
+n
+7
+3
+2/3\equiv 3{\bmod {7}}
+3
+2\equiv 9{\bmod {7}}
+6
+3
+2/3\equiv x{\bmod {6}}
+3
+2
+0
+3
+a\not \equiv 0
+p
+a^{p-1}\equiv 1
+p
+a
+\sum _{a=1}^{p-1}a^{p-1}\equiv (p-1)\cdot 1\equiv -1{\pmod {p}}
+p
+p
+p>1
+(p-1)
+-1
+p
+\;n=r\cdot s\;
+(n-1)
+(n-1)!\equiv -1{\pmod {n}}
+p
+\nu _{p}(n)
+n
+p
+n
+p
+m/n
+\nu _{p}(m)-\nu _{p}(n)
+p
+|q|_{p}
+q
+|q|_{p}=p^{-\nu _{p}(q)}
+p
+p
+p
+p
+p
+p
+p
+p
+p
+R
+p
+xy
+R
+x
+y
+\{\dots ,-11,-7,-5,-3,-2,2,3,5,7,11,\dots \}
+\mathbb {Z} [i]
+a+bi
+i
+a
+b
+1+i
+1-i
+p
+p=x^{2}+y^{2}
+p=(x+iy)(x-iy)
+p
+a+b\sqrt{-5}
+a
+b
+21
+21=3\cdot 7=(1+2{\sqrt {-5}})(1-2{\sqrt {-5}})
+p^{n}
+p^{n}
+n
+n
+n
+n
+n
+n=a\cdot b
+a
+b
+n
+{\sqrt {37}}
+Animation of the sieve of Eratosthenes
+n
+p
+a
+2
+p-2
+a^{(p-1)/2}\pm 1
+p
+p
+p
+n
+1/2^{n}
+n
+k
+\varepsilon
+n
+k
+O((\log n)^{6+\varepsilon })
+O((\log n)^{4+\varepsilon })
+O((\log n)^{2+\varepsilon })
+O(k(\log n)^{2+\varepsilon })
+4^{-k}
+O(k(\log n)^{2+\varepsilon })
+2^{{-k}}
+n
+n
+n
+n
+x
+y
+x
+y
+xy
+a^{b}{\bmod {c}}
+k
+2^{16}
+Construction of a regular pentagon using straightedge and compass
+F_{k}=2^{2^{k}}+1
+k
+F_5
+n
+n
+n
+n
+2^{a}3^{b}+1
+n
+n
+n
+\pm 1
+a
+p
+p
+\pm 1
+n
+n\#
+n
+n\#\pm 1
+4\cdot 10^{{18}}
+k
+n=1
+n=0
+\operatorname {Spec} A
+k\cdot 2^{n}+1
+k
+2^{0}+1=2
+Divisibility of 60
+icon
+icon
+image
+(a,b,c)
+a^{2}+b^{2}=c^{2}
+\left({\frac {1}{2}}\left(x-{\frac {1}{x}}\right)\right)^{2}+1=\left({\frac {1}{2}}\left(x+{\frac {1}{x}}\right)\right)^{2}
+c/a
+{\sqrt {2}}
+{\sqrt {2}}
+{\sqrt  {3}},{\sqrt  {5}},\dots ,{\sqrt  {17}}
+f(x,y)=z^{2}
+f(x,y,z)=w^{2}
+f(x_{1},x_{2},x_{3})=0
+g_{1},g_{2},g_{3}
+r
+s
+x_{i}=g_{i}(r,s)
+i=1,2,3
+f(x_{1},x_{2},x_{3})=0
+n\equiv a_{1}{\bmod {m}}_{1}
+n\equiv a_{2}{\bmod {m}}_{2}
+a^{p-1}\equiv 1{\bmod {p}}
+a^2 + b^2
+a^2 + b^2
+x^{2}-Ny^{2}=1
+x^{{4}}+y^{{4}}=z^{{4}}
+x^{3}+y^{3}=z^{3}
+x^{n}+y^{n}=z^{n}
+n\geq 3
+p=x^{2}+y^{2}
+p\equiv 1{\bmod {4}}
+x^{4}+y^{4}=z^{2}
+x^{2}+Ny^{2}
+mX^{2}+nY^{2}
+ax^{2}+by^{2}+cz^{2}=0
+n=5
+f(x)=0
+x
+x^{5}+(11/2)x^{3}-7x^{2}+9=0
+a+b{\sqrt  {d}}
+a
+b
+d
+{\sqrt  {-5}}
+6
+6=2\cdot 3
+6=(1+{\sqrt  {-5}})(1-{\sqrt  {-5}})
+2
+3
+1+{\sqrt  {-5}}
+1-{\sqrt  {-5}}
+x^{2}+y^{2}=1
+(x,y)
+a^{2}+b^{2}=c^{2}
+x = a/c
+y = b/c
+x^2 + y^2 = 1
+f(x,y)=0
+f
+f(x,y)=0
+f(x,y)=0
+f(x,y)=0
+x
+a/q
+\gcd(a,q)=1
+x
+|x-a/q|<{\frac  {1}{q^{c}}}
+c
+x
+x
+0
+A
+a
+a+b,a+2b,a+3b,\ldots ,a+10b
+A
+A
+A
+A+A
+A
+A
+ax+by=c
+[icon]
+icon
+a\equiv b{\bmod {m}}
+xa\equiv 1{\bmod {p}}
+y^2 = x^3 + 7
+(a + b i)^2 = (c + d i)^3 + 7
+(p^{2}-q^{2},2pq,p^{2}+q^{2})
+icon
+Computer Retro.svg
+Stereographic projection in 3D.svg
+icon
+Page semi-protected
+Sinus und Kosinus am Einheitskreis 1.svg
+\sin A={\frac {\textrm {opposite}}{\textrm {hypotenuse}}}={\frac {a}{h}}
+\cos A={\frac {\textrm {adjacent}}{\textrm {hypotenuse}}}={\frac {b}{h}}
+\tan A={\frac {\textrm {opposite}}{\textrm {adjacent}}}={\frac {a}{b}}={\frac {a/h}{b/h}}={\frac {\sin A}{\cos A}}
+\csc A={\frac {1}{\sin A}}={\frac {\textrm {hypotenuse}}{\textrm {opposite}}}={\frac {h}{a}}
+\sec A={\frac {1}{\cos A}}={\frac {\textrm {hypotenuse}}{\textrm {adjacent}}}={\frac {h}{b}}
+\cot A={\frac  {1}{\tan A}}={\frac  {{\textrm  {adjacent}}}{{\textrm  {opposite}}}}={\frac  {\cos A}{\sin A}}={\frac  {b}{a}}
+x=\cos A
+y=\sin A
+\pi /6
+\pi /4
+\pi /3
+\pi /2
+2\pi /3
+3\pi /4
+5\pi /6
+\pi
+0
+1/2
+{\sqrt  {2}}/2
+{\sqrt {3}}/2
+1
+{\sqrt {3}}/2
+{\sqrt  {2}}/2
+1/2
+0
+1
+{\sqrt {3}}/2
+{\sqrt  {2}}/2
+1/2
+0
+-1/2
+-{\sqrt {2}}/2
+-{\sqrt {3}}/2
+-1
+0
+{\sqrt {3}}/3
+1
+{\sqrt {3}}
+-{\sqrt {3}}
+-1
+-{\sqrt {3}}/3
+0
+1
+2{\sqrt {3}}/3
+{\sqrt {2}}
+2
+-2
+-{\sqrt {2}}
+-2{\sqrt {3}}/3
+-1
+2
+{\sqrt {2}}
+2{\sqrt {3}}/3
+1
+2{\sqrt {3}}/3
+{\sqrt {2}}
+2
+{\sqrt {3}}
+1
+{\sqrt {3}}/3
+0
+-{\sqrt {3}}/3
+-1
+-{\sqrt {3}}
+2\pi
+(-\infty ,\infty )
+[-1,1]
+Sine one period.svg
+2\pi
+(-\infty ,\infty )
+[-1,1]
+Cosine one period.svg
+\pi
+x\neq \pi /2+n\pi
+(-\infty ,\infty )
+Tangent-plot.svg
+2\pi
+x\neq \pi /2+n\pi
+(-\infty ,-1]\cup [1,\infty )
+Secant.svg
+2\pi
+x\neq n\pi
+(-\infty ,-1]\cup [1,\infty )
+Cosecant.svg
+\pi
+x\neq n\pi
+(-\infty ,\infty )
+Cotangent.svg
+\sin x&=x-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-{\frac {x^{7}}{7!}}+\cdots \\&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}x^{2n+1}}{(2n+1)!}}
+\cos x&=1-{\frac {x^{2}}{2!}}+{\frac {x^{4}}{4!}}-{\frac {x^{6}}{6!}}+\cdots \\&=\sum _{n=0}^{\infty }{\frac {(-1)^{n}x^{2n}}{(2n)!}}
+e^{x+iy}=e^{x}(\cos y+i\sin y)
+s(x)
+S(f)
+{\frac  {a}{\sin A}}={\frac  {b}{\sin B}}={\frac  {c}{\sin C}}=2R={\frac  {abc}{2\Delta }}
+\Delta
+R = \frac{abc}{\sqrt{(a+b+c)(a-b+c)(a+b-c)(b+c-a)}}
+c^{2}=a^{2}+b^{2}-2ab\cos C
+\cos C={\frac {a^{2}+b^{2}-c^{2}}{2ab}}
+\frac{a-b}{a+b}=\frac{\tan\left[\tfrac{1}{2}(A-B)\right]}{\tan\left[\tfrac{1}{2}(A+B)\right]}
+s=\frac{1}{2}(a+b+c)
+{\mbox{Area}}=\Delta ={\sqrt  {s(s-a)(s-b)(s-c)}}={\frac  {abc}{4R}}
+{\mbox{Area}}=\Delta ={\frac  {1}{2}}ab\sin C
+\sin^2 A + \cos^2 A = 1
+\tan ^{2}A+1=\sec ^{2}A
+\cot ^{2}A+1=\csc ^{2}A
+\cos ^{2}{A}
+\sin ^{2}{A}
+e^{ix} = \cos x + i \sin x
+\sin x = \frac{e^{ix} - e^{-ix}}{2i}, \qquad \cos x = \frac{e^{ix} + e^{-ix}}{2}, \qquad \tan x = \frac{i(e^{-ix} - e^{ix})}{e^{ix} + e^{-ix}}
+icon
+A = \sqrt{s(s-a)(s-b)(s-c)}
+s=\frac{a+b+c}{2}
+A&={\tfrac {1}{4}}{\sqrt {(a+b+c)(-a+b+c)(a-b+c)(a+b-c)}}\\[6mu]&={\tfrac {1}{4}}{\sqrt {2(a^{2}b^{2}+a^{2}c^{2}+b^{2}c^{2})-(a^{4}+b^{4}+c^{4})}}\\[6mu]&={\tfrac {1}{4}}{\sqrt {(a^{2}+b^{2}+c^{2})^{2}-2(a^{4}+b^{4}+c^{4})}}\\[6mu]&={\tfrac {1}{4}}{\sqrt {4(a^{2}b^{2}+a^{2}c^{2}+b^{2}c^{2})-(a^{2}+b^{2}+c^{2})^{2}}}\\[6mu]&={\tfrac {1}{4}}{\sqrt {4a^{2}b^{2}-(a^{2}+b^{2}-c^{2})^{2}}}
+s={\frac {a+b+c}{2}}={\frac {4+13+15}{2}}=16
+
+\begin{align}
+A &= \sqrt{s\left(s-a\right)\left(s-b\right)\left(s-c\right)} = \sqrt{16 \cdot (16-4) \cdot (16-13) \cdot (16-15)}\\
+&= \sqrt{16 \cdot 12 \cdot 3 \cdot 1} = \sqrt{576} = 24.
+\end{align}
+
+A={\frac {1}{2}}{\sqrt {a^{2}c^{2}-\left({\frac {a^{2}+c^{2}-b^{2}}{2}}\right)^{2}}}
+\cos \gamma = \frac{a^2+b^2-c^2}{2ab}
+\sin \gamma = \sqrt{1-\cos^2 \gamma} = \frac{\sqrt{4a^2 b^2 -(a^2 +b^2 -c^2)^2 }}{2ab}
+A&={\tfrac {1}{2}}({\mbox{base}})({\mbox{altitude}})\\[6mu]&={\tfrac {1}{2}}ab\sin \gamma \\[6mu]&={\frac {ab}{4ab}}{\sqrt {4a^{2}b^{2}-(a^{2}+b^{2}-c^{2})^{2}}}\\[6mu]&={\tfrac {1}{4}}{\sqrt {-a^{4}-b^{4}-c^{4}+2a^{2}b^{2}+2a^{2}c^{2}+2b^{2}c^{2}}}\\[6mu]&={\tfrac {1}{4}}{\sqrt {(a+b+c)(-a+b+c)(a-b+c)(a+b-c)}}\\[6mu]&={\sqrt {\left({\frac {a+b+c}{2}}\right)\left({\frac {-a+b+c}{2}}\right)\left({\frac {a-b+c}{2}}\right)\left({\frac {a+b-c}{2}}\right)}}\\[6mu]&={\sqrt {s(s-a)(s-b)(s-c)}}
+d={\frac {-a^{2}+b^{2}+c^{2}}{2c}}
+h^{2}&=b^{2}-\left({\frac {-a^{2}+b^{2}+c^{2}}{2c}}\right)^{2}\\&={\frac {(2bc-a^{2}+b^{2}+c^{2})(2bc+a^{2}-b^{2}-c^{2})}{4c^{2}}}\\&={\frac {{\big (}(b+c)^{2}-a^{2}{\big )}{\big (}a^{2}-(b-c)^{2}{\big )}}{4c^{2}}}\\&={\frac {(b+c-a)(b+c+a)(a+b-c)(a-b+c)}{4c^{2}}}\\&={\frac {2(s-a)\cdot 2s\cdot 2(s-c)\cdot 2(s-b)}{4c^{2}}}\\&={\frac {4s(s-a)(s-b)(s-c)}{c^{2}}}
+A&={\frac {ch}{2}}\\&={\sqrt {{\frac {c^{2}}{4}}\cdot {\frac {4s(s-a)(s-b)(s-c)}{c^{2}}}}}\\&={\sqrt {s(s-a)(s-b)(s-c)}}
+A&=r{\big (}(s-a)+(s-b)+(s-c){\big )}=r^{2}\left({\frac {s-a}{r}}+{\frac {s-b}{r}}+{\frac {s-c}{r}}\right)\\&=r^{2}\left(\cot {\frac {\alpha }{2}}+\cot {\frac {\beta }{2}}+\cot {\frac {\gamma }{2}}\right)
+A&=r^{2}\left(\cot {\frac {\alpha }{2}}\cot {\frac {\beta }{2}}\cot {\frac {\gamma }{2}}\right)=r^{2}\left({\frac {s-a}{r}}\cdot {\frac {s-b}{r}}\cdot {\frac {s-c}{r}}\right)\\&={\frac {(s-a)(s-b)(s-c)}{r}}
+A^{2}=s(s-a)(s-b)(s-c)
+A={\frac {1}{4}}{\sqrt {{\big (}a+(b+c){\big )}{\big (}c-(a-b){\big )}{\big (}c+(a-b){\big )}{\big (}a+(b-c){\big )}}}
+A = \frac{4}{3} \sqrt{\sigma (\sigma - m_a)(\sigma - m_b)(\sigma - m_c)}
+A^{-1} = 4 \sqrt{H(H-h_a^{-1})(H-h_b^{-1})(H-h_c^{-1})}
+A = D^{2} \sqrt{S(S-\sin \alpha)(S-\sin \beta)(S-\sin \gamma)}
+K={\sqrt  {(s-a)(s-b)(s-c)(s-d)}}
+s={\frac  {a+b+c+d}{2}}
+A={\frac {1}{4}}{\sqrt {-{\begin{vmatrix}0&a^{2}&b^{2}&1\\a^{2}&0&c^{2}&1\\b^{2}&c^{2}&0&1\\1&1&1&0\end{vmatrix}}}}
+{\text{volume}}={\frac {\sqrt {\,(-a+b+c+d)\,(a-b+c+d)\,(a+b-c+d)\,(a+b+c-d)}}{192\,u\,v\,w}}
+a&={\sqrt {xYZ}}\\b&={\sqrt {yZX}}\\c&={\sqrt {zXY}}\\d&={\sqrt {xyz}}\\X&=(w-U+v)\,(U+v+w)\\x&=(U-v+w)\,(v-w+U)\\Y&=(u-V+w)\,(V+w+u)\\y&=(V-w+u)\,(w-u+V)\\Z&=(v-W+u)\,(W+u+v)\\z&=(W-u+v)\,(u-v+W)
+a,b,c
+s=(a+b+c)/2
+S
+\tan ^{2}{\frac {S}{4}}=\tan {\frac {s}{2}}\tan {\frac {s-a}{2}}\tan {\frac {s-b}{2}}\tan {\frac {s-c}{2}}
+\tanh ^{2}{\frac {S}{4}}=\tanh {\frac {s}{2}}\tanh {\frac {s-a}{2}}\tanh {\frac {s-b}{2}}\tanh {\frac {s-c}{2}}
+icon
+Stereographic projection in 3D.svg
+The natural exponential function along part of the real axis
+\exp z=e^{z}
+\mathbb {C}
+{\begin{cases}(0,\infty )&{\text{for }}z\in \mathbb {R} \\\mathbb {C} \setminus \{0\}&{\text{for }}z\in \mathbb {C} \end{cases}}
+n \in \mathbb{Z}
+\exp(-z)
+\ln z,z\in \mathbb {R}
+\exp 'z=\exp z
+\int \exp z\,dz=\exp z+C
+\exp z=\sum _{n=0}^{\infty }{\frac {z^{n}}{n!}}
+f(x)=\exp(x)
+e^{x}
+e^{x+y}=e^{x}e^{y}{\text{ for all }}x,y\in \mathbb {R}
+e=\exp(1)
+e^{n}=\underbrace {e\times \cdots \times e} _{n{\text{ factors}}}
+e=\exp(1)
+f:\mathbb {R} \to \mathbb {R}
+\exp '(x)=\exp(x)
+\exp(0)=1
+f(x)=ab^{x}
+b^{x}=e^{x\ln b}
+\exp :\mathbb {C} \to \mathbb {C}
+Euler's formula.svg
+\mathbb {R}
+(0;\infty )
+\ln
+\log
+\log _{e};
+y=e^{x}
+{\tfrac {d}{dx}}e^{x}=e^{x}
+f(x)=e^{x}
+ab^{x}:=ae^{x\ln b}
+{\frac {d}{dx}}b^{x}\ {\stackrel {\text{def}}{=}}\ {\frac {d}{dx}}e^{x\ln(b)}=e^{x\ln(b)}\ln(b)=b^{x}\ln(b)
+b^x
+\ln b>0
+\ln(e)=1
+{\frac {d}{dx}}e^{x}=e^{x}\ln(e)=e^{x}
+b^{x}=e^{x\ln b}
+x\mapsto e^{x}
+x\mapsto \exp x
+f(x)=ab^{cx+d}
+ab^{cx+d}=\left(ab^{d}\right)\left(b^{c}\right)^{x}
+\exp \colon \mathbb {R} \to \mathbb {R}
+\exp x:=\sum _{k=0}^{\infty }{\frac {x^{k}}{k!}}=1+x+{\frac {x^{2}}{2}}+{\frac {x^{3}}{6}}+{\frac {x^{4}}{24}}+\cdots
+z\in\mathbb{C}
+\exp x
+e=\exp 1=\sum _{k=0}^{\infty }(1/k!)
+{\frac {d}{dx}}\exp x=\exp x
+\exp x
+y'(x)=y(x)
+y(0)=1
+{\frac {d}{dy}}\log _{e}y=1/y
+y>0
+\log _{e}y=\int _{1}^{y}{\frac {dt}{t}}
+\exp x
+y
+x=\int _{1}^{y}{\frac {1}{t}}\,dt
+\exp x=\lim _{n\to \infty }\left(1+{\frac {x}{n}}\right)^{n}
+f(x+y)=f(x)f(y)
+f:\mathbb {R} \to \mathbb {R} ,\ x\mapsto e^{kx}
+k\in \mathbb {R}
+\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+\exp x=\lim _{n\to \infty }\left(1+{\frac {x}{n}}\right)^{n}
+\exp(x+y)=\exp x\cdot \exp y
+{\frac {d}{dx}}e^{x}=e^{x}\quad {\text{and}}\quad e^{0}=1
+{\frac {d}{dx}}e^{f(x)}=f'(x)e^{f(x)}
+e^{x}=1+{\cfrac {x}{1-{\cfrac {x}{x+2-{\cfrac {2x}{x+3-{\cfrac {3x}{x+4-\ddots }}}}}}}}
+e^{z}=1+{\cfrac {2z}{2-z+{\cfrac {z^{2}}{6+{\cfrac {z^{2}}{10+{\cfrac {z^{2}}{14+\ddots }}}}}}}}
+e^{\frac {x}{y}}=1+{\cfrac {2x}{2y-x+{\cfrac {x^{2}}{6y+{\cfrac {x^{2}}{10y+{\cfrac {x^{2}}{14y+\ddots }}}}}}}}
+e^{2}=1+{\cfrac {4}{0+{\cfrac {2^{2}}{6+{\cfrac {2^{2}}{10+{\cfrac {2^{2}}{14+\ddots \,}}}}}}}}=7+{\cfrac {2}{5+{\cfrac {1}{7+{\cfrac {1}{9+{\cfrac {1}{11+\ddots \,}}}}}}}}
+e^{3}=1+{\cfrac {6}{-1+{\cfrac {3^{2}}{6+{\cfrac {3^{2}}{10+{\cfrac {3^{2}}{14+\ddots \,}}}}}}}}=13+{\cfrac {54}{7+{\cfrac {9}{14+{\cfrac {9}{18+{\cfrac {9}{22+\ddots \,}}}}}}}}
+The exponential function e^z plotted in the complex plane from -2-2i to 2+2i
+z\mapsto \exp z
+\operatorname {Arg} \exp z
+\left|\exp z\right|
+z\mapsto \exp z
+z
+\exp z:=\sum _{k=0}^{\infty }{\frac {z^{k}}{k!}}
+\exp z:=\lim _{n\to \infty }\left(1+{\frac {z}{n}}\right)^{n}
+\exp(w+z)=\exp w\exp z{\text{ for all }}w,z\in \mathbb {C}
+\exp(it)=\left(1-{\frac {t^{2}}{2!}}+{\frac {t^{4}}{4!}}-{\frac {t^{6}}{6!}}+\cdots \right)+i\left(t-{\frac {t^{3}}{3!}}+{\frac {t^{5}}{5!}}-{\frac {t^{7}}{7!}}+\cdots \right)
+\exp(\pm iz)
+&\cos z:={\frac {\exp(iz)+\exp(-iz)}{2}}=\sum _{k=0}^{\infty }(-1)^{k}{\frac {z^{2k}}{(2k)!}},\\[5pt]{\text{and }}\quad &\sin z:={\frac {\exp(iz)-\exp(-iz)}{2i}}=\sum _{k=0}^{\infty }(-1)^{k}{\frac {z^{2k+1}}{(2k+1)!}}
+z\in \mathbb {C}
+\mathbb {C}
+\mathbb {C} \setminus \{0\}
+\mathbb {C}
+\mathbb {C}
+\mathbb {C}
+\exp(iz)=\cos z+i\sin z{\text{ for all }}z\in \mathbb {C}
+\exp z=\exp(x+iy):=(\exp x)(\cos y+i\sin y)
+t\in\R
+{\overline {\exp(it)}}=\exp(-it)
+\left|\exp(it)\right|=1
+t
+t\mapsto \exp(it)
+t=0
+t=t_{0}
+\gamma (t)=\exp(it)
+\int _{0}^{t_{0}}|\gamma '(t)|\,dt=\int _{0}^{t_{0}}|i\exp(it)|\,dt=t_{0}
+\exp(z+2\pi ik)=\exp z
+z\in \mathbb {C} ,k\in \mathbb {Z}
+&e^{z+w}=e^{z}e^{w}\,\\[5pt]&e^{0}=1\,\\[5pt]&e^{z}\neq 0\\[5pt]&{\frac {d}{dz}}e^{z}=e^{z}\\[5pt]&\left(e^{z}\right)^{n}=e^{nz},n\in \mathbb {Z}
+w,z\in \mathbb {C}
+z^{w}=e^{w\log z}
+z = Re(ex + iy)
+z = Im(ex + iy)
+z = |ex + iy|
+v+iw=\exp(x+iy)
+xy
+x
+v
+w
+y
+v
+w
+y
+x
+v
+y
+x
+x
+y
+y
+v
+y
+y
+y
+a^{b}=\left(re^{\theta i}\right)^{b}=\left(e^{(\ln r)+\theta i}\right)^{b}=e^{\left((\ln r)+\theta i\right)b}
+\lim _{n\to \infty }\left(1+{\frac {x}{n}}\right)^{n}
+{\mathfrak {g}}
+{\mathfrak {g}}
+e^{x}-1
+e^{x}=1+x+{\frac {x^{2}}{2}}+{\frac {x^{3}}{6}}+\cdots +{\frac {x^{n}}{n!}}+\cdots
+e^{x}-1
+e^{x}-1=x+{\frac {x^{2}}{2}}+{\frac {x^{3}}{6}}+\cdots +{\frac {x^{n}}{n!}}+\cdots
+2^{x}-1
+10^{x}-1
+\operatorname {expm1} (x)=e^{x}-1={\frac {2\tanh(x/2)}{1-\tanh(x/2)}}
+e^{x}-1=\lim _{n\to \infty }{\frac {x}{n}}\sum _{k=1}^{n}\left(1+{\frac {1}{n}}\right)^{kx}
+icon
+This is a good article. Click here for more information
+Euler's formula.svg
+e=\sum \limits _{n=0}^{\infty }{\frac {1}{n!}}=1+{\frac {1}{1}}+{\frac {1}{1\cdot 2}}+{\frac {1}{1\cdot 2\cdot 3}}+\cdots
+\gamma
+e^{i\pi }+1=0
+e
+\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+y=e^{0.2t}
+{\binom {n}{k}}\left({\frac {1}{n}}\right)^{k}\left(1-{\frac {1}{n}}\right)^{n-k}
+\left(1-{\frac {1}{n}}\right)^{n}
+\phi (x)={\frac {1}{\sqrt {2\pi }}}e^{-{\frac {1}{2}}x^{2}}
+\phi (x)
+\textstyle 1/{\sqrt {2\pi }}
+\textstyle 1/{\sqrt {2\pi }}
+p_{n}
+p_{n}=1-{\frac {1}{1!}}+{\frac {1}{2!}}-{\frac {1}{3!}}+\cdots +{\frac {(-1)^{n}}{n!}}=\sum _{k=0}^{n}{\frac {(-1)^{k}}{k!}}
+n=\left\lfloor {\frac {L}{e}}\right\rfloor
+\left\lfloor {\frac {L}{e}}\right\rfloor +1
+x^{-1}\ln x
+x=e
+x^{-1}\ln x
+1/x
+n!\sim {\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}
+e=\lim _{n\to \infty }{\frac {n}{\sqrt[{n}]{n!}}}
+{\frac {d}{dx}}a^{x}&=\lim _{h\to 0}{\frac {a^{x+h}-a^{x}}{h}}=\lim _{h\to 0}{\frac {a^{x}a^{h}-a^{x}}{h}}\\&=a^{x}\cdot \left(\lim _{h\to 0}{\frac {a^{h}-1}{h}}\right)
+{\frac {d}{dx}}e^{x}=e^{x}
+{\frac {d}{dx}}\log _{a}x&=\lim _{h\to 0}{\frac {\log _{a}(x+h)-\log _{a}(x)}{h}}\\&=\lim _{h\to 0}{\frac {\log _{a}(1+h/x)}{x\cdot h/x}}\\&={\frac {1}{x}}\log _{a}\left(\lim _{u\to 0}(1+u)^{\frac {1}{u}}\right)\\&={\frac {1}{x}}\log _{a}e
+{\frac {d}{dx}}\log _{e}x={\frac {1}{x}}
+xy=1
+{\frac {d}{dt}}e^{t}=e^{t}
+{\frac {d}{dt}}\log _{e}t={\frac {1}{t}}
+e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+e=\lim _{t\to 0}\left(1+t\right)^{\frac {1}{t}}
+e=\sum _{n=0}^{\infty }{\frac {1}{n!}}={\frac {1}{0!}}+{\frac {1}{1!}}+{\frac {1}{2!}}+{\frac {1}{3!}}+{\frac {1}{4!}}+\cdots
+\int _{1}^{e}{\frac {1}{t}}\,dt=1
+\tau =f(t)/f'(t)
+f(t+\tau )=ef(t)
+{\frac  {d}{dx}}e^{x}=e^{x}
+\int e^{x}\,dx=e^{x}+C
+\left(1+{\frac {1}{x}}\right)^{x}<e<\left(1+{\frac {1}{x}}\right)^{x+1}
+e^{x}\geq x+1
+f(x)=x^{\frac {1}{x}}
+e^{y}\geq y+1
+y=(x-e)/e
+e^{x/e}\geq x
+e^{1/e}\geq x^{1/x}
+f(x)=x^{x}
+f(x)=x^{x^{n}}
+x^{x^{x^{\cdot ^{\cdot ^{\cdot }}}}}
+{^{\infty }}x
+e^{x}=1+{x \over 1!}+{x^{2} \over 2!}+{x^{3} \over 3!}+\cdots =\sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}
+e^{ix}=\cos x+i\sin x
+e^{i\pi }+1=0
+\ln(-1)=i\pi
+(\cos x+i\sin x)^{n}=\left(e^{ix}\right)^{n}=e^{inx}=\cos(nx)+i\sin(nx)
+\cos x+i\sin x
+\sin x={\frac {e^{ix}-e^{-ix}}{2i}},\qquad \cos x={\frac {e^{ix}+e^{-ix}}{2}}
+y(x)=Ce^{x}
+y'=y
+e=\lim _{n\to \infty }\left(1+{\frac {1}{n}}\right)^{n}
+e=\sum _{n=0}^{\infty }{\frac {1}{n!}}
+e=[2;1,2,1,1,4,1,1,6,1,...,1,2n,1,...]
+e=2+{\cfrac {1}{1+{\cfrac {1}{2+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{4+{\cfrac {1}{1+{\cfrac {1}{1+\ddots }}}}}}}}}}}}}}
+e=1+{\cfrac {2}{1+{\cfrac {1}{6+{\cfrac {1}{10+{\cfrac {1}{14+{\cfrac {1}{18+{\cfrac {1}{22+{\cfrac {1}{26+\ddots }}}}}}}}}}}}}}
+V=\min \left\{n\mid X_{1}+X_{2}+\cdots +X_{n}>1\right\}
+e=\sum _{k=0}^{\infty }{\frac {1}{k!}}
+p(a,b)
+q(a,b)
+{\binom {p(a,b)}{q(a,b)}}={\begin{cases}{\binom {1}{b}},&{\text{if }}b=a+1{\text{,}}\\{\binom {p(a,m)q(m,b)+p(m,b)}{q(a,m)q(m,b)}},&{\text{otherwise, where }}m=\lfloor (a+b)/2\rfloor \end{cases}}
+1+{\frac {p(0,n)}{q(0,n)}}
+{\frac {dc}{c}}={\frac {dyds}{rdx}}
+c=e^{\int {\frac {dyds}{rdx}}}
+{\frac {dc}{c}}={\frac {dyds}{rdx}}
+c=e^{\int {\frac {dyds}{rdx}}}
+Gold, square root of 2, and square root of 3 rectangles.png
+Standard deviation diagram micro.svg
+X(heads)=0
+X(tails)=1
+{\tfrac {3}{6}}={\tfrac {1}{2}}
+\Omega
+x\in \Omega
+f(x)
+f(x)\in [0,1]{\mbox{ for all }}x\in \Omega \,;
+\sum _{x\in \Omega }f(x)=1
+E
+\Omega
+E
+P(E)=\sum _{x\in E}f(x)
+f(x)
+\mathbb {R}
+F
+F(x)=P(X\leq x)
+F
+\lim _{x\rightarrow -\infty }F(x)=0\,;
+\lim _{x\rightarrow \infty }F(x)=1
+F
+f(x)={\frac {dF(x)}{dx}}
+E\subseteq \mathbb {R}
+E
+P(X\in E)=\int _{x\in E}dF(x)
+P(X\in E)=\int _{x\in E}f(x)\,dx
+\mathbb {R}
+\mathbb {R} ^{n}
+(\delta [x]+\varphi (x))/2
+\delta [x]
+\Omega
+{\mathcal {F}}
+P
+{\mathcal {F}}
+P(\Omega )=1
+{\mathcal {F}}
+{\mathcal {F}}
+E
+{\mathcal {F}}
+P(E)=\int _{\omega \in E}\mu _{F}(d\omega )
+\mu _{F}
+F
+\mathbb {R} ^{n}
+X_{1},X_{2},\dots
+X
+F_{1},F_{2},\dots
+F
+X
+F
+\displaystyle X_{n}\,{\xrightarrow {\mathcal {D}}}\,X
+X_{1},X_{2},\dots
+X
+\lim _{n\rightarrow \infty }P\left(\left|X_{n}-X\right|\geq \varepsilon \right)=0
+\displaystyle X_{n}\,{\xrightarrow {P}}\,X
+X_{1},X_{2},\dots
+X
+P(\lim _{n\rightarrow \infty }X_{n}=X)=1
+\displaystyle X_{n}\,{\xrightarrow {\mathrm {a.s.} }}\,X
+{\overline {X}}_{n}={\frac {1}{n}}{\sum _{k=1}^{n}X_{k}}
+X_{k}
+\mu
+|X_{k}|
+\displaystyle {\overline {X}}_{n}\,{\xrightarrow {P}}\,\mu
+n\to \infty
+\displaystyle {\overline {X}}_{n}\,{\xrightarrow {\mathrm {a.\,s.} }}\,\mu
+n\to \infty
+Y_{1},Y_{2}
+{\textrm {E}}(Y_{i})=p
+{\bar {Y}}_{n}
+X_{1},X_{2},\dots
+\mu
+\sigma ^{2}>0
+Z_{n}={\frac {\sum _{i=1}^{n}(X_{i}-\mu )}{\sigma {\sqrt {n}}}}
