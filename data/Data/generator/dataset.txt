@@ -187,3 +187,94 @@ x\in\mathbb{R}||,||x屬於R
 2k||,||2k
 q^2||,||q平方
 ---457--
+q^2||,||q的二次方
+{\sqrt {2}}||,||根號2
+{\sqrt {2}}||,||根號2
+2{\sqrt {6}}||,||2根號6
+\sqrt{200}||,||根號200
+\sqrt {1}||,||根號1
+\sqrt {2}||,||根號2
+\sqrt {3}||,||根號3
+\sqrt {4} = 2||,||根號4等於2
+\sqrt {5}||,||根號5
+\sqrt {6}||,||根號6
+\sqrt {7}||,||根號7
+\sqrt {8} = 2 \sqrt {2}||,||根號8等於2根號2
+---472--
+\sqrt {9} = 3||,||根號9等於3
+\sqrt {10}||,||根號10
+\sqrt {11}||,||根號11
+\sqrt {12} = 2 \sqrt {3}||,||根號12等於2根號3
+\sqrt {13}||,||根號13
+\sqrt {14}||,||根號14
+\sqrt {15}||,||根號15
+\sqrt {16} = 4||,||根號16等於4
+\sqrt {17}||,||根號17
+\sqrt {18} = 3 \sqrt{2}||,||根號18等於3根號2
+\sqrt {19}||,||根號19
+\sqrt {20} = 2 \sqrt{5}||,||根號20等於2根號5
+\sqrt{125348}||,||根號125348
+x_0 = 3^6 = 729.000||,||x0等於3的6次方等於729點000
+\sqrt{125348} \approx 354.045||,||根號125348約等於354點045
+{\sqrt {1}}=1||,||根號1等於1
+{\sqrt {4}}=2||,||根號4等於2
+{\sqrt {9}}=3||,||根號9等於3
+\sqrt {16}}=4||,||根號16
+xy=N||,||xy等於N
+x=x={\frac {x+y}{2}}||,||x等於x等於x加y除以2
+{\sqrt {AB}}||,||根號AB
+x^2 + y^2 = \left({\frac{n+1}{2}}\right)^2||,||x平加y平2分之n加1平方
+x^2+y^2=r^2||,||x平加y平等於r平
+---502--
+\left({\frac{n+1}{2}} -1 \right)||,||括號2分之n加1減1
+y={\sqrt {n}}||,||y等於根號n
+\sin ^{-1}x||,||sinx的反函數
+{\frac {1}{12}}||,||12分之1
+{\frac  {1}{8}}||,||8分之1
+{\frac {1}{6}}||,||6分之1
+\frac{1}{4}||,||4分之1
+{\frac {1}{2}}||,||2分之1
+\frac{3}{4}||,||4分之3
+0^{\circ }||,||0度
+30^{\circ }||,||30度
+45^{\circ }||,||45度
+60^{\circ }||,||60度
+90^{\circ}||,||90度
+180^{\circ }||,||180度
+270^{\circ }||,||270度
+360^{\circ }||,||360度
+\frac{\pi}{6}||,||6分之pi
+{\frac {\pi }{4}}||,||4分之拍
+\frac{\pi}{3}||,||3分之pi
+\frac{\pi}{2}||,||2分之拍
+\pi||,||拍
+{\frac  {3\pi }{2}}||,||2分之3 pi
+2\pi||,||2pi
+0^g||,||0的g次方
+33{\frac {1}{3}}^{g}||,||33又3分之1的g次方
+50^g||,||50的g次方
+66{\frac {2}{3}}^{g}||,||66又3分之2的g次方
+100^g||,||100的g次方
+200^g||,||200的g次方
+300^g||,||300的g次方
+400^g||,||400的g次方
+\sin ^{2}\theta +\cos ^{2}\theta =1||,||sin theta平方加cos theta平方等於1
+\tan ^{2}\theta +1\,=\sec ^{2}\theta||,||tan theta平方加1等於sec方ㄆtheta
+1\,+\cot ^{2}\theta =\csc ^{2}\theta||,||1加cot平方theta等於csc平方theta
+\sin \theta||,||sin theta
+\sin \theta||,||sin theta
+\sqrt{1 - \cos^2\theta}||,||根號1減cos theta平方
+\frac{\tan\theta}{\sqrt{1 + \tan^2\theta}}||,||根號1加tan平方theta分之tan theta
+\frac{1}{\sqrt{1+\cot^2\theta}}||,||根號1加cot 平方theta分之1
+\frac{\sqrt{\sec^2 \theta - 1}}{\sec \theta}||,||sec分之根號sec平方theta減1
+\frac{1}{\csc \theta}||,||cs分之1
+\cos \theta||,||cos theta
+\sqrt{1 - \sin^2\theta}||,||根號1減sin平方theta
+\cos \theta||,||cos theta
+\frac{1}{\sqrt{\csc^2\theta - 1}}||,||根號csc theta平方減1分1
+\cot \theta||,||cot theta
+{\sqrt  {\csc ^{2}\theta -1}}||,||根號csc平方theta減1
+\sec \theta||,||sec theta
+{\sqrt  {1+\tan ^{2}\theta }}||,||根號1加tan平方theta
+\csc \theta||,||csc theta
+---582--
