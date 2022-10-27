@@ -40,6 +40,5 @@ def givenoise(s):
         n = random.randint(0,len(s))
     randomlist.append(n)
     for i in randomlist:
-        print(i)
         s[i] = random.choices(string.ascii_letters)[0]
     return s
