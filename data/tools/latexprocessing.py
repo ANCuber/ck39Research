@@ -2,7 +2,7 @@ def stripback(rlatex,ch):
     while(rlatex[-1]==ch):
         rlatex = rlatex[0:-1]
     return rlatex
-
+    
 
 def norm(rlatex):
     if(len(rlatex)==0):
@@ -33,12 +33,14 @@ def norm(rlatex):
 def givenoise(s):
     import random
     import string
+    if(len(s)==0):
+        return ""
     randomlist = []
     s = list(s)
     p = (int)(len(s)/5);
-    for i in range(0,p):
-        n = random.randint(0,len(s))
-    randomlist.append(n)
+    for i in range(0,p-1):
+        n = random.randint(0,len(s)-1)
+        randomlist.append(n)
     for i in randomlist:
         s[i] = random.choices(string.ascii_letters)[0]
     return s
