@@ -1,0 +1,48 @@
+'''
+* -> space and punctuation mark
+
+common place holder:
+ x,n,y,z,w,k,p,a,b,c,d
+
+flow:
+    replace variable
+    replace punctuation
+    replace numbers
+'''
+def IsPuncutation(c):
+    for h in punctuation_list:
+        if(h==c):
+            return 1
+    return 0
+
+variable_list = ["x","n","y","z","w","k","p","a","b","c","d","q","t","R","r"]
+punctuation_list = ['[', ']',' ','^','+','-','(',')','/','{','}','\\','=','<','>',':','!','_']
+punc_to_token = {"[":"[Plmb]","]":"[Prmb]"," ":"[Pspa]","^":"[Pexp]","+":"[Pplu]","-":"[Pmin]","(":"[Plsb]",")":"[Prsb]","/":"[Pdiv]","{":"[Plbb]","}":"[Prbb]","\\":"[Pbeg]","=":"[Peql]","<":"[Ples]",">":"[Pbgr]",":":"[Pcol]","!":"[Pexc]","_":"[Psub]"}
+def ReplaceVariable(s):
+    s = "]"+s+"["
+    #print(s)
+    loc = []
+    cnt = 0;
+    for g in variable_list:
+        work = 0
+        for i in range(len(s)-len(g)-1):
+            if (s[i]!=']') or (s[i+len(g)+1]!='[') :
+                continue;
+
+            if(s[i+1:i+len(g)+1]==g):
+                if(work==0):
+                    work=1
+                    cnt+=1
+                s =s[:i+1]+"[var{}]".format(cnt)+s[i+len(g)+1:]
+    s = s[1:-1]
+    return s
+
+def ReplacePunctuation(s):
+    s = s.replace('[',"%temp%").replace("]","[Prmb]").replace("%temp%","[Plmb]")
+    for i in punc_to_token:
+        if(i!='[' and i !=']'):
+            s = s.replace(i,punc_to_token[i])
+    return s
+s = input()
+
+print(ReplaceVariable(ReplacePunctuation(s)))
