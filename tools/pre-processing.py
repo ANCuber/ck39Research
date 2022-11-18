@@ -21,20 +21,21 @@ punc_to_token = {"[":"[Plmb]","]":"[Prmb]"," ":"[Pspa]","^":"[Pexp]","+":"[Pplu]
 def ReplaceVariable(s):
     s = "]"+s+"["
     #print(s)
-    loc = []
     cnt = 0;
     for g in variable_list:
         work = 0
         for i in range(len(s)-len(g)-1):
-            if (s[i]!=']') or (s[i+len(g)+1]!='[') :
+            if (((s[i]!=']') or (s[i+len(g)+1]!='['))):
                 continue;
 
             if(s[i+1:i+len(g)+1]==g):
                 if(work==0):
                     work=1
                     cnt+=1
-                s =s[:i+1]+"[var{}]".format(cnt)+s[i+len(g)+1:]
+                s =s[:i+1]+"%|||{}|||%".format(cnt)+s[i+len(g)+1:]
     s = s[1:-1]
+    for i in range(1,cnt+1):
+        s = s.replace("%|||{}|||%".format(i),"[var{}]".format(i))
     return s
 
 def ReplacePunctuation(s):
@@ -43,6 +44,17 @@ def ReplacePunctuation(s):
         if(i!='[' and i !=']'):
             s = s.replace(i,punc_to_token[i])
     return s
+
+def ReplaceVariableDes(s:str):
+    cnt = 0;
+    for v in variable_list:
+        if(s.count(v)>0):
+            cnt+=1
+            s = s.replace(v,"|||{}|||".format(cnt))
+    for i in range(1,cnt+1):
+        s = s.replace("|||{}|||".format(i),"[var{}]".format(i))
+    return s;
 s = input()
 
+print(ReplaceVariableDes(s))
 print(ReplaceVariable(ReplacePunctuation(s)))
