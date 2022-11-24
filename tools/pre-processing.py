@@ -50,11 +50,11 @@ def ReplaceVariableDes(s:str):
     cnt = 0;
     for u in variable_list:
         v = " "+u+" ";
-        if(len(re.findall(r"(^{}[^a-zA-Z0-9])|([^a-zA-Z0-9]{}[^a-zA-Z0-9])|([^a-zA-Z0-9]{})$".format(u,u,u),s))>0):
+        if(len(re.findall(r"(^{}[^a-zA-Z])|([^a-zA-Z]{}[^a-zA-Z])|([^a-zA-Z]{})$".format(u,u,u),s))>0):
             cnt+=1
-            s = re.sub(r"(^)"+u+r"([^a-zA-Z0-9])",r"\1|||{}|||\2".format(cnt),s)
-            s = re.sub(r"([^a-zA-Z0-9])"+u+r"([^a-zA-Z0-9])",r"\1|||{}|||\2".format(cnt),s)
-            s = re.sub(r"([^a-zA-Z0-9])"+u+r"($)",r"\1|||{}|||\2".format(cnt),s)
+            s = re.sub(r"(^)"+u+r"([^a-zA-Z])",r"\1|||{}|||\2".format(cnt),s)
+            s = re.sub(r"([^a-zA-Z])"+u+r"([^a-zA-Z])",r"\1|||{}|||\2".format(cnt),s)
+            s = re.sub(r"([^a-zA-Z])"+u+r"($)",r"\1|||{}|||\2".format(cnt),s)
     for i in range(1,cnt+1):
         s = s.replace("|||{}|||".format(i),"[var{}]".format(i))
     return s;
