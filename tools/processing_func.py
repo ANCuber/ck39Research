@@ -22,7 +22,7 @@ def IsPuncutation(c):
             return 1
     return 0
 
-variable_list = ["x","n","y","z","w","k","p","a","b","c","d","q","t","R","r","s"]
+variable_list = ["x","m","n","y","z","w","k","p","a","b","c","d","q","t","R","r","s"]
 punctuation_list = ['[', ']',' ','^','+','-','(',')','/','{','}','\\','=','<','>',':','!','_',',']
 punc_to_token = {"[":"[Plmb]","]":"[Prmb]"," ":"[Pspa]","^":"[Pexp]","+":"[Pplu]","-":"[Pmin]","(":"[Plsb]",")":"[Prsb]","/":"[Pdiv]","{":"[Plbb]","}":"[Prbb]","\\":"[Pbeg]","=":"[Peql]","<":"[Ples]",">":"[Pbgr]",":":"[Pcol]","!":"[Pexc]","_":"[Psub]",",":"[Pcom]"}
 def ReplaceVariable(s):
@@ -71,9 +71,10 @@ def WrapLatexVar(s):
             s = re.sub(r"(^)"+u+r"([^a-zA-Z])",r"\1{"+u+r"}\2",s)
             s = re.sub(r"([^a-zA-Z])"+u+r"($)",r"\1{"+u+r"}\2",s)
     return s
+'''
 s = input()
 print(WrapLatexVar(s))
-'''
+
 print(ReplaceVariableDes(s))
 print(ReplaceVariable(ReplacePunctuation(s)))
 '''
