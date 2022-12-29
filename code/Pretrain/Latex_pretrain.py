@@ -2,12 +2,12 @@
 from transformers import BertTokenizer, LineByLineTextDataset,BertConfig, BertForMaskedLM, DataCollatorForLanguageModeling
 import tokenizers
 
-tokenizer = BertTokenizer.from_pretrained("bert-base-cased")
+tokenizer = BertTokenizer.from_pretrained("amine/bert-base-5lang-cased")
 '''
 special token
 '''
 #latex command
-tokenizer.add_tokens(["frac","addcontentsline ", "addtocontents ", "addtocounter ", "address ", "addtolength ", "addvspace ", "alph ", "appendix ", "arabic ", "author ", "backslash ", "baselineskip ", "baselinestretch ", "bf ", "bibitem ", "bigskip ", "boldmath ", "cal ", "caption ", "cdots ", "centering ", "circle ", "cite ", "cleardoublepage ", "clearpage ", "cline ", "closing ", "dashbox ", "date ", "ddots ", "dotfill ", "em ", "fbox ", "flushbottom ", "fnsymbol ", "footnote ", "footnotemark ", "footnotesize ", "footnotetext ", "frac ", "frame ", "framebox ", "frenchspacing ", "hfill ", "hline ", "hrulefill ", "hspace ", "huge ", "hyphenation ", "include ", "includeonly ", "indent ", "input ", "it ", "item ", "kill ", "label ", "large ", "LARGE (all caps) ", "ldots ", "left ", "lefteqn ", "line ", "linebreak ", "linethickness ", "linewidth ", "location ", "makebox ", "maketitle ", "mathcal ", "mathop ", "mbox ", "medskip ", "multicolumn ", "multiput ", "newcommand ", "newcounter ", "newenvironment ", "newfont ", "newlength ", "newline ", "newpage ", "newsavebox ", "newtheorem ", "nocite ", "noindent ", "nolinebreak ", "nopagebreak ", "not ", "onecolumn ", "opening ", "oval ", "overbrace ", "overline ", "pagebreak ", "pagenumbering ", "pageref ", "pagestyle ", "par ", "parbox ", "parindent ", "parskip ", "protect ", "put ", "raggedbottom ", "raggedleft ", "raggedright ", "raisebox ", "ref ", "renewcommand ", "right ", "rm ", "roman ", "rule ", "savebox ", "sbox ", "sc ", "scriptsize ", "setcounter ", "setlength ", "settowidth ", "sf ", "shortstack ", "signature ", "sl ", "small ", "smallskip ", "sqrt ", "stackrel ", "tableofcontents ", "telephone ", "textwidth ", "textheight ", "thanks ", "thispagestyle ", "tiny ", "title ", "today ", "tt ", "twocolumn ", "typeout ", "typein ", "underbrace ", "underline ", "unitlength ", "usebox ", "usecounter ", "value ", "vdots ", "vector ", "verb ", "vfill ", "vline ", "vphantom ", "vspace"])
+tokenizer.add_tokens(["frac","addcontentsline ", "addtocontents ", "addtocounter ", "address ", "addtolength ", "addvspace ", "alph ", "appendix ", "arabic ", "author ", "backslash ", "baselineskip ", "baselinestretch ", "bf ", "bibitem ", "bigskip ", "boldmath ", "cal ", "caption ", "cdots ", "centering ", "circle ", "cite ", "cleardoublepage ", "clearpage ", "cline ", "closing ", "cos","dashbox ", "date ", "ddots ", "dotfill ", "em ", "fbox ", "flushbottom ", "fnsymbol ", "footnote ", "footnotemark ", "footnotesize ", "footnotetext ", "frac ", "frame ", "framebox ", "frenchspacing ", "hfill ", "hline ", "hrulefill ", "hspace ", "huge ", "hyphenation ", "include ", "includeonly ", "indent ", "input ", "it ", "item ", "kill ", "label ", "large ", "LARGE (all caps) ", "ldots ", "left ", "lefteqn ", "line ", "linebreak ", "linethickness ", "linewidth ", "location ","log", "makebox ", "maketitle ", "mathcal ", "mathop ", "mbox ", "medskip ", "multicolumn ", "multiput ", "newcommand ", "newcounter ", "newenvironment ", "newfont ", "newlength ", "newline ", "newpage ", "newsavebox ", "newtheorem ", "nocite ", "noindent ", "nolinebreak ", "nopagebreak ", "not ", "onecolumn ", "opening ", "oval ", "overbrace ", "overline ", "pagebreak ", "pagenumbering ", "pageref ", "pagestyle ", "par ", "parbox ", "parindent ", "parskip ", "protect ", "put ", "raggedbottom ", "raggedleft ", "raggedright ", "raisebox ", "ref ", "renewcommand ", "right ", "rm ", "roman ", "rule ", "savebox ", "sbox ", "sc ", "scriptsize ", "setcounter ", "setlength ", "settowidth ", "sf ", "shortstack ", "signature ","sin", "sl ", "small ", "smallskip ", "sqrt ", "stackrel ", "tableofcontents ","tan", "telephone ", "textwidth ", "textheight ", "thanks ", "thispagestyle ", "tiny ", "title ", "today ", "tt ", "twocolumn ", "typeout ", "typein ", "underbrace ", "underline ", "unitlength ", "usebox ", "usecounter ", "value ", "vdots ", "vector ", "verb ", "vfill ", "vline ", "vphantom ", "vspace"])
 # var list
 for i in range(1,51):
     tokenizer.add_tokens(["[var{}]".format(i)])
@@ -67,6 +67,8 @@ trainer = Trainer(
 )
 trainer.train()
 trainer.save_model('/home/12518research/ck39Research/code/Pretrain/model/')
+tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/model/')
 trainer.evaluate()
+tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/model/')
 
 
