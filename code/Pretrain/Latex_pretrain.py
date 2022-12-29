@@ -1,11 +1,12 @@
 
-from transformers import BertTokenizer, LineByLineTextDataset,BertConfig, BertForMaskedLM, DataCollatorForLanguageModeling,BertModel
+from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers
-
-tokenizer = BertTokenizer.from_pretrained("amine/bert-base-5lang-cased")
+UsedModel = "amine/bert-base-5lang-cased"
+tokenizer = AutoTokenizer.from_pretrained(UsedModel)
 '''
 special token
 '''
+
 #latex command
 tokenizer.add_tokens(["frac","addcontentsline ", "addtocontents ", "addtocounter ", "address ", "addtolength ", "addvspace ", "alph ", "appendix ", "arabic ", "author ", "backslash ", "baselineskip ", "baselinestretch ", "bf ", "bibitem ", "bigskip ", "boldmath ", "cal ", "caption ", "cdots ", "centering ", "circle ", "cite ", "cleardoublepage ", "clearpage ", "cline ", "closing ", "cos","dashbox ", "date ", "ddots ", "dotfill ", "em ", "fbox ", "flushbottom ", "fnsymbol ", "footnote ", "footnotemark ", "footnotesize ", "footnotetext ", "frac ", "frame ", "framebox ", "frenchspacing ", "hfill ", "hline ", "hrulefill ", "hspace ", "huge ", "hyphenation ", "include ", "includeonly ", "indent ", "input ", "it ", "item ", "kill ", "label ", "large ", "LARGE (all caps) ", "ldots ", "left ", "lefteqn ", "line ", "linebreak ", "linethickness ", "linewidth ", "location ","log", "makebox ", "maketitle ", "mathcal ", "mathop ", "mbox ", "medskip ", "multicolumn ", "multiput ", "newcommand ", "newcounter ", "newenvironment ", "newfont ", "newlength ", "newline ", "newpage ", "newsavebox ", "newtheorem ", "nocite ", "noindent ", "nolinebreak ", "nopagebreak ", "not ", "onecolumn ", "opening ", "oval ", "overbrace ", "overline ", "pagebreak ", "pagenumbering ", "pageref ", "pagestyle ", "par ", "parbox ", "parindent ", "parskip ", "protect ", "put ", "raggedbottom ", "raggedleft ", "raggedright ", "raisebox ", "ref ", "renewcommand ", "right ", "rm ", "roman ", "rule ", "savebox ", "sbox ", "sc ", "scriptsize ", "setcounter ", "setlength ", "settowidth ", "sf ", "shortstack ", "signature ","sin", "sl ", "small ", "smallskip ", "sqrt ", "stackrel ", "tableofcontents ","tan", "telephone ", "textwidth ", "textheight ", "thanks ", "thispagestyle ", "tiny ", "title ", "today ", "tt ", "twocolumn ", "typeout ", "typein ", "underbrace ", "underline ", "unitlength ", "usebox ", "usecounter ", "value ", "vdots ", "vector ", "verb ", "vfill ", "vline ", "vphantom ", "vspace"])
 # var list
@@ -29,7 +30,6 @@ testdata = LineByLineTextDataset(
     file_path = '/home/12518research/ck39Research/data/Data/generator/eval.txt',
     block_size = 256 # maximum sequence length
 )
-
 print(tokenizer.vocab_size)
 config = BertConfig(
     vocab_size=49096,
@@ -39,8 +39,8 @@ config = BertConfig(
     max_position_embeddings=512
 )
  
-model = BertModel.from_pretrained("amine/bert-base-5lang-cased")
-
+model = AutoModelForMaskedLM.from_pretrained(UsedModel)
+model.resize_token_embeddings(len(tokenizer))
 data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer, mlm=True, mlm_probability=0.15
 )
@@ -51,8 +51,9 @@ from transformers import Trainer, TrainingArguments
 training_args = TrainingArguments(
     output_dir='/home/12518research/ck39Research/code/Pretrain/model',
     overwrite_output_dir=True,
-    num_train_epochs=2,
-    per_device_train_batch_size=32,
+    num_train_epochs=4,
+    per_device_train_batch_size=16,
+    logging_steps = 100,
     save_steps=10_00,
     save_total_limit=2,
 )
