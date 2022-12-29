@@ -1,5 +1,5 @@
 
-from transformers import BertTokenizer, LineByLineTextDataset,BertConfig, BertForMaskedLM, DataCollatorForLanguageModeling
+from transformers import BertTokenizer, LineByLineTextDataset,BertConfig, BertForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers
 
 tokenizer = BertTokenizer.from_pretrained("amine/bert-base-5lang-cased")
@@ -30,16 +30,16 @@ testdata = LineByLineTextDataset(
     block_size = 256 # maximum sequence length
 )
 
-
+print(tokenizer.vocab_size)
 config = BertConfig(
-    vocab_size=50000,
+    vocab_size=49096,
     hidden_size=768, 
     num_hidden_layers=6, 
     num_attention_heads=12,
     max_position_embeddings=512
 )
  
-model = BertForMaskedLM(config)
+model = BertModel.from_pretrained("amine/bert-base-5lang-cased")
 
 data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer, mlm=True, mlm_probability=0.15
