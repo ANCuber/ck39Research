@@ -89,7 +89,7 @@ void dfs(Node* cur,bool enclose) {
 
 int main() {
     outf.open("gendata.txt");
-    srand( time(NULL) ); 
+    srand( time(0) ); 
     for(int i=0;i < amount;i++){
         Node* root = new Node;
         root->depth = 0;
