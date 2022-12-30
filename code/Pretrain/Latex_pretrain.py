@@ -1,7 +1,7 @@
 
 from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers
-UsedModel = "amine/bert-base-5lang-cased"
+UsedModel = "bert-base-chinese"
 tokenizer = AutoTokenizer.from_pretrained(UsedModel)
 '''
 special token
@@ -30,14 +30,7 @@ testdata = LineByLineTextDataset(
     file_path = '/home/12518research/ck39Research/data/Data/generator/eval.txt',
     block_size = 256 # maximum sequence length
 )
-print(tokenizer.vocab_size)
-config = BertConfig(
-    vocab_size=49096,
-    hidden_size=768, 
-    num_hidden_layers=6, 
-    num_attention_heads=12,
-    max_position_embeddings=512
-)
+
  
 model = AutoModelForMaskedLM.from_pretrained(UsedModel)
 model.resize_token_embeddings(len(tokenizer))
@@ -52,8 +45,8 @@ training_args = TrainingArguments(
     output_dir='/home/12518research/ck39Research/code/Pretrain/model',
     overwrite_output_dir=True,
     num_train_epochs=4,
-    per_device_train_batch_size=16,
-    logging_steps = 100,
+    per_device_train_batch_size=32,
+    logging_steps = 10,
     save_steps=10_00,
     save_total_limit=2,
 )

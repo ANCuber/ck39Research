@@ -7,8 +7,8 @@ map<char,string> unitmp = {{'q',"\\sqrt{"},{'s',"\\sin{"},{'c',"\\cos{"},{'t',"\
 char variable_list[] = {'x','m','n','y','z','w','k','p','a','b','c','d','q','t','R','r','s','%'};
 int SizeOfVarList = 18, bin = 6, uni = 4;
 ofstream outf;
-const int sz_k = 1;
-const int amount = 20000;
+const int sz_k = 0;
+const int amount = 7000;
 const int prounit = 5;
 
 struct Node{
