@@ -8,7 +8,7 @@ char variable_list[] = {'x','m','n','y','z','w','k','p','a','b','c','d','q','t',
 int SizeOfVarList = 18, bin = 6, uni = 4;
 ofstream outf;
 const int sz_k = 0;
-const int amount = 7000;
+const int amount = 2000;
 const int prounit = 5;
 
 struct Node{
