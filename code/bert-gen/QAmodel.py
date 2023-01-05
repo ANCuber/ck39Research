@@ -2,13 +2,13 @@ import torch
 from transformers import BertForQuestionAnswering
 from transformers import BertTokenizer
 
-pretrained_model_path = '/home/12528research/ck39Research/code/Pretrain'
+UsedModel = '/home/12528research/ck39Research/code/Pretrain/model'
 
 #Model
-model = BertForQuestionAnswering.from_pretrained(pretrained_model_path)
+model = BertForQuestionAnswering.from_pretrained(UsedModel)
 
 #Tokenizer
-tokenizer = BertTokenizer.from_pretrained(pretrained_model_path)
+tokenizer = BertTokenizer.from_pretrained(UsedModel)
 
 question = ''' '''
 
