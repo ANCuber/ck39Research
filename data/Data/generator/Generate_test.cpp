@@ -76,7 +76,7 @@ void dfs(Node* cur,bool enclose) {
         }
     } else if (cur->type == 1) {
         //cout<<"{"<<(cur->ope)<<"}";
-        if (cur->ope == '%') cout<<"\\pi";
+        if (cur->ope == '%') cout<<"\\pi ";
         else cout<<(cur->ope);
     } else {
         if (enclose) cout<<'(';
