@@ -3,9 +3,10 @@ import json
 
   
 # 開啟 CSV 檔案
-filename = "data.csv"
-filenamewrite = 'data_dpr.json'
-doc_store = 'doc_store.json'
+filename = input("input the file you want to process:")
+dir = input("give directory:")
+filenamewrite = dir+'/data_dpr.json'
+doc_store = dir+'/doc_store.json'
 # for the main dpr
 with open(filenamewrite,'w',encoding='utf-8') as out:
   with open(filename, newline='',encoding='utf-8') as csvfile:

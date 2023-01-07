@@ -1,2049 +1,1093 @@
 [{
-    "content": " x^n + y^n = z^n "
+    "content": "\"7[Plbb][var1][Prbb] \""
 },{
-    "content": " p^n + y^n = z^n "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": " p^n + p^n = z^n "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": " a^n + y^n = z^n "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " a^n + p^n = z^n "
+    "content": "\"[Pbeg]log[Psub][Plbb]6[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": " a^n + b^n = z^n "
+    "content": "\"1[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": " g^n + y^n = z^n "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]frac[Plbb]8[Prbb][Plbb]1[Prbb][Prbb] \""
 },{
-    "content": " g^n + p^n = z^n "
+    "content": "\"[Plsb]2[Pplu][Plbb][var2][Prbb][Prsb][Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": " g^n + b^n = z^n "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": " g^n + u^n = z^n "
+    "content": "\"[Plbb][var2][Prbb][Plbb]2[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " x^3 + y^3 = z^3 "
+    "content": "\"[Plsb][Pbeg]sqrt[Plbb]7[Prbb][Prsb][Pplu]0 \""
 },{
-    "content": " p^3 + y^3 = z^3 "
+    "content": "\"[Plbb][Pbeg]pi[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " p^3 + p^3 = z^3 "
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " a^3 + y^3 = z^3 "
+    "content": "\"6[Plsb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": " a^3 + p^3 = z^3 "
+    "content": "\"[Pbeg]log[Psub][Plbb]1[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": " a^3 + b^3 = z^3 "
+    "content": "\"0[Pplu][Plbb]5[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " g^3 + y^3 = z^3 "
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": " g^3 + p^3 = z^3 "
+    "content": "\"[Pbeg]sin[Plbb]tR[Prbb] \""
 },{
-    "content": " g^3 + b^3 = z^3 "
+    "content": "\"[Pbeg]sin[Plbb]9[Prbb] \""
 },{
-    "content": " g^3 + u^3 = z^3 "
+    "content": "\"8[Pmin][Plsb]1[Pplu]2[Prsb] \""
 },{
-    "content": " x^2 + y^5 = z^8 "
+    "content": "\"[Pbeg]frac[Plbb]42[Prbb][Plbb][Plbb]4[Prbb][Pexp][Plbb]bk[Prbb][Prbb] \""
 },{
-    "content": " p^2 + y^5 = z^8 "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " p^2 + p^5 = z^8 "
+    "content": "\"[Plsb]57[Prsb][Pmin][Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb][var1][Prbb][Pmin][Plsb]1[Pplu]4[Prsb][Prbb] \""
 },{
-    "content": " a^2 + y^5 = z^8 "
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " a^2 + p^5 = z^8 "
+    "content": "\"[Pbeg]frac[Plbb]8[Prbb][Plbb][Plbb][var2][Prbb][Pmin][Plsb][Plbb][var1][Prbb][Plsb][Pbeg]sqrt[Plbb]2[Prbb][Prsb][Prsb][Prbb] \""
 },{
-    "content": " a^2 + b^5 = z^8 "
+    "content": "\"[Plsb][Pbeg]sqrt[Plbb]7[Prbb][Prsb][Pmin][Plsb]1[Pmin][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": " g^2 + y^5 = z^8 "
+    "content": "\"[Pbeg]log[Psub][Plbb]8[Prbb][Pbeg]frac[Plbb][Pbeg]tan[Plbb]0[Prbb][Prbb][Plbb]6[Prbb] \""
 },{
-    "content": " g^2 + p^5 = z^8 "
+    "content": "\"[Pbeg]log[Psub][Plbb]1[Prbb]9[Pmin][Plsb][Pbeg]sin[Plbb]1[Prbb][Prsb] \""
 },{
-    "content": " g^2 + b^5 = z^8 "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plsb]39[Prsb] \""
 },{
-    "content": " g^2 + u^5 = z^8 "
+    "content": "\"[Pbeg]cos[Plbb]1[Pmin][Plsb]7[Pbeg]pi[Prsb][Prbb] \""
 },{
-    "content": "E=mc^2"
+    "content": "\"[Plbb]9[Prbb][Pexp][Plbb]7[Prbb] \""
 },{
-    "content": "\\sqrt{x^2+1}"
+    "content": "\"[Plsb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prsb][Pmin][Plbb][var2][Prbb] \""
 },{
-    "content": "\\sqrt{p^2+1}"
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plbb]1[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a^2+1}"
+    "content": "\"[Plsb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prsb]6 \""
 },{
-    "content": "\\sqrt{g^2+1}"
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": " F = G \\left( \\frac{m_1 m_2}{r^2} \\right)"
+    "content": "\"[Plsb][Pbeg]sin[Plbb]0[Prbb][Prsb][Pplu][Plsb]7[Pplu][Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\frac{1}{2} "
+    "content": "\"[Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var3][Prbb] \""
 },{
-    "content": "\\frac{234}{51} "
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb]4[Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{87}{6903} "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]0[Prbb][Plsb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb][Prsb][Prbb] \""
 },{
-    "content": "\\frac{32832}{313} "
+    "content": "\"4[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "e^{\\pi i} + 1 = 0 "
+    "content": "\"[Pbeg]frac[Plbb]6[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2x - 5y =  8 "
+    "content": "\"[Pbeg]log[Psub][Plbb]7[Pmin][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "2p - 5y =  8 "
+    "content": "\"[Pbeg]frac[Plbb]0[Prbb][Plbb]4[Prbb] \""
 },{
-    "content": "2p - 5p =  8 "
+    "content": "\"9[Pmin][Plbb][Pbeg]sqrt[Plbb]7[Prbb][Prbb][Pexp][Plbb]zc[Prbb] \""
 },{
-    "content": "2a - 5y =  8 "
+    "content": "\"[Plbb]9[Prbb][Pexp][Plbb][Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb]4[Prbb][Prbb][Pexp][Plbb][Pbeg]cos[Plbb]5[Prbb][Prbb][Prbb] \""
 },{
-    "content": "2a - 5p =  8 "
+    "content": "\"6[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Pbeg]cos[Plbb]0[Prbb][Prbb] \""
 },{
-    "content": "2a - 5b =  8 "
+    "content": "\"[Pbeg]tan[Plbb][Plbb]5[Prbb][Pexp][Plbb][Pbeg]cos[Plbb]0[Pplu][Plbb][var1][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "2g - 5y =  8 "
+    "content": "\"[Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g - 5p =  8 "
+    "content": "\"7[Pmin][Plbb][Plbb][var2][Prbb][Pmin][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "2g - 5b =  8 "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Pmin][Plbb]0[Prbb][Pexp][Plbb]0[Prbb][Prbb][Plbb]5[Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "2g - 5u =  8 "
+    "content": "\"[Pbeg]frac[Plbb]9[Prbb][Plbb]5[Prbb] \""
 },{
-    "content": "3x + 9y =  -12 "
+    "content": "\"[Plsb][Plbb][var3][Prbb][Pmin][Plbb][var1][Prbb][Prsb][Pmin][Plsb]8[Pplu][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "3p + 9y =  -12 "
+    "content": "\"9[Pplu][Pbeg]frac[Plbb]4[Prbb][Plbb]3[Prbb] \""
 },{
-    "content": "3p + 9p =  -12 "
+    "content": "\"[Pbeg]tan[Plbb]8[Prbb] \""
 },{
-    "content": "3a + 9y =  -12 "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var3][Prbb][Prbb][Plbb][Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "3a + 9p =  -12 "
+    "content": "\"[Plbb][var1][Prbb][Pbeg]frac[Plbb]6[Prbb][Plbb]2[Prbb] \""
 },{
-    "content": "3a + 9b =  -12 "
+    "content": "\"[Pbeg]tan[Plbb]3[Prbb] \""
 },{
-    "content": "3g + 9y =  -12 "
+    "content": "\"4[Pbeg]pi \""
 },{
-    "content": "3g + 9p =  -12 "
+    "content": "\"8[Pplu][Plsb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "3g + 9b =  -12 "
+    "content": "\"[Plbb]6[Prbb][Pexp][Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "3g + 9u =  -12 "
+    "content": "\"[Plbb]7[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "x=y "
+    "content": "\"[Pbeg]sin[Plbb][Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Pplu][Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "p=y "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plsb]8[Pplu][Plsb]7[Pmin]3[Prsb][Prsb] \""
 },{
-    "content": "p=p "
+    "content": "\"5[Plbb][var1][Prbb] \""
 },{
-    "content": "a=y "
+    "content": "\"[Pbeg]cos[Plbb][Plbb]1[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a=p "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plsb]1[Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "a=b "
+    "content": "\"[Pbeg]sin[Plbb]8[Prbb] \""
 },{
-    "content": "g=y "
+    "content": "\"[Plbb][var2][Prbb][Pmin][Pbeg]frac[Plbb][Plbb][var3][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "g=p "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "g=b "
+    "content": "\"[Plsb][Pbeg]sqrt[Plbb]7[Prbb][Prsb][Pplu][Plsb][Plbb]7[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Pmin][Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var3][Prbb][Pplu][Plbb][var2][Prbb][Prbb][Prsb] \""
 },{
-    "content": "g=u "
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "w =z "
+    "content": "\"9[Pmin][Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "a=b+c "
+    "content": "\"[Pbeg]cos[Plbb]1[Pmin][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2x=-y "
+    "content": "\"[Plsb]9[Pplu][Plbb][var1][Prbb][Prsb][Pmin][Pbeg]log[Psub][Plbb]1[Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "2p=-y "
+    "content": "\"1[Pplu][Pbeg]pi \""
 },{
-    "content": "2p=-p "
+    "content": "\"3[Pbeg]pi \""
 },{
-    "content": "2a=-y "
+    "content": "\"[Pbeg]log[Psub][Plbb]1[Prbb]4[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb]4[Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a=-p "
+    "content": "\"9[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "2a=-b "
+    "content": "\"2[Pbeg]frac[Plbb]9[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g=-y "
+    "content": "\"[Pbeg]pi[Pmin][Plsb]5[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "2g=-p "
+    "content": "\"[Plsb][Pbeg]pi[Pplu][Plbb][var2][Prbb][Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "2g=-b "
+    "content": "\"[Plbb]9[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g=-u "
+    "content": "\"by \""
 },{
-    "content": "3w=\\frac{1}{2}z    "
+    "content": "\"4[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "a=b "
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "w+2=-1+w "
+    "content": "\"[Pbeg]sqrt[Plbb]4[Prbb] \""
 },{
-    "content": "ab=cb "
+    "content": "\"[Pbeg]tan[Plbb]0[Prbb] \""
 },{
-    "content": "2x - 5y =  8 "
+    "content": "\"8[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "2p - 5y =  8 "
+    "content": "\"[Pbeg]log[Psub][Plbb]0[Prbb][Pbeg]frac[Plbb]2[Prbb][Plbb][Pbeg]cos[Plbb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "2p - 5p =  8 "
+    "content": "\"[Plbb][var1][Prbb][Pbeg]frac[Plbb]6[Prbb][Plbb][Plbb]5[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]1[Prbb][Prbb][Prbb] \""
 },{
-    "content": "2a - 5y =  8 "
+    "content": "\"[Pbeg]log[Psub][Plbb]6[Prbb][Plsb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "2a - 5p =  8 "
+    "content": "\"93 \""
 },{
-    "content": "2a - 5b =  8 "
+    "content": "\"0[Plbb][var1][Prbb] \""
 },{
-    "content": "2g - 5y =  8 "
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb]5[Prbb][Plbb][var2][Prbb][Prbb][Plbb]8[Pmin][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g - 5p =  8 "
+    "content": "\"5[Pmin]2 \""
 },{
-    "content": "2g - 5b =  8 "
+    "content": "\"[Plsb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prsb][Pmin][Pbeg]frac[Plbb]6[Prbb][Plbb]3[Prbb] \""
 },{
-    "content": "2g - 5u =  8 "
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3x^2 + 9y =  3a + c "
+    "content": "\"[Plbb][var1][Prbb][Pbeg]pi \""
 },{
-    "content": "3p^2 + 9y =  3a + c "
+    "content": "\"[Plsb]2[Pmin]4[Prsb][Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "3p^2 + 9p =  3a + c "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb]8[Pmin][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3a^2 + 9y =  3a + c "
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][Pbeg]sqrt[Plbb]9[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "3a^2 + 9p =  3a + c "
+    "content": "\"kn \""
 },{
-    "content": "3a^2 + 9b =  3a + c "
+    "content": "\"[Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "3g^2 + 9y =  3a + c "
+    "content": "\"[Pbeg]tan[Plbb][Plsb][Pbeg]sin[Plbb]3[Prbb][Prsb][Pmin]1[Prbb] \""
 },{
-    "content": "3g^2 + 9p =  3a + c "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plsb]1[Pmin][Plsb]1[Pplu][Plbb][var1][Prbb][Prsb][Prsb] \""
 },{
-    "content": "3g^2 + 9b =  3a + c "
+    "content": "\"4[Pmin][Plsb][Pbeg]sqrt[Plbb]2[Prbb][Prsb] \""
 },{
-    "content": "3g^2 + 9u =  3a + c "
+    "content": "\"8[Pplu]6 \""
 },{
-    "content": "3ax+4by=5cz "
+    "content": "\"[Pbeg]frac[Plbb]2[Pmin][Plsb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb][Prsb][Prbb][Plbb][Plbb]9[Prbb][Pexp][Plbb][Plbb][var3][Prbb][Prbb][Prbb] \""
 },{
-    "content": "3ap+4by=5cz "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]6[Prbb]2[Prbb] \""
 },{
-    "content": "3ap+4bp=5cz "
+    "content": "\"[Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3aa+4by=5cz "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb]0[Prbb][Pexp][Plbb]7[Prbb][Prbb][Plsb]2[Pplu]5[Prsb] \""
 },{
-    "content": "3aa+4bp=5cz "
+    "content": "\"[Pbeg]frac[Plbb]5[Pmin][Plbb][var1][Prbb][Prbb][Plbb][Pbeg]log[Psub][Plbb][Pbeg]tan[Plbb][Plbb][var2][Prbb][Prbb][Prbb][Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "3aa+4bb=5cz "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb]2[Prbb][Pexp][Plbb]9[Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "3ag+4by=5cz "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb]5[Prbb][Prbb][Plsb]4[Pplu]5[Prsb] \""
 },{
-    "content": "3ag+4bp=5cz "
+    "content": "\"1[Pmin][Plsb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "3ag+4bb=5cz "
+    "content": "\"[Pbeg]cos[Plbb]8[Prbb] \""
 },{
-    "content": "3ag+4bu=5cz "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb][Pmin][Plsb]6[Pmin]1[Prsb] \""
 },{
-    "content": " \\int_{a}^{b} x^2 \\,dx "
+    "content": "\"[Pbeg]tan[Plbb]8[Prbb] \""
 },{
-    "content": " \\int_{a}^{b} p^2 \\,dp "
+    "content": "\"7[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": " \\int_{a}^{b} a^2 \\,da "
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": " \\int_{a}^{b} g^2 \\,dg "
+    "content": "\"[Pbeg]log[Psub][Plbb]2[Prbb][Plsb]3[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "x^n + y^n = z^m"
+    "content": "\"[Pbeg]log[Psub][Plbb]5[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "p^n + y^n = z^m"
+    "content": "\"[Plbb][var3][Prbb][Pmin][Plsb]1[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "p^n + p^n = z^m"
+    "content": "\"1[Pmin][Plsb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "a^n + y^n = z^m"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]cos[Plbb]3[Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a^n + p^n = z^m"
+    "content": "\"[Plbb]8[Prbb][Pexp][Plbb]9[Pmin][Plsb]3[Pplu][Plbb]0[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prsb][Prbb] \""
 },{
-    "content": "a^n + b^n = z^m"
+    "content": "\"3[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "g^n + y^n = z^m"
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "g^n + p^n = z^m"
+    "content": "\"[Pbeg]sin[Plbb]4[Prbb] \""
 },{
-    "content": "g^n + b^n = z^m"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Pplu][Pbeg]log[Psub][Plbb]1[Prbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "g^n + u^n = z^m"
+    "content": "\"[Pbeg]tan[Plbb][Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "x^3 + y^t = z^3 "
+    "content": "\"6[Pplu][Pbeg]frac[Plbb]1[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^3 + y^t = z^3 "
+    "content": "\"[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "p^3 + p^t = z^3 "
+    "content": "\"[Plbb]5[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Plsb]6[Pplu][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "a^3 + y^t = z^3 "
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a^3 + p^t = z^3 "
+    "content": "\"[Pbeg]tan[Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a^3 + b^t = z^3 "
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "g^3 + y^t = z^3 "
+    "content": "\"5[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "g^3 + p^t = z^3 "
+    "content": "\"[Plbb][var2][Prbb][Plsb]0[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "g^3 + b^t = z^3 "
+    "content": "\"[Pbeg]log[Psub][Plbb]8[Prbb]7 \""
 },{
-    "content": "g^3 + u^t = z^3 "
+    "content": "\"9[Plbb][var1][Prbb] \""
 },{
-    "content": "x^2 + 9 = z^8"
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^2 + 9 = z^8"
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a^2 + 9 = z^8"
+    "content": "\"5[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "g^2 + 9 = z^8"
+    "content": "\"7[Plbb][var1][Prbb] \""
 },{
-    "content": "x^11 + y^9 = 73"
+    "content": "\"[Pbeg]sqrt[Plbb]8[Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^11 + y^9 = 73"
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^11 + p^9 = 73"
+    "content": "\"[Plsb][Plbb][var2][Prbb][Pplu][Plbb][var3][Prbb][Prsb][Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "a^11 + y^9 = 73"
+    "content": "\"[Pbeg]frac[Plbb]0[Prbb][Plbb]ns[Prbb] \""
 },{
-    "content": "a^11 + p^9 = 73"
+    "content": "\"2[Pplu][Plsb]1[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "a^11 + b^9 = 73"
+    "content": "\"[Pbeg]cos[Plbb]5[Prbb] \""
 },{
-    "content": "g^11 + y^9 = 73"
+    "content": "\"7[Pmin][Plsb][Plbb][var1][Prbb][Pmin][Plsb]2[Pmin][Pbeg]pi[Prsb][Prsb] \""
 },{
-    "content": "g^11 + p^9 = 73"
+    "content": "\"5[Plbb][var1][Prbb] \""
 },{
-    "content": "g^11 + b^9 = 73"
+    "content": "\"[Pbeg]tan[Plbb]3[Prbb] \""
 },{
-    "content": "g^11 + u^9 = 73"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]log[Psub][Plbb]9[Prbb][Plbb][var1][Prbb][Pmin][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb][Prbb] \""
 },{
-    "content": "x^x + y^3 = z^n"
+    "content": "\"[Pbeg]tan[Plbb][Plbb]2[Prbb][Pexp][Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][Prbb] \""
 },{
-    "content": "p^p + y^3 = z^n"
+    "content": "\"[Plbb][var1][Prbb][Plsb]9[Pplu][Plbb]7[Prbb][Pexp][Plbb]1[Prbb][Prsb] \""
 },{
-    "content": "p^p + p^3 = z^n"
+    "content": "\"8[Pmin]9 \""
 },{
-    "content": "a^a + y^3 = z^n"
+    "content": "\"7[Pplu][Plbb]2[Prbb][Pexp][Plbb]6[Pplu][Pbeg]frac[Plbb]8[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a^a + p^3 = z^n"
+    "content": "\"[Plbb]9[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a^a + b^3 = z^n"
+    "content": "\"[Plbb]9[Prbb][Pexp][Plbb]0[Prbb][Pplu][Pbeg]frac[Plbb]3[Prbb][Plbb]3[Prbb] \""
 },{
-    "content": "g^g + y^3 = z^n"
+    "content": "\"tc \""
 },{
-    "content": "g^g + p^3 = z^n"
+    "content": "\"[Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][var2][Prbb][Prbb][Pmin][Plsb]3[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "g^g + b^3 = z^n"
+    "content": "\"[Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Pbeg]pi[Pmin][Plsb]cy[Prsb][Prbb] \""
 },{
-    "content": "g^g + u^3 = z^n"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "x^2 + y = x + w^3"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb]3[Pplu][Plsb]0[Pplu][Plbb][var1][Prbb][Prsb][Prbb][Prbb] \""
 },{
-    "content": "p^2 + y = p + w^3"
+    "content": "\"[Pbeg]tan[Plbb][Plbb]4[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "p^2 + p = p + w^3"
+    "content": "\"1[Plbb][var1][Prbb] \""
 },{
-    "content": "a^2 + y = a + w^3"
+    "content": "\"[Pbeg]sin[Plbb][Plsb][Pbeg]tan[Plbb][Pbeg]frac[Plbb]8[Prbb][Plbb]2[Prbb][Prbb][Prsb][Pplu]9[Prbb] \""
 },{
-    "content": "a^2 + p = a + w^3"
+    "content": "\"[Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb]6[Prbb][Pexp][Plbb]7[Prbb][Prbb] \""
 },{
-    "content": "a^2 + b = a + w^3"
+    "content": "\"3[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "g^2 + y = g + w^3"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "g^2 + p = g + w^3"
+    "content": "\"[Pbeg]log[Psub][Plbb]7[Prbb][Plsb][Pbeg]cos[Plbb]5[Prbb][Prsb] \""
 },{
-    "content": "g^2 + b = g + w^3"
+    "content": "\"[Pbeg]log[Psub][Plbb]4[Prbb][Pbeg]frac[Plbb]3[Prbb][Plbb]0[Prbb] \""
 },{
-    "content": "g^2 + u = g + w^3"
+    "content": "\"[Pbeg]log[Psub][Plbb]9[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "y^3 + x = s^t"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb][Pmin][Pbeg]log[Psub][Plbb]6[Prbb][Plbb][var3][Prbb] \""
 },{
-    "content": "y^3 + p = s^t"
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]sin[Plbb]1[Prbb][Prbb]4[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "p^3 + p = s^t"
+    "content": "\"[Pbeg]tan[Plbb][Pbeg]cos[Plbb]8[Prbb][Prbb] \""
 },{
-    "content": "y^3 + a = s^t"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^3 + a = s^t"
+    "content": "\"8[Pbeg]log[Psub][Plbb]0[Prbb][Pbeg]frac[Plbb]5[Prbb][Plbb]2[Prbb] \""
 },{
-    "content": "b^3 + a = s^t"
+    "content": "\"0[Pmin][Pbeg]log[Psub][Plbb]6[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "y^3 + g = s^t"
+    "content": "\"[Plsb]3[Plbb][var1][Prbb][Prsb][Pplu][Pbeg]frac[Plbb]1[Prbb][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb]8[Prbb][Prbb] \""
 },{
-    "content": "p^3 + g = s^t"
+    "content": "\"[Pbeg]tan[Plbb][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prsb][Prbb] \""
 },{
-    "content": "b^3 + g = s^t"
+    "content": "\"[Pbeg]sin[Plbb]7[Prbb] \""
 },{
-    "content": "u^3 + g = s^t"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "w+x+y+z=\\pi "
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]sin[Plbb]4[Prbb][Prbb][Plbb]3[Pbeg]pi[Prbb] \""
 },{
-    "content": "w+p+y+z=\\pi "
+    "content": "\"37 \""
 },{
-    "content": "w+p+p+z=\\pi "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "w+a+y+z=\\pi "
+    "content": "\"6[Pplu][Plbb]6[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "w+a+p+z=\\pi "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plsb]9[Pmin]6[Prsb] \""
 },{
-    "content": "w+a+b+z=\\pi "
+    "content": "\"33 \""
 },{
-    "content": "w+g+y+z=\\pi "
+    "content": "\"[Pbeg]log[Psub][Plbb]7[Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "w+g+p+z=\\pi "
+    "content": "\"[Pbeg]sin[Plbb]3[Pmin]2[Prbb] \""
 },{
-    "content": "w+g+b+z=\\pi "
+    "content": "\"[Pbeg]sqrt[Plbb]5[Prbb] \""
 },{
-    "content": "w+g+u+z=\\pi "
+    "content": "\"[Plbb][Pbeg]tan[Plbb]9[Prbb][Prbb][Pexp][Plbb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "x+y+z=n\\pi"
+    "content": "\"[Pbeg]frac[Plbb]6[Pplu][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "p+y+z=n\\pi"
+    "content": "\"[Pbeg]log[Psub][Plbb]5[Prbb]3 \""
 },{
-    "content": "p+p+z=n\\pi"
+    "content": "\"[Plbb][Pbeg]pi[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Pplu][Plsb][Pbeg]sin[Plbb]7[Prbb][Prsb][Prbb] \""
 },{
-    "content": "a+y+z=n\\pi"
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a+p+z=n\\pi"
+    "content": "\"[Pbeg]tan[Plbb][Pbeg]cos[Plbb][Pbeg]pi[Prbb][Prbb] \""
 },{
-    "content": "a+b+z=n\\pi"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "g+y+z=n\\pi"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "g+p+z=n\\pi"
+    "content": "\"[Plbb][var2][Prbb][Plsb]6[Pplu][Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "g+b+z=n\\pi"
+    "content": "\"7[Plsb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "g+u+z=n\\pi"
+    "content": "\"[Pbeg]sin[Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a^b > \\frac{a}{a+b}"
+    "content": "\"[Pbeg]log[Psub][Plbb]3[Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "xy^2 + x^2y \\leq 0"
+    "content": "\"[Plbb][var3][Prbb][Pmin][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "py^2 + p^2y \\leq 0"
+    "content": "\"target \""
 },{
-    "content": "pp^2 + p^2p \\leq 0"
+    "content": "\"[Plbb]3[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Pmin][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb] \""
 },{
-    "content": "ay^2 + a^2y \\leq 0"
+    "content": "\"[Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Pbeg]sin[Plbb]8[Prbb][Prsb] \""
 },{
-    "content": "ap^2 + a^2p \\leq 0"
+    "content": "\"1[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "ab^2 + a^2b \\leq 0"
+    "content": "\"3[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "gy^2 + g^2y \\leq 0"
+    "content": "\"[Pbeg]log[Psub][Plbb]4[Pmin]2[Prbb][Plsb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "gp^2 + g^2p \\leq 0"
+    "content": "\"[Plbb]3[Pplu][Plsb]6[Pmin][Plbb][var1][Prbb][Prsb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "gb^2 + g^2b \\leq 0"
+    "content": "\"[Pbeg]sin[Plbb][Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]8[Pplu][Plbb][var1][Prbb][Prbb][Pbeg]pi[Prbb][Prbb] \""
 },{
-    "content": "gu^2 + g^2u \\leq 0"
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "ax^{2}+bx+c = 5"
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]5[Pmin][Pbeg]frac[Plbb][Plbb][var3][Prbb][Prbb][Plbb]7[Pmin][Plbb][var1][Prbb][Prbb][Prbb][Plbb][Pbeg]sqrt[Plbb][Plbb][var2][Prbb][Prbb][Prbb][Prbb][Plsb][Pbeg]cos[Plbb][Plbb][Plbb][var4][Prbb][Prbb][Pexp][Plbb][Plbb][var5][Prbb][Prbb][Prbb][Prsb] \""
 },{
-    "content": "ap^{2}+bp+c = 5"
+    "content": "\"[Plsb][Plbb][var3][Prbb][Pplu][Plbb][var1][Prbb][Prsb][Pplu][Plsb]4[Pplu][Plbb]8[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prsb] \""
 },{
-    "content": "aa^{2}+ba+c = 5"
+    "content": "\"5[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "ag^{2}+bg+c = 5"
+    "content": "\"[Plbb][Pbeg]sin[Plbb]2[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a(x-r)(x-s)=0"
+    "content": "\"[Plsb][Plsb]8[Pplu][Plbb][var4][Prbb][Prsb][Pmin][Plsb][Plbb][var3][Prbb][Pplu][Plbb][var2][Prbb][Prsb][Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "a(p-r)(p-s)=0"
+    "content": "\"[Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Pbeg]sin[Plbb]7[Prbb][Prsb] \""
 },{
-    "content": "a(a-r)(a-s)=0"
+    "content": "\"[Plbb]3[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a(g-r)(g-s)=0"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plsb][Plbb][var1][Prbb][Pmin][Plbb][var4][Prbb][Prsb][Pmin][Plbb][var3][Prbb][Prsb][Prbb] \""
 },{
-    "content": "z^{2}+q=pz"
+    "content": "\"[Plsb][Plsb][Pbeg]sqrt[Plbb]8[Prbb][Prsb]6[Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "x = \\sqrt{\\theta} \\tan\\theta"
+    "content": "\"[Pbeg]sqrt[Plbb]9[Prbb] \""
 },{
-    "content": "p = \\sqrt{\\theta} \\tan\\theta"
+    "content": "\"[Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a = \\sqrt{\\theta} \\tan\\theta"
+    "content": "\"[Plbb]5[Prbb][Pexp][Plbb][Pbeg]sqrt[Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "g = \\sqrt{\\theta} \\tan\\theta"
+    "content": "\"[Plbb][Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var3][Prbb][Prbb][Prbb][Pexp][Plbb]1[Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\tan 2 \\theta = 2 \\frac{\\sqrt{ac}}{b}"
+    "content": "\"1[Pplu]5 \""
 },{
-    "content": "r={\\sqrt  {{\\frac  {c}{a}}}}"
+    "content": "\"[Pbeg]tan[Plbb]5[Prbb] \""
 },{
-    "content": "y=a(x-h)^2+k"
+    "content": "\"[Pbeg]sqrt[Plbb]0[Prbb] \""
 },{
-    "content": "y=a(p-h)^2+k"
+    "content": "\"[Plbb][Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]sin[Plbb]9[Plbb][var3][Prbb][Prbb][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p=a(p-h)^2+k"
+    "content": "\"[Plsb][Plsb]2[Plbb][var2][Prbb][Prsb][Pplu][Pbeg]frac[Plbb]8[Prbb][Plbb]2[Prbb][Prsb][Pmin][Plbb]9[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "y=a(a-h)^2+k"
+    "content": "\"[Plbb][var1][Prbb][Pmin][Plsb][Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]9[Prbb]1[Prbb][Prsb] \""
 },{
-    "content": "p=a(a-h)^2+k"
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "b=a(a-h)^2+k"
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb][Pbeg]sin[Plbb][Plbb][var2][Prbb][Prbb][Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "y=a(g-h)^2+k"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][Plsb][Pbeg]sqrt[Plbb]11[Prbb][Prsb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "p=a(g-h)^2+k"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb]9[Prbb] \""
 },{
-    "content": "b=a(g-h)^2+k"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb]9[Prbb][Pexp][Plbb]1[Prbb][Prbb] \""
 },{
-    "content": "u=a(g-h)^2+k"
+    "content": "\"[Pbeg]frac[Plbb]2[Prbb][Plbb]0[Pmin][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "x^{4}+y^{4}=z^{2}"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]frac[Plbb][Plbb]2[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]2[Plsb]4[Pplu][Plbb][var2][Prbb][Prsb][Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb][Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]3[Prbb][Prbb][Prbb] \""
 },{
-    "content": "p^{4}+y^{4}=z^{2}"
+    "content": "\"0[Pplu][Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^{4}+p^{4}=z^{2}"
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a^{4}+y^{4}=z^{2}"
+    "content": "\"[Plbb][var1][Prbb][Pmin][Plbb]R[Prbb] \""
 },{
-    "content": "a^{4}+p^{4}=z^{2}"
+    "content": "\"[Pbeg]log[Psub][Plbb]7[Prbb][Plbb][var1][Prbb][Pbeg]frac[Plbb][Plbb][var3][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "a^{4}+b^{4}=z^{2}"
+    "content": "\"[Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Pmin][Plbb]8[Prbb][Pexp][Plbb][Pbeg]pi[Prbb] \""
 },{
-    "content": "g^{4}+y^{4}=z^{2}"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "g^{4}+p^{4}=z^{2}"
+    "content": "\"[Pbeg]frac[Plbb]8[Prbb][Plbb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "g^{4}+b^{4}=z^{2}"
+    "content": "\"[Pbeg]log[Psub][Plbb]7[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "g^{4}+u^{4}=z^{2}"
+    "content": "\"0[Pplu][Plsb][Plbb][var1][Prbb][Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb][Plbb][var4][Prbb][Prbb][Plbb]9[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Plbb][Plbb][var3][Prbb][Prbb][Prsb] \""
 },{
-    "content": "p\\equiv 1\\;mod\\;4"
+    "content": "\"[Plsb]0[Pplu][Plbb][var1][Prbb][Prsb][Pplu][Pbeg]frac[Plbb][Pbeg]sin[Plbb]7[Prbb][Prbb][Plbb]9[Prbb] \""
 },{
-    "content": "\\sqrt{x^3+1}"
+    "content": "\"[Pbeg]cos[Plbb]9[Prbb] \""
 },{
-    "content": "\\sqrt{p^3+1}"
+    "content": "\"[Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a^3+1}"
+    "content": "\"[Pbeg]frac[Plbb]2[Prbb][Plbb]6[Prbb] \""
 },{
-    "content": "\\sqrt{g^3+1}"
+    "content": "\"3[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{x^2+2x+1}"
+    "content": "\"[Pbeg]frac[Plbb]9[Prbb][Plbb]8[Prbb] \""
 },{
-    "content": "\\sqrt{p^2+2p+1}"
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb]3[Pmin][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a^2+2a+1}"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plsb][Plsb][Pbeg]tan[Plbb][Plbb][var2][Prbb][Prbb][Prsb][Pplu][Plsb][Pbeg]sin[Plbb]3[Prbb][Prsb][Prsb] \""
 },{
-    "content": "\\sqrt{g^2+2g+1}"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{x^e+\\pi}"
+    "content": "\"[Plsb][Plbb][var3][Prbb][Pplu][Plbb][var2][Prbb][Prsb][Plsb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "\\sqrt{p^e+\\pi}"
+    "content": "\"4[Pplu][Plsb][Plsb][Pbeg]cos[Plbb]7[Prbb][Prsb][Pplu]6[Prsb] \""
 },{
-    "content": "\\sqrt{a^e+\\pi}"
+    "content": "\"[Plsb][Pbeg]sin[Plbb][Plbb][var2][Prbb][Prbb][Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{g^e+\\pi}"
+    "content": "\"7[Pplu][Pbeg]log[Psub][Plbb]1[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{\\pi^3+31}"
+    "content": "\"[Pbeg]tan[Plbb]7[Prbb] \""
 },{
-    "content": "\\sqrt{\\sqrt{x^4+6}}"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{\\sqrt{p^4+6}}"
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]pi[Prbb][Plbb][Pbeg]log[Psub][Plbb]0[Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{\\sqrt{a^4+6}}"
+    "content": "\"[Plsb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prsb][Plbb][var2][Prbb] \""
 },{
-    "content": "\\sqrt{\\sqrt{g^4+6}}"
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{x+x^5+3}"
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plsb][Pbeg]cos[Plbb][Plbb][var2][Prbb][Prbb][Prsb] \""
 },{
-    "content": "\\sqrt{p+p^5+3}"
+    "content": "\"3[Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb]5[Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a+a^5+3}"
+    "content": "\"[Pbeg]sin[Plbb]6[Prbb] \""
 },{
-    "content": "\\sqrt{g+g^5+3}"
+    "content": "\"[Plsb][Plbb][var1][Prbb][Pplu][Plsb][Pbeg]tan[Plbb]3[Prbb][Prsb][Prsb][Plsb]5[Pplu]9[Prsb] \""
 },{
-    "content": "\\sqrt{a^3b^2+a^2}"
+    "content": "\"[Plsb]cp[Prsb][Pmin][Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{x^2y^4z^6} "
+    "content": "\"[Pbeg]log[Psub][Plbb]2[Prbb]2 \""
 },{
-    "content": "\\sqrt{p^2y^4z^6} "
+    "content": "\"[Pbeg]sin[Plbb]7[Prbb] \""
 },{
-    "content": "\\sqrt{p^2p^4z^6} "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Pbeg]pi[Pbeg]frac[Plbb]2[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a^2y^4z^6} "
+    "content": "\"6[Pmin][Plsb]41[Prsb] \""
 },{
-    "content": "\\sqrt{a^2p^4z^6} "
+    "content": "\"[Pbeg]tan[Plbb]8[Plsb]1[Pplu][Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb][Prsb][Prbb] \""
 },{
-    "content": "\\sqrt{a^2b^4z^6} "
+    "content": "\"[Pbeg]cos[Plbb]0[Prbb] \""
 },{
-    "content": "\\sqrt{g^2y^4z^6} "
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{g^2p^4z^6} "
+    "content": "\"[Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][var2][Prbb][Pmin][Plsb][Pbeg]pi[Pplu][Plbb][var1][Prbb][Prsb][Prbb] \""
 },{
-    "content": "\\sqrt{g^2b^4z^6} "
+    "content": "\"[Pbeg]log[Psub][Plbb]2[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{g^2u^4z^6} "
+    "content": "\"[Pbeg]sin[Plbb]7[Prbb] \""
 },{
-    "content": "\\sqrt{a^3+b^3+c^3}"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{(a+b+c)^{3}}"
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{\\sin(\\frac{\\pi}{3})}"
+    "content": "\"[Pbeg]log[Psub][Plbb]0[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{ax^{2}+bx+c}"
+    "content": "\"4[Pplu][Plsb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "\\sqrt{ap^{2}+bp+c}"
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{aa^{2}+ba+c}"
+    "content": "\"[Plsb][Pbeg]tan[Plbb][Plbb][var2][Prbb][Prbb][Prsb][Plsb]9[Plsb][Plbb][var1][Prbb][Pmin][Plbb][var3][Prbb][Prsb][Prsb] \""
 },{
-    "content": "\\sqrt{ag^{2}+bg+c}"
+    "content": "\"0[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{a(x-r)(x-s)}"
+    "content": "\"[Plbb][var2][Prbb][Plbb][Pbeg]sqrt[Plbb]5[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a(p-r)(p-s)}"
+    "content": "\"[Pbeg]sqrt[Plbb]5[Prbb] \""
 },{
-    "content": "\\sqrt{a(a-r)(a-s)}"
+    "content": "\"[Pbeg]frac[Plbb]5[Pplu][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{a(g-r)(g-s)}"
+    "content": "\"[Plbb]5[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{z^{2}+q}"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sqrt{x_1+x_2+x_3}"
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sqrt{p_1+p_2+p_3}"
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plsb]8[Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "\\sqrt{a_1+a_2+a_3}"
+    "content": "\"[Plbb][var2][Prbb][Pmin][Plsb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "\\sqrt{g_1+g_2+g_3}"
+    "content": "\"[Pbeg]sin[Plbb]6[Prbb] \""
 },{
-    "content": "\\sqrt{mc^2}"
+    "content": "\"[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb]3[Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\frac{1}{2} "
+    "content": "\"[Pbeg]frac[Plbb][Plbb]8[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var3][Prbb] \""
 },{
-    "content": "\\frac{234}{51} "
+    "content": "\"7[Pplu][Plsb][Pbeg]tan[Plbb]6[Prbb][Prsb] \""
 },{
-    "content": "\\frac{87}{6903} "
+    "content": "\"[Pbeg]tan[Plbb]7[Prbb] \""
 },{
-    "content": "\\frac{32832}{313} "
+    "content": "\"4[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "\\frac{\\pi^2}{4} "
+    "content": "\"yx \""
 },{
-    "content": "\\frac{\\sqrt{x^2+2x+1}}{x+3} "
+    "content": "\"7[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "\\frac{\\sqrt{p^2+2p+1}}{p+3} "
+    "content": "\"[Pbeg]sin[Plbb][Plsb][Pbeg]sin[Plbb]1[Plbb][var2][Prbb][Prbb][Prsb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{\\sqrt{a^2+2a+1}}{a+3} "
+    "content": "\"[Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{\\sqrt{g^2+2g+1}}{g+3} "
+    "content": "\"[Plsb][Pbeg]frac[Plbb][Plbb][var3][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb][Pmin][Plbb][var2][Prbb][Prsb][Plsb]3[Pmin][Pbeg]pi[Prsb] \""
 },{
-    "content": "\\frac{x^3+1}{x+1} "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb]2[Prbb][Prbb][Plsb]0[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\frac{p^3+1}{p+1} "
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{a^3+1}{a+1} "
+    "content": "\"[Plbb]6[Prbb][Pexp][Plbb][Pbeg]frac[Plbb][Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Plbb][Pbeg]pi[Prbb][Prbb] \""
 },{
-    "content": "\\frac{g^3+1}{g+1} "
+    "content": "\"[Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb]0[Pmin][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\frac{a^2b^4}{a^3b^2} "
+    "content": "\"1[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "\\frac{4}{\\pi^2} "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb]7[Plsb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prsb][Prbb][Prbb] \""
 },{
-    "content": "\\frac{71}{\\sqrt{153}}"
+    "content": "\"[Pbeg]frac[Plbb]9[Pplu][Plbb][var1][Prbb][Prbb][Plbb]tk[Prbb] \""
 },{
-    "content": "\\frac{41}{467}"
+    "content": "\"[Pbeg]cos[Plbb][Plsb]9[Pbeg]frac[Plbb]1[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb][Plbb][var2][Prbb][Prbb][Prsb][Prbb] \""
 },{
-    "content": "\\frac{34}{500}"
+    "content": "\"[Pbeg]log[Psub][Plbb]4[Prbb][Pbeg]frac[Plbb][Plbb]9[Prbb][Pexp][Plbb]6[Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{69}{724}"
+    "content": "\"[Pbeg]log[Psub][Plbb]9[Prbb]8 \""
 },{
-    "content": "\\frac{78}{358}"
+    "content": "\"[Pbeg]log[Psub][Plbb]5[Prbb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "\\frac{62}{464}"
+    "content": "\"[Pbeg]frac[Plbb]3[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{5}{145}"
+    "content": "\"[Plsb][Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Pbeg]sin[Plbb]5[Prbb][Prbb][Prbb][Prsb][Plsb]8[Pplu][Plsb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prsb][Prsb] \""
 },{
-    "content": "\\frac{81}{827}"
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb]5[Prbb][Plbb][var1][Prbb][Prbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][Pbeg]frac[Plbb][Plbb][var3][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\frac{61}{491}"
+    "content": "\"6[Pmin]4 \""
 },{
-    "content": "\\frac{95}{942}"
+    "content": "\"[Pbeg]sqrt[Plbb]4[Prbb] \""
 },{
-    "content": "\\frac{27}{436} "
+    "content": "\"8[Pbeg]log[Psub][Plbb]0[Prbb]5 \""
 },{
-    "content": "P_{r}^{n}"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb]zy[Prbb] \""
 },{
-    "content": "P_{a}^{b}"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "P_{9}^{9}"
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plbb]k[Prbb] \""
 },{
-    "content": "P_{3}^{5}"
+    "content": "\"1[Pmin][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb]2[Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "P_{12}^{n}"
+    "content": "\"[Pbeg]log[Psub][Plbb]4[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "C_{r}^{n}"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "C_{a}^{b}"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "C_{5}^{12}"
+    "content": "\"[Pbeg]frac[Plbb]mm[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "C_{3}^{n}"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb] \""
 },{
-    "content": "C_{r}^{7}"
+    "content": "\"[Plbb][var2][Prbb][Pmin][Pbeg]frac[Plbb]6[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "e^{\\pi i} + 1 = 0 "
+    "content": "\"8[Plsb]2[Pplu]3[Prsb] \""
 },{
-    "content": "2x - 5y =  8 "
+    "content": "\"[Plsb][Pbeg]pi[Pmin][Plsb]9[Pmin][Plsb][Pbeg]sin[Plbb]1[Prbb][Prsb][Prsb][Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "2p - 5y =  8 "
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2p - 5p =  8 "
+    "content": "\"[Pbeg]frac[Plbb]7[Plbb][var2][Prbb][Prbb][Plbb]2[Pmin][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a - 5y =  8 "
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]9[Prbb][Prbb][Plbb][Plbb][var2][Prbb][Pmin][Plsb]6[Pplu][Plbb][var1][Prbb][Prsb][Prbb] \""
 },{
-    "content": "2a - 5p =  8 "
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a - 5b =  8 "
+    "content": "\"[Plbb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g - 5y =  8 "
+    "content": "\"[Pbeg]sin[Plbb][Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "2g - 5p =  8 "
+    "content": "\"[Plsb][Plsb][Pbeg]cos[Plbb]9[Prbb][Prsb]6[Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "2g - 5b =  8 "
+    "content": "\"5[Pmin][Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]sin[Plbb][Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "2g - 5u =  8 "
+    "content": "\"[Plsb][Pbeg]log[Psub][Plbb][Plbb][var3][Prbb][Prbb][Plbb][var4][Prbb][Pmin][Plbb][var2][Prbb][Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "3x + 9y =  -12 "
+    "content": "\"[Plbb][var2][Prbb][Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "3p + 9y =  -12 "
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Pbeg]sin[Plbb][Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Pbeg]pi[Prbb][Prbb][Prbb] \""
 },{
-    "content": "3p + 9p =  -12 "
+    "content": "\"[Plbb][Pbeg]frac[Plbb][Pbeg]sqrt[Plbb]0[Pplu]2[Prbb][Prbb][Plbb]7[Prbb][Prbb][Pexp][Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "3a + 9y =  -12 "
+    "content": "\"[Pbeg]frac[Plbb]6[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3a + 9p =  -12 "
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][Plbb]9[Prbb] \""
 },{
-    "content": "3a + 9b =  -12 "
+    "content": "\"[Pbeg]frac[Plbb][Plsb]cc[Prsb][Plbb][var4][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var3][Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "3g + 9y =  -12 "
+    "content": "\"[Plbb]6[Prbb][Pexp][Plbb]4[Prbb] \""
 },{
-    "content": "3g + 9p =  -12 "
+    "content": "\"[Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Plbb]4[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3g + 9b =  -12 "
+    "content": "\"[Pbeg]sin[Plbb]8[Prbb] \""
 },{
-    "content": "3g + 9u =  -12 "
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Pmin][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "x=y "
+    "content": "\"[Plbb][Plbb]3[Prbb][Pexp][Plbb]7[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p=y "
+    "content": "\"[Plbb]8[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p=p "
+    "content": "\"[Plsb]5[Pmin][Plsb]8[Pplu][Plbb][var2][Prbb][Prsb][Prsb][Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "a=y "
+    "content": "\"[Pbeg]cos[Plbb]9[Pplu][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a=p "
+    "content": "\"[Plbb]7[Prbb][Pexp][Plbb]3[Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a=b "
+    "content": "\"[Pbeg]sin[Plbb]4[Plsb]1[Pplu]7[Prsb][Prbb] \""
 },{
-    "content": "g=y "
+    "content": "\"[Pbeg]log[Psub][Plbb]2[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plsb]kz[Prsb][Pplu][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "g=p "
+    "content": "\"[Plbb][var1][Prbb][Plsb]93[Prsb] \""
 },{
-    "content": "g=b "
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]sin[Plbb]0[Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "g=u "
+    "content": "\"[Plbb][var1][Prbb][Pmin][Plsb][Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]7[Prbb]5[Prbb][Prsb] \""
 },{
-    "content": "w =z "
+    "content": "\"2[Pbeg]log[Psub][Plbb]4[Prbb][Plsb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "a=b+c "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb]0[Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "2x=-y "
+    "content": "\"[Plsb]1[Pplu]0[Prsb][Plsb][Pbeg]tan[Plbb]3[Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "2p=-y "
+    "content": "\"0[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]8[Prbb][Prbb][Pexp][Plbb][Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2p=-p "
+    "content": "\"[Plbb][var2][Prbb][Pplu][Plbb]4[Pplu][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a=-y "
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a=-p "
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb]7[Prbb][Pplu][Plbb]9[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a=-b "
+    "content": "\"[Pbeg]log[Psub][Plbb]4[Pplu][Plsb]2[Plbb][var2][Prbb][Prsb][Prbb][Plsb][Plbb][var1][Prbb][Pplu][Plbb][var3][Prbb][Prsb] \""
 },{
-    "content": "2g=-y "
+    "content": "\"3[Pmin][Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "2g=-p "
+    "content": "\"[Plbb][Plbb]5[Prbb][Pexp][Plbb]1[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g=-b "
+    "content": "\"[Pbeg]log[Psub][Plbb]3[Prbb]0 \""
 },{
-    "content": "2g=-u "
+    "content": "\"3[Plbb][var1][Prbb] \""
 },{
-    "content": "3w=\\frac{1}{2}z    "
+    "content": "\"[Plbb]0[Prbb][Pexp][Plbb]2[Pplu][Pbeg]log[Psub][Plbb]7[Prbb][Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Pbeg]log[Psub][Plbb]1[Prbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "a=b "
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "-4 + 5x=2+y "
+    "content": "\"7[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "-4 + 5p=2+y "
+    "content": "\"[Plbb][var2][Prbb][Pmin][Pbeg]log[Psub][Plbb]0[Prbb][Plbb]1[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "-4 + 5p=2+p "
+    "content": "\"8[Pmin]1 \""
 },{
-    "content": "-4 + 5a=2+y "
+    "content": "\"[Plsb]6[Plbb][var1][Prbb][Prsb][Plsb]pw[Prsb] \""
 },{
-    "content": "-4 + 5a=2+p "
+    "content": "\"[Plbb][Pbeg]log[Psub][Plbb][Plbb][var4][Prbb][Prbb][Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Pexp][Plbb][Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "-4 + 5a=2+b "
+    "content": "\"3[Plsb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "-4 + 5g=2+y "
+    "content": "\"[Pbeg]cos[Plbb]7[Prbb] \""
 },{
-    "content": "-4 + 5g=2+p "
+    "content": "\"9[Pmin][Plsb]3[Pmin][Pbeg]log[Psub][Plbb]4[Prbb][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "-4 + 5g=2+b "
+    "content": "\"7[Pmin][Plsb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "-4 + 5g=2+u "
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "w+2=-1+w "
+    "content": "\"[Pbeg]frac[Plbb]6[Prbb][Plbb]9[Prbb] \""
 },{
-    "content": "ab=cb "
+    "content": "\"[Pbeg]log[Psub][Plbb]0[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "2x - 5y =  8 "
+    "content": "\"[Pbeg]frac[Plbb]8[Prbb][Plbb][Plsb][Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]6[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prsb][Pplu]5[Prbb] \""
 },{
-    "content": "2p - 5y =  8 "
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2p - 5p =  8 "
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2a - 5y =  8 "
+    "content": "\"[Pbeg]cos[Plbb]4[Prbb] \""
 },{
-    "content": "2a - 5p =  8 "
+    "content": "\"[Plsb]1[Pmin][Plbb][var2][Prbb][Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "2a - 5b =  8 "
+    "content": "\"[Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]6[Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g - 5y =  8 "
+    "content": "\"9[Plbb][var1][Prbb] \""
 },{
-    "content": "2g - 5p =  8 "
+    "content": "\"[Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb]2[Prbb][Pexp][Plbb]4[Prbb][Prbb] \""
 },{
-    "content": "2g - 5b =  8 "
+    "content": "\"[Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "2g - 5u =  8 "
+    "content": "\"[Plbb]5[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3x^2 + 9y =  3a + c "
+    "content": "\"[Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3p^2 + 9y =  3a + c "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][Plbb][var3][Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Pplu][Plsb][Pbeg]cos[Plbb]5[Prbb][Prsb][Prbb] \""
 },{
-    "content": "3p^2 + 9p =  3a + c "
+    "content": "\"0[Pmin]9 \""
 },{
-    "content": "3a^2 + 9y =  3a + c "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb]8[Prbb] \""
 },{
-    "content": "3a^2 + 9p =  3a + c "
+    "content": "\"[Plsb][Plsb][Pbeg]sqrt[Plbb]8[Prbb][Prsb][Pplu][Plsb]0[Pmin][Plbb][var2][Prbb][Prsb][Prsb][Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "3a^2 + 9b =  3a + c "
+    "content": "\"[Pbeg]frac[Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]4[Pplu]8[Prbb][Prbb][Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "3g^2 + 9y =  3a + c "
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb] \""
 },{
-    "content": "3g^2 + 9p =  3a + c "
+    "content": "\"4[Pplu][Plbb]1[Prbb][Pexp][Plbb]2[Prbb] \""
 },{
-    "content": "3g^2 + 9b =  3a + c "
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prbb]6 \""
 },{
-    "content": "3g^2 + 9u =  3a + c "
+    "content": "\"9[Pplu][Pbeg]frac[Plbb][Pbeg]sqrt[Plbb]2[Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3ax+4by=5cz "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "3ap+4by=5cz "
+    "content": "\"[Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3ap+4bp=5cz "
+    "content": "\"[Pbeg]sin[Plbb]4[Prbb] \""
 },{
-    "content": "3aa+4by=5cz "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]2[Pplu][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3aa+4bp=5cz "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plsb][Pbeg]tan[Plbb]5[Prbb][Prsb]4[Prbb] \""
 },{
-    "content": "3aa+4bb=5cz "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb]8[Pplu]8[Prbb] \""
 },{
-    "content": "3ag+4by=5cz "
+    "content": "\"[Pbeg]cos[Plbb]2[Prbb] \""
 },{
-    "content": "3ag+4bp=5cz "
+    "content": "\"[Plbb]8[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb]5[Prbb][Prbb] \""
 },{
-    "content": "3ag+4bb=5cz "
+    "content": "\"[Plbb]4[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "3ag+4bu=5cz "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]8[Pmin][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a+b+c < 8 "
+    "content": "\"[Pbeg]tan[Plbb]1[Prbb] \""
 },{
-    "content": "x^2 < 2x + 9"
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb] \""
 },{
-    "content": "p^2 < 2p + 9"
+    "content": "\"[Pbeg]log[Psub][Plbb]0[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "a^2 < 2a + 9"
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "g^2 < 2g + 9"
+    "content": "\"6[Pmin][Plsb]st[Prsb] \""
 },{
-    "content": "x^3 + 5y + x^2 + 6 \\geq 0"
+    "content": "\"[Plbb][Pbeg]cos[Plbb][Plbb][var2][Prbb][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "p^3 + 5y + p^2 + 6 \\geq 0"
+    "content": "\"[Plbb]3[Prbb][Pexp][Plbb][Plbb]6[Prbb][Pexp][Plbb]0[Prbb][Prbb] \""
 },{
-    "content": "p^3 + 5p + p^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]tan[Plbb][Pbeg]tan[Plbb]1[Prbb][Prbb] \""
 },{
-    "content": "a^3 + 5y + a^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]sqrt[Plbb]9[Prbb] \""
 },{
-    "content": "a^3 + 5p + a^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a^3 + 5b + a^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]frac[Plbb]1[Prbb][Plbb][Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "g^3 + 5y + g^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb]4[Prbb][Prbb][Plsb][Plbb][var1][Prbb][Pplu][Pbeg]pi[Prsb] \""
 },{
-    "content": "g^3 + 5p + g^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plsb][Pbeg]cos[Plbb]4[Prbb][Prsb][Pplu][Pbeg]pi \""
 },{
-    "content": "g^3 + 5b + g^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]log[Psub][Plbb]1[Prbb][Pbeg]log[Psub][Plbb]2[Prbb][Pbeg]log[Psub][Plbb]1[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "g^3 + 5u + g^2 + 6 \\geq 0"
+    "content": "\"[Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "x^2y^5 + 7xy \\leq 0"
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb][Pbeg]tan[Plbb][Pbeg]pi[Prbb][Prbb][Plbb]02[Prbb][Prbb] \""
 },{
-    "content": "p^2y^5 + 7py \\leq 0"
+    "content": "\"2[Pmin][Plsb][Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb]rR[Prsb] \""
 },{
-    "content": "p^2p^5 + 7pp \\leq 0"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb]7[Prbb] \""
 },{
-    "content": "a^2y^5 + 7ay \\leq 0"
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a^2p^5 + 7ap \\leq 0"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]pi[Prbb] \""
 },{
-    "content": "a^2b^5 + 7ab \\leq 0"
+    "content": "\"[Pbeg]frac[Plbb]6[Prbb][Plbb][Pbeg]frac[Plbb]7[Prbb][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb]3[Pplu][Pbeg]pi[Prbb][Prbb][Prbb] \""
 },{
-    "content": "g^2y^5 + 7gy \\leq 0"
+    "content": "\"[Plsb]0[Pplu][Plbb][var2][Prbb][Prsb][Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "g^2p^5 + 7gp \\leq 0"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb]7[Plsb]6[Pplu][Plbb][var1][Prbb][Prsb][Prbb] \""
 },{
-    "content": "g^2b^5 + 7gb \\leq 0"
+    "content": "\"8[Pplu][Plsb]7[Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "g^2u^5 + 7gu \\leq 0"
+    "content": "\"1[Pmin][Plbb][var1][Prbb] \""
 },{
-    "content": "abx - c = y^2"
+    "content": "\"[Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "abp - c = y^2"
+    "content": "\"3[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "abp - c = p^2"
+    "content": "\"0[Plbb][var1][Prbb] \""
 },{
-    "content": "aba - c = y^2"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb]4[Prbb] \""
 },{
-    "content": "aba - c = p^2"
+    "content": "\"[Plbb][var1][Prbb][Plsb]4[Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "aba - c = b^2"
+    "content": "\"[Pbeg]frac[Plbb]2[Plbb][var1][Prbb][Prbb][Plbb]9[Pmin][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "abg - c = y^2"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "abg - c = p^2"
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]cos[Plbb]2[Prbb][Prbb] \""
 },{
-    "content": "abg - c = b^2"
+    "content": "\"[Plbb][Plbb]8[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Pmin][Pbeg]pi[Prbb][Pexp][Plbb][Plbb]7[Plbb][var1][Prbb][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb][var3][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "abg - c = u^2"
+    "content": "\"[Pbeg]frac[Plbb]0[Pplu][Plsb]0[Pmin]1[Prsb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "4a = \\frac{5}{2}"
+    "content": "\"[Pbeg]sqrt[Plbb]3[Prbb] \""
 },{
-    "content": "\\log_a b"
+    "content": "\"7[Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "\\log_{10} 100"
+    "content": "\"[Plsb][Plsb]78[Prsb][Pplu][Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb][Prsb][Plbb][var2][Prbb] \""
 },{
-    "content": "\\log_a 10 + \\log_b 10"
+    "content": "\"[Pbeg]log[Psub][Plbb]0[Prbb]1 \""
 },{
-    "content": "\\log_{10} a = \\log_{100} a^2"
+    "content": "\"[Plbb]6[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Pmin][Plbb][var2][Prbb] \""
 },{
-    "content": "x_1 + x_2 + x_3 = 5"
+    "content": "\"8[Pplu][Plsb][Plsb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Pmin][Plbb][var3][Prbb][Prbb][Prsb][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "p_1 + p_2 + p_3 = 5"
+    "content": "\"[Plsb][Pbeg]cos[Plbb][Pbeg]pi[Prbb][Prsb]7 \""
 },{
-    "content": "a_1 + a_2 + a_3 = 5"
+    "content": "\"[Plbb][var2][Prbb][Pplu][Plsb][Plbb][var3][Prbb][Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "g_1 + g_2 + g_3 = 5"
+    "content": "\"[Plbb][Pbeg]log[Psub][Plbb][Pbeg]sin[Plbb][Plbb][var2][Prbb][Prbb][Prbb][Plsb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prsb][Prbb][Pexp][Plbb]4[Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "a_1 + a_3 + a_5 = 7"
+    "content": "\"[Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a + b + c + d = x + y + z"
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "a + b + c + d = p + y + z"
+    "content": "\"5[Pplu][Plsb][Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var4][Prbb][Pmin][Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var3][Prbb][Prbb][Prsb] \""
 },{
-    "content": "a + b + c + d = p + p + z"
+    "content": "\"[Plbb]1[Prbb][Pexp][Plbb]08[Prbb] \""
 },{
-    "content": "a + b + c + d = a + y + z"
+    "content": "\"[Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb]5[Prbb][Pexp][Plbb]kx[Prbb][Prbb] \""
 },{
-    "content": "a + b + c + d = a + p + z"
+    "content": "\"[Plsb][Plbb][var1][Prbb][Pplu][Pbeg]frac[Plbb]3[Prbb][Plbb][Pbeg]log[Psub][Plbb]6[Prbb][Pbeg]log[Psub][Plbb]0[Prbb][Plbb][var3][Prbb][Prbb][Prsb][Pbeg]frac[Plbb]5[Prbb][Plbb][Pbeg]sin[Plbb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "a + b + c + d = a + b + z"
+    "content": "\"[Pbeg]tan[Plbb][Plsb]wn[Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb]6[Prbb][Prsb][Prbb] \""
 },{
-    "content": "a + b + c + d = g + y + z"
+    "content": "\"[Pbeg]log[Psub][Plbb]9[Prbb][Plbb][var2][Prbb][Pplu][Plsb]3[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "a + b + c + d = g + p + z"
+    "content": "\"[Pbeg]cos[Plbb]0[Pplu][Plsb]0[Pbeg]frac[Plbb]1[Prbb][Plbb]0[Prbb][Prsb][Prbb] \""
 },{
-    "content": "a + b + c + d = g + b + z"
+    "content": "\"0[Plbb][var1][Prbb] \""
 },{
-    "content": "a + b + c + d = g + u + z"
+    "content": "\"ac \""
 },{
-    "content": "a^b + \\log_{10} c"
+    "content": "\"[Plsb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prsb][Pmin][Plsb]7[Plbb][var3][Prbb][Prsb] \""
 },{
-    "content": "\\frac{\\sin(x)}{\\cos(x)} = \\tan(x)"
+    "content": "\"[Pbeg]log[Psub][Plbb]9[Prbb]0 \""
 },{
-    "content": "\\frac{\\sin(p)}{\\cos(p)} = \\tan(p)"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\frac{\\sin(a)}{\\cos(a)} = \\tan(a)"
+    "content": "\"[Pbeg]tan[Plbb]5[Prbb] \""
 },{
-    "content": "\\frac{\\sin(g)}{\\cos(g)} = \\tan(g)"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var4][Prbb][Pmin][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "\\frac{\\log_{a} b}{\\log_{b} a}"
+    "content": "\"[Plsb][Plbb][var1][Prbb][Pmin][Plbb][var3][Prbb][Prsb][Plsb]3[Pplu][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "\\sum_{n=1}^{100} n "
+    "content": "\"[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\sum_{n=0}^{50} 2^n "
+    "content": "\"1[Pplu]5 \""
 },{
-    "content": "\\sum_{k=1}^{n} k 2^{k-1}"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Pbeg]pi \""
 },{
-    "content": "\\sum_{k=15}^{83} 2n+1"
+    "content": "\"[Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][Pbeg]tan[Plbb][Plbb][var1][Prbb][Prbb][Prbb][Prbb][Pexp][Plbb][Pbeg]tan[Plbb][Plbb][var3][Prbb][Pplu][Plsb][Pbeg]sqrt[Plbb][Plbb][var2][Prbb][Prbb][Prsb][Prbb][Prbb] \""
 },{
-    "content": "R = q^{2} r^{2}"
+    "content": "\"[Pbeg]log[Psub][Plbb]0[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "F = G \\left( \\frac{m_1 m_2}{r^2} \\right)"
+    "content": "\"6[Pplu][Plsb]7[Pmin][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "A = \\frac{\\pi r^2}{2} "
+    "content": "\"[Pbeg]sqrt[Plbb]3[Prbb] \""
 },{
-    "content": "A = \\frac{1}{2} \\pi r^2 "
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb]6[Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\sin(a + b) = \\sin a \\cos b + \\cos b \\sin a "
+    "content": "\"[Pbeg]log[Psub][Plbb]7[Prbb][Plbb]2[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\cos(a + b) = \\cos a \\cos b - \\sin a \\sin b"
+    "content": "\"[Plbb][var1][Prbb][Plbb]1[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\sin(x + y) = \\sin x \\cos y + \\cos y \\sin x "
+    "content": "\"[Pbeg]tan[Plbb]7[Prbb] \""
 },{
-    "content": "\\sin(p + y) = \\sin p \\cos y + \\cos y \\sin p "
+    "content": "\"[Pbeg]sin[Plbb][Pbeg]log[Psub][Plbb]3[Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sin(p + p) = \\sin p \\cos p + \\cos p \\sin p "
+    "content": "\"[Plbb]3[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Plsb]3[Pmin][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plsb][Pbeg]tan[Plbb]4[Prbb][Prsb][Pmin]3[Prsb][Prsb] \""
 },{
-    "content": "\\sin(a + y) = \\sin a \\cos y + \\cos y \\sin a "
+    "content": "\"[Plbb]8[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]1[Prbb][Pbeg]frac[Plbb]1[Prbb][Plbb]1[Prbb][Prbb] \""
 },{
-    "content": "\\sin(a + p) = \\sin a \\cos p + \\cos p \\sin a "
+    "content": "\"[Plsb]78[Prsb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sin(a + b) = \\sin a \\cos b + \\cos b \\sin a "
+    "content": "\"[Plsb]6[Pplu][Plbb][var2][Prbb][Prsb][Pplu][Plbb][Plbb][var1][Prbb][Prbb][Pexp][Plbb][Plbb][var3][Prbb][Prbb] \""
 },{
-    "content": "\\sin(g + y) = \\sin g \\cos y + \\cos y \\sin g "
+    "content": "\"[Plsb]5[Plsb]3[Pplu][Plbb][var2][Prbb][Prsb][Prsb][Pplu][Plsb]0[Pmin][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\sin(g + p) = \\sin g \\cos p + \\cos p \\sin g "
+    "content": "\"[Pbeg]tan[Plbb]4[Prbb] \""
 },{
-    "content": "\\sin(g + b) = \\sin g \\cos b + \\cos b \\sin g "
+    "content": "\"[Plbb][var1][Prbb][Plbb]8[Prbb][Pexp][Plbb]2[Prbb] \""
 },{
-    "content": "\\sin(g + u) = \\sin g \\cos u + \\cos u \\sin g "
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\cos(x + y) = \\cos x \\cos y - \\sin x \\sin y"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var1][Prbb][Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\cos(p + y) = \\cos p \\cos y - \\sin p \\sin y"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\cos(p + p) = \\cos p \\cos p - \\sin p \\sin p"
+    "content": "\"[Pbeg]log[Psub][Plbb]6[Prbb]7 \""
 },{
-    "content": "\\cos(a + y) = \\cos a \\cos y - \\sin a \\sin y"
+    "content": "\"1[Plbb][var1][Prbb] \""
 },{
-    "content": "\\cos(a + p) = \\cos a \\cos p - \\sin a \\sin p"
+    "content": "\"[Plbb][var1][Prbb][Plsb][Plsb][Pbeg]sqrt[Plbb]7[Prbb][Prsb][Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "\\cos(a + b) = \\cos a \\cos b - \\sin a \\sin b"
+    "content": "\"sw \""
 },{
-    "content": "\\cos(g + y) = \\cos g \\cos y - \\sin g \\sin y"
+    "content": "\"[Pbeg]frac[Plbb]2[Pplu][Plbb][var1][Prbb][Prbb][Plbb][Pbeg]cos[Plbb][Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\cos(g + p) = \\cos g \\cos p - \\sin g \\sin p"
+    "content": "\"[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Plbb][Pbeg]cos[Plbb]1[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\cos(g + b) = \\cos g \\cos b - \\sin g \\sin b"
+    "content": "\"[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\cos(g + u) = \\cos g \\cos u - \\sin g \\sin u"
+    "content": "\"[Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb] \""
 },{
-    "content": "\\sin^2(x) + \\cos^2(x) = 1"
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sin^2(p) + \\cos^2(p) = 1"
+    "content": "\"[Plbb]8[Prbb][Pexp][Plbb]6[Pplu][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\sin^2(a) + \\cos^2(a) = 1"
+    "content": "\"8[Pplu][Plsb]8[Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\sin^2(g) + \\cos^2(g) = 1"
+    "content": "\"5[Plsb]9[Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\sin(2x) = 2 \\cos x \\sin x"
+    "content": "\"2[Pmin][Plsb]8[Plsb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Prbb][Prsb][Prsb] \""
 },{
-    "content": "\\sin(2p) = 2 \\cos p \\sin p"
+    "content": "\"[Plbb]5[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Pplu][Plsb]68[Prsb] \""
 },{
-    "content": "\\sin(2a) = 2 \\cos a \\sin a"
+    "content": "\"[Plsb]0[Plbb][var3][Prbb][Prsb][Pmin][Plsb][Plbb][var1][Prbb][Pmin][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "\\sin(2g) = 2 \\cos g \\sin g"
+    "content": "\"[Plbb][Plbb][var2][Prbb][Pmin][Plbb][var3][Prbb][Prbb][Pexp][Plbb][Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\sin(\\frac{\\pi}{3})"
+    "content": "\"[Plbb]4[Prbb][Pexp][Plbb][Plbb][Plbb][var1][Prbb][Pplu][Plsb]7[Pmin]4[Prsb][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\cos(\\frac{\\pi}{4}) + \\sin(\\pi)"
+    "content": "\"9[Plsb]39[Prsb] \""
 },{
-    "content": "\\int_{a}^{b} x^2 \\,dx "
+    "content": "\"[Pbeg]frac[Plbb]4[Plsb]1[Pmin][Plbb][var1][Prbb][Prsb][Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb][Plbb][var2][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\int_{a}^{b} p^2 \\,dp "
+    "content": "\"[Pbeg]sqrt[Plbb][Pbeg]log[Psub][Plbb]3[Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\int_{a}^{b} a^2 \\,da "
+    "content": "\"[Pbeg]frac[Plbb]5[Prbb][Plbb]2[Prbb][Plbb][Plbb]2[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Pplu][Plbb][var2][Prbb][Prbb][Pexp][Plbb]8[Pplu]8[Prbb] \""
 },{
-    "content": "\\int_{a}^{b} g^2 \\,dg "
+    "content": "\"9[Pmin]7 \""
 },{
-    "content": "\\int_{0}^{1} x^3 + x \\,dx"
+    "content": "\"[Pbeg]log[Psub][Plbb][Pbeg]log[Psub][Plbb]4[Prbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\int_{0}^{1} p^3 + p \\,dp"
+    "content": "\"6[Plsb][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb][Pmin][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\int_{0}^{1} a^3 + a \\,da"
+    "content": "\"[Plbb]4[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]6[Prbb][Plbb][Plbb][var2][Prbb][Prbb][Prbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\int_{0}^{1} g^3 + g \\,dg"
+    "content": "\"[Pbeg]cos[Plbb][Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb][Prbb] \""
 },{
-    "content": "\\int_{0}^{n} \\sin x \\,dx"
+    "content": "\"8[Pplu][Plsb][Plbb][var2][Prbb][Pplu][Plbb][var1][Prbb][Prsb] \""
 },{
-    "content": "\\int_{0}^{n} \\sin p \\,dp"
+    "content": "\"[Plbb][var1][Prbb][Pplu][Plsb]8[Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "\\int_{0}^{n} \\sin a \\,da"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Pbeg]frac[Plbb]3[Prbb][Plbb][Plbb][var2][Prbb][Prbb] \""
 },{
-    "content": "\\int_{0}^{n} \\sin g \\,dg"
+    "content": "\"[Pbeg]frac[Plbb]8[Prbb][Plbb]6[Prbb] \""
 },{
-    "content": "\\int_{1}^{n} \\frac{1}{y} \\,dy "
+    "content": "\"[Pbeg]frac[Plbb]1[Prbb][Plbb]3[Prbb] \""
 },{
-    "content": "\\int_{1}^{n} \\frac{1}{p} \\,dp "
+    "content": "\"[Pbeg]cos[Plbb][Plbb][var1][Prbb][Prbb] \""
 },{
-    "content": "\\int_{1}^{n} \\frac{1}{b} \\,db "
+    "content": "\"4[Pplu][Plsb][Plbb][var1][Prbb][Pplu][Plbb][var2][Prbb][Prsb] \""
 },{
-    "content": "\\int_{1}^{n} \\frac{1}{u} \\,du "
+    "content": "\"[Pbeg]log[Psub][Plbb]9[Prbb][Pbeg]pi \""
 },{
-    "content": "\\int_{a}^{b} y^3 + 5a \\,dy"
+    "content": "\"7[Pplu][Plsb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prsb] \""
 },{
-    "content": "\\int_{a}^{b} p^3 + 5a \\,dp"
+    "content": "\"[Pbeg]log[Psub][Plbb]8[Prbb][Plbb][var1][Prbb] \""
 },{
-    "content": "\\int_{a}^{b} b^3 + 5a \\,db"
+    "content": "\"[Pbeg]log[Psub][Plbb][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] \""
 },{
-    "content": "\\int_{a}^{b} u^3 + 5a \\,du"
+    "content": "\"[Pbeg]sqrt[Plbb]40[Prbb] \""
 },{
-    "content": "\\int_{2}^{50} y^2 + y \\,dx"
-},{
-    "content": "\\int_{2}^{50} y^2 + y \\,dp"
-},{
-    "content": "\\int_{2}^{50} p^2 + p \\,dp"
-},{
-    "content": "\\int_{2}^{50} y^2 + y \\,da"
-},{
-    "content": "\\int_{2}^{50} p^2 + p \\,da"
-},{
-    "content": "\\int_{2}^{50} b^2 + b \\,da"
-},{
-    "content": "\\int_{2}^{50} y^2 + y \\,dg"
-},{
-    "content": "\\int_{2}^{50} p^2 + p \\,dg"
-},{
-    "content": "\\int_{2}^{50} b^2 + b \\,dg"
-},{
-    "content": "\\int_{2}^{50} u^2 + u \\,dg"
-},{
-    "content": "\\int_{-n}^{1} a^3 + 2a^2 \\,dz"
-},{
-    "content": "\\int_{-10}^{0} b^2 + z \\,dz"
-},{
-    "content": "p=x^{2}+y^{2}"
-},{
-    "content": "p=p^{2}+y^{2}"
-},{
-    "content": "p=p^{2}+p^{2}"
-},{
-    "content": "p=a^{2}+y^{2}"
-},{
-    "content": "p=a^{2}+p^{2}"
-},{
-    "content": "p=a^{2}+b^{2}"
-},{
-    "content": "p=g^{2}+y^{2}"
-},{
-    "content": "p=g^{2}+p^{2}"
-},{
-    "content": "p=g^{2}+b^{2}"
-},{
-    "content": "p=g^{2}+u^{2}"
-},{
-    "content": "a^{p-1}\\equiv 1{\\pmod {p}}"
-},{
-    "content": "x = \\sqrt{c}"
-},{
-    "content": "p = \\sqrt{c}"
-},{
-    "content": "a = \\sqrt{c}"
-},{
-    "content": "g = \\sqrt{c}"
-},{
-    "content": "\\sin ^{2}\\theta +\\cos ^{2}\\theta =1"
-},{
-    "content": "\\sqrt{1 - \\cos^2 \\theta} = \\sin \\theta"
-},{
-    "content": "\\sqrt{1 - \\sin^2 \\theta} = \\cos \\theta"
-},{
-    "content": "\\sin(x+y)\\sin(x-y)=\\sin^{2}{x}-\\sin^{2}{y}"
-},{
-    "content": "\\sin(p+y)\\sin(p-y)=\\sin^{2}{p}-\\sin^{2}{y}"
-},{
-    "content": "\\sin(p+p)\\sin(p-p)=\\sin^{2}{p}-\\sin^{2}{p}"
-},{
-    "content": "\\sin(a+y)\\sin(a-y)=\\sin^{2}{a}-\\sin^{2}{y}"
-},{
-    "content": "\\sin(a+p)\\sin(a-p)=\\sin^{2}{a}-\\sin^{2}{p}"
-},{
-    "content": "\\sin(a+b)\\sin(a-b)=\\sin^{2}{a}-\\sin^{2}{b}"
-},{
-    "content": "\\sin(g+y)\\sin(g-y)=\\sin^{2}{g}-\\sin^{2}{y}"
-},{
-    "content": "\\sin(g+p)\\sin(g-p)=\\sin^{2}{g}-\\sin^{2}{p}"
-},{
-    "content": "\\sin(g+b)\\sin(g-b)=\\sin^{2}{g}-\\sin^{2}{b}"
-},{
-    "content": "\\sin(g+u)\\sin(g-u)=\\sin^{2}{g}-\\sin^{2}{u}"
-},{
-    "content": "\\sin(x+y)\\sin(x-y)=\\cos^{2}{y}-\\cos^{2}{x}"
-},{
-    "content": "\\sin(p+y)\\sin(p-y)=\\cos^{2}{y}-\\cos^{2}{p}"
-},{
-    "content": "\\sin(p+p)\\sin(p-p)=\\cos^{2}{p}-\\cos^{2}{p}"
-},{
-    "content": "\\sin(a+y)\\sin(a-y)=\\cos^{2}{y}-\\cos^{2}{a}"
-},{
-    "content": "\\sin(a+p)\\sin(a-p)=\\cos^{2}{p}-\\cos^{2}{a}"
-},{
-    "content": "\\sin(a+b)\\sin(a-b)=\\cos^{2}{b}-\\cos^{2}{a}"
-},{
-    "content": "\\sin(g+y)\\sin(g-y)=\\cos^{2}{y}-\\cos^{2}{g}"
-},{
-    "content": "\\sin(g+p)\\sin(g-p)=\\cos^{2}{p}-\\cos^{2}{g}"
-},{
-    "content": "\\sin(g+b)\\sin(g-b)=\\cos^{2}{b}-\\cos^{2}{g}"
-},{
-    "content": "\\sin(g+u)\\sin(g-u)=\\cos^{2}{u}-\\cos^{2}{g}"
-},{
-    "content": "a^{b+c}=a^{b}a^{c}"
-},{
-    "content": "(a+b)(c+d)=ac+ad+bc+bd"
-},{
-    "content": "(a+b)^2=a^2+2ab+b^2"
-},{
-    "content": "(a+b+c)^2=a^2+b^2+c^2+2ab+2bc+2ca"
-},{
-    "content": "(a-b)^2=a^2-2ab+b^2"
-},{
-    "content": "a^{2}-b^{2}=(a+b)(a-b)"
-},{
-    "content": "(a+b)^{3}=a^{3}+3a^{2}b+3ab^{2}+b^{3}"
-},{
-    "content": "(a-b)^{3}=a^{3}-3a^{2}b+3ab^{2}-b^{3}"
-},{
-    "content": "a^{3}+b^{3}=(a+b)^{3}-3ab(a+b)"
-},{
-    "content": "a^{4}+a^{2}b^{2}+b^{4}=(a^{2}+ab+b^{2})(a^{2}-ab+b^{2})"
-},{
-    "content": "a^{2}+b^{2}=(a+b)^{2}-2ab"
-},{
-    "content": "a^{2}+b^{2}=(a-b)^{2}+2ab"
-},{
-    "content": "a^{2}-b^{2}=\\left(a+b\\right)\\left(a-b\\right)"
-},{
-    "content": "a^4+a^2b^2+b^4 = (a^2+ab+b^2)(a^2-ab+b^2)"
-},{
-    "content": "a^3+b^3+c^3= (a+b+c)^3+3(a+b+c)(-ab-bc-ca)+3abc"
-},{
-    "content": "C=2\\pi r"
-},{
-    "content": "C=\\pi d"
-},{
-    "content": "A=\\pi r^{2}"
-},{
-    "content": "A=4\\pi r^{2}"
-},{
-    "content": "e^{{i\\pi }}+1=0"
-},{
-    "content": "e^{{i\\pi }} = -1"
-},{
-    "content": "T=2\\pi {\\sqrt {\\frac {L}{g}}}"
-},{
-    "content": "\\Delta H = m \\cdot s \\cdot \\Delta T"
-},{
-    "content": "a \\cdot b \\cdot c = d"
-},{
-    "content": "a \\cdot b = c \\cdot d"
-},{
-    "content": "x \\cdot y \\geq 1"
-},{
-    "content": "p \\cdot y \\geq 1"
-},{
-    "content": "p \\cdot p \\geq 1"
-},{
-    "content": "a \\cdot y \\geq 1"
-},{
-    "content": "a \\cdot p \\geq 1"
-},{
-    "content": "a \\cdot b \\geq 1"
-},{
-    "content": "g \\cdot y \\geq 1"
-},{
-    "content": "g \\cdot p \\geq 1"
-},{
-    "content": "g \\cdot b \\geq 1"
-},{
-    "content": "g \\cdot u \\geq 1"
-},{
-    "content": "xy \\geq 1"
-},{
-    "content": "py \\geq 1"
-},{
-    "content": "pp \\geq 1"
-},{
-    "content": "ay \\geq 1"
-},{
-    "content": "ap \\geq 1"
-},{
-    "content": "ab \\geq 1"
-},{
-    "content": "gy \\geq 1"
-},{
-    "content": "gp \\geq 1"
-},{
-    "content": "gb \\geq 1"
-},{
-    "content": "gu \\geq 1"
-},{
-    "content": "V =\\left (\\frac{4}{3} \\right ) \\pi r^3"
-},{
-    "content": "1 = \\frac{T^{2}}{R^{3}}"
-},{
-    "content": "e=\\frac{C^{2}}{GMm^{2}}"
-},{
-    "content": "2a - 5y = c "
-},{
-    "content": "2a - 5p = c "
-},{
-    "content": "2a - 5b = c "
-},{
-    "content": "2a - 5u = c "
-},{
-    "content": "3x = 12 + 6b + y "
-},{
-    "content": "3p = 12 + 6b + y "
-},{
-    "content": "3p = 12 + 6b + p "
-},{
-    "content": "3a = 12 + 6b + y "
-},{
-    "content": "3a = 12 + 6b + p "
-},{
-    "content": "3a = 12 + 6b + b "
-},{
-    "content": "3g = 12 + 6b + y "
-},{
-    "content": "3g = 12 + 6b + p "
-},{
-    "content": "3g = 12 + 6b + b "
-},{
-    "content": "3g = 12 + 6b + u "
-},{
-    "content": "a=b+c+d"
-},{
-    "content": "w=\\frac{\\pi}{2}t    "
-},{
-    "content": "p^h+q^g=h^u"
-},{
-    "content": "(a-b-c)^{2}"
-},{
-    "content": "(p-h-q)^{2}"
-},{
-    "content": "g^{2}+h^{2}+u^{2}-2gh-2gu+2uh"
-},{
-    "content": "a^{2}-b^{2}"
-},{
-    "content": "m^{2}-e^{2}"
-},{
-    "content": "(a+b)(a-b)"
-},{
-    "content": "(y+l)(y-l)"
-},{
-    "content": "(p+l)(p-l)"
-},{
-    "content": "(b+l)(b-l)"
-},{
-    "content": "(u+l)(u-l)"
-},{
-    "content": "(a+b)^{3}"
-},{
-    "content": "(l+f)^{3}"
-},{
-    "content": "x^{3}+3x^{2}f+3xf^{2}+f^{3}"
-},{
-    "content": "p^{3}+3p^{2}f+3pf^{2}+f^{3}"
-},{
-    "content": "a^{3}+3a^{2}f+3af^{2}+f^{3}"
-},{
-    "content": "g^{3}+3g^{2}f+3gf^{2}+f^{3}"
-},{
-    "content": "(a-b)^{3}"
-},{
-    "content": "(r-c)^{3}"
-},{
-    "content": "a^{3}-3a^{2}b+3ab^{2}-b^{3}"
-},{
-    "content": "s^{3}-3s^{2}c+3sc^{2}-c^{3}"
-},{
-    "content": "a^{3}+b^{3}"
-},{
-    "content": "g^{3}+g^{3}"
-},{
-    "content": "(a+b)^{3}-3ab(a+b)"
-},{
-    "content": "(w+k)^{3}-3wk(w+k)"
-},{
-    "content": "a^{3}-b^{3}"
-},{
-    "content": "n^{3}-q^{3}"
-},{
-    "content": "(a-b)^{3}+3ab(a-b) "
-},{
-    "content": "(u-x)^{3}+3ux(u-x)"
-},{
-    "content": "(u-p)^{3}+3up(u-p)"
-},{
-    "content": "(u-a)^{3}+3ua(u-a)"
-},{
-    "content": "(u-g)^{3}+3ug(u-g)"
-},{
-    "content": "a^{3}+b^{3}+c^{3}-3abc"
-},{
-    "content": "f^{3}+n^{3}+f^{3}-3fnf"
-},{
-    "content": "a+b+c"
-},{
-    "content": "a^{2}+b^{2}+c^{2}-ab-bc-ca"
-},{
-    "content": "o+z+v"
-},{
-    "content": "o^{2}+z^{2}+v^{2}-oz-zv-vo"
-},{
-    "content": "a^{4}+a^{2}b^{2}+b^{4}"
-},{
-    "content": "s^{4}+s^{2}r^{2}+r^{4}"
-},{
-    "content": "(a^{2}+ab+b^{2})(a^{2}-ab+b^{2})"
-},{
-    "content": "(k^{2}+kj+j^{2})(k^{2}-kj+j^{2})"
-},{
-    "content": "a^{2}+b^{2}"
-},{
-    "content": "r^{2}+e^{2}"
-},{
-    "content": "(a+b)^{2}-2ab"
-},{
-    "content": "a^{2}+b^{2}"
-},{
-    "content": "r^{2}+p^{2}"
-},{
-    "content": "(a-b)^{2}+2ab"
-},{
-    "content": "(r-v)^{2}+2rv"
-},{
-    "content": "(a+b+c)^{3}"
-},{
-    "content": "(s+t+m)^{3}"
-},{
-    "content": "a^{3}+b^{3}+c^{3}+3(a+b)(b+c)(a+c)"
-},{
-    "content": "w^{3}+c^{3}+y^{3}+3(w+c)(c+y)(w+y)"
-},{
-    "content": "w^{3}+c^{3}+p^{3}+3(w+c)(c+p)(w+p)"
-},{
-    "content": "w^{3}+c^{3}+b^{3}+3(w+c)(c+b)(w+b)"
-},{
-    "content": "w^{3}+c^{3}+u^{3}+3(w+c)(c+u)(w+u)"
-},{
-    "content": "(a+b+c)^2"
-},{
-    "content": "(s+y+y)^2"
-},{
-    "content": "(s+p+p)^2"
-},{
-    "content": "(s+b+b)^2"
-},{
-    "content": "(s+u+u)^2"
-},{
-    "content": "k^{4}+k^{2}k^{2}+k^{4}"
-},{
-    "content": "s^{4}+s^{2}r^{2}+r^{4}"
-},{
-    "content": "(s^{2}+sr+r^{2})(s^{2}-sr+r^{2})"
-},{
-    "content": "(k^{2}+kj+j^{2})(k^{2}-kj+j^{2})"
-},{
-    "content": "y^{2}+c^{2}"
-},{
-    "content": "p^{2}+c^{2}"
-},{
-    "content": "b^{2}+c^{2}"
-},{
-    "content": "u^{2}+c^{2}"
-},{
-    "content": "r^{2}+e^{2}"
-},{
-    "content": "(l+s)^{2}-2ls"
-},{
-    "content": "(g+g)^{2}-2gg"
-},{
-    "content": "f^{2}+a^{2}"
-},{
-    "content": "r^{2}+p^{2}"
-},{
-    "content": "(e-f)^{2}+2ef"
-},{
-    "content": "(r-v)^{2}+2rv"
-},{
-    "content": "(o+e+j)^{3}"
-},{
-    "content": "(s+t+m)^{3}"
-},{
-    "content": "v^{3}+a^{3}+b^{3}+3(v+a)(a+b)(v+b)"
-},{
-    "content": "(p+o+e)^2"
-},{
-    "content": "(s+y+y)^2"
-},{
-    "content": "(s+p+p)^2"
-},{
-    "content": "(s+b+b)^2"
-},{
-    "content": "(s+u+u)^2"
-},{
-    "content": "\\sin A=\\frac{a}{c}"
-},{
-    "content": "\\cos A=\\frac{b}{c}"
-},{
-    "content": "\\tan A=\\frac{a}{b} "
-},{
-    "content": "c^2=a^2+b^2-2ab\\cos C"
-},{
-    "content": "\\cos^2 A - \\sin^2 A"
-},{
-    "content": "2 \\cos^2 A - 1"
-},{
-    "content": "1 - 2 \\sin^2 A"
-},{
-    "content": "\\pm\\, \\sqrt{\\frac{1 - \\cos A}{2}}"
-},{
-    "content": "\\pm\\, \\sqrt{\\frac{1 + \\cos A}{2}}"
-},{
-    "content": "\\sqrt{x^3+1}"
-},{
-    "content": "\\sqrt{p^3+1}"
-},{
-    "content": "\\sqrt{a^3+1}"
-},{
-    "content": "\\sqrt{g^3+1}"
-},{
-    "content": "\\sqrt{3}{\\sqrt{x^4+6}}"
-},{
-    "content": "\\sqrt{3}{\\sqrt{p^4+6}}"
-},{
-    "content": "\\sqrt{3}{\\sqrt{a^4+6}}"
-},{
-    "content": "\\sqrt{3}{\\sqrt{g^4+6}}"
-},{
-    "content": "\\sqrt{x+x^5+3}"
-},{
-    "content": "\\sqrt{p+p^5+3}"
-},{
-    "content": "\\sqrt{a+a^5+3}"
-},{
-    "content": "\\sqrt{g+g^5+3}"
-},{
-    "content": "\\sqrt{4}{a^3b^2+a^2}"
-},{
-    "content": "\\sqrt{3}{x^2y^4z^6}"
-},{
-    "content": "\\sqrt{3}{p^2y^4z^6}"
-},{
-    "content": "\\sqrt{3}{p^2p^4z^6}"
-},{
-    "content": "\\sqrt{3}{a^2y^4z^6}"
-},{
-    "content": "\\sqrt{3}{a^2p^4z^6}"
-},{
-    "content": "\\sqrt{3}{a^2b^4z^6}"
-},{
-    "content": "\\sqrt{3}{g^2y^4z^6}"
-},{
-    "content": "\\sqrt{3}{g^2p^4z^6}"
-},{
-    "content": "\\sqrt{3}{g^2b^4z^6}"
-},{
-    "content": "\\sqrt{3}{g^2u^4z^6}"
-},{
-    "content": "\\sqrt{a^3+b^3+c^3}"
-},{
-    "content": "\\sqrt{(a+b+c)^{3}}"
-},{
-    "content": "\\sqrt{3}{\\sin(\\frac{\\pi}{3})}"
-},{
-    "content": "\\sqrt{ax^{2}+bx+c}"
-},{
-    "content": "\\sqrt{ap^{2}+bp+c}"
-},{
-    "content": "\\sqrt{aa^{2}+ba+c}"
-},{
-    "content": "\\sqrt{ag^{2}+bg+c}"
-},{
-    "content": "\\sqrt{3}{z^{2}+q}"
-},{
-    "content": "\\sqrt{5}{x_1+x_2+x_3}"
-},{
-    "content": "\\sqrt{5}{p_1+p_2+p_3}"
-},{
-    "content": "\\sqrt{5}{a_1+a_2+a_3}"
-},{
-    "content": "\\sqrt{5}{g_1+g_2+g_3}"
-},{
-    "content": "\\sin{x} + y"
-},{
-    "content": "\\sin{p} + y"
-},{
-    "content": "\\sin{p} + p"
-},{
-    "content": "\\sin{a} + y"
-},{
-    "content": "\\sin{a} + p"
-},{
-    "content": "\\sin{a} + b"
-},{
-    "content": "\\sin{g} + y"
-},{
-    "content": "\\sin{g} + p"
-},{
-    "content": "\\sin{g} + b"
-},{
-    "content": "\\sin{g} + u"
-},{
-    "content": "\\cos{x} + y"
-},{
-    "content": "\\cos{p} + y"
-},{
-    "content": "\\cos{p} + p"
-},{
-    "content": "\\cos{a} + y"
-},{
-    "content": "\\cos{a} + p"
-},{
-    "content": "\\cos{a} + b"
-},{
-    "content": "\\cos{g} + y"
-},{
-    "content": "\\cos{g} + p"
-},{
-    "content": "\\cos{g} + b"
-},{
-    "content": "\\cos{g} + u"
-},{
-    "content": "\\sin{a} + c"
-},{
-    "content": "\\cos{b} + d"
-},{
-    "content": "\\sin^3{x} + cos^2{y}"
-},{
-    "content": "\\sin^3{p} + cos^2{y}"
-},{
-    "content": "\\sin^3{p} + cos^2{p}"
-},{
-    "content": "\\sin^3{a} + cos^2{y}"
-},{
-    "content": "\\sin^3{a} + cos^2{p}"
-},{
-    "content": "\\sin^3{a} + cos^2{b}"
-},{
-    "content": "\\sin^3{g} + cos^2{y}"
-},{
-    "content": "\\sin^3{g} + cos^2{p}"
-},{
-    "content": "\\sin^3{g} + cos^2{b}"
-},{
-    "content": "\\sin^3{g} + cos^2{u}"
-},{
-    "content": "x \\rightarrow \\infty"
-},{
-    "content": "p \\rightarrow \\infty"
-},{
-    "content": "p \\rightarrow \\inftp"
-},{
-    "content": "a \\rightarrow \\infty"
-},{
-    "content": "a \\rightarrow \\inftp"
-},{
-    "content": "a \\rightarrow \\inftb"
-},{
-    "content": "g \\rightarrow \\infty"
-},{
-    "content": "g \\rightarrow \\inftp"
-},{
-    "content": "g \\rightarrow \\inftb"
-},{
-    "content": "g \\rightarrow \\inftu"
-},{
-    "content": "x \\rightarrow 1"
-},{
-    "content": "p \\rightarrow 1"
-},{
-    "content": "a \\rightarrow 1"
-},{
-    "content": "g \\rightarrow 1"
-},{
-    "content": "x \\rightarrow 0"
-},{
-    "content": "p \\rightarrow 0"
-},{
-    "content": "a \\rightarrow 0"
-},{
-    "content": "g \\rightarrow 0"
-},{
-    "content": "a \\rightarrow 100"
-},{
-    "content": "b \\rightarrow -1"
-},{
-    "content": "c \\rightarrow -\\infty"
-},{
-    "content": "c \\rightarrow -\\inftp"
-},{
-    "content": "c \\rightarrow -\\inftb"
-},{
-    "content": "c \\rightarrow -\\inftu"
-},{
-    "content": "y \\rightarrow 23"
-},{
-    "content": "p \\rightarrow 23"
-},{
-    "content": "b \\rightarrow 23"
-},{
-    "content": "u \\rightarrow 23"
-},{
-    "content": "a \\rightarrow \\infty"
-},{
-    "content": "a \\rightarrow \\inftp"
-},{
-    "content": "a \\rightarrow \\inftb"
-},{
-    "content": "a \\rightarrow \\inftu"
-},{
-    "content": "c \\rightarrow -7"
-},{
-    "content": "z \\rightarrow -\\infty"
-},{
-    "content": "z \\rightarrow -\\inftp"
-},{
-    "content": "z \\rightarrow -\\inftb"
-},{
-    "content": "z \\rightarrow -\\inftu"
-},{
-    "content": "orz"
-},{
-    "content": "\\forall n = 0"
-},{
-    "content": "\\forall n > 0"
-},{
-    "content": "\\forall n \\leq 1"
-},{
-    "content": "\\forall x = 1"
-},{
-    "content": "\\forall p = 1"
-},{
-    "content": "\\forall a = 1"
-},{
-    "content": "\\forall g = 1"
-},{
-    "content": "\\forall xy \\geq 0"
-},{
-    "content": "\\forall py \\geq 0"
-},{
-    "content": "\\forall pp \\geq 0"
-},{
-    "content": "\\forall ay \\geq 0"
-},{
-    "content": "\\forall ap \\geq 0"
-},{
-    "content": "\\forall ab \\geq 0"
-},{
-    "content": "\\forall gy \\geq 0"
-},{
-    "content": "\\forall gp \\geq 0"
-},{
-    "content": "\\forall gb \\geq 0"
-},{
-    "content": "\\forall gu \\geq 0"
-},{
-    "content": "6 \\div 2 = 3"
-},{
-    "content": "120 \\div 5 = 24"
-},{
-    "content": "33 \\div 11 = 3"
-},{
-    "content": "41 \\div 18467 = 6334"
-},{
-    "content": "26500 \\div 19169 = 15724"
-},{
-    "content": "11478 \\div 29358 = 26962"
-},{
-    "content": "24464 \\div 5705 = 28145"
-},{
-    "content": "23281 \\div 16827 = 9961"
-},{
-    "content": "491 \\div 2995 = 11942"
-},{
-    "content": "4827 \\div 5436 = 32391"
-},{
-    "content": "14604 \\div 3902 = 153"
-},{
-    "content": "292 \\div 12382 = 17421"
-},{
-    "content": "18716 \\div 19718 = 19895"
-},{
-    "content": "5447 \\div 21726 = 14771"
-},{
-    "content": "11538 \\div 1869 = 19912"
-},{
-    "content": "25667 \\div 26299 = 17035"
-},{
-    "content": "9894 \\div 28703 = 23811"
-},{
-    "content": "31322 \\div 30333 = 17673"
-},{
-    "content": "4664 \\div 15141 = 7711"
-},{
-    "content": "p \\div h = q"
-},{
-    "content": "g \\div h = u"
-},{
-    "content": "m \\div e = a"
-},{
-    "content": "y \\div l = n"
-},{
-    "content": "p \\div l = n"
-},{
-    "content": "b \\div l = n"
-},{
-    "content": "u \\div l = n"
-},{
-    "content": "N \\div q = D"
-},{
-    "content": "U \\div x = W"
-},{
-    "content": "U \\div p = W"
-},{
-    "content": "U \\div a = W"
-},{
-    "content": "U \\div g = W"
-},{
-    "content": "F \\div n = F"
-},{
-    "content": "O \\div z = V"
-},{
-    "content": "S \\div r = T"
-},{
-    "content": "w \\div k = F"
-},{
-    "content": "n \\div q = D"
-},{
-    "content": "u \\div x = W"
-},{
-    "content": "u \\div p = W"
-},{
-    "content": "u \\div a = W"
-},{
-    "content": "u \\div g = W"
-},{
-    "content": "f \\div n = F"
-},{
-    "content": "30+6+11=36+11"
-},{
-    "content": "(5-5)\\div 5=0"
-},{
-    "content": "6\\times 6+25\\div 5=36+5"
-},{
-    "content": "30\\div 5\\times 2= 12"
-},{
-    "content": "1+1=2"
-},{
-    "content": "2+3=5"
-},{
-    "content": "5+4+2=11"
-},{
-    "content": "3+3+3+3=12"
-},{
-    "content": "3{1 \\over 2}=3+{1 \\over 2}"
-},{
-    "content": "\\sum _{k=1}^{5}k^{2}"
-},{
-    "content": "x=a\\times 10^{n}"
-},{
-    "content": "p=a\\times 10^{n}"
-},{
-    "content": "a=a\\times 10^{n}"
-},{
-    "content": "g=a\\times 10^{n}"
-},{
-    "content": "2.34\\times 10^{-5}"
-},{
-    "content": "\\frac {a}{b}+\\frac {c}{d}"
-},{
-    "content": "ad+bc \\over bd"
-},{
-    "content": "{a+b \\over c}={\\frac {a}{c}}+{\\frac {b}{c}}"
-},{
-    "content": "{{5}-{3}}=2"
-},{
-    "content": "6-3=3"
-},{
-    "content": "5\\times 2"
-},{
-    "content": "5\\cdot 2"
-},{
-    "content": "mn=\\sum _{k=1}^{n}m"
-},{
-    "content": "{20}\\div {4}=5"
-},{
-    "content": "{20}\\div {5}=4"
-},{
-    "content": "{6}\\div {3}=2"
-},{
-    "content": "a\\times b=c"
-},{
-    "content": "a=c\\div b"
-},{
-    "content": "a \\times b"
-},{
-    "content": "c\\div b=a\\dots d"
-},{
-    "content": "c=a\\times b+d"
-},{
-    "content": "c=a\\times(b+d)"
-},{
-    "content": "b\\mid a"
-},{
-    "content": "5\\mid 15"
-},{
-    "content": "6\\nmid 20"
-},{
-    "content": "1260257\\div {37}=34061"
-},{
-    "content": "X^{3}-12X^{2}-42"
-},{
-    "content": "X^{2}-9X-27 = -123"
-},{
-    "content": "i^2 = -1"
-},{
-    "content": "a{\\frac {b}{c}}"
-},{
-    "content": "\\frac {3}{6}= \\frac {1}{2}"
-},{
-    "content": "\\frac {1}{2}= \\frac {2}{4}"
-},{
-    "content": "\\frac {a}{b} = a:b"
-},{
-    "content": "\\frac {a}{b}\\equiv a\\div b"
-},{
-    "content": "b\\in \\mathbb {Z}"
-},{
-    "content": "K\\in \\mathbb {A}"
-},{
-    "content": "x\\in \\mathbb {S}"
-},{
-    "content": "p\\in \\mathbb {S}"
-},{
-    "content": "a\\in \\mathbb {S}"
-},{
-    "content": "g\\in \\mathbb {S}"
-},{
-    "content": "a \\not = b"
-},{
-    "content": "a+b \\not = b+c"
-},{
-    "content": "x^2 + 3x + 2 \\not = 0"
-},{
-    "content": "p^2 + 3p + 2 \\not = 0"
-},{
-    "content": "a^2 + 3a + 2 \\not = 0"
-},{
-    "content": "g^2 + 3g + 2 \\not = 0"
-},{
-    "content": "x^3y + y^2 \\not = -1"
-},{
-    "content": "p^3y + y^2 \\not = -1"
-},{
-    "content": "p^3p + p^2 \\not = -1"
-},{
-    "content": "a^3y + y^2 \\not = -1"
-},{
-    "content": "a^3p + p^2 \\not = -1"
-},{
-    "content": "a^3b + b^2 \\not = -1"
-},{
-    "content": "g^3y + y^2 \\not = -1"
-},{
-    "content": "g^3p + p^2 \\not = -1"
-},{
-    "content": "g^3b + b^2 \\not = -1"
-},{
-    "content": "g^3u + u^2 \\not = -1"
-},{
-    "content": "a^3 + bc \\not = d^2"
-},{
-    "content": "a^3 + 1 \\not = 0"
-},{
-    "content": "h^k + t \\not = r"
-},{
-    "content": "r + s + t + w \\not = a^b"
-},{
-    "content": "a^b \\not = \\frac{a}{a+b}"
-},{
-    "content": "\\frac{1}{x} \\not = \\frac{1}{x^2}"
-},{
-    "content": "\\frac{1}{p} \\not = \\frac{1}{p^2}"
-},{
-    "content": "\\frac{1}{a} \\not = \\frac{1}{a^2}"
-},{
-    "content": "\\frac{1}{g} \\not = \\frac{1}{g^2}"
-},{
-    "content": "a\\times b \\not = c"
-},{
-    "content": "a \\not = c\\div b"
-},{
-    "content": "ad \\le bc"
-},{
-    "content": "ad \\ge bc"
-},{
-    "content": "x<y"
-},{
-    "content": "p<y"
-},{
-    "content": "p<p"
-},{
-    "content": "a<y"
-},{
-    "content": "a<p"
-},{
-    "content": "a<b"
-},{
-    "content": "g<y"
-},{
-    "content": "g<p"
-},{
-    "content": "g<b"
-},{
-    "content": "g<u"
-},{
-    "content": "x\\leq y"
-},{
-    "content": "p\\leq y"
-},{
-    "content": "p\\leq p"
-},{
-    "content": "a\\leq y"
-},{
-    "content": "a\\leq p"
-},{
-    "content": "a\\leq b"
-},{
-    "content": "g\\leq y"
-},{
-    "content": "g\\leq p"
-},{
-    "content": "g\\leq b"
-},{
-    "content": "g\\leq u"
-},{
-    "content": "y\\nleq x = y > x"
-},{
-    "content": "y\\nleq p = y > p"
-},{
-    "content": "p\\nleq p = p > p"
-},{
-    "content": "y\\nleq a = y > a"
-},{
-    "content": "p\\nleq a = p > a"
-},{
-    "content": "b\\nleq a = b > a"
-},{
-    "content": "y\\nleq g = y > g"
-},{
-    "content": "p\\nleq g = p > g"
-},{
-    "content": "b\\nleq g = b > g"
-},{
-    "content": "u\\nleq g = u > g"
+    "content": "\"[Plbb]3[Prbb][Pexp][Plbb][Plbb][var1][Prbb][Prbb] \""
 }]
