@@ -14,7 +14,7 @@ with open(filedir,'r',encoding = 'utf-8') as f:
         if(len(pairdata)!=2):
             continue
         pairdata[1] = pairdata[1].strip('\n')
-        process = [ReplaceVariable(ReplacePunctuation(WrapLatexVar(pairdata[0]))),ReplaceVariableDes(WrapLatexVar(pairdata[1])).replace('{','').replace('}','').replace(' ','[Pspa]')]
+        process = [ReplaceVariable(ReplacePunctuation(pairdata[0])),ReplaceVariableDes(WrapLatexVar(pairdata[1])).replace('{','').replace('}','').replace(' ','[Pspa]')]
         with open(resultfile,'a') as res:
             print(process[0],"||,||",process[1],end='\n',file=res)
 
