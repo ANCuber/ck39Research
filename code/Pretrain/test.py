@@ -16,7 +16,8 @@ examples = [
   "the weather today is very [MASK].",
   "今天天氣真[MASK]。",
   "根號[MASK]。",
-  "[var1][MASK]之[var2]"
+  "[MASK]號1",
+  "有[MASK]數有稠密性"
 ]
 for example in examples:
   print(example)
