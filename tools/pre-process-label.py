@@ -1,3 +1,4 @@
+# -- coding:utf-8 --
 from processing_func import *
 
 filedir = input("input the location of file you want to pre-process:")
