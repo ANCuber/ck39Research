@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# -- coding:utf-8 --
+
+# -*- coding:utf-8 -*-
 from processing_func import *
 
 filedir = input("input the location of file you want to pre-process:")
@@ -18,6 +18,6 @@ with open(filedir,'r',encoding = 'utf-8') as f:
         pairdata[1] = pairdata[1].strip('\n')
         process = [ReplaceVariable(ReplacePunctuation(pairdata[0])),ReplaceVariableDes(WrapLatexVar(pairdata[1])).replace('{','').replace('}','').replace(' ','[Pspa]')]
         with open(resultfile,'a') as res:
-            print(process[0],"||,||",process[1],end='\n',file=res)
+            print(process[0],"||,||",process[1],end ='\n',file=res)
 
         
