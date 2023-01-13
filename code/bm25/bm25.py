@@ -1,3 +1,4 @@
+#!pip3 install rank_bm25
 from transformers import AutoTokenizer
 
 tokenizer = AutoTokenizer.from_pretrained("/home/12518research/ck39Research/code/Pretrain/model")

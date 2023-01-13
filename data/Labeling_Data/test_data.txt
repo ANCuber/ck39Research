@@ -1,339 +1,339 @@
 target ||,|| retrieved
-[Plbb]3[Prbb][Pexp][Plbb][var1][Prbb][Pmin][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb] ||,|| 3ªº[var1]¦¸¤è´îsin[Pspa]6
-[Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Pbeg]sin[Plbb]8[Prbb][Prsb] ||,|| sin[Pspa]8¥H8¬°©³ªº¹ï¼Æ­È
-1[Pmin][var1] ||,|| 1´î[var1]
-3[Pmin][var1] ||,|| 3´î[var1]
-[Pbeg]log[Psub][Plbb]4[Pmin]2[Prbb][Plsb][var1][Pmin][var2][Prsb] ||,|| [var1]´î[var2]¥H4´î2¬°©³ªº¹ï¼Æ
-[Plbb]3[Pplu][Plsb]6[Pmin][var1][Prsb][Prbb][Pexp][Plbb][var2][Prbb] ||,|| 3¥[¬A¸¹6-[var1]¬A¸¹ªº[var2]¦¸¤è
-[Pbeg]sin[Plbb][Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]8[Pplu][var1][Prbb][Pbeg]pi[Prbb][Prbb] ||,|| sin[Pspa]6ªºpi¥H8¥[[var1]¬°©³ªº¹ï¼Æ­È¦¸¤è
-[Pbeg]sqrt[Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb] ||,|| ®Ú¸¹cos[Pspa][var1]
-[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]5[Pmin][Pbeg]frac[Plbb][var3][Prbb][Plbb]7[Pmin][var1][Prbb][Prbb][Plbb][Pbeg]sqrt[Plbb][var2][Prbb][Prbb][Prbb][Plsb][Pbeg]cos[Plbb][Plbb][var4][Prbb][Pexp][Plbb][var5][Prbb][Prbb][Prsb] ||,|| cos[Pspa][var4]ªº[var5]¦¸¤è¥H®Ú¸¹[var2]¤À¤§5´î7´î[var1]¤À¤§[var3]¬°©³ªº¹ï¼Æ
-[Plsb][var3][Pplu][var1][Prsb][Pplu][Plsb]4[Pplu][Plbb]8[Prbb][Pexp][Plbb][var2][Prbb][Prsb] ||,|| ¬A¸¹[var3]¥[[var1]¬A¸¹¥[¬A¸¹4¥[8ªº[var2]¦¸¤è¬A¸¹
-5[Pplu][var1] ||,|| 5¥[[var1]
-[Plbb][Pbeg]sin[Plbb]2[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| sin[Pspa]2ªº[var1]¦¸¤è
-[Plsb][Plsb]8[Pplu][var4][Prsb][Pmin][Plsb][var3][Pplu][var2][Prsb][Prsb][var1] ||,|| ¬A¸¹8¥[[var4]´î¬A¸¹[var3]¥[[var2]¾ã­Ó­¼¥H[var1]
-[Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Pbeg]sin[Plbb]7[Prbb][Prsb] ||,|| sin[Pspa]7¥H8¬°©³ªº¹ï¼Æ
-[Plbb]3[Prbb][Pexp][Plbb][var2][Pplu][var1][Prbb] ||,|| 3ªº[var2]¥[[var1]¦¸¤è
-[Pbeg]frac[Plbb][var2][Prbb][Plbb][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plsb][var1][Pmin][var4][Prsb][Pmin][var3][Prsb][Prbb] ||,|| log[Pspa]8[Pspa]¬A¸¹[var1]´î[var4]´î[var3]¤À¤§[var2]
-[Plsb][Plsb][Pbeg]sqrt[Plbb]8[Prbb][Prsb]6[Prsb][var1] ||,|| ®Ú¸¹8­¼¥H6­¼¥H[var1]
-[Pbeg]sqrt[Plbb]9[Prbb] ||,|| ®Ú¸¹9
-[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| ®Ú¸¹[var1]
-[Plbb]5[Prbb][Pexp][Plbb][Pbeg]sqrt[Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb][Prbb] ||,|| 5ªº®Ú¸¹®Ú¸¹[var1]¦¸¤è
-[Plbb][Pbeg]frac[Plbb][var1][Prbb][Plbb][var3][Prbb][Prbb][Pexp][Plbb]1[var2][Prbb] ||,|| [var3]¤À¤§[var1]ªº1[var2]¦¸¤è
-1[Pplu]5 ||,|| 1¥[5
+[Plbb]3[Prbb][Pexp][Plbb][var1][Prbb][Pmin][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb] ||,|| 3çš„[var1]æ¬¡æ–¹æ¸›sin[Pspa]6
+[Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Pbeg]sin[Plbb]8[Prbb][Prsb] ||,|| sin[Pspa]8ä»¥8ç‚ºåº•çš„å°æ•¸å€¼
+1[Pmin][var1] ||,|| 1æ¸›[var1]
+3[Pmin][var1] ||,|| 3æ¸›[var1]
+[Pbeg]log[Psub][Plbb]4[Pmin]2[Prbb][Plsb][var1][Pmin][var2][Prsb] ||,|| [var1]æ¸›[var2]ä»¥4æ¸›2ç‚ºåº•çš„å°æ•¸
+[Plbb]3[Pplu][Plsb]6[Pmin][var1][Prsb][Prbb][Pexp][Plbb][var2][Prbb] ||,|| 3åŠ æ‹¬è™Ÿ6-[var1]æ‹¬è™Ÿçš„[var2]æ¬¡æ–¹
+[Pbeg]sin[Plbb][Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]8[Pplu][var1][Prbb][Pbeg]pi[Prbb][Prbb] ||,|| sin[Pspa]6çš„piä»¥8åŠ [var1]ç‚ºåº•çš„å°æ•¸å€¼æ¬¡æ–¹
+[Pbeg]sqrt[Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb] ||,|| æ ¹è™Ÿcos[Pspa][var1]
+[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]5[Pmin][Pbeg]frac[Plbb][var3][Prbb][Plbb]7[Pmin][var1][Prbb][Prbb][Plbb][Pbeg]sqrt[Plbb][var2][Prbb][Prbb][Prbb][Plsb][Pbeg]cos[Plbb][Plbb][var4][Prbb][Pexp][Plbb][var5][Prbb][Prbb][Prsb] ||,|| cos[Pspa][var4]çš„[var5]æ¬¡æ–¹ä»¥æ ¹è™Ÿ[var2]åˆ†ä¹‹5æ¸›7æ¸›[var1]åˆ†ä¹‹[var3]ç‚ºåº•çš„å°æ•¸
+[Plsb][var3][Pplu][var1][Prsb][Pplu][Plsb]4[Pplu][Plbb]8[Prbb][Pexp][Plbb][var2][Prbb][Prsb] ||,|| æ‹¬è™Ÿ[var3]åŠ [var1]æ‹¬è™ŸåŠ æ‹¬è™Ÿ4åŠ 8çš„[var2]æ¬¡æ–¹æ‹¬è™Ÿ
+5[Pplu][var1] ||,|| 5åŠ [var1]
+[Plbb][Pbeg]sin[Plbb]2[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| sin[Pspa]2çš„[var1]æ¬¡æ–¹
+[Plsb][Plsb]8[Pplu][var4][Prsb][Pmin][Plsb][var3][Pplu][var2][Prsb][Prsb][var1] ||,|| æ‹¬è™Ÿ8åŠ [var4]æ¸›æ‹¬è™Ÿ[var3]åŠ [var2]æ•´å€‹ä¹˜ä»¥[var1]
+[Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Pbeg]sin[Plbb]7[Prbb][Prsb] ||,|| sin[Pspa]7ä»¥8ç‚ºåº•çš„å°æ•¸
+[Plbb]3[Prbb][Pexp][Plbb][var2][Pplu][var1][Prbb] ||,|| 3çš„[var2]åŠ [var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb][var2][Prbb][Plbb][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plsb][var1][Pmin][var4][Prsb][Pmin][var3][Prsb][Prbb] ||,|| log[Pspa]8[Pspa]æ‹¬è™Ÿ[var1]æ¸›[var4]æ¸›[var3]åˆ†ä¹‹[var2]
+[Plsb][Plsb][Pbeg]sqrt[Plbb]8[Prbb][Prsb]6[Prsb][var1] ||,|| æ ¹è™Ÿ8ä¹˜ä»¥6ä¹˜ä»¥[var1]
+[Pbeg]sqrt[Plbb]9[Prbb] ||,|| æ ¹è™Ÿ9
+[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| æ ¹è™Ÿ[var1]
+[Plbb]5[Prbb][Pexp][Plbb][Pbeg]sqrt[Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb][Prbb] ||,|| 5çš„æ ¹è™Ÿæ ¹è™Ÿ[var1]æ¬¡æ–¹
+[Plbb][Pbeg]frac[Plbb][var1][Prbb][Plbb][var3][Prbb][Prbb][Pexp][Plbb]1[var2][Prbb] ||,|| [var3]åˆ†ä¹‹[var1]çš„1[var2]æ¬¡æ–¹
+1[Pplu]5 ||,|| 1åŠ 5
 [Pbeg]tan[Plbb]5[Prbb] ||,|| tan[Pspa]5
-[Pbeg]sqrt[Plbb]0[Prbb] ||,|| ®Ú¸¹0
-[Plbb][Pbeg]frac[Plbb][var2][Prbb][Plbb][Pbeg]sin[Plbb]9[var3][Prbb][Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| sin[Pspa]9[var3][Pspa]¤À¤§[var2][Pspa]ªº[var1]¦¸¤è
-[Plsb][Plsb]2[var2][Prsb][Pplu][Pbeg]frac[Plbb]8[Prbb][Plbb]2[Prbb][Prsb][Pmin][Plbb]9[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 2[var2]¥[2¤À¤§8´î9ªº[var1]¦¸¤è
-[var1][Pmin][Plsb][Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]9[Prbb]1[Prbb][Prsb] ||,|| [var1]´îcos[Pspa]1¥H9¬°©³ªº¹ï¼Æ
+[Pbeg]sqrt[Plbb]0[Prbb] ||,|| æ ¹è™Ÿ0
+[Plbb][Pbeg]frac[Plbb][var2][Prbb][Plbb][Pbeg]sin[Plbb]9[var3][Prbb][Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| sin[Pspa]9[var3][Pspa]åˆ†ä¹‹[var2][Pspa]çš„[var1]æ¬¡æ–¹
+[Plsb][Plsb]2[var2][Prsb][Pplu][Pbeg]frac[Plbb]8[Prbb][Plbb]2[Prbb][Prsb][Pmin][Plbb]9[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 2[var2]åŠ 2åˆ†ä¹‹8æ¸›9çš„[var1]æ¬¡æ–¹
+[var1][Pmin][Plsb][Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]9[Prbb]1[Prbb][Prsb] ||,|| [var1]æ¸›cos[Pspa]1ä»¥9ç‚ºåº•çš„å°æ•¸
 [Pbeg]tan[Plbb][var1][Prbb] ||,|| tan[Pspa][var1]
-[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb][Pbeg]sin[Plbb][var2][Prbb][Prbb][Prbb][var1] ||,|| log[Pspa]cos[Pspa]sin[Pspa][var2][Pspa]ªº[var1]
-[Pbeg]frac[Plbb][var1][Prbb][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][Plsb][Pbeg]sqrt[Plbb]11[Prbb][Prsb][var2][Prbb][Prbb] ||,|| ®Ú¸¹11[var2]¤À¤§3¤À¤§[var1]
-[Pbeg]frac[Plbb]5[Prbb][Plbb]9[Prbb] ||,|| 9¤À¤§5
-[Pbeg]frac[Plbb][var1][Prbb][Plbb][Plbb]9[Prbb][Pexp][Plbb]1[Prbb][Prbb] ||,|| 9ªº1¦¸¤è¤À¤§[var1]
-[Pbeg]frac[Plbb]2[Prbb][Plbb]0[Pmin][var1][Prbb] ||,|| 0´î[var1][Pspa]¤À¤§2
-[Pbeg]cos[Plbb][Pbeg]frac[Plbb][Plbb]2[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]2[Plsb]4[Pplu][var2][Prsb][Prbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]3[Prbb][Prbb][Prbb] ||,|| cos[Pspa]3¤À¤§9[Pspa]¤À¤§[Pspa]2ªº[var1]¤À¤§2­¼¥H¬A¸¹4¥[[var2]
-0[Pplu][Pbeg]frac[Plbb]7[Prbb][Plbb][var1][Prbb] ||,|| 0¥[[var1]¤À¤§7
+[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb][Pbeg]sin[Plbb][var2][Prbb][Prbb][Prbb][var1] ||,|| log[Pspa]cos[Pspa]sin[Pspa][var2][Pspa]çš„[var1]
+[Pbeg]frac[Plbb][var1][Prbb][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][Plsb][Pbeg]sqrt[Plbb]11[Prbb][Prsb][var2][Prbb][Prbb] ||,|| æ ¹è™Ÿ11[var2]åˆ†ä¹‹3åˆ†ä¹‹[var1]
+[Pbeg]frac[Plbb]5[Prbb][Plbb]9[Prbb] ||,|| 9åˆ†ä¹‹5
+[Pbeg]frac[Plbb][var1][Prbb][Plbb][Plbb]9[Prbb][Pexp][Plbb]1[Prbb][Prbb] ||,|| 9çš„1æ¬¡æ–¹åˆ†ä¹‹[var1]
+[Pbeg]frac[Plbb]2[Prbb][Plbb]0[Pmin][var1][Prbb] ||,|| 0æ¸›[var1][Pspa]åˆ†ä¹‹2
+[Pbeg]cos[Plbb][Pbeg]frac[Plbb][Plbb]2[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]2[Plsb]4[Pplu][var2][Prsb][Prbb][Plbb][var1][Prbb][Prbb][Prbb][Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]3[Prbb][Prbb][Prbb] ||,|| cos[Pspa]3åˆ†ä¹‹9[Pspa]åˆ†ä¹‹[Pspa]2çš„[var1]åˆ†ä¹‹2ä¹˜ä»¥æ‹¬è™Ÿ4åŠ [var2]
+0[Pplu][Pbeg]frac[Plbb]7[Prbb][Plbb][var1][Prbb] ||,|| 0åŠ [var1]åˆ†ä¹‹7
 [Pbeg]tan[Plbb][var1][Prbb] ||,|| tan[Pspa][var1]
-[var1][Pmin]R ||,|| [var1]´î¥h[var1]
-[Pbeg]log[Psub][Plbb]7[Prbb][var1][Pbeg]frac[Plbb][var3][Prbb][Plbb][var2][Prbb] ||,|| [var1]¤S[var2]¤À¤§[var3]¥H7¬°©³ªº¹ï¼Æ
-[Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Pmin][Plbb]8[Prbb][Pexp][Plbb][Pbeg]pi[Prbb] ||,|| cos[Pspa]3[Pspa]´î8ªºpi¦¸¤è
+[var1][Pmin]R ||,|| [var1]æ¸›å»[var1]
+[Pbeg]log[Psub][Plbb]7[Prbb][var1][Pbeg]frac[Plbb][var3][Prbb][Plbb][var2][Prbb] ||,|| [var1]åˆ[var2]åˆ†ä¹‹[var3]ä»¥7ç‚ºåº•çš„å°æ•¸
+[Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Pmin][Plbb]8[Prbb][Pexp][Plbb][Pbeg]pi[Prbb] ||,|| cos[Pspa]3[Pspa]æ¸›8çš„piæ¬¡æ–¹
 [Pbeg]log[Psub][Plbb][var2][Prbb][var1] ||,|| log[Pspa][var2][Pspa][var1]
-[Pbeg]frac[Plbb]8[Prbb][Plbb][var1][Pmin][var2][Prbb] ||,|| [var1]´î[var2][Pspa]¤À¤§8
-[Pbeg]log[Psub][Plbb]7[Prbb][var1] ||,|| log[Pspa]7[Pspa]ªº[var1]
-0[Pplu][Plsb][var1][Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb][var4][Prbb][Plbb]9[Prbb][Pexp][Plbb][var2][Prbb][Prbb][Plbb][var3][Prbb][Prsb] ||,|| 0¥[[var1]­¼¥H[var3]¤À¤§9ªº[var2]¦¸¤è¥H[var4]¬°©³ªº¹ï¼Æ­È
-[Plsb]0[Pplu][var1][Prsb][Pplu][Pbeg]frac[Plbb][Pbeg]sin[Plbb]7[Prbb][Prbb][Plbb]9[Prbb] ||,|| 0¥[[var1]¥[[Pspa]9¤À¤§sin[Pspa]7
+[Pbeg]frac[Plbb]8[Prbb][Plbb][var1][Pmin][var2][Prbb] ||,|| [var1]æ¸›[var2][Pspa]åˆ†ä¹‹8
+[Pbeg]log[Psub][Plbb]7[Prbb][var1] ||,|| log[Pspa]7[Pspa]çš„[var1]
+0[Pplu][Plsb][var1][Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb][var4][Prbb][Plbb]9[Prbb][Pexp][Plbb][var2][Prbb][Prbb][Plbb][var3][Prbb][Prsb] ||,|| 0åŠ [var1]ä¹˜ä»¥[var3]åˆ†ä¹‹9çš„[var2]æ¬¡æ–¹ä»¥[var4]ç‚ºåº•çš„å°æ•¸å€¼
+[Plsb]0[Pplu][var1][Prsb][Pplu][Pbeg]frac[Plbb][Pbeg]sin[Plbb]7[Prbb][Prbb][Plbb]9[Prbb] ||,|| 0åŠ [var1]åŠ [Pspa]9åˆ†ä¹‹sin[Pspa]7
 [Pbeg]cos[Plbb]9[Prbb] ||,|| cos[Pspa]9
-[Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]¤À¤§4[Pspa]ªº[var1]¦¸¤è
-[Pbeg]frac[Plbb]2[Prbb][Plbb]6[Prbb] ||,|| 6¤À¤§2
-3[Pplu][var1] ||,|| 3¥[[var1]
-[Pbeg]frac[Plbb]9[Prbb][Plbb]8[Prbb] ||,|| 8¤À¤§9
-[Plbb][var2][Prbb][Pexp][Plbb]3[Pmin][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][var1][Prbb] ||,|| [var2]ªº3´îlog[Pspa]pi[Pspa][var1][Pspa]¦¸¤è
-[Pbeg]log[Psub][Plbb][var1][Prbb][Plsb][Plsb][Pbeg]tan[Plbb][var2][Prbb][Prsb][Pplu][Plsb][Pbeg]sin[Plbb]3[Prbb][Prsb][Prsb] ||,|| tan[Pspa][var2][Pspa]¥[[Pspa]sin[Pspa]3[Pspa]¥H[var1]¬°©³ªº¹ï¼Æ
-[Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][var1][Prbb][Pexp][Plbb][var2][Prbb][Prbb] ||,|| [var1]ªº[var2]¦¸¤è¥H3¬°©³ªº¹ï¼Æ¤À¤§5
-[Plsb][var3][Pplu][var2][Prsb][Plsb][Pbeg]cos[Plbb][var1][Prbb][Prsb] ||,|| [var3]+[var2]¾ã­Ó­¼¥Hcos[Pspa][var1]
-4[Pplu][Plsb][Plsb][Pbeg]cos[Plbb]7[Prbb][Prsb][Pplu]6[Prsb] ||,|| 4¥[¬A¸¹cos[Pspa]7[Pspa]¥[[Pspa]6¬A¸¹
-[Plsb][Pbeg]sin[Plbb][var2][Prbb][Prsb][var1] ||,|| sin[Pspa][var2][Pspa]­¼¤W[var1]
-7[Pplu][Pbeg]log[Psub][Plbb]1[Prbb][var1] ||,|| 7¥[log[Pspa]1[Pspa][var1]
+[Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]åˆ†ä¹‹4[Pspa]çš„[var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb]2[Prbb][Plbb]6[Prbb] ||,|| 6åˆ†ä¹‹2
+3[Pplu][var1] ||,|| 3åŠ [var1]
+[Pbeg]frac[Plbb]9[Prbb][Plbb]8[Prbb] ||,|| 8åˆ†ä¹‹9
+[Plbb][var2][Prbb][Pexp][Plbb]3[Pmin][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][var1][Prbb] ||,|| [var2]çš„3æ¸›log[Pspa]pi[Pspa][var1][Pspa]æ¬¡æ–¹
+[Pbeg]log[Psub][Plbb][var1][Prbb][Plsb][Plsb][Pbeg]tan[Plbb][var2][Prbb][Prsb][Pplu][Plsb][Pbeg]sin[Plbb]3[Prbb][Prsb][Prsb] ||,|| tan[Pspa][var2][Pspa]åŠ [Pspa]sin[Pspa]3[Pspa]ä»¥[var1]ç‚ºåº•çš„å°æ•¸
+[Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][var1][Prbb][Pexp][Plbb][var2][Prbb][Prbb] ||,|| [var1]çš„[var2]æ¬¡æ–¹ä»¥3ç‚ºåº•çš„å°æ•¸åˆ†ä¹‹5
+[Plsb][var3][Pplu][var2][Prsb][Plsb][Pbeg]cos[Plbb][var1][Prbb][Prsb] ||,|| [var3]+[var2]æ•´å€‹ä¹˜ä»¥cos[Pspa][var1]
+4[Pplu][Plsb][Plsb][Pbeg]cos[Plbb]7[Prbb][Prsb][Pplu]6[Prsb] ||,|| 4åŠ æ‹¬è™Ÿcos[Pspa]7[Pspa]åŠ [Pspa]6æ‹¬è™Ÿ
+[Plsb][Pbeg]sin[Plbb][var2][Prbb][Prsb][var1] ||,|| sin[Pspa][var2][Pspa]ä¹˜ä¸Š[var1]
+7[Pplu][Pbeg]log[Psub][Plbb]1[Prbb][var1] ||,|| 7åŠ log[Pspa]1[Pspa][var1]
 [Pbeg]tan[Plbb]7[Prbb] ||,|| tan[Pspa]7
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
-[Pbeg]frac[Plbb][Pbeg]pi[Prbb][Plbb][Pbeg]log[Psub][Plbb]0[Prbb][var1][Prbb] ||,|| pi[Pspa]¤À¤§[Pspa][var1]¥H0¬°©³ªº¹ï¼Æ
-[Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][var2] ||,|| sin[Pspa][var1]­¼¥H[var2]
-[Pbeg]sin[Plbb][var1][Pplu][var2][Prbb] ||,|| [var1]¥[[var2]ªºsin­È
-[var1][Pplu][Plsb][Pbeg]cos[Plbb][var2][Prbb][Prsb] ||,|| [var1]¥[cos[Pspa][var2]
-3[Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb]5[Prbb][Prbb] ||,|| 3¤S6ªº5¦¸¤è¤À¤§0
+[Pbeg]frac[Plbb][Pbeg]pi[Prbb][Plbb][Pbeg]log[Psub][Plbb]0[Prbb][var1][Prbb] ||,|| pi[Pspa]åˆ†ä¹‹[Pspa][var1]ä»¥0ç‚ºåº•çš„å°æ•¸
+[Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][var2] ||,|| sin[Pspa][var1]ä¹˜ä»¥[var2]
+[Pbeg]sin[Plbb][var1][Pplu][var2][Prbb] ||,|| [var1]åŠ [var2]çš„sinå€¼
+[var1][Pplu][Plsb][Pbeg]cos[Plbb][var2][Prbb][Prsb] ||,|| [var1]åŠ cos[Pspa][var2]
+3[Pbeg]frac[Plbb]0[Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb]5[Prbb][Prbb] ||,|| 3åˆ6çš„5æ¬¡æ–¹åˆ†ä¹‹0
 [Pbeg]sin[Plbb]6[Prbb] ||,|| sin[Pspa]6
-[Plsb][var1][Pplu][Plsb][Pbeg]tan[Plbb]3[Prbb][Prsb][Prsb][Plsb]5[Pplu]9[Prsb] ||,|| [var1]¥[[Pspa]tan[Pspa]3[Pspa]­¼¥H[Pspa]5¥[9
-[Plsb]cp[Prsb][Pmin][Pbeg]frac[Plbb]0[Prbb][Plbb][var1][Prbb] ||,|| cp´î[var1]¤À¤§0
+[Plsb][var1][Pplu][Plsb][Pbeg]tan[Plbb]3[Prbb][Prsb][Prsb][Plsb]5[Pplu]9[Prsb] ||,|| [var1]åŠ [Pspa]tan[Pspa]3[Pspa]ä¹˜ä»¥[Pspa]5åŠ 9
+[Plsb]cp[Prsb][Pmin][Pbeg]frac[Plbb]0[Prbb][Plbb][var1][Prbb] ||,|| cpæ¸›[var1]åˆ†ä¹‹0
 [Pbeg]log[Psub][Plbb]2[Prbb]2 ||,|| log[Pspa]2[Pspa]2
 [Pbeg]sin[Plbb]7[Prbb] ||,|| sin[Pspa]7
-[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Pbeg]pi[Pbeg]frac[Plbb]2[Prbb][Plbb][var1][Prbb][Prbb][Prbb] ||,|| cos[Pspa]®Ú¸¹piªº[var1]¤À¤§2¦¸¤è
-6[Pmin][Plsb]41[Prsb] ||,|| 6´î41
-[Pbeg]tan[Plbb]8[Plsb]1[Pplu][Pbeg]log[Psub][Plbb][var2][Prbb][var1][Prsb][Prbb] ||,|| tan[Pspa]8­¼¤W¬A¸¹1¥[log[Pspa][var2][Pspa][var1]
+[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Pbeg]pi[Pbeg]frac[Plbb]2[Prbb][Plbb][var1][Prbb][Prbb][Prbb] ||,|| cos[Pspa]æ ¹è™Ÿpiçš„[var1]åˆ†ä¹‹2æ¬¡æ–¹
+6[Pmin][Plsb]41[Prsb] ||,|| 6æ¸›41
+[Pbeg]tan[Plbb]8[Plsb]1[Pplu][Pbeg]log[Psub][Plbb][var2][Prbb][var1][Prsb][Prbb] ||,|| tan[Pspa]8ä¹˜ä¸Šæ‹¬è™Ÿ1åŠ log[Pspa][var2][Pspa][var1]
 [Pbeg]cos[Plbb]0[Prbb] ||,|| cos[Pspa]0
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
-[Pbeg]frac[Plbb]4[Prbb][Plbb][var2][Pmin][Plsb][Pbeg]pi[Pplu][var1][Prsb][Prbb] ||,|| [var2]´î¬A¸¹pi¥[[var1][Pspa]¤À¤§4
-[Pbeg]log[Psub][Plbb]2[Prbb][var1] ||,|| [var1]¥H2¬°©³ªº¹ï¼Æ
+[Pbeg]frac[Plbb]4[Prbb][Plbb][var2][Pmin][Plsb][Pbeg]pi[Pplu][var1][Prsb][Prbb] ||,|| [var2]æ¸›æ‹¬è™ŸpiåŠ [var1][Pspa]åˆ†ä¹‹4
+[Pbeg]log[Psub][Plbb]2[Prbb][var1] ||,|| [var1]ä»¥2ç‚ºåº•çš„å°æ•¸
 [Pbeg]sin[Plbb]7[Prbb] ||,|| sin[Pspa]7
-[Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§5
+[Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹5
 [Pbeg]tan[Plbb][var1][Prbb] ||,|| tan[Pspa][var1]
-[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]¥H0¬°©³ªº¹ï¼Æ­È
-4[Pplu][Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb] ||,|| 4¥[[Pspa]sin[Pspa][var1]
-[Pbeg]frac[Plbb][Pbeg]sin[Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] ||,|| [var2]¤À¤§[Pspa]sin[Pspa][var1]
-[Plsb][Pbeg]tan[Plbb][var2][Prbb][Prsb][Plsb]9[Plsb][var1][Pmin][var3][Prsb][Prsb] ||,|| tan[Pspa][var2][Pspa]­¼¥H[Pspa]9[Pspa]­¼¬A¸¹[var1]´î[var3]
-0[Pplu][var1] ||,|| 0¥[[var1]
-[var2][Plbb][Pbeg]sqrt[Plbb]5[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]®Ú¸¹5ªº[var1]¦¸¤è
-[Pbeg]sqrt[Plbb]5[Prbb] ||,|| ®Ú¸¹5
-[Pbeg]frac[Plbb]5[Pplu][var2][Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§5¥[[var2]
-[Plbb]5[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 5ªº[var1]¦¸¤è
-[Pbeg]frac[Plbb][var2][Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§[var2]
-[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][var1] ||,|| [var1]¥Hcos[Pspa]3¬°©³ªº¹ï¼Æ
-[var1][Pplu][Plsb]8[Pmin][var2][Prsb] ||,|| [var1]¥[¬A¸¹8´î[var2]
-[var2][Pmin][Plsb][Pbeg]cos[Plbb][var1][Prbb][Prsb] ||,|| [var2]´îcos[Pspa][var1]
+[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]ä»¥0ç‚ºåº•çš„å°æ•¸å€¼
+4[Pplu][Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb] ||,|| 4åŠ [Pspa]sin[Pspa][var1]
+[Pbeg]frac[Plbb][Pbeg]sin[Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb] ||,|| [var2]åˆ†ä¹‹[Pspa]sin[Pspa][var1]
+[Plsb][Pbeg]tan[Plbb][var2][Prbb][Prsb][Plsb]9[Plsb][var1][Pmin][var3][Prsb][Prsb] ||,|| tan[Pspa][var2][Pspa]ä¹˜ä»¥[Pspa]9[Pspa]ä¹˜æ‹¬è™Ÿ[var1]æ¸›[var3]
+0[Pplu][var1] ||,|| 0åŠ [var1]
+[var2][Plbb][Pbeg]sqrt[Plbb]5[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]æ ¹è™Ÿ5çš„[var1]æ¬¡æ–¹
+[Pbeg]sqrt[Plbb]5[Prbb] ||,|| æ ¹è™Ÿ5
+[Pbeg]frac[Plbb]5[Pplu][var2][Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹5åŠ [var2]
+[Plbb]5[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 5çš„[var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb][var2][Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹[var2]
+[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][var1] ||,|| [var1]ä»¥cos[Pspa]3ç‚ºåº•çš„å°æ•¸
+[var1][Pplu][Plsb]8[Pmin][var2][Prsb] ||,|| [var1]åŠ æ‹¬è™Ÿ8æ¸›[var2]
+[var2][Pmin][Plsb][Pbeg]cos[Plbb][var1][Prbb][Prsb] ||,|| [var2]æ¸›cos[Pspa][var1]
 [Pbeg]sin[Plbb]6[Prbb] ||,|| sin[Pspa]6
-[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb]3[Prbb][Prbb][Prbb] ||,|| sin[Pspa]®Ú¸¹3¤À¤§1
-[Pbeg]frac[Plbb][Plbb]8[Prbb][Pexp][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb][var3] ||,|| [var2]¤À¤§8ªº[var1]¦¸¤è­¼[var3]
-7[Pplu][Plsb][Pbeg]tan[Plbb]6[Prbb][Prsb] ||,|| 7¥[tan[Pspa]6
+[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb]3[Prbb][Prbb][Prbb] ||,|| sin[Pspa]æ ¹è™Ÿ3åˆ†ä¹‹1
+[Pbeg]frac[Plbb][Plbb]8[Prbb][Pexp][Plbb][var1][Prbb][Prbb][Plbb][var2][Prbb][var3] ||,|| [var2]åˆ†ä¹‹8çš„[var1]æ¬¡æ–¹ä¹˜[var3]
+7[Pplu][Plsb][Pbeg]tan[Plbb]6[Prbb][Prsb] ||,|| 7åŠ tan[Pspa]6
 [Pbeg]tan[Plbb]7[Prbb] ||,|| tan[Pspa]7
-4[Pplu][var1] ||,|| 4¥[[var1]
+4[Pplu][var1] ||,|| 4åŠ [var1]
 yx ||,|| yx
-7[Pmin][var1] ||,|| 7´î[var1]
-[Pbeg]sin[Plbb][Plsb][Pbeg]sin[Plbb]1[var2][Prbb][Prsb][var1][Prbb] ||,|| sinªºsin[Pspa]1[var2][Pspa]­¼[var1]
-[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| ®Ú¸¹[var1]
-[Plsb][Pbeg]frac[Plbb][var3][Prbb][Plbb][var1][Prbb][Pmin][var2][Prsb][Plsb]3[Pmin][Pbeg]pi[Prsb] ||,|| ¬A¸¹[var1]¤À¤§[var3]´î[var2]¬A¸¹­¼¤W3´îpi
-[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb]2[Prbb][Prbb][Plsb]0[Pplu][var1][Prsb] ||,|| 0¥[[var1]¥H®Ú¸¹2¬°©³ªº¹ï¼Æ
+7[Pmin][var1] ||,|| 7æ¸›[var1]
+[Pbeg]sin[Plbb][Plsb][Pbeg]sin[Plbb]1[var2][Prbb][Prsb][var1][Prbb] ||,|| sinçš„sin[Pspa]1[var2][Pspa]ä¹˜[var1]
+[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| æ ¹è™Ÿ[var1]
+[Plsb][Pbeg]frac[Plbb][var3][Prbb][Plbb][var1][Prbb][Pmin][var2][Prsb][Plsb]3[Pmin][Pbeg]pi[Prsb] ||,|| æ‹¬è™Ÿ[var1]åˆ†ä¹‹[var3]æ¸›[var2]æ‹¬è™Ÿä¹˜ä¸Š3æ¸›pi
+[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb]2[Prbb][Prbb][Plsb]0[Pplu][var1][Prsb] ||,|| 0åŠ [var1]ä»¥æ ¹è™Ÿ2ç‚ºåº•çš„å°æ•¸
 [Pbeg]tan[Plbb][var1][Prbb] ||,|| tan[Pspa][var1]
-[Plbb]6[Prbb][Pexp][Plbb][Pbeg]frac[Plbb][Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]pi[Prbb][Prbb] ||,|| 6ªºpi¤À¤§[var2]¤À¤§[var1]¦¸¤è
-[Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][var2][Prbb][Pexp][Plbb]0[Pmin][var1][Prbb][Prbb] ||,|| [var2]ªº0´î[var1][Pspa]¤À¤§4
-1[Pmin][var1] ||,|| 1´î[var1]
-[Pbeg]frac[Plbb][var1][Prbb][Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb]7[Plsb][Pbeg]tan[Plbb][var1][Prbb][Prsb][Prbb][Prbb] ||,|| 7­¼tan[Pspa][var1][Pspa]¤À¤§1[Pspa]¤À¤§[var1]
-[Pbeg]frac[Plbb]9[Pplu][var1][Prbb][Plbb]tk[Prbb] ||,|| tk¤À¤§9¥[[var1]
-[Pbeg]cos[Plbb][Plsb]9[Pbeg]frac[Plbb]1[Prbb][Plbb][var1][Prbb][Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb][var2][Prbb][Prsb][Prbb] ||,|| 9¤S[var1]¤À¤§1¥[®Ú¸¹2[Pspa]ªºcos­È
-[Pbeg]log[Psub][Plbb]4[Prbb][Pbeg]frac[Plbb][Plbb]9[Prbb][Pexp][Plbb]6[Prbb][Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§9ªº6¦¸¤è[Pspa]¥H4¬°©³ªº¹ï¼Æ
+[Plbb]6[Prbb][Pexp][Plbb][Pbeg]frac[Plbb][Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb][Prbb][Plbb][Pbeg]pi[Prbb][Prbb] ||,|| 6çš„piåˆ†ä¹‹[var2]åˆ†ä¹‹[var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb]4[Prbb][Plbb][Plbb][var2][Prbb][Pexp][Plbb]0[Pmin][var1][Prbb][Prbb] ||,|| [var2]çš„0æ¸›[var1][Pspa]åˆ†ä¹‹4
+1[Pmin][var1] ||,|| 1æ¸›[var1]
+[Pbeg]frac[Plbb][var1][Prbb][Plbb][Pbeg]frac[Plbb]1[Prbb][Plbb]7[Plsb][Pbeg]tan[Plbb][var1][Prbb][Prsb][Prbb][Prbb] ||,|| 7ä¹˜tan[Pspa][var1][Pspa]åˆ†ä¹‹1[Pspa]åˆ†ä¹‹[var1]
+[Pbeg]frac[Plbb]9[Pplu][var1][Prbb][Plbb]tk[Prbb] ||,|| tkåˆ†ä¹‹9åŠ [var1]
+[Pbeg]cos[Plbb][Plsb]9[Pbeg]frac[Plbb]1[Prbb][Plbb][var1][Prbb][Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb][var2][Prbb][Prsb][Prbb] ||,|| 9åˆ[var1]åˆ†ä¹‹1åŠ æ ¹è™Ÿ2[Pspa]çš„coså€¼
+[Pbeg]log[Psub][Plbb]4[Prbb][Pbeg]frac[Plbb][Plbb]9[Prbb][Pexp][Plbb]6[Prbb][Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹9çš„6æ¬¡æ–¹[Pspa]ä»¥4ç‚ºåº•çš„å°æ•¸
 [Pbeg]log[Psub][Plbb]9[Prbb]8 ||,|| log[Pspa]9[Pspa]8
-[Pbeg]log[Psub][Plbb]5[Prbb][var2][Pplu][var1] ||,|| [var2]¥H5¬°©³ªº¹ï¼Æ¥[[var1]
-[Pbeg]frac[Plbb]3[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§3
-[Plsb][Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Pbeg]sin[Plbb]5[Prbb][Prbb][Prbb][Prsb][Plsb]8[Pplu][Plsb][var1][Pplu][var2][Prsb][Prsb] ||,|| cos[Pspa]®Ú¸¹sin[Pspa]5[Pspa]­¼8¥[¬A¸¹[var1]¥[[var2]
-[Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb]5[Prbb][var1][Prbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][Pbeg]frac[Plbb][var3][Prbb][Plbb][var2][Prbb][Prbb] ||,|| [var2]¤À¤§[var3]¥H2¬°©³ªº¹ï¼Æ¤À¤§[var1]¥H5¬°©³ªº¹ï¼Æ
-6[Pmin]4 ||,|| 6´î4
-[Pbeg]sqrt[Plbb]4[Prbb] ||,|| ®Ú¸¹4
+[Pbeg]log[Psub][Plbb]5[Prbb][var2][Pplu][var1] ||,|| [var2]ä»¥5ç‚ºåº•çš„å°æ•¸åŠ [var1]
+[Pbeg]frac[Plbb]3[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹3
+[Plsb][Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Pbeg]sin[Plbb]5[Prbb][Prbb][Prbb][Prsb][Plsb]8[Pplu][Plsb][var1][Pplu][var2][Prsb][Prsb] ||,|| cos[Pspa]æ ¹è™Ÿsin[Pspa]5[Pspa]ä¹˜8åŠ æ‹¬è™Ÿ[var1]åŠ [var2]
+[Pbeg]frac[Plbb][Pbeg]log[Psub][Plbb]5[Prbb][var1][Prbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][Pbeg]frac[Plbb][var3][Prbb][Plbb][var2][Prbb][Prbb] ||,|| [var2]åˆ†ä¹‹[var3]ä»¥2ç‚ºåº•çš„å°æ•¸åˆ†ä¹‹[var1]ä»¥5ç‚ºåº•çš„å°æ•¸
+6[Pmin]4 ||,|| 6æ¸›4
+[Pbeg]sqrt[Plbb]4[Prbb] ||,|| æ ¹è™Ÿ4
 8[Pbeg]log[Psub][Plbb]0[Prbb]5 ||,|| 8log[Pspa]0[Pspa]5
-[Pbeg]frac[Plbb][var1][Prbb][Plbb]zy[Prbb] ||,|| zy¤À¤§[var1]
-[Pbeg]cos[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb][Pbeg]sin[Plbb][var1][Prbb][Prbb][Prbb] ||,|| cos[Pspa]sin[Pspa][var1][Pspa]¤À¤§2
-[var1][Pplu]k ||,|| [var1]¥[[var1]
-1[Pmin][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb]2[Prbb][Prbb][var1] ||,|| 1´î[var1]¥H2¤À¤§4¬°©³ªº¹ï¼Æ
+[Pbeg]frac[Plbb][var1][Prbb][Plbb]zy[Prbb] ||,|| zyåˆ†ä¹‹[var1]
+[Pbeg]cos[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb][Pbeg]sin[Plbb][var1][Prbb][Prbb][Prbb] ||,|| cos[Pspa]sin[Pspa][var1][Pspa]åˆ†ä¹‹2
+[var1][Pplu]k ||,|| [var1]åŠ [var1]
+1[Pmin][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb]2[Prbb][Prbb][var1] ||,|| 1æ¸›[var1]ä»¥2åˆ†ä¹‹4ç‚ºåº•çš„å°æ•¸
 [Pbeg]log[Psub][Plbb]4[Prbb][var1] ||,|| log[Pspa]4[Pspa][var1]
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
-[Pbeg]frac[Plbb]mm[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§mm
+[Pbeg]frac[Plbb]mm[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹mm
 [Pbeg]cos[Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb] ||,|| cos[Pspa]tan[Pspa]6
-[var2][Pmin][Pbeg]frac[Plbb]6[Prbb][Plbb][var1][Prbb] ||,|| [var2]´î[var1]¤À¤§6
-8[Plsb]2[Pplu]3[Prsb] ||,|| 8­¼¥H¬A¸¹2¥[3
-[Plsb][Pbeg]pi[Pmin][Plsb]9[Pmin][Plsb][Pbeg]sin[Plbb]1[Prbb][Prsb][Prsb][Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb][var1][Prbb][Prsb] ||,|| pi´î¬A¸¹9´îsin[Pspa]1[Pspa]¥[®Ú¸¹[var1]
+[var2][Pmin][Pbeg]frac[Plbb]6[Prbb][Plbb][var1][Prbb] ||,|| [var2]æ¸›[var1]åˆ†ä¹‹6
+8[Plsb]2[Pplu]3[Prsb] ||,|| 8ä¹˜ä»¥æ‹¬è™Ÿ2åŠ 3
+[Plsb][Pbeg]pi[Pmin][Plsb]9[Pmin][Plsb][Pbeg]sin[Plbb]1[Prbb][Prsb][Prsb][Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb][var1][Prbb][Prsb] ||,|| piæ¸›æ‹¬è™Ÿ9æ¸›sin[Pspa]1[Pspa]åŠ æ ¹è™Ÿ[var1]
 [Pbeg]sin[Plbb][var1][Prbb] ||,|| sin[Pspa][var1]
-[Pbeg]frac[Plbb]7[var2][Prbb][Plbb]2[Pmin][var1][Prbb] ||,|| 2´î[var1]¤À¤§7[var2]
-[Pbeg]frac[Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]9[Prbb][Prbb][Plbb][var2][Pmin][Plsb]6[Pplu][var1][Prsb][Prbb] ||,|| [var2]´î¬A¸¹6¥[[var1]¤À¤§[Pspa]9¤À¤§9
+[Pbeg]frac[Plbb]7[var2][Prbb][Plbb]2[Pmin][var1][Prbb] ||,|| 2æ¸›[var1]åˆ†ä¹‹7[var2]
+[Pbeg]frac[Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]9[Prbb][Prbb][Plbb][var2][Pmin][Plsb]6[Pplu][var1][Prsb][Prbb] ||,|| [var2]æ¸›æ‹¬è™Ÿ6åŠ [var1]åˆ†ä¹‹[Pspa]9åˆ†ä¹‹9
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
-[Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb][Pexp][Plbb]n[Prbb] ||,|| cos[Pspa][var1]ªº[var1]¦¸¤è
-[Pbeg]sin[Plbb][Pbeg]log[Psub][Plbb][var1][Prbb][var2][Prbb] ||,|| log[Pspa][var1][Pspa][var2][Pspa]ªºsin­È
-[Plsb][Plsb][Pbeg]cos[Plbb]9[Prbb][Prsb]6[Prsb][var1] ||,|| cos[Pspa]9[Pspa]­¼6­¼[var1]
-5[Pmin][Pbeg]frac[Plbb][var2][Prbb][Plbb][Pbeg]sin[Plbb][Plbb][var2][Prbb][Pexp][Plbb][var1][Prbb][Prbb][Prbb] ||,|| 5´îsin[Pspa]Wªº[var1]¦¸¤è[Pspa]¤À¤§[var2]
-[Plsb][Pbeg]log[Psub][Plbb][var3][Prbb][var4][Pmin][var2][Prsb][var1] ||,|| [var4]¥H[var3]¬°©³ªº¹ï¼Æ´î[var2]¾ã­Ó­¼[var1]
-[var2][Pmin][var1] ||,|| [var2]´î[var1]
-[Plbb][var2][Prbb][Pexp][Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Pexp][Plbb][Pbeg]pi[Prbb][Prbb][Prbb] ||,|| [var2]ªºsin[Pspa][var1]ªºpi¦¸¤è[Pspa]¦¸¤è
-[Plbb][Pbeg]frac[Plbb][Pbeg]sqrt[Plbb]0[Pplu]2[Prbb][Prbb][Plbb]7[Prbb][Prbb][Pexp][Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb] ||,|| 7¤À¤§®Ú¸¹0¥[2[Pspa]ªº®Ú¸¹[var1]¦¸¤è
-[Pbeg]frac[Plbb]6[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§6
-[Pbeg]frac[Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][Plbb]9[Prbb] ||,|| 9¤À¤§cos[Pspa]3
-[Pbeg]frac[Plbb][Plsb]cc[Prsb][var4][Prbb][Plbb][var1][Prbb][Plbb][var3][Prbb][Pexp][Plbb][var2][Prbb] ||,|| [var1]¤À¤§¬A¸¹cc­¼[var4][Pspa]­¼¥H[var3]ªº[var2]¦¸¤è
-[Plbb]6[Prbb][Pexp][Plbb]4[Prbb] ||,|| 6ªº4¦¸¤è
-[Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Plbb]4[Prbb][Pexp][Plbb][var1][Prbb] ||,|| cos[Pspa]4[Pspa]­¼¥H[Pspa]4ªº[var1]¦¸¤è
+[Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb][Pexp][Plbb]n[Prbb] ||,|| cos[Pspa][var1]çš„[var1]æ¬¡æ–¹
+[Pbeg]sin[Plbb][Pbeg]log[Psub][Plbb][var1][Prbb][var2][Prbb] ||,|| log[Pspa][var1][Pspa][var2][Pspa]çš„sinå€¼
+[Plsb][Plsb][Pbeg]cos[Plbb]9[Prbb][Prsb]6[Prsb][var1] ||,|| cos[Pspa]9[Pspa]ä¹˜6ä¹˜[var1]
+5[Pmin][Pbeg]frac[Plbb][var2][Prbb][Plbb][Pbeg]sin[Plbb][Plbb][var2][Prbb][Pexp][Plbb][var1][Prbb][Prbb][Prbb] ||,|| 5æ¸›sin[Pspa]Wçš„[var1]æ¬¡æ–¹[Pspa]åˆ†ä¹‹[var2]
+[Plsb][Pbeg]log[Psub][Plbb][var3][Prbb][var4][Pmin][var2][Prsb][var1] ||,|| [var4]ä»¥[var3]ç‚ºåº•çš„å°æ•¸æ¸›[var2]æ•´å€‹ä¹˜[var1]
+[var2][Pmin][var1] ||,|| [var2]æ¸›[var1]
+[Plbb][var2][Prbb][Pexp][Plbb][Pbeg]sin[Plbb][Plbb][var1][Prbb][Pexp][Plbb][Pbeg]pi[Prbb][Prbb][Prbb] ||,|| [var2]çš„sin[Pspa][var1]çš„piæ¬¡æ–¹[Pspa]æ¬¡æ–¹
+[Plbb][Pbeg]frac[Plbb][Pbeg]sqrt[Plbb]0[Pplu]2[Prbb][Prbb][Plbb]7[Prbb][Prbb][Pexp][Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb] ||,|| 7åˆ†ä¹‹æ ¹è™Ÿ0åŠ 2[Pspa]çš„æ ¹è™Ÿ[var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb]6[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹6
+[Pbeg]frac[Plbb][Pbeg]cos[Plbb]3[Prbb][Prbb][Plbb]9[Prbb] ||,|| 9åˆ†ä¹‹cos[Pspa]3
+[Pbeg]frac[Plbb][Plsb]cc[Prsb][var4][Prbb][Plbb][var1][Prbb][Plbb][var3][Prbb][Pexp][Plbb][var2][Prbb] ||,|| [var1]åˆ†ä¹‹æ‹¬è™Ÿccä¹˜[var4][Pspa]ä¹˜ä»¥[var3]çš„[var2]æ¬¡æ–¹
+[Plbb]6[Prbb][Pexp][Plbb]4[Prbb] ||,|| 6çš„4æ¬¡æ–¹
+[Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][Plbb]4[Prbb][Pexp][Plbb][var1][Prbb] ||,|| cos[Pspa]4[Pspa]ä¹˜ä»¥[Pspa]4çš„[var1]æ¬¡æ–¹
 [Pbeg]sin[Plbb]8[Prbb] ||,|| sin[Pspa]8
-[Plbb]1[Prbb][Pexp][Plbb][var2][Pmin][var1][Prbb] ||,|| 1ªº[var2]´î[var1]¦¸¤è
-[Plbb][Plbb]3[Prbb][Pexp][Plbb]7[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| 3ªº7[var1]¦¸¤è
-[Plbb]8[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 8ªº[var1]¦¸¤è
-[Plsb]5[Pmin][Plsb]8[Pplu][var2][Prsb][Prsb][Pplu][var1] ||,|| 5´î¬A¸¹8¥[[var2]¾ã­Ó¥[[var1]
-[Pbeg]cos[Plbb]9[Pplu][var1][Prbb] ||,|| cos[Pspa]9[Pspa]¥[[Pspa][var1]
-[Plbb]7[Prbb][Pexp][Plbb]3[var1][Prbb] ||,|| 7ªº3[var1]¦¸¤è
-[Pbeg]sin[Plbb]4[Plsb]1[Pplu]7[Prsb][Prbb] ||,|| sin[Pspa]4[Pspa]­¼¬A¸¹1¥[7
-[Pbeg]log[Psub][Plbb]2[Prbb][Plbb][var1][Prbb][Pexp][Plbb][Plsb]kz[Prsb][Pplu][var2][Prbb] ||,|| [var1]ªºkz¦¸¤è¥[[var2][Pspa]¥H2¬°©³ªº¹ï¼Æ
-[var1][Plsb]93[Prsb] ||,|| [var1]­¼93
-[Pbeg]frac[Plbb][Pbeg]sin[Plbb]0[Prbb][Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§sin[Pspa]0
-[var1][Pmin][Plsb][Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]7[Prbb]5[Prbb][Prsb] ||,|| [var1][Pspa]´î[Pspa]cos[Pspa]5¥H7¬°©³ªº¹ï¼Æ
-2[Pbeg]log[Psub][Plbb]4[Prbb][Plsb][Pbeg]sqrt[Plbb][var1][Prbb][Prsb] ||,|| 2­¼®Ú¸¹[var1]¥H4¬°©³ªº¹ï¼Æ
-[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb]0[Prbb][Prbb][var1] ||,|| [var1]¥H0¤À¤§3¬°©³ªº¹ï¼Æ
-[Plsb]1[Pplu]0[Prsb][Plsb][Pbeg]tan[Plbb]3[var1][Prbb][Prsb] ||,|| 1¥[0[Pspa]¾ã­Ó­¼[Pspa]tan[Pspa]3[var1]
-0[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]8[Prbb][Prbb][Pexp][Plbb][Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][var1][Prbb] ||,|| 0­¼8¤À¤§2[Pspa]ªºcos[Pspa]3[Pspa]­¼[var1][Pspa]¦¸¤è
-[var2][Pplu][Plbb]4[Pplu][var1][Prbb][Pexp][Plbb]n[Prbb] ||,|| [var2]¥[4¥[[var1]ªº[var1]¦¸¤è
+[Plbb]1[Prbb][Pexp][Plbb][var2][Pmin][var1][Prbb] ||,|| 1çš„[var2]æ¸›[var1]æ¬¡æ–¹
+[Plbb][Plbb]3[Prbb][Pexp][Plbb]7[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| 3çš„7[var1]æ¬¡æ–¹
+[Plbb]8[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 8çš„[var1]æ¬¡æ–¹
+[Plsb]5[Pmin][Plsb]8[Pplu][var2][Prsb][Prsb][Pplu][var1] ||,|| 5æ¸›æ‹¬è™Ÿ8åŠ [var2]æ•´å€‹åŠ [var1]
+[Pbeg]cos[Plbb]9[Pplu][var1][Prbb] ||,|| cos[Pspa]9[Pspa]åŠ [Pspa][var1]
+[Plbb]7[Prbb][Pexp][Plbb]3[var1][Prbb] ||,|| 7çš„3[var1]æ¬¡æ–¹
+[Pbeg]sin[Plbb]4[Plsb]1[Pplu]7[Prsb][Prbb] ||,|| sin[Pspa]4[Pspa]ä¹˜æ‹¬è™Ÿ1åŠ 7
+[Pbeg]log[Psub][Plbb]2[Prbb][Plbb][var1][Prbb][Pexp][Plbb][Plsb]kz[Prsb][Pplu][var2][Prbb] ||,|| [var1]çš„kzæ¬¡æ–¹åŠ [var2][Pspa]ä»¥2ç‚ºåº•çš„å°æ•¸
+[var1][Plsb]93[Prsb] ||,|| [var1]ä¹˜93
+[Pbeg]frac[Plbb][Pbeg]sin[Plbb]0[Prbb][Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹sin[Pspa]0
+[var1][Pmin][Plsb][Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]7[Prbb]5[Prbb][Prsb] ||,|| [var1][Pspa]æ¸›[Pspa]cos[Pspa]5ä»¥7ç‚ºåº•çš„å°æ•¸
+2[Pbeg]log[Psub][Plbb]4[Prbb][Plsb][Pbeg]sqrt[Plbb][var1][Prbb][Prsb] ||,|| 2ä¹˜æ ¹è™Ÿ[var1]ä»¥4ç‚ºåº•çš„å°æ•¸
+[Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb]0[Prbb][Prbb][var1] ||,|| [var1]ä»¥0åˆ†ä¹‹3ç‚ºåº•çš„å°æ•¸
+[Plsb]1[Pplu]0[Prsb][Plsb][Pbeg]tan[Plbb]3[var1][Prbb][Prsb] ||,|| 1åŠ 0[Pspa]æ•´å€‹ä¹˜[Pspa]tan[Pspa]3[var1]
+0[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]8[Prbb][Prbb][Pexp][Plbb][Plsb][Pbeg]cos[Plbb]3[Prbb][Prsb][var1][Prbb] ||,|| 0ä¹˜8åˆ†ä¹‹2[Pspa]çš„cos[Pspa]3[Pspa]ä¹˜[var1][Pspa]æ¬¡æ–¹
+[var2][Pplu][Plbb]4[Pplu][var1][Prbb][Pexp][Plbb]n[Prbb] ||,|| [var2]åŠ 4åŠ [var1]çš„[var1]æ¬¡æ–¹
 [Pbeg]tan[Plbb][var1][Prbb] ||,|| tan[Pspa][var1]
-[Plbb]1[Prbb][Pexp][Plbb]7[Prbb][Pplu][Plbb]9[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 1ªº7¦¸¤è¥[9ªº[var1]¦¸¤è
-[Pbeg]log[Psub][Plbb]4[Pplu][Plsb]2[var2][Prsb][Prbb][Plsb][var1][Pplu][var3][Prsb] ||,|| [var1]¥[[var3]¾ã­Ó¥H4¥[2[var2]¬°©³ªº¹ï¼Æ
-3[Pmin][Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb] ||,|| 3´î[var2]¤À¤§[var1]
-[Plbb][Plbb]5[Prbb][Pexp][Plbb]1[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| 5ªº1¦¸¤èªº[var1]¦¸¤è
+[Plbb]1[Prbb][Pexp][Plbb]7[Prbb][Pplu][Plbb]9[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 1çš„7æ¬¡æ–¹åŠ 9çš„[var1]æ¬¡æ–¹
+[Pbeg]log[Psub][Plbb]4[Pplu][Plsb]2[var2][Prsb][Prbb][Plsb][var1][Pplu][var3][Prsb] ||,|| [var1]åŠ [var3]æ•´å€‹ä»¥4åŠ 2[var2]ç‚ºåº•çš„å°æ•¸
+3[Pmin][Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb] ||,|| 3æ¸›[var2]åˆ†ä¹‹[var1]
+[Plbb][Plbb]5[Prbb][Pexp][Plbb]1[Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| 5çš„1æ¬¡æ–¹çš„[var1]æ¬¡æ–¹
 [Pbeg]log[Psub][Plbb]3[Prbb]0 ||,|| log[Pspa]3[Pspa]0
 3[var1] ||,|| 3[var1]
-[Plbb]0[Prbb][Pexp][Plbb]2[Pplu][Pbeg]log[Psub][Plbb]7[Prbb][Pbeg]log[Psub][Plbb][var1][Prbb][Pbeg]log[Psub][Plbb]1[Prbb][var2][Prbb] ||,|| 0ªº¥­¤è¥[log[Pspa]7[Pspa]log[Pspa][var1][Pspa]log[Pspa]1[Pspa]ªº[var2]
-[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb][Prbb] ||,|| ®Ú¸¹[var1]¤À¤§5
-7[Pmin][var1] ||,|| 7´î[var1]
-[var2][Pmin][Pbeg]log[Psub][Plbb]0[Prbb][Plbb]1[Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]´î[Pspa]1ªº[var1]¦¸¤è[Pspa]¥H0¬°©³ªº¹ï¼Æ
-8[Pmin]1 ||,|| 8´î[Pspa]1
-[Plsb]6[var1][Prsb][Plsb]pw[Prsb] ||,|| 6[var1]­¼pw
-[Plbb][Pbeg]log[Psub][Plbb][var4][Prbb][Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][var3][Prbb] ||,|| [var2]¤À¤§[var1]¥H[var4]¬°©³ªº¹ï¼Æ¾ã­Ó[var3]¦¸¤è
-3[Plsb][var2][Pplu][var1][Prsb] ||,|| 3­¼¤W¬A¸¹[var2]¥[[var1]
+[Plbb]0[Prbb][Pexp][Plbb]2[Pplu][Pbeg]log[Psub][Plbb]7[Prbb][Pbeg]log[Psub][Plbb][var1][Prbb][Pbeg]log[Psub][Plbb]1[Prbb][var2][Prbb] ||,|| 0çš„å¹³æ–¹åŠ log[Pspa]7[Pspa]log[Pspa][var1][Pspa]log[Pspa]1[Pspa]çš„[var2]
+[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb][Prbb] ||,|| æ ¹è™Ÿ[var1]åˆ†ä¹‹5
+7[Pmin][var1] ||,|| 7æ¸›[var1]
+[var2][Pmin][Pbeg]log[Psub][Plbb]0[Prbb][Plbb]1[Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]æ¸›[Pspa]1çš„[var1]æ¬¡æ–¹[Pspa]ä»¥0ç‚ºåº•çš„å°æ•¸
+8[Pmin]1 ||,|| 8æ¸›[Pspa]1
+[Plsb]6[var1][Prsb][Plsb]pw[Prsb] ||,|| 6[var1]ä¹˜pw
+[Plbb][Pbeg]log[Psub][Plbb][var4][Prbb][Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb][Prbb][Pexp][Plbb][var3][Prbb] ||,|| [var2]åˆ†ä¹‹[var1]ä»¥[var4]ç‚ºåº•çš„å°æ•¸æ•´å€‹[var3]æ¬¡æ–¹
+3[Plsb][var2][Pplu][var1][Prsb] ||,|| 3ä¹˜ä¸Šæ‹¬è™Ÿ[var2]åŠ [var1]
 [Pbeg]cos[Plbb]7[Prbb] ||,|| cos[Pspa]7
-9[Pmin][Plsb]3[Pmin][Pbeg]log[Psub][Plbb]4[Prbb][var1][Prsb] ||,|| 9´î¬A¸¹3´î[var1]¥H4¬°©³ªº¹ï¼Æ
-7[Pmin][Plsb][var1][Pmin][var2][Prsb] ||,|| 7´î¬A¸¹[var1]´î[var2]
-[Plbb]1[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 1ªº[var1]¦¸¤è
-[Pbeg]frac[Plbb]6[Prbb][Plbb]9[Prbb] ||,|| 6¤À¤§9
-[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]¥H0¬°©³ªº¹ï¼Æ
-[Pbeg]frac[Plbb]8[Prbb][Plbb][Plsb][Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]6[Prbb][Plbb][var1][Prbb][Prbb][Prsb][Pplu]5[Prbb] ||,|| ®Ú¸¹[var1]¤À¤§6¥[5[Pspa]¤À¤§8
+9[Pmin][Plsb]3[Pmin][Pbeg]log[Psub][Plbb]4[Prbb][var1][Prsb] ||,|| 9æ¸›æ‹¬è™Ÿ3æ¸›[var1]ä»¥4ç‚ºåº•çš„å°æ•¸
+7[Pmin][Plsb][var1][Pmin][var2][Prsb] ||,|| 7æ¸›æ‹¬è™Ÿ[var1]æ¸›[var2]
+[Plbb]1[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 1çš„[var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb]6[Prbb][Plbb]9[Prbb] ||,|| 6åˆ†ä¹‹9
+[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]ä»¥0ç‚ºåº•çš„å°æ•¸
+[Pbeg]frac[Plbb]8[Prbb][Plbb][Plsb][Pbeg]sqrt[Plbb][Pbeg]frac[Plbb]6[Prbb][Plbb][var1][Prbb][Prbb][Prsb][Pplu]5[Prbb] ||,|| æ ¹è™Ÿ[var1]åˆ†ä¹‹6åŠ 5[Pspa]åˆ†ä¹‹8
 [Pbeg]sin[Plbb][var1][Prbb] ||,|| sin[Pspa][var1]
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
 [Pbeg]cos[Plbb]4[Prbb] ||,|| cos[Pspa]4
-[Plsb]1[Pmin][var2][Prsb][var1] ||,|| 1´î[var2]¾ã­Ó­¼¤W[var1]
-[Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]6[Prbb][var1][Prbb] ||,|| 6ªºlog[Pspa]6[Pspa][var1][Pspa]¦¸¤è
+[Plsb]1[Pmin][var2][Prsb][var1] ||,|| 1æ¸›[var2]æ•´å€‹ä¹˜ä¸Š[var1]
+[Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]6[Prbb][var1][Prbb] ||,|| 6çš„log[Pspa]6[Pspa][var1][Pspa]æ¬¡æ–¹
 9[var1] ||,|| 9[var1]
-[Plbb][var1][Prbb][Pexp][Plbb][Plbb]2[Prbb][Pexp][Plbb]4[Prbb][Prbb] ||,|| [var1]ªº2ªº4¦¸¤è
-[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| ®Ú¸¹[var1]
-[Plbb]5[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 5ªº[var1]¦¸¤è
-[Pbeg]frac[Plbb]0[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§0
-[Pbeg]frac[Plbb][Plbb][var3][Prbb][Pexp][Plbb][var2][Prbb][Prbb][Plbb][var1][Pplu][Plsb][Pbeg]cos[Plbb]5[Prbb][Prsb][Prbb] ||,|| [var1]¥[cos[Pspa]5[Pspa]¤À¤§[var3]ªº[var2]¦¸¤è
-0[Pmin]9 ||,|| 0´î9
-[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb]8[Prbb] ||,|| cos[Pspa]8¥H®Ú¸¹[var1]¬°©³ªº¹ï¼Æ
-[Plsb][Plsb][Pbeg]sqrt[Plbb]8[Prbb][Prsb][Pplu][Plsb]0[Pmin][var2][Prsb][Prsb][Pplu][var1] ||,|| ®Ú¸¹8¥[¬A¸¹0´î[var2]¥[[var1]
-[Pbeg]frac[Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]4[Pplu]8[Prbb][Prbb][Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb][Prbb] ||,|| [var1]¤À¤§5[Pspa]¤À¤§[Pspa]4¥[8[Pspa]¤À¤§9
-[var1][Pplu][var2] ||,|| [var1]¥[[var2]
-4[Pplu][Plbb]1[Prbb][Pexp][Plbb]2[Prbb] ||,|| 4¥[1ªº¥­¤è
-[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb]6 ||,|| 6¥Hcos[Pspa][var1]¬°©³ªº¹ï¼Æ
-9[Pplu][Pbeg]frac[Plbb][Pbeg]sqrt[Plbb]2[Prbb][Prbb][Plbb][var1][Prbb] ||,|| 9¥[[var1]¤À¤§®Ú¸¹2
-[Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb] ||,|| [var2]¤À¤§[var1]
-[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| ®Ú¸¹[var1]
+[Plbb][var1][Prbb][Pexp][Plbb][Plbb]2[Prbb][Pexp][Plbb]4[Prbb][Prbb] ||,|| [var1]çš„2çš„4æ¬¡æ–¹
+[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| æ ¹è™Ÿ[var1]
+[Plbb]5[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 5çš„[var1]æ¬¡æ–¹
+[Pbeg]frac[Plbb]0[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹0
+[Pbeg]frac[Plbb][Plbb][var3][Prbb][Pexp][Plbb][var2][Prbb][Prbb][Plbb][var1][Pplu][Plsb][Pbeg]cos[Plbb]5[Prbb][Prsb][Prbb] ||,|| [var1]åŠ cos[Pspa]5[Pspa]åˆ†ä¹‹[var3]çš„[var2]æ¬¡æ–¹
+0[Pmin]9 ||,|| 0æ¸›9
+[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb]8[Prbb] ||,|| cos[Pspa]8ä»¥æ ¹è™Ÿ[var1]ç‚ºåº•çš„å°æ•¸
+[Plsb][Plsb][Pbeg]sqrt[Plbb]8[Prbb][Prsb][Pplu][Plsb]0[Pmin][var2][Prsb][Prsb][Pplu][var1] ||,|| æ ¹è™Ÿ8åŠ æ‹¬è™Ÿ0æ¸›[var2]åŠ [var1]
+[Pbeg]frac[Plbb][Pbeg]frac[Plbb]9[Prbb][Plbb]4[Pplu]8[Prbb][Prbb][Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb][Prbb] ||,|| [var1]åˆ†ä¹‹5[Pspa]åˆ†ä¹‹[Pspa]4åŠ 8[Pspa]åˆ†ä¹‹9
+[var1][Pplu][var2] ||,|| [var1]åŠ [var2]
+4[Pplu][Plbb]1[Prbb][Pexp][Plbb]2[Prbb] ||,|| 4åŠ 1çš„å¹³æ–¹
+[Pbeg]log[Psub][Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb]6 ||,|| 6ä»¥cos[Pspa][var1]ç‚ºåº•çš„å°æ•¸
+9[Pplu][Pbeg]frac[Plbb][Pbeg]sqrt[Plbb]2[Prbb][Prbb][Plbb][var1][Prbb] ||,|| 9åŠ [var1]åˆ†ä¹‹æ ¹è™Ÿ2
+[Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb] ||,|| [var2]åˆ†ä¹‹[var1]
+[Pbeg]sqrt[Plbb][var1][Prbb] ||,|| æ ¹è™Ÿ[var1]
 [Pbeg]sin[Plbb]4[Prbb] ||,|| sin[Pspa]4
-[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]2[Pplu][var2][Prbb][var1][Prbb] ||,|| [var1]¥H2¥[[var2]¬°©³ªº¹ï¼Æªºcos­È
-[Pbeg]frac[Plbb][var1][Prbb][Plbb][Plsb][Pbeg]tan[Plbb]5[Prbb][Prsb]4[Prbb] ||,|| tan[Pspa]5[Pspa]­¼4[Pspa]¤À¤§[var1]
-[Pbeg]frac[Plbb][var1][Prbb][Plbb]8[Pplu]8[Prbb] ||,|| 8¥[8[Pspa]¤À¤§[Pspa][var1]
+[Pbeg]cos[Plbb][Pbeg]log[Psub][Plbb]2[Pplu][var2][Prbb][var1][Prbb] ||,|| [var1]ä»¥2åŠ [var2]ç‚ºåº•çš„å°æ•¸çš„coså€¼
+[Pbeg]frac[Plbb][var1][Prbb][Plbb][Plsb][Pbeg]tan[Plbb]5[Prbb][Prsb]4[Prbb] ||,|| tan[Pspa]5[Pspa]ä¹˜4[Pspa]åˆ†ä¹‹[var1]
+[Pbeg]frac[Plbb][var1][Prbb][Plbb]8[Pplu]8[Prbb] ||,|| 8åŠ 8[Pspa]åˆ†ä¹‹[Pspa][var1]
 [Pbeg]cos[Plbb]2[Prbb] ||,|| cos[Pspa]2
-[Plbb]8[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb]5[Prbb][Prbb] ||,|| 8ªº5¤À¤§0¦¸¤è
-[Plbb]4[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 4ªº[var1]¦¸¤è
-[Pbeg]cos[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]8[Pmin][var1][Prbb][Prbb] ||,|| cos[Pspa]8´î[var1][Pspa]¤À¤§2
+[Plbb]8[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb]5[Prbb][Prbb] ||,|| 8çš„5åˆ†ä¹‹0æ¬¡æ–¹
+[Plbb]4[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 4çš„[var1]æ¬¡æ–¹
+[Pbeg]cos[Plbb][Pbeg]frac[Plbb]2[Prbb][Plbb]8[Pmin][var1][Prbb][Prbb] ||,|| cos[Pspa]8æ¸›[var1][Pspa]åˆ†ä¹‹2
 [Pbeg]tan[Plbb]1[Prbb] ||,|| tan[Pspa]1
-[var1][Pplu][var2] ||,|| [var1]¥[[var2]
-[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]¥H0¬°©³ªº¹ï¼Æ
-[Plbb]1[Prbb][Pexp][Plbb][var2][Prbb][Pmin][var1] ||,|| 1ªº[var2]¦¸¤è´î[var1]
-6[Pmin][Plsb]st[Prsb] ||,|| 6´î¬A¸¹st
-[Plbb][Pbeg]cos[Plbb][var2][Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| cos[Pspa][var2]ªº[var1]¦¸¤è
-[Plbb]3[Prbb][Pexp][Plbb][Plbb]6[Prbb][Pexp][Plbb]0[Prbb][Prbb] ||,|| 3ªº6¦¸¤èªº0¦¸¤è
+[var1][Pplu][var2] ||,|| [var1]åŠ [var2]
+[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]ä»¥0ç‚ºåº•çš„å°æ•¸
+[Plbb]1[Prbb][Pexp][Plbb][var2][Prbb][Pmin][var1] ||,|| 1çš„[var2]æ¬¡æ–¹æ¸›[var1]
+6[Pmin][Plsb]st[Prsb] ||,|| 6æ¸›æ‹¬è™Ÿst
+[Plbb][Pbeg]cos[Plbb][var2][Prbb][Prbb][Pexp][Plbb][var1][Prbb] ||,|| cos[Pspa][var2]çš„[var1]æ¬¡æ–¹
+[Plbb]3[Prbb][Pexp][Plbb][Plbb]6[Prbb][Pexp][Plbb]0[Prbb][Prbb] ||,|| 3çš„6æ¬¡æ–¹çš„0æ¬¡æ–¹
 [Pbeg]tan[Plbb][Pbeg]tan[Plbb]1[Prbb][Prbb] ||,|| tan[Pspa]tan[Pspa]1
-[Pbeg]sqrt[Plbb]9[Prbb] ||,|| ®Ú¸¹9
+[Pbeg]sqrt[Plbb]9[Prbb] ||,|| æ ¹è™Ÿ9
 [Pbeg]tan[Plbb][var1][Prbb] ||,|| tan[Pspa][var1]
-[Pbeg]frac[Plbb]1[Prbb][Plbb][Plbb][var2][Prbb][Pexp][Plbb][var1][Prbb][Prbb] ||,|| [var2]ªº[var1]¦¸¤è[Pspa]¤À¤§[Pspa]1
-[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb]4[Prbb][Prbb][Plsb][var1][Pplu][Pbeg]pi[Prsb] ||,|| [var1]¥[pi¥H®Ú¸¹4¬°©³ªº¹ï¼Æ
-[Pbeg]log[Psub][Plbb][var1][Prbb][Plsb][Pbeg]cos[Plbb]4[Prbb][Prsb][Pplu][Pbeg]pi ||,|| cos[Pspa]4[Pspa]¥H[var1]¬°©³ªº¹ï¼Æ¥[pi
-[Pbeg]log[Psub][Plbb]1[Prbb][Pbeg]log[Psub][Plbb]2[Prbb][Pbeg]log[Psub][Plbb]1[Prbb][var1] ||,|| [var1]¥H1¬°©³ªº¹ï¼Æ¥H2¬°©³¦A¥H1¬°©³
-[Pbeg]frac[Plbb]0[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§0
-[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb][Pbeg]tan[Plbb][Pbeg]pi[Prbb][Prbb][Plbb]02[Prbb][Prbb] ||,|| ®Ú¸¹02¤À¤§tan[Pspa]pi
-2[Pmin][Plsb][Pbeg]log[Psub][Plbb][var1][Prbb]rR[Prsb] ||,|| 2´îrR¥H[var1]¬°©³ªº¹ï¼Æ
-[Pbeg]frac[Plbb]5[Prbb][Plbb]7[Prbb] ||,|| 7¤À¤§5
-[Plbb]1[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb][var1][Prbb][Prbb] ||,|| 1ªº[var1]¤À¤§4
+[Pbeg]frac[Plbb]1[Prbb][Plbb][Plbb][var2][Prbb][Pexp][Plbb][var1][Prbb][Prbb] ||,|| [var2]çš„[var1]æ¬¡æ–¹[Pspa]åˆ†ä¹‹[Pspa]1
+[Pbeg]log[Psub][Plbb][Pbeg]sqrt[Plbb]4[Prbb][Prbb][Plsb][var1][Pplu][Pbeg]pi[Prsb] ||,|| [var1]åŠ piä»¥æ ¹è™Ÿ4ç‚ºåº•çš„å°æ•¸
+[Pbeg]log[Psub][Plbb][var1][Prbb][Plsb][Pbeg]cos[Plbb]4[Prbb][Prsb][Pplu][Pbeg]pi ||,|| cos[Pspa]4[Pspa]ä»¥[var1]ç‚ºåº•çš„å°æ•¸åŠ pi
+[Pbeg]log[Psub][Plbb]1[Prbb][Pbeg]log[Psub][Plbb]2[Prbb][Pbeg]log[Psub][Plbb]1[Prbb][var1] ||,|| [var1]ä»¥1ç‚ºåº•çš„å°æ•¸ä»¥2ç‚ºåº•å†ä»¥1ç‚ºåº•
+[Pbeg]frac[Plbb]0[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹0
+[Pbeg]sqrt[Plbb][Pbeg]frac[Plbb][Pbeg]tan[Plbb][Pbeg]pi[Prbb][Prbb][Plbb]02[Prbb][Prbb] ||,|| æ ¹è™Ÿ02åˆ†ä¹‹tan[Pspa]pi
+2[Pmin][Plsb][Pbeg]log[Psub][Plbb][var1][Prbb]rR[Prsb] ||,|| 2æ¸›rRä»¥[var1]ç‚ºåº•çš„å°æ•¸
+[Pbeg]frac[Plbb]5[Prbb][Plbb]7[Prbb] ||,|| 7åˆ†ä¹‹5
+[Plbb]1[Prbb][Pexp][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb][var1][Prbb][Prbb] ||,|| 1çš„[var1]åˆ†ä¹‹4
 [Pbeg]cos[Plbb][Pbeg]pi[Prbb] ||,|| cos[Pspa]pi
-[Pbeg]frac[Plbb]6[Prbb][Plbb][Pbeg]frac[Plbb]7[Prbb][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb]3[Pplu][Pbeg]pi[Prbb][Prbb][Prbb] ||,|| 3¥[pi¤À¤§4¤À¤§7¤À¤§6
-[Plsb]0[Pplu][var2][Prsb][Pmin][var1] ||,|| ¬A¸¹0¥[[var2]¾ã­Ó´î[var1]
-[Pbeg]frac[Plbb]5[Prbb][Plbb]7[Plsb]6[Pplu][var1][Prsb][Prbb] ||,|| 7­¼¥H¬A¸¹6¥[[var1][Pspa]¤À¤§5
-8[Pplu][Plsb]7[var1][Prsb] ||,|| 8¥[7[var1]
-1[Pmin][var1] ||,|| 1´î[var1]
-[Plbb][var2][Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]¤À¤§[var1]
-3[Pplu][var1] ||,|| 3¥[[var1]
+[Pbeg]frac[Plbb]6[Prbb][Plbb][Pbeg]frac[Plbb]7[Prbb][Plbb][Pbeg]frac[Plbb]4[Prbb][Plbb]3[Pplu][Pbeg]pi[Prbb][Prbb][Prbb] ||,|| 3åŠ piåˆ†ä¹‹4åˆ†ä¹‹7åˆ†ä¹‹6
+[Plsb]0[Pplu][var2][Prsb][Pmin][var1] ||,|| æ‹¬è™Ÿ0åŠ [var2]æ•´å€‹æ¸›[var1]
+[Pbeg]frac[Plbb]5[Prbb][Plbb]7[Plsb]6[Pplu][var1][Prsb][Prbb] ||,|| 7ä¹˜ä»¥æ‹¬è™Ÿ6åŠ [var1][Pspa]åˆ†ä¹‹5
+8[Pplu][Plsb]7[var1][Prsb] ||,|| 8åŠ 7[var1]
+1[Pmin][var1] ||,|| 1æ¸›[var1]
+[Plbb][var2][Prbb][Pexp][Plbb][var1][Prbb] ||,|| [var2]åˆ†ä¹‹[var1]
+3[Pplu][var1] ||,|| 3åŠ [var1]
 0[var1] ||,|| 0[var1]
-[Pbeg]frac[Plbb]5[Prbb][Plbb]4[Prbb] ||,|| 4¤À¤§5
-[var1][Plsb]4[var2][Prsb] ||,|| [var1]­¼¥H4[var2]
-[Pbeg]frac[Plbb]2[var1][Prbb][Plbb]9[Pmin][var2][Prbb] ||,|| 9´î[var2]¤À¤§2[var1]
+[Pbeg]frac[Plbb]5[Prbb][Plbb]4[Prbb] ||,|| 4åˆ†ä¹‹5
+[var1][Plsb]4[var2][Prsb] ||,|| [var1]ä¹˜ä»¥4[var2]
+[Pbeg]frac[Plbb]2[var1][Prbb][Plbb]9[Pmin][var2][Prbb] ||,|| 9æ¸›[var2]åˆ†ä¹‹2[var1]
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
-[Pbeg]sqrt[Plbb][Pbeg]cos[Plbb]2[Prbb][Prbb] ||,|| ®Ú¸¹cos[Pspa]2
-[Plbb][Plbb]8[Prbb][Pexp][Plbb][var2][Prbb][Pmin][Pbeg]pi[Prbb][Pexp][Plbb][Plbb]7[var1][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb][var3][Prbb][Prbb][Prbb] ||,|| 8ªº[var2]¦¸¤è´îpiªº7[var1]ªº[var3]¤À¤§0¦¸¤è
-[Pbeg]frac[Plbb]0[Pplu][Plsb]0[Pmin]1[Prsb][Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§0¥[¬A¸¹0´î1
-[Pbeg]sqrt[Plbb]3[Prbb] ||,|| ®Ú¸¹3
-7[Pplu][var1] ||,|| 7¥[[var1]
-[Plsb][Plsb]78[Prsb][Pplu][Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb][Prsb][var2] ||,|| 78¥[[var1]¤À¤§5¾ã­Ó­¼¥H[var2]
+[Pbeg]sqrt[Plbb][Pbeg]cos[Plbb]2[Prbb][Prbb] ||,|| æ ¹è™Ÿcos[Pspa]2
+[Plbb][Plbb]8[Prbb][Pexp][Plbb][var2][Prbb][Pmin][Pbeg]pi[Prbb][Pexp][Plbb][Plbb]7[var1][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]0[Prbb][Plbb][var3][Prbb][Prbb][Prbb] ||,|| 8çš„[var2]æ¬¡æ–¹æ¸›piçš„7[var1]çš„[var3]åˆ†ä¹‹0æ¬¡æ–¹
+[Pbeg]frac[Plbb]0[Pplu][Plsb]0[Pmin]1[Prsb][Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹0åŠ æ‹¬è™Ÿ0æ¸›1
+[Pbeg]sqrt[Plbb]3[Prbb] ||,|| æ ¹è™Ÿ3
+7[Pplu][var1] ||,|| 7åŠ [var1]
+[Plsb][Plsb]78[Prsb][Pplu][Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb][Prsb][var2] ||,|| 78åŠ [var1]åˆ†ä¹‹5æ•´å€‹ä¹˜ä»¥[var2]
 [Pbeg]log[Psub][Plbb]0[Prbb]1 ||,|| log[Pspa]0[Pspa]1
-[Plbb]6[Prbb][Pexp][Plbb][var1][Prbb][Pmin][var2] ||,|| 6ªº[var1]¦¸¤è´î[var2]
-8[Pplu][Plsb][Plsb][Pbeg]tan[Plbb][var1][Pmin][var3][Prbb][Prsb][var2][Prsb] ||,|| 8¥[¬A¸¹¬A¸¹tan[Pspa][var1]´î[var3]¬A¸¹­¼[var2]
-[Plsb][Pbeg]cos[Plbb][Pbeg]pi[Prbb][Prsb]7 ||,|| cos[Pspa]pi[Pspa]­¼¤W7
-[var2][Pplu][Plsb][var3][Pplu][var1][Prsb] ||,|| [var2]¥[¬A¸¹[var3]¥[[var1]
-[Plbb][Pbeg]log[Psub][Plbb][Pbeg]sin[Plbb][var2][Prbb][Prbb][Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][Prbb][Pexp][Plbb]4[var3][Prbb] ||,|| sin[Pspa][var1][Pspa]ªº4[var3]¦¸¤è¥Hsin[Pspa][var2][Pspa]¬°©³ªº¹ï¼Æ
+[Plbb]6[Prbb][Pexp][Plbb][var1][Prbb][Pmin][var2] ||,|| 6çš„[var1]æ¬¡æ–¹æ¸›[var2]
+8[Pplu][Plsb][Plsb][Pbeg]tan[Plbb][var1][Pmin][var3][Prbb][Prsb][var2][Prsb] ||,|| 8åŠ æ‹¬è™Ÿæ‹¬è™Ÿtan[Pspa][var1]æ¸›[var3]æ‹¬è™Ÿä¹˜[var2]
+[Plsb][Pbeg]cos[Plbb][Pbeg]pi[Prbb][Prsb]7 ||,|| cos[Pspa]pi[Pspa]ä¹˜ä¸Š7
+[var2][Pplu][Plsb][var3][Pplu][var1][Prsb] ||,|| [var2]åŠ æ‹¬è™Ÿ[var3]åŠ [var1]
+[Plbb][Pbeg]log[Psub][Plbb][Pbeg]sin[Plbb][var2][Prbb][Prbb][Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][Prbb][Pexp][Plbb]4[var3][Prbb] ||,|| sin[Pspa][var1][Pspa]çš„4[var3]æ¬¡æ–¹ä»¥sin[Pspa][var2][Pspa]ç‚ºåº•çš„å°æ•¸
 [Pbeg]sin[Plbb][var1][Prbb] ||,|| sin[Pspa][var1]
-[Plbb]1[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][var1][Prbb] ||,|| 1ªº[var1]¥Hpi¬°©³ªº¹ï¼Æªº¦¸¤è
-5[Pplu][Plsb][Pbeg]log[Psub][Plbb][var2][Prbb][var4][Pmin][Plbb][var1][Prbb][Pexp][Plbb][var3][Prbb][Prsb] ||,|| 5¥[¬A¸¹log[Pspa][var2][Pspa][var4]´î[var1]ªº[var3]¦¸¤è
-[Plbb]1[Prbb][Pexp][Plbb]08[Prbb] ||,|| 1ªº08¦¸¤è
-[Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb]5[Prbb][Pexp][Plbb]kx[Prbb][Prbb] ||,|| 5ªºkx¦¸¤è[Pspa]¤À¤§7
-[Plsb][var1][Pplu][Pbeg]frac[Plbb]3[Prbb][Plbb][Pbeg]log[Psub][Plbb]6[Prbb][Pbeg]log[Psub][Plbb]0[Prbb][var3][Prbb][Prsb][Pbeg]frac[Plbb]5[Prbb][Plbb][Pbeg]sin[Plbb][var2][Prbb][Prbb] ||,|| [var1]¥[[var3]¥H0¬°©³¦A¥H6¬°©³ªº¹ï¼Æ¤À¤§3¾ã­Ó­¼¤Wsin[Pspa][var2]¤À¤§5
-[Pbeg]tan[Plbb][Plsb]wn[Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb]6[Prbb][Prsb][Prbb] ||,|| tan[Pspa]wn[Pspa]¥[®Ú¸¹6
-[Pbeg]log[Psub][Plbb]9[Prbb][var2][Pplu][Plsb]3[Pplu][var1][Prsb] ||,|| log[Pspa]9[Pspa][var2][Pspa]¥[¬A¸¹3¥[[var1]
-[Pbeg]cos[Plbb]0[Pplu][Plsb]0[Pbeg]frac[Plbb]1[Prbb][Plbb]0[Prbb][Prsb][Prbb] ||,|| cos[Pspa]0¥[¤W[Pspa]0¤S0¤À¤§1
+[Plbb]1[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][var1][Prbb] ||,|| 1çš„[var1]ä»¥piç‚ºåº•çš„å°æ•¸çš„æ¬¡æ–¹
+5[Pplu][Plsb][Pbeg]log[Psub][Plbb][var2][Prbb][var4][Pmin][Plbb][var1][Prbb][Pexp][Plbb][var3][Prbb][Prsb] ||,|| 5åŠ æ‹¬è™Ÿlog[Pspa][var2][Pspa][var4]æ¸›[var1]çš„[var3]æ¬¡æ–¹
+[Plbb]1[Prbb][Pexp][Plbb]08[Prbb] ||,|| 1çš„08æ¬¡æ–¹
+[Pbeg]frac[Plbb]7[Prbb][Plbb][Plbb]5[Prbb][Pexp][Plbb]kx[Prbb][Prbb] ||,|| 5çš„kxæ¬¡æ–¹[Pspa]åˆ†ä¹‹7
+[Plsb][var1][Pplu][Pbeg]frac[Plbb]3[Prbb][Plbb][Pbeg]log[Psub][Plbb]6[Prbb][Pbeg]log[Psub][Plbb]0[Prbb][var3][Prbb][Prsb][Pbeg]frac[Plbb]5[Prbb][Plbb][Pbeg]sin[Plbb][var2][Prbb][Prbb] ||,|| [var1]åŠ [var3]ä»¥0ç‚ºåº•å†ä»¥6ç‚ºåº•çš„å°æ•¸åˆ†ä¹‹3æ•´å€‹ä¹˜ä¸Šsin[Pspa][var2]åˆ†ä¹‹5
+[Pbeg]tan[Plbb][Plsb]wn[Prsb][Pplu][Plsb][Pbeg]sqrt[Plbb]6[Prbb][Prsb][Prbb] ||,|| tan[Pspa]wn[Pspa]åŠ æ ¹è™Ÿ6
+[Pbeg]log[Psub][Plbb]9[Prbb][var2][Pplu][Plsb]3[Pplu][var1][Prsb] ||,|| log[Pspa]9[Pspa][var2][Pspa]åŠ æ‹¬è™Ÿ3åŠ [var1]
+[Pbeg]cos[Plbb]0[Pplu][Plsb]0[Pbeg]frac[Plbb]1[Prbb][Plbb]0[Prbb][Prsb][Prbb] ||,|| cos[Pspa]0åŠ ä¸Š[Pspa]0åˆ0åˆ†ä¹‹1
 0[var1] ||,|| 0[var1]
 ac ||,|| ac
-[Plsb][var1][Pplu][var2][Prsb][Pmin][Plsb]7[var3][Prsb] ||,|| ¬A¸¹[var1]¥[[var2]¾ã­Ó´î7[var3]
+[Plsb][var1][Pplu][var2][Prsb][Pmin][Plsb]7[var3][Prsb] ||,|| æ‹¬è™Ÿ[var1]åŠ [var2]æ•´å€‹æ¸›7[var3]
 [Pbeg]log[Psub][Plbb]9[Prbb]0 ||,|| log[Pspa]9[Pspa]0
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
 [Pbeg]tan[Plbb]5[Prbb] ||,|| tan[Pspa]5
-[Pbeg]log[Psub][Plbb][var4][Pmin][var1][Prbb][Plbb][var2][Prbb][Pexp][Plbb][var3][Prbb] ||,|| [var2]ªº[var3]¦¸¤è¥H[var4]´î[var1]¬°©³ªº¹ï¼Æ
-[Plsb][var1][Pmin][var3][Prsb][Plsb]3[Pplu][var2][Prsb] ||,|| ¬A¸¹[var1]´î[var3]¾ã­Ó­¼3¥[[var2]
-[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb] ||,|| sin[Pspa]®Ú¸¹[var1]
-1[Pplu]5 ||,|| 1¥[5
-[Pbeg]log[Psub][Plbb][var1][Prbb][Pbeg]pi ||,|| pi¥H[var1]¬°©³ªº¹ï¼Æ
-[Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][Pbeg]tan[Plbb][var1][Prbb][Prbb][Prbb][Pexp][Plbb][Pbeg]tan[Plbb][var3][Pplu][Plsb][Pbeg]sqrt[Plbb][var2][Prbb][Prsb][Prbb][Prbb] ||,|| tan[Pspa][var1][Pspa]¤À¤§5ªº[Pspa]tan[Pspa][var3]¥[®Ú¸¹[var2][Pspa]¦¸¤è
-[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]¥H0¬°©³¤§¹ï¼Æ­È
-6[Pplu][Plsb]7[Pmin][var1][Prsb] ||,|| 6¥[¬A¸¹7´î[var1]
-[Pbeg]sqrt[Plbb]3[Prbb] ||,|| ®Ú¸¹3
-[Pbeg]frac[Plbb][var1][Prbb][Plbb]6[var2][Prbb] ||,|| 6[var2]¤À¤§[var1]
-[Pbeg]log[Psub][Plbb]7[Prbb][Plbb]2[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 2ªº[var1]¦¸¤è¥H7¬°©³¤§¹ï¼Æ
-[var1][Plbb]1[Prbb][Pexp][Plbb][var2][Prbb] ||,|| [var1]­¼¤W1ªº[var2]¦¸¤è
+[Pbeg]log[Psub][Plbb][var4][Pmin][var1][Prbb][Plbb][var2][Prbb][Pexp][Plbb][var3][Prbb] ||,|| [var2]çš„[var3]æ¬¡æ–¹ä»¥[var4]æ¸›[var1]ç‚ºåº•çš„å°æ•¸
+[Plsb][var1][Pmin][var3][Prsb][Plsb]3[Pplu][var2][Prsb] ||,|| æ‹¬è™Ÿ[var1]æ¸›[var3]æ•´å€‹ä¹˜3åŠ [var2]
+[Pbeg]sin[Plbb][Pbeg]sqrt[Plbb][var1][Prbb][Prbb] ||,|| sin[Pspa]æ ¹è™Ÿ[var1]
+1[Pplu]5 ||,|| 1åŠ 5
+[Pbeg]log[Psub][Plbb][var1][Prbb][Pbeg]pi ||,|| piä»¥[var1]ç‚ºåº•çš„å°æ•¸
+[Plbb][Pbeg]frac[Plbb]5[Prbb][Plbb][Pbeg]tan[Plbb][var1][Prbb][Prbb][Prbb][Pexp][Plbb][Pbeg]tan[Plbb][var3][Pplu][Plsb][Pbeg]sqrt[Plbb][var2][Prbb][Prsb][Prbb][Prbb] ||,|| tan[Pspa][var1][Pspa]åˆ†ä¹‹5çš„[Pspa]tan[Pspa][var3]åŠ æ ¹è™Ÿ[var2][Pspa]æ¬¡æ–¹
+[Pbeg]log[Psub][Plbb]0[Prbb][var1] ||,|| [var1]ä»¥0ç‚ºåº•ä¹‹å°æ•¸å€¼
+6[Pplu][Plsb]7[Pmin][var1][Prsb] ||,|| 6åŠ æ‹¬è™Ÿ7æ¸›[var1]
+[Pbeg]sqrt[Plbb]3[Prbb] ||,|| æ ¹è™Ÿ3
+[Pbeg]frac[Plbb][var1][Prbb][Plbb]6[var2][Prbb] ||,|| 6[var2]åˆ†ä¹‹[var1]
+[Pbeg]log[Psub][Plbb]7[Prbb][Plbb]2[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 2çš„[var1]æ¬¡æ–¹ä»¥7ç‚ºåº•ä¹‹å°æ•¸
+[var1][Plbb]1[Prbb][Pexp][Plbb][var2][Prbb] ||,|| [var1]ä¹˜ä¸Š1çš„[var2]æ¬¡æ–¹
 [Pbeg]tan[Plbb]7[Prbb] ||,|| tan[Pspa]7
-[Pbeg]sin[Plbb][Pbeg]log[Psub][Plbb]3[var2][Prbb][var1][Prbb] ||,|| [var1]¥H3[var2]¬°©³¤§¹ï¼Æªºsin­È
-[Plbb]3[Prbb][Pexp][Plbb][var1][Prbb][Plsb]3[Pmin][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plsb][Pbeg]tan[Plbb]4[Prbb][Prsb][Pmin]3[Prsb][Prsb] ||,|| 3ªº[var1]¦¸¤è[Pspa]­¼¥H[Pspa]3´î[Pspa]tan4´î3[Pspa]¥H8¬°©³¤§¹ï¼Æ
-[Plbb]8[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]1[Prbb][Pbeg]frac[Plbb]1[Prbb][Plbb]1[Prbb][Prbb] ||,|| 8ªº1¤À¤§1[Pspa]¥H1¬°©³ªº¹ï¼Æªº¦¸¤è
-[Plsb]78[Prsb][var1] ||,|| 78­¼[var1]
-[Plsb]6[Pplu][var2][Prsb][Pplu][Plbb][var1][Prbb][Pexp][Plbb][var3][Prbb] ||,|| 6¥[[var2]¾ã­Ó¥[[var1]ªº[var3]¦¸¤è
-[Plsb]5[Plsb]3[Pplu][var2][Prsb][Prsb][Pplu][Plsb]0[Pmin][var1][Prsb] ||,|| 5¬A¸¹3¥[[var2][Pspa]¥[¬A¸¹0´î[var1]
+[Pbeg]sin[Plbb][Pbeg]log[Psub][Plbb]3[var2][Prbb][var1][Prbb] ||,|| [var1]ä»¥3[var2]ç‚ºåº•ä¹‹å°æ•¸çš„sinå€¼
+[Plbb]3[Prbb][Pexp][Plbb][var1][Prbb][Plsb]3[Pmin][Pbeg]log[Psub][Plbb]8[Prbb][Plsb][Plsb][Pbeg]tan[Plbb]4[Prbb][Prsb][Pmin]3[Prsb][Prsb] ||,|| 3çš„[var1]æ¬¡æ–¹[Pspa]ä¹˜ä»¥[Pspa]3æ¸›[Pspa]tan4æ¸›3[Pspa]ä»¥8ç‚ºåº•ä¹‹å°æ•¸
+[Plbb]8[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]1[Prbb][Pbeg]frac[Plbb]1[Prbb][Plbb]1[Prbb][Prbb] ||,|| 8çš„1åˆ†ä¹‹1[Pspa]ä»¥1ç‚ºåº•çš„å°æ•¸çš„æ¬¡æ–¹
+[Plsb]78[Prsb][var1] ||,|| 78ä¹˜[var1]
+[Plsb]6[Pplu][var2][Prsb][Pplu][Plbb][var1][Prbb][Pexp][Plbb][var3][Prbb] ||,|| 6åŠ [var2]æ•´å€‹åŠ [var1]çš„[var3]æ¬¡æ–¹
+[Plsb]5[Plsb]3[Pplu][var2][Prsb][Prsb][Pplu][Plsb]0[Pmin][var1][Prsb] ||,|| 5æ‹¬è™Ÿ3åŠ [var2][Pspa]åŠ æ‹¬è™Ÿ0æ¸›[var1]
 [Pbeg]tan[Plbb]4[Prbb] ||,|| tan[Pspa]4
-[var1][Plbb]8[Prbb][Pexp][Plbb]2[Prbb] ||,|| [var1]­¼8ªº¥­¤è
-[Pbeg]cos[Plbb][Pbeg]frac[Plbb]7[Prbb][Plbb][var1][Pmin][var2][Prbb][Prbb] ||,|| [var1]´î[var2][Pspa]¤À¤§7[Pspa]ªºcos­È
-[Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb] ||,|| [var2]¤À¤§[var1]
+[var1][Plbb]8[Prbb][Pexp][Plbb]2[Prbb] ||,|| [var1]ä¹˜8çš„å¹³æ–¹
+[Pbeg]cos[Plbb][Pbeg]frac[Plbb]7[Prbb][Plbb][var1][Pmin][var2][Prbb][Prbb] ||,|| [var1]æ¸›[var2][Pspa]åˆ†ä¹‹7[Pspa]çš„coså€¼
+[Pbeg]frac[Plbb][var1][Prbb][Plbb][var2][Prbb] ||,|| [var2]åˆ†ä¹‹[var1]
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
 [Pbeg]log[Psub][Plbb]6[Prbb]7 ||,|| log[Pspa]6[Pspa]7
 1[var1] ||,|| 1[var1]
-[var1][Plsb][Plsb][Pbeg]sqrt[Plbb]7[Prbb][Prsb][Pmin][var2][Prsb] ||,|| [var1]­¼¥H¬A¸¹®Ú¸¹7´î[var2]
+[var1][Plsb][Plsb][Pbeg]sqrt[Plbb]7[Prbb][Prsb][Pmin][var2][Prsb] ||,|| [var1]ä¹˜ä»¥æ‹¬è™Ÿæ ¹è™Ÿ7æ¸›[var2]
 sw ||,|| [var2][var1]
-[Pbeg]frac[Plbb]2[Pplu][var1][Prbb][Plbb][Pbeg]cos[Plbb][Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb][Pexp][Plbb][var2][Prbb][Prbb][Prbb] ||,|| cos[Pspa]tan[Pspa]6ªº[var2]¦¸¤è¤À¤§2¥[[var1]
-[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Plbb][Pbeg]cos[Plbb]1[Prbb][Prbb][Pexp][Plbb][var1][Pplu][var2][Prbb][Prbb][Prbb] ||,|| cos®Ú¸¹cos[Pspa]1ªº[var1]¥[[var2]¦¸¤è
-[Pbeg]frac[Plbb][var2][Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§[var2]
-[var2][Pplu][var1] ||,|| [var2]¥[[var1]
-[Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb] ||,|| [var1]¤À¤§5
-[Plbb]8[Prbb][Pexp][Plbb]6[Pplu][var1][Prbb] ||,|| 8ªº6¥[[var1]¦¸¤è
-8[Pplu][Plsb]8[var1][Prsb] ||,|| 8¥[¬A¸¹8[var1]
-5[Plsb]9[Pplu][var1][Prsb] ||,|| 5­¼¬A¸¹9¥[[var1]
-2[Pmin][Plsb]8[Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][Prsb] ||,|| 2´î¬A¸¹8­¼sin[Pspa][var1]
-[Plbb]5[Prbb][Pexp][Plbb][var1][Prbb][Pplu][Plsb]68[Prsb] ||,|| 5¥[[var1]¤À¤§68
-[Plsb]0[var3][Prsb][Pmin][Plsb][var1][Pmin][var2][Prsb] ||,|| 0[var3]´î¬A¸¹[var1]´î[var2]
-[Plbb][var2][Pmin][var3][Prbb][Pexp][Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb] ||,|| [var2]-[var3]ªºcos[Pspa][var1][Pspa]¦¸¤è
-[Plbb]4[Prbb][Pexp][Plbb][Plbb][var1][Pplu][Plsb]7[Pmin]4[Prsb][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][var2][Prbb][Prbb][Prbb] ||,|| 4ªº[var1]¥[¬A¸¹7´î4ªº[var2]¤À¤§3¦¸¤è
-9[Plsb]39[Prsb] ||,|| 9¬A¸¹39
-[Pbeg]frac[Plbb]4[Plsb]1[Pmin][var1][Prsb][Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb][var2][Prbb][Prbb] ||,|| 6ªº[var2]¦¸¤è¤À¤§4­¼¬A¸¹1´î[var1]
-[Pbeg]sqrt[Plbb][Pbeg]log[Psub][Plbb]3[Prbb][var1][Prbb] ||,|| ®Ú¸¹log[Pspa]3[Pspa][var1]
-[Pbeg]frac[Plbb]5[Prbb][Plbb]2[Prbb][Plbb][Plbb]2[Prbb][Pexp][Plbb][var1][Prbb][Pplu][var2][Prbb][Pexp][Plbb]8[Pplu]8[Prbb] ||,|| 2¤À¤§5­¼2ªº[var1]¦¸¤è¥[[var2]ªº8¥[8¦¸¤è
-9[Pmin]7 ||,|| 9´î7
-[Pbeg]log[Psub][Plbb][Pbeg]log[Psub][Plbb]4[Prbb][var2][Prbb][var1] ||,|| [var1]¥Hlog[Pspa]4[Pspa][var2]¬°©³¤§¹ï¼Æ
-6[Plsb][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb][Pmin][var1][Prsb] ||,|| 6­¼¬A¸¹sin[Pspa]6[Pspa]´î[var1]
-[Plbb]4[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]6[Prbb][Plbb][var2][Prbb][Prbb][var1][Prbb] ||,|| 4ªºlog[Pspa][var2]¤À¤§6[Pspa][var1][Pspa]¦¸¤è
-[Pbeg]cos[Plbb][Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb][Pexp][Plbb][var1][Prbb][Prbb] ||,|| cos[Pspa]­¼tan[Pspa]6[Pspa]ªº[var1]¦¸¤è
-8[Pplu][Plsb][var2][Pplu][var1][Prsb] ||,|| 8¥[¬A¸¹[var2]¥[[var1]
-[var1][Pplu][Plsb]8[var2][Prsb] ||,|| [var1]¥[¬A¸¹8[var2]
-[Pbeg]log[Psub][Plbb][var1][Prbb][Pbeg]frac[Plbb]3[Prbb][Plbb][var2][Prbb] ||,|| [var2]¤À¤§3[Pspa]¥H[var1]¬°©³ªº¹ï¼Æ
-[Pbeg]frac[Plbb]8[Prbb][Plbb]6[Prbb] ||,|| 6¤À¤§8
-[Pbeg]frac[Plbb]1[Prbb][Plbb]3[Prbb] ||,|| 3¤À¤§1
+[Pbeg]frac[Plbb]2[Pplu][var1][Prbb][Plbb][Pbeg]cos[Plbb][Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb][Pexp][Plbb][var2][Prbb][Prbb][Prbb] ||,|| cos[Pspa]tan[Pspa]6çš„[var2]æ¬¡æ–¹åˆ†ä¹‹2åŠ [var1]
+[Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Plbb][Pbeg]cos[Plbb]1[Prbb][Prbb][Pexp][Plbb][var1][Pplu][var2][Prbb][Prbb][Prbb] ||,|| cosæ ¹è™Ÿcos[Pspa]1çš„[var1]åŠ [var2]æ¬¡æ–¹
+[Pbeg]frac[Plbb][var2][Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹[var2]
+[var2][Pplu][var1] ||,|| [var2]åŠ [var1]
+[Pbeg]frac[Plbb]5[Prbb][Plbb][var1][Prbb] ||,|| [var1]åˆ†ä¹‹5
+[Plbb]8[Prbb][Pexp][Plbb]6[Pplu][var1][Prbb] ||,|| 8çš„6åŠ [var1]æ¬¡æ–¹
+8[Pplu][Plsb]8[var1][Prsb] ||,|| 8åŠ æ‹¬è™Ÿ8[var1]
+5[Plsb]9[Pplu][var1][Prsb] ||,|| 5ä¹˜æ‹¬è™Ÿ9åŠ [var1]
+2[Pmin][Plsb]8[Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][Prsb] ||,|| 2æ¸›æ‹¬è™Ÿ8ä¹˜sin[Pspa][var1]
+[Plbb]5[Prbb][Pexp][Plbb][var1][Prbb][Pplu][Plsb]68[Prsb] ||,|| 5åŠ [var1]åˆ†ä¹‹68
+[Plsb]0[var3][Prsb][Pmin][Plsb][var1][Pmin][var2][Prsb] ||,|| 0[var3]æ¸›æ‹¬è™Ÿ[var1]æ¸›[var2]
+[Plbb][var2][Pmin][var3][Prbb][Pexp][Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb] ||,|| [var2]-[var3]çš„cos[Pspa][var1][Pspa]æ¬¡æ–¹
+[Plbb]4[Prbb][Pexp][Plbb][Plbb][var1][Pplu][Plsb]7[Pmin]4[Prsb][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][var2][Prbb][Prbb][Prbb] ||,|| 4çš„[var1]åŠ æ‹¬è™Ÿ7æ¸›4çš„[var2]åˆ†ä¹‹3æ¬¡æ–¹
+9[Plsb]39[Prsb] ||,|| 9æ‹¬è™Ÿ39
+[Pbeg]frac[Plbb]4[Plsb]1[Pmin][var1][Prsb][Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb][var2][Prbb][Prbb] ||,|| 6çš„[var2]æ¬¡æ–¹åˆ†ä¹‹4ä¹˜æ‹¬è™Ÿ1æ¸›[var1]
+[Pbeg]sqrt[Plbb][Pbeg]log[Psub][Plbb]3[Prbb][var1][Prbb] ||,|| æ ¹è™Ÿlog[Pspa]3[Pspa][var1]
+[Pbeg]frac[Plbb]5[Prbb][Plbb]2[Prbb][Plbb][Plbb]2[Prbb][Pexp][Plbb][var1][Prbb][Pplu][var2][Prbb][Pexp][Plbb]8[Pplu]8[Prbb] ||,|| 2åˆ†ä¹‹5ä¹˜2çš„[var1]æ¬¡æ–¹åŠ [var2]çš„8åŠ 8æ¬¡æ–¹
+9[Pmin]7 ||,|| 9æ¸›7
+[Pbeg]log[Psub][Plbb][Pbeg]log[Psub][Plbb]4[Prbb][var2][Prbb][var1] ||,|| [var1]ä»¥log[Pspa]4[Pspa][var2]ç‚ºåº•ä¹‹å°æ•¸
+6[Plsb][Plsb][Pbeg]sin[Plbb]6[Prbb][Prsb][Pmin][var1][Prsb] ||,|| 6ä¹˜æ‹¬è™Ÿsin[Pspa]6[Pspa]æ¸›[var1]
+[Plbb]4[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]6[Prbb][Plbb][var2][Prbb][Prbb][var1][Prbb] ||,|| 4çš„log[Pspa][var2]åˆ†ä¹‹6[Pspa][var1][Pspa]æ¬¡æ–¹
+[Pbeg]cos[Plbb][Plbb][Pbeg]tan[Plbb]6[Prbb][Prbb][Pexp][Plbb][var1][Prbb][Prbb] ||,|| cos[Pspa]ä¹˜tan[Pspa]6[Pspa]çš„[var1]æ¬¡æ–¹
+8[Pplu][Plsb][var2][Pplu][var1][Prsb] ||,|| 8åŠ æ‹¬è™Ÿ[var2]åŠ [var1]
+[var1][Pplu][Plsb]8[var2][Prsb] ||,|| [var1]åŠ æ‹¬è™Ÿ8[var2]
+[Pbeg]log[Psub][Plbb][var1][Prbb][Pbeg]frac[Plbb]3[Prbb][Plbb][var2][Prbb] ||,|| [var2]åˆ†ä¹‹3[Pspa]ä»¥[var1]ç‚ºåº•çš„å°æ•¸
+[Pbeg]frac[Plbb]8[Prbb][Plbb]6[Prbb] ||,|| 6åˆ†ä¹‹8
+[Pbeg]frac[Plbb]1[Prbb][Plbb]3[Prbb] ||,|| 3åˆ†ä¹‹1
 [Pbeg]cos[Plbb][var1][Prbb] ||,|| cos[Pspa][var1]
-4[Pplu][Plsb][var1][Pplu][var2][Prsb] ||,|| 4¥[¬A¸¹[var1]¥[[var2]
-[Pbeg]log[Psub][Plbb]9[Prbb][Pbeg]pi ||,|| pi¥H9¬°©³ªº¹ï¼Æ
-7[Pplu][Plsb][Pbeg]sqrt[Plbb][var1][Prbb][Prsb] ||,|| 7¥[¬A¸¹®Ú¸¹[var1]
+4[Pplu][Plsb][var1][Pplu][var2][Prsb] ||,|| 4åŠ æ‹¬è™Ÿ[var1]åŠ [var2]
+[Pbeg]log[Psub][Plbb]9[Prbb][Pbeg]pi ||,|| piä»¥9ç‚ºåº•çš„å°æ•¸
+7[Pplu][Plsb][Pbeg]sqrt[Plbb][var1][Prbb][Prsb] ||,|| 7åŠ æ‹¬è™Ÿæ ¹è™Ÿ[var1]
 [Pbeg]log[Psub][Plbb]8[Prbb][var1] ||,|| log[Pspa]8[Pspa][var1]
 [Pbeg]log[Psub][Plbb][var1][Prbb][var2] ||,|| log[Pspa][var1][Pspa][var2]
-[Pbeg]sqrt[Plbb]40[Prbb] ||,|| ®Ú¸¹40
-[Plbb]3[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 3ªº[var1]¦¸¤è
+[Pbeg]sqrt[Plbb]40[Prbb] ||,|| æ ¹è™Ÿ40
+[Plbb]3[Prbb][Pexp][Plbb][var1][Prbb] ||,|| 3çš„[var1]æ¬¡æ–¹
