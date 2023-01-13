@@ -29,7 +29,7 @@ with open(doc_dir,'r') as file:
     bm25 = BM25Okapi(tokencorpus)
 
     #for loop start here
-    query = "cos[Pspa][var1]的5次方"
+    query = "cos[Pspa][var1]的[var2]次方[Pspa]分之12"
     tokenized_query = tokenizer.tokenize(query)
     print(tokenized_query)
     score = bm25.get_scores(tokenized_query)
