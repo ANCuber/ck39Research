@@ -2,7 +2,7 @@ print("import stuff")
 from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers 
 import os
-UsedModel = "amine/bert-base-5lang-cased"
+UsedModel = "/home/12518research/ck39Research/code/Pretrain/encoder"#"amine/bert-base-5lang-cased"
 tokenizer = AutoTokenizer.from_pretrained(UsedModel)
 '''
 special token
@@ -16,12 +16,12 @@ tokenizer.add_tokens(["frac","addcontentsline ", "addtocontents ", "addtocounter
 for i in range(1,51):
     tokenizer.add_tokens(["[var{}]".format(i)])
 # puncuation
-tokenizer.add_tokens(["[","[Plmb]","]","[Prmb]"," ","[Pspa]","^","[Pexp]","+","[Pplu]","-","[Pmin]","(","[Plsb]",")","[Prsb]","/","[Pdiv]",",","[Plbb]",",","[Prbb]","\\","[Pbeg]","=","[Peql]","<","[Ples]",">","[Pbgr]",",","[Pcol]","!","[Pexc]","_","[Psub]",",","[Pcom]"])
+tokenizer.add_tokens(["[Plmb]","[Prmb]","[Pspa]","[Pexp]","[Pplu]","[Pmin]","[Plsb]","[Prsb]","[Pdiv]","[Plbb]","[Prbb]","[Pbeg]","[Peql]","[Ples]","[Pbgr]","[Pcol]","[Pexc]","[Psub]","[Pcom]"])
 
 print('dataset start')
 dataset = LineByLineTextDataset(
     tokenizer = tokenizer,
-    file_path = r'/home/12518research/ck39Research/data/Data/pretrain/200000.txt',
+    file_path = r'/home/12518research/ck39Research/data/Data/pretrain/math&chinese.txt',
     block_size = 256 # maximum sequence length
 )
 
@@ -37,14 +37,18 @@ data_collator = DataCollatorForLanguageModeling(
 )
 print('data_collator finish')
 
-modeldir = "decoder"
+modeldir = "encoder"
 
 from transformers import Trainer, TrainingArguments
 print('training arg')
 training_args = TrainingArguments(
     output_dir='/home/12518research/ck39Research/code/Pretrain/'+modeldir,
     overwrite_output_dir=True,
-    logging_steps=10
+    logging_steps=10,
+    learning_rate=1e-04,
+    num_train_epochs= 100,
+    per_device_train_batch_size=20,
+
 )
 print('traning arg done, trainer arg')
 trainer = Trainer(
