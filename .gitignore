@@ -1,2 +1,4 @@
 model/
 *.bin
+decoder/
+encoder/

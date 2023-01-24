@@ -1,8 +1,8 @@
 print("import stuff")
-from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel,T5ForConditionalGeneration
+from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers 
 import os
-UsedModel = "t5-base"
+UsedModel = "amine/bert-base-5lang-cased"
 tokenizer = AutoTokenizer.from_pretrained(UsedModel)
 '''
 special token
@@ -21,27 +21,28 @@ tokenizer.add_tokens(["[","[Plmb]","]","[Prmb]"," ","[Pspa]","^","[Pexp]","+","[
 print('dataset start')
 dataset = LineByLineTextDataset(
     tokenizer = tokenizer,
-    file_path = r'/home/12518research/ck39Research/data/Data/pretrain/2000&chinese.txt',
+    file_path = r'/home/12518research/ck39Research/data/Data/pretrain/200000.txt',
     block_size = 256 # maximum sequence length
 )
 
 print('dataset finish,model get start')
 
  
-model = T5ForConditionalGeneration.from_pretrained(UsedModel)
+model = AutoModelForMaskedLM.from_pretrained(UsedModel)
 print('model get end,resize token')
 model.resize_token_embeddings(len(tokenizer))
 print('resized token,start data_collator')
 data_collator = DataCollatorForLanguageModeling(
-    tokenizer=tokenizer, mlm=False
+    tokenizer=tokenizer, mlm=True, mlm_probability=0.15
 )
 print('data_collator finish')
 
+modeldir = "decoder"
 
 from transformers import Trainer, TrainingArguments
 print('training arg')
 training_args = TrainingArguments(
-    output_dir='/home/12518research/ck39Research/code/Pretrain/model',
+    output_dir='/home/12518research/ck39Research/code/Pretrain/'+modeldir,
     overwrite_output_dir=True,
     logging_steps=10
 )
@@ -56,8 +57,7 @@ trainer = Trainer(
 print('trainer arg done, start train')
 trainer.train()
 print('train done')
-trainer.save_model('/home/12518research/ck39Research/code/Pretrain/model/')
-tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/model/')
-tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/model/')
-
+trainer.save_model('/home/12518research/ck39Research/code/Pretrain/'+modeldir)
+tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/'+modeldir+"/")
+tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/'+modeldir+'/')
 
