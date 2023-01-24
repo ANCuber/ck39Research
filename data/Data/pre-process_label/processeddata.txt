@@ -1,7 +1,6 @@
 7[Plbb][var1][Prbb] ||,|| 7[var1]
 [Pbeg]log[Psub][Plbb][Plbb][var2][Prbb][Prbb][Plbb][var1][Prbb] ||,|| [var1]以[var2]爲底的對數
 [Pbeg]cos[Plbb][Pbeg]sqrt[Plbb][Plbb][var1][Prbb][Prbb][Prbb] ||,|| cos[Pspa]根號[var1]
-[Pbeg]frac[Plbb][Plbb][var2][Prbb][Prbb][Plbb][Plbb][var1][Prbb][Prbb] ||,|| 分之[var1]
 [Pbeg]log[Psub][Plbb]6[Prbb][Plbb][var1][Prbb] ||,|| [var1]以6爲底的對數
 1[Pplu][Plbb][var1][Prbb] ||,|| 1加[var1]
 [Pbeg]cos[Plbb][Pbeg]frac[Plbb]8[Prbb][Plbb]1[Prbb][Prbb] ||,|| cos[Pspa]1分之8
