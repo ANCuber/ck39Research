@@ -1,7 +1,7 @@
 #!pip3 install rank_bm25
 from transformers import AutoTokenizer
 
-tokenizer = AutoTokenizer.from_pretrained("/home/12518research/ck39Research/code/Pretrain/model")
+tokenizer = AutoTokenizer.from_pretrained("/home/12518research/ck39Research/code/Pretrain/encoder")
 
 from rank_bm25 import BM25Okapi
 
@@ -16,7 +16,8 @@ def listtoword(arr):
 
 
 
-doc_dir = "/home/12518research/ck39Research/data/Data/dpr/1000data1/newdata.csv"
+doc_dir = "/home/12518research/ck39Research/data/Data/dpr/newdata.csv"
+convertdir = ""
 with open(doc_dir,'r') as file:
     corpus = csv.reader(file)
     tokencorpus = []
@@ -30,6 +31,7 @@ with open(doc_dir,'r') as file:
     bm25 = BM25Okapi(tokencorpus)
 
     #for loop start here
+
     query = "cos[Pspa][var1]的[var2]次方[Pspa]分之12"
     tokenized_query = tokenizer.tokenize(query)
     print(tokenized_query)
