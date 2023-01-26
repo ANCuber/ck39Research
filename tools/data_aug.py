@@ -1,4 +1,4 @@
-
+import random
 # -*- coding:utf-8 -*-
 def next_permutation(a):
     """Generate the lexicographically next permutation inplace.
@@ -64,19 +64,18 @@ with open(filedir,'r',encoding = 'utf-8') as f:
 n = len(dataarr_per)
 
 final = []
+five_con_list = [["[Peql]","等於"],["[Ples]","小於"],["[Pbgr]","大於"],["[Pbeg]leq[Pspa]","小於等於"],["[Pbeg]geq[Pspa]","大於等於"]]
 for i in dataarr_per:
     final.append(i)
 for i in range(0,n):
-    for j in range(i,n):
+    tobepair = random.sample(dataarr_per,(int)(0.01*n))
+    for j in tobepair:
         a = dataarr_per[i][0]
         b = dataarr_per[i][1]
-        c = dataarr_per[j][0]
-        d = dataarr_per[j][1]
-        final.append([a+"[Peql]"+c,b+"等於"+d])
-        final.append([a+"[Ples]"+c,b+"小於"+d])
-        final.append([a+"[Pbgr]"+c,b+"大於"+d])
-        final.append([a+"[Pbeg]leq[Pspa]"+c,b+"小於等於"+d])
-        final.append([a+"[Pbeg]geq[Pspa]"+c,b+"大於等於"+d])
+        c = j[0]
+        d = j[1]
+        k = random.randint(0,4);
+        final.append([a+five_con_list[k][0]+c,b+five_con_list[k][1]+d])
 
 print(len(final))
 
