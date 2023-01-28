@@ -2,8 +2,8 @@ print("import stuff")
 from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers 
 import os
-UsedModel = "/home/12518research/ck39Research/code/Pretrain/encoder"#"amine/bert-base-5lang-cased"
-tokenizer = AutoTokenizer.from_pretrained(UsedModel)
+UsedModel = "/home/12518research/ck39Research/model/bert-p2000&chi/checkpoint-5000"
+tokenizer = AutoTokenizer.from_pretrained("amine/bert-base-5lang-cased")
 '''
 special token
 '''
@@ -17,7 +17,8 @@ for i in range(1,51):
     tokenizer.add_tokens(["[var{}]".format(i)])
 # puncuation
 tokenizer.add_tokens(["[Plmb]","[Prmb]","[Pspa]","[Pexp]","[Pplu]","[Pmin]","[Plsb]","[Prsb]","[Pdiv]","[Plbb]","[Prbb]","[Pbeg]","[Peql]","[Ples]","[Pbgr]","[Pcol]","[Pexc]","[Psub]","[Pcom]"])
-
+output = "/home/12518research/ck39Research/model/bert-p2000&chi"
+tokenizer.save_pretrained(output)
 print('dataset start')
 dataset = LineByLineTextDataset(
     tokenizer = tokenizer,
@@ -37,17 +38,17 @@ data_collator = DataCollatorForLanguageModeling(
 )
 print('data_collator finish')
 
-modeldir = "encoder"
 
 from transformers import Trainer, TrainingArguments
 print('training arg')
+
 training_args = TrainingArguments(
-    output_dir='/home/12518research/ck39Research/code/Pretrain/'+modeldir,
+    output_dir=output,
     overwrite_output_dir=True,
-    logging_steps=10,
-    learning_rate=1e-04,
-    num_train_epochs= 100,
-    per_device_train_batch_size=20,
+    logging_steps=20,
+    learning_rate=5e-05,
+    num_train_epochs= 1,
+    per_device_train_batch_size=8,
 
 )
 print('traning arg done, trainer arg')
@@ -61,7 +62,6 @@ trainer = Trainer(
 print('trainer arg done, start train')
 trainer.train()
 print('train done')
-trainer.save_model('/home/12518research/ck39Research/code/Pretrain/'+modeldir)
-tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/'+modeldir+"/")
-tokenizer.save_pretrained('/home/12518research/ck39Research/code/Pretrain/'+modeldir+'/')
+trainer.save_model(output)
+tokenizer.save_pretrained(output)
 
