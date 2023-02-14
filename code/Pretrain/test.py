@@ -1,7 +1,7 @@
 
 from transformers import BertTokenizer, LineByLineTextDataset,BertConfig, BertForMaskedLM, DataCollatorForLanguageModeling,pipeline
 # load the model checkpoint
-UsedModel = "/home/12518research/ck39Research/model/bert-p2000&chi"
+UsedModel = "/home/12518research/ck39Research/model/bert-p20000"
 model = BertForMaskedLM.from_pretrained(UsedModel)
 # load the tokenizer
 tokenizer = BertTokenizer.from_pretrained(UsedModel)
@@ -10,8 +10,8 @@ fill_mask = pipeline("fill-mask", model=model, tokenizer=tokenizer)
 
 examples = [
   "[Pbeg][MASK][Plbb][var1][Prbb]",
-  "等腰[MASK]角形",
-  "分[MASK]"
+  "[var1][MASK]之[var2]",
+  "3[MASK][var1]分之[var2]"
 ]
 for example in examples:
   print(example)

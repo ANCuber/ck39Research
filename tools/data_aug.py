@@ -32,9 +32,14 @@ name = input("name your file:")
 
 resultfile = writefile+r"/"+name+".txt"
 dataarr_per = []
+
 with open(filedir,'r',encoding = 'utf-8') as f:
     sour = f.readlines()
-    dataarr = [line.split('||,||') for line in sour]
+    dataarr_per = [line.split('||,||') for line in sour]
+    for i in range(len(dataarr_per)):
+        dataarr_per[i][0] = dataarr_per[i][0].replace('\n','')
+        dataarr_per[i][1] = dataarr_per[i][1].replace('\n','')
+    """
     #var permutations:
     for pair in dataarr:
         pair[0] = pair[0].strip('\n')
@@ -59,23 +64,40 @@ with open(filedir,'r',encoding = 'utf-8') as f:
                 npair[1]=npair[1].replace("--[var{}]--".format(i),"[var{}]".format(permutation[i-1]))
             dataarr_per.append(npair)
             k = next_permutation(permutation)
+            """
     print(len(dataarr_per))
+    
 
 n = len(dataarr_per)
 
 final = []
 five_con_list = [["[Peql]","等於"],["[Ples]","小於"],["[Pbgr]","大於"],["[Pbeg]leq[Pspa]","小於等於"],["[Pbeg]geq[Pspa]","大於等於"]]
+
+"""
 for i in dataarr_per:
     final.append(i)
+"""
+
 for i in range(0,n):
-    tobepair = random.sample(dataarr_per,(int)(0.01*n))
+    tobepair = random.sample(dataarr_per,n//2)#(int)(0.006*n))
     for j in tobepair:
         a = dataarr_per[i][0]
         b = dataarr_per[i][1]
-        c = j[0]
-        d = j[1]
-        k = random.randint(0,4);
-        final.append([a+five_con_list[k][0]+c,b+five_con_list[k][1]+d])
+        rd  = random.randint(0,1)
+        if rd != 0:
+            c = j[0]
+            d = j[1]
+        else:
+            c = str(random.randint(0,20000))
+        k = random.randint(0,4)
+        if rd != 0:
+            final.append([a+five_con_list[k][0]+c,b+five_con_list[k][1]+d])
+        else:
+            rvs = random.randint(0,1)
+            if rvs == 0:
+                final.append([a+five_con_list[k][0]+c,b+five_con_list[k][1]+c])
+            else:
+                final.append([c+five_con_list[k][0]+a,c+five_con_list[k][1]+b])
 
 print(len(final))
 

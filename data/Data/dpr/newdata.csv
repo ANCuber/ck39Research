@@ -4,7 +4,7 @@ target,retrieved
 1[Pmin][var1],1減[var1]
 3[Pmin][var1],3減[var1]
 [Pbeg]log[Psub][Plbb]4[Pmin]2[Prbb][Plsb][var1][Pmin][var2][Prsb],[var1]減[var2]以4減2為底的對數
-[Plbb]3[Pplu][Plsb]6[Pmin][var1][Prsb][Prbb][Pexp][Plbb][var2][Prbb],3加括號6-[var1]括號的[var2]次方
+[Plbb]3[Pplu][Plsb]6[Pmin][var1][Prsb][Prbb][Pexp][Plbb][var2][Prbb],3加括號6減[var1]括號的[var2]次方
 [Pbeg]sin[Plbb][Plbb]6[Prbb][Pexp][Plbb][Pbeg]log[Psub][Plbb]8[Pplu][var1][Prbb][Pbeg]pi[Prbb][Prbb],sin[Pspa]6的pi以8加[var1]為底的對數值次方
 [Pbeg]sqrt[Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb],根號cos[Pspa][var1]
 [Pbeg]log[Psub][Plbb][Pbeg]frac[Plbb]5[Pmin][Pbeg]frac[Plbb][var3][Prbb][Plbb]7[Pmin][var1][Prbb][Prbb][Plbb][Pbeg]sqrt[Plbb][var2][Prbb][Prbb][Prbb][Plsb][Pbeg]cos[Plbb][Plbb][var4][Prbb][Pexp][Plbb][var5][Prbb][Prbb][Prsb],cos[Pspa][var4]的[var5]次方以根號[var2]分之5減7減[var1]分之[var3]為底的對數
@@ -51,7 +51,7 @@ target,retrieved
 [Plbb][var2][Prbb][Pexp][Plbb]3[Pmin][Pbeg]log[Psub][Plbb][Pbeg]pi[Prbb][var1][Prbb],[var2]的3減log[Pspa]pi[Pspa][var1][Pspa]次方
 [Pbeg]log[Psub][Plbb][var1][Prbb][Plsb][Plsb][Pbeg]tan[Plbb][var2][Prbb][Prsb][Pplu][Plsb][Pbeg]sin[Plbb]3[Prbb][Prsb][Prsb],tan[Pspa][var2][Pspa]加[Pspa]sin[Pspa]3[Pspa]以[var1]為底的對數
 [Pbeg]frac[Plbb]5[Prbb][Plbb][Plbb][Pbeg]log[Psub][Plbb]2[Prbb][var1][Prbb][Pexp][Plbb][var2][Prbb][Prbb],[var1]的[var2]次方以3為底的對數分之5
-[Plsb][var3][Pplu][var2][Prsb][Plsb][Pbeg]cos[Plbb][var1][Prbb][Prsb],[var3]+[var2]整個乘以cos[Pspa][var1]
+[Plsb][var3][Pplu][var2][Prsb][Plsb][Pbeg]cos[Plbb][var1][Prbb][Prsb],[var3]加[var2]整個乘以cos[Pspa][var1]
 4[Pplu][Plsb][Plsb][Pbeg]cos[Plbb]7[Prbb][Prsb][Pplu]6[Prsb],4加括號cos[Pspa]7[Pspa]加[Pspa]6括號
 [Plsb][Pbeg]sin[Plbb][var2][Prbb][Prsb][var1],sin[Pspa][var2][Pspa]乘上[var1]
 7[Pplu][Pbeg]log[Psub][Plbb]1[Prbb][var1],7加log[Pspa]1[Pspa][var1]
@@ -313,7 +313,7 @@ sw,[var2][var1]
 2[Pmin][Plsb]8[Plsb][Pbeg]sin[Plbb][var1][Prbb][Prsb][Prsb],2減括號8乘sin[Pspa][var1]
 [Plbb]5[Prbb][Pexp][Plbb][var1][Prbb][Pplu][Plsb]68[Prsb],5加[var1]分之68
 [Plsb]0[var3][Prsb][Pmin][Plsb][var1][Pmin][var2][Prsb],0[var3]減括號[var1]減[var2]
-[Plbb][var2][Pmin][var3][Prbb][Pexp][Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb],[var2]-[var3]的cos[Pspa][var1][Pspa]次方
+[Plbb][var2][Pmin][var3][Prbb][Pexp][Plbb][Pbeg]cos[Plbb][var1][Prbb][Prbb],[var2]減[var3]的cos[Pspa][var1][Pspa]次方
 [Plbb]4[Prbb][Pexp][Plbb][Plbb][var1][Pplu][Plsb]7[Pmin]4[Prsb][Prbb][Pexp][Plbb][Pbeg]frac[Plbb]3[Prbb][Plbb][var2][Prbb][Prbb][Prbb],4的[var1]加括號7減4的[var2]分之3次方
 9[Plsb]39[Prsb],9括號39
 [Pbeg]frac[Plbb]4[Plsb]1[Pmin][var1][Prsb][Prbb][Plbb][Plbb]6[Prbb][Pexp][Plbb][var2][Prbb][Prbb],6的[var2]次方分之4乘括號1減[var1]
