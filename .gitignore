@@ -3,5 +3,4 @@ model/
 decoder/
 encoder/
 data/Data/generator/train_data.csv
-data/Data/bm25/newdata.csv
 data/Data/pretrain/math&chinese.txt
