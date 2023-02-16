@@ -66,13 +66,25 @@ def ReplaceVariableDes(s:str):
     for i in range(1,cnt+1):
         s = s.replace("|||{}|||".format(i),"[var{}]".format(i))
     return s;
-
+def get_varitoword(s):
+    cnt = 0;
+    vardist = []
+    for u in variable_list:
+        if(len(re.findall(r"(^{}[^a-zA-Z])|([^a-zA-Z]{}[^a-zA-Z])|([^a-zA-Z]{})$".format(u,u,u),s))>0):
+            cnt+=1
+            vardist.append([cnt,u])
+    return vardist
 def WrapLatexVar(s):
     for u in variable_list:
         if(len(re.findall(r"(^{}[^a-zA-Z])|([^a-zA-Z]{}[^a-zA-Z])|([^a-zA-Z]{})$".format(u,u,u),s))>0):
             s = re.sub(r"([^a-zA-Z])"+u+r"([^a-zA-Z])",r"\1{"+u+r"}\2",s)
             s = re.sub(r"(^)"+u+r"([^a-zA-Z])",r"\1{"+u+r"}\2",s)
             s = re.sub(r"([^a-zA-Z])"+u+r"($)",r"\1{"+u+r"}\2",s)
+    return s
+
+def ReversePunc(s):
+    for punc,word in punc_to_token.items():
+        s = s.replace(word,punc)
     return s
 '''
 s = input()
