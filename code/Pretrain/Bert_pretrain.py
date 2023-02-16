@@ -2,7 +2,8 @@ print("import stuff")
 from transformers import AutoTokenizer, LineByLineTextDataset,BertConfig, AutoModelForMaskedLM, DataCollatorForLanguageModeling,BertModel
 import tokenizers 
 import os
-UsedModel = "/home/12518research/ck39Research/model/bert-p2000&chi/checkpoint-5000"
+cwd = os.getcwd()
+UsedModel = cwd+"/model/bert-p2000&chi/checkpoint-5000"
 tokenizer = AutoTokenizer.from_pretrained("amine/bert-base-5lang-cased")
 '''
 special token
@@ -17,12 +18,12 @@ for i in range(1,51):
     tokenizer.add_tokens(["[var{}]".format(i)])
 # puncuation
 tokenizer.add_tokens(["[Plmb]","[Prmb]","[Pspa]","[Pexp]","[Pplu]","[Pmin]","[Plsb]","[Prsb]","[Pdiv]","[Plbb]","[Prbb]","[Pbeg]","[Peql]","[Ples]","[Pbgr]","[Pcol]","[Pexc]","[Psub]","[Pcom]"])
-output = "/home/12518research/ck39Research/model/bert-p2000&chi"
+output = cwd+"/model/bert-p2000&chi"
 tokenizer.save_pretrained(output)
 print('dataset start')
 dataset = LineByLineTextDataset(
     tokenizer = tokenizer,
-    file_path = r'/home/12518research/ck39Research/data/Data/pretrain/math&chinese.txt',
+    file_path = cwd+r'/data/Data/pretrain/math&chinese.txt',
     block_size = 256 # maximum sequence length
 )
 

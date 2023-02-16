@@ -5,7 +5,7 @@
 
 import os
 os.environ['CUDA_VISIBLE_DEVICES']='2, 3'
-
+cwd = os.getcwd()
 print("Preparing...")
 import datasets
 import torch
@@ -13,9 +13,9 @@ import pandas as pd
 from transformers import BertTokenizer, EncoderDecoderModel
 from datasets import Dataset, DatasetDict
 
-ModelFolder = '/home/12518research/ck39Research/model/bert2bert'
+ModelFolder = cwd+'/model/bert2bert'
 Checkpoint = '/checkpoint-8000'
-DataFolder = "/home/12518research/ck39Research/data/Data/generator/"
+DataFolder = cwd+"/data/Data/generator/"
 filename = 'val_data.csv'
 
 print("Loading tokenizer and model...")

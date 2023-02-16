@@ -1,7 +1,9 @@
 
 from transformers import BertTokenizer, LineByLineTextDataset,BertConfig, BertForMaskedLM, DataCollatorForLanguageModeling,pipeline
 # load the model checkpoint
-UsedModel = "/home/12518research/ck39Research/model/bert-p20000"
+import os
+cwd = os.getcwd()
+UsedModel = cwd+"/model/bert-p20000"
 model = BertForMaskedLM.from_pretrained(UsedModel)
 # load the tokenizer
 tokenizer = BertTokenizer.from_pretrained(UsedModel)

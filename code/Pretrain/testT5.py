@@ -1,5 +1,7 @@
+import os
+cwd = os.getcwd()
 from transformers import T5Tokenizer, T5ForConditionalGeneration
-Usedmodel = "/home/12518research/ck39Research/code/Pretrain/model"
+Usedmodel =cwd+"/code/Pretrain/model"
 tokenizer = T5Tokenizer.from_pretrained(Usedmodel)
 model = T5ForConditionalGeneration.from_pretrained(Usedmodel)
 

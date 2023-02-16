@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 #-m !pip3 install rank_bm25
 from transformers import AutoTokenizer
-
-tokenizer = AutoTokenizer.from_pretrained("/home/12518research/ck39Research/model/bert-p2000&chi")
+import os
+cwd = os.getcwd()
+tokenizer = AutoTokenizer.from_pretrained(cwd+"/model/bert-p2000&chi")
 from rank_bm25 import BM25Okapi
 import csv
 
-doc_dir = "/home/12518research/ck39Research/data/Data/bm25/newdata.csv"
+doc_dir = cwd+"/data/Data/bm25/database.csv"
 #dataset for retrieving
 with open(doc_dir,'r') as file:
     corpus = csv.reader(file)
@@ -89,3 +90,6 @@ def mainfunc():
                 tar = line[0].replace(' ','')
                 tar = tar.replace('#','')
                 writer.writerow([result,'[CLS]'+tar+ending+'[SEP]',str(cnt)])
+
+if __name__ == '__main__':
+    mainfunc()

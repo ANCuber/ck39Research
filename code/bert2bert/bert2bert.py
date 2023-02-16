@@ -5,7 +5,7 @@
 
 import os
 os.environ['CUDA_VISIBLE_DEVICES']='2, 3'
-
+cwd = os.getcwd()
 import transformers
 
 import torch
@@ -21,12 +21,12 @@ print('Using device:', device)
 
 print("Loading tokenizer and models...")
 
-UsedTokenizer = '/home/12518research/ck39Research/model/bert-p2000&chi'
-UsedEncoder = '/home/12518research/ck39Research/model/bert-p2000&chi'
+UsedTokenizer = cwd+'/model/bert-p2000&chi'
+UsedEncoder = cwd+'/model/bert-p2000&chi'
 
-UsedDecoder = '/home/12518research/ck39Research/model/bert-p20000'
+UsedDecoder = cwd+'/model/bert-p20000'
 
-output = '/home/12518research/ck39Research/model/bert2bert_2'
+output = cwd+'/model/bert2bert'
 
 tokenizer = BertTokenizer.from_pretrained(UsedTokenizer)
 tokenizer.sep_token = '[SEP]'
@@ -38,7 +38,7 @@ tokenizer.eos_token = tokenizer.sep_token
 print("Done!")
 print("Processing Datasets...")
 
-DataFolder = "/home/12518research/ck39Research/data/Data/generator/"
+DataFolder = cwd+"/data/Data/generator/"
 df_train = pd.read_csv(DataFolder+'train_data.csv',sep=",")
 df_val = pd.read_csv(DataFolder+'val_data.csv',sep=",")
 
