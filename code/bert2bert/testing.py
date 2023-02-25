@@ -64,30 +64,32 @@ label_str = results["target"]
 ending = '[var50]'
 descarr = for_eval["retrieved"]
 cnt = 0
+base = 0
 print("Output:\n")
 for i in range(test_size):
-    print("No."+str(i+1)+":")
-    desc = descarr[i].split('[SEP]')
-    desc = desc[0].replace('[CLS]','')
-    print("Description:"+desc,end = '\n\n')
-
-    
-    print("Tar:", end='')
     tar = label_str[i]
     tar = tar.replace('[CLS]','')
     tar = tar.replace('[SEP]','')
     tar = tar.replace('[var50]','')
-    print(tar,end = '\n\n')
     
-
-    print("Gen:",end = '')
     pred = pred_str[i].replace(' ','')
     pred = pred.split(ending)
-    print(pred[0],end = '\n\n')
-    if(tar==pred[0]):
-        cnt+=1
 
-print(cnt/test_size)
+    print(tar+";;"+pred[0])
+
+    """
+    print("No."+str(i+1)+":")
+    desc = descarr[i].split('[SEP]')
+    desc = desc[0].replace('[CLS]','')
+    print("Description:"+desc,end = '\n\n')
+    print("Tar:", end='')
+    print(tar,end = '\n\n')
+    print("Gen:",end = '')
+    print(pred[0],end = '\n\n')
+    print(len(desc),end = '\n\n')
+    """
+
+
 
 """
 rouge_output = rouge.compute(predictions=pred_str, references=label_str, rouge_types=["rouge2"])["rouge2"].mid
